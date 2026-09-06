@@ -36,22 +36,23 @@ For a site being planned or built. It walks the `build` rows of `../factors/scor
 18. Answer at the top in plain words, grade 6 to 8 reading level, FAQs capped at 3 or 4 as plain question and answer text. [ids: answer-first-structure, readability-grade-6-8, faq-block-plain-text, answer-passage-length]
 19. Four design decisions damage ranking or extraction: a carousel hero, answer content behind an accordion, a duplicated desktop and mobile block, and a heading baked into an image. [ids: hero-carousel, hidden-accordion-content, single-h1, mobile-usable]
 20. No ranking weight, still decisive: one primary CTA, tap-to-call in thumb reach, 16px body at 1.8 line height, soft dark gray on near white, real photos over stock, alt text of 5 or 6 words. [ids: single-primary-cta, tap-to-call, body-font-size, text-contrast, real-team-photos, alt-text, accessibility-baseline]
+21. Reviews on the site are pasted text linked to the listing, never a third-party review widget in an iframe and never Review or AggregateRating markup for the business itself: Google calls self-serving review markup ineligible for stars (2026-07-24) and credits iframe text to the page on a best-effort basis (2023-12-18). One GoHighLevel widget measured 2026-09-06: 10 requests, 304 KB on the wire, 1.0 MB of JavaScript decoded, a Cloudflare beacon, 10 contrast failures below 2.6 to 1, and an AI summary that volunteers negative feedback. [ids: self-serving-review-markup, iframe-content-attribution, review-carousel-plugin]
 
 ## 6. Money pages before blog posts
 
-21. Home plus one page per service you sell, one keyword each, city level for local. No page, no ranking for that keyword. [ids: location-pages, one-keyword-per-page]
-22. Then the launch batch: 5 to 6 posts at once, or 10 at launch dripping 2 per week. The exception expires at about 2 months old; 1 to 2 per week after. [ids: publishing-velocity-spike, content-freshness]
-23. Every publish links out to 3 to 5 pages including one money page, then 3 older indexed pages link in, anchor text naming the destination keyword and varied across the three. [ids: internal-linking-inbound, internal-link-anchor-text, crawl-depth]
+22. Home plus one page per service you sell, one keyword each, city level for local. No page, no ranking for that keyword. [ids: location-pages, one-keyword-per-page]
+23. Then the launch batch: 5 to 6 posts at once, or 10 at launch dripping 2 per week. The exception expires at about 2 months old; 1 to 2 per week after. [ids: publishing-velocity-spike, content-freshness]
+24. Every publish links out to 3 to 5 pages including one money page, then 3 older indexed pages link in, anchor text naming the destination keyword and varied across the three. [ids: internal-linking-inbound, internal-link-anchor-text, crawl-depth]
 
 ## 7. What waits
 
-24. Backlinks, citations and directories wait until the pages exist. Then one owned citation build in order (core five, US aggregators, second tier, 5 to 10 niche), stopping at 25 to 40; never rented sync, since about 60 percent of listings degrade within 60 days of cancelling. [ids: referring-domains, press-release-links, chamber-sponsorship-links, core-five-citations, data-aggregators, niche-directories, citation-count-25-40, rented-citations]
-25. Never audit a site still under construction, and fix speed after content and keywords match the top 3. Cap delivery at 2 posts per week plus 4 backlinks per month with link budget, or 1 post plus 2 location pages without. [ids: core-web-vitals, publishing-velocity-spike, location-pages]
+25. Backlinks, citations and directories wait until the pages exist. Then one owned citation build in order (core five, US aggregators, second tier, 5 to 10 niche), stopping at 25 to 40; never rented sync, since about 60 percent of listings degrade within 60 days of cancelling. [ids: referring-domains, press-release-links, chamber-sponsorship-links, core-five-citations, data-aggregators, niche-directories, citation-count-25-40, rented-citations]
+26. Never audit a site still under construction, and fix speed after content and keywords match the top 3. Cap delivery at 2 posts per week plus 4 backlinks per month with link budget, or 1 post plus 2 location pages without. [ids: core-web-vitals, publishing-velocity-spike, location-pages]
 
 ## 8. The patience windows to tell the client
 
-26. A brand-new site takes 2 to 3 weeks to about 2 months before the first crawl, and zero movement in that window is normal. After any edit leave the page alone about a month. [ids: indexable, ranking-page-freeze]
-27. A new post gets a burst of impressions for 2 to 3 weeks, then halves in a day while position holds, so pre-empt it. Judge a title or H1 nudge at 2 weeks to 1 month, a rewrite at 2 to 3 months, first real movement at 3 to 6 months. [ids: content-freshness, internal-linking-inbound]
-28. Local gates land at day 30, 60 and 90, detailed in `local/sop.md`. Seasonal businesses publish 3 to 4 months ahead, no forecast is quoted without a source, and no vendor has privileged algorithm access. [ids: gbp-verified, review-velocity, proximity, google-partner-algorithm-access]
+27. A brand-new site takes 2 to 3 weeks to about 2 months before the first crawl, and zero movement in that window is normal. After any edit leave the page alone about a month. [ids: indexable, ranking-page-freeze]
+28. A new post gets a burst of impressions for 2 to 3 weeks, then halves in a day while position holds, so pre-empt it. Judge a title or H1 nudge at 2 weeks to 1 month, a rewrite at 2 to 3 months, first real movement at 3 to 6 months. [ids: content-freshness, internal-linking-inbound]
+29. Local gates land at day 30, 60 and 90, detailed in `local/sop.md`. Seasonal businesses publish 3 to 4 months ahead, no forecast is quoted without a source, and no vendor has privileged algorithm access. [ids: gbp-verified, review-velocity, proximity, google-partner-algorithm-access]
 
 Curated by hand. The evidence behind every id above lives in `../factors/scorecard.md`.

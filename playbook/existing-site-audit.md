@@ -41,28 +41,29 @@ For a live site that needs diagnosing, walking the `audit` rows of `../factors/s
 20. 80 percent on a page audit and 90 percent site health are fine; chasing the last flags wastes time and can create cannibalization. Fix 5 to 10 issues per week, never the whole report at once, changing one variable per page. [ids: core-web-vitals, one-keyword-per-page, schema-markup]
 21. Confirm the canonical matches the rendered URL exactly including the trailing slash, the sitemap was submitted once, and no AI crawler is blanket-blocked. [ids: canonical-self-reference, sitemap-submitted, ai-crawler-allow]
 22. Spend nothing on llms.txt, the meta keywords tag, or a disavow file built from a toxic-link tool. [ids: llms-txt, meta-keywords, disavow-links]
+23. Pull any third-party review widget and any Review or AggregateRating markup for the business off the money pages: no stars are possible on a business's own reviews (2026-07-24), iframe text is credited on a best-effort basis (2023-12-18), and one measured widget cost 1.0 MB of JavaScript for 8 reviews (2026-09-06). Paste the reviews as text linked to the listing. [ids: self-serving-review-markup, iframe-content-attribution, review-carousel-plugin]
 
 ## 7. Local branch: the GBP field audit
 
-23. Work the order of leverage in `local/README.md`, top down. Primary category first, read against the top 3 pack competitors: factor 1 of 187 (Whitespark 2026). [ids: gbp-primary-category]
-24. Reviews second: velocity, recency, count of reviews carrying text, rating and owner replies inside 48 hours, measured against the pack competitors. [ids: review-velocity, review-recency, review-count, review-rating, review-photos]
-25. Services third and fastest to move: every predefined service plus custom keyword names, which went from factor 110 to 35 year over year. [ids: gbp-services-keywords, gbp-predefined-services]
-26. Then address reality and proximity, then location pages and a crawlable NAP footer, on-page 19 percent and links 15 percent of the pack model, then hours, attributes and real photos, which Ask Maps reads live. [ids: proximity, address-visible-storefront, sab-address-hidden, location-pages, nap-footer-crawlable, gbp-hours-accuracy, gbp-photos-original, ask-maps-completeness]
-27. Then one 25 to 40 citation build on exact-match NAP, then posts and photos as the engagement layer at factors 148 and 168 of 187. [ids: citation-count-25-40, citation-nap-consistency, core-five-citations, niche-directories, gbp-posts]
-28. Flag the suspension risks before anything else moves: a keyword-stuffed name, rapid core-field edits, a P.O. box or virtual office address, review gating and review incentives. [ids: gbp-name-policy-risk, gbp-business-name-keywords, rapid-core-field-edits, fake-address-listing, review-gating, review-incentives]
-29. Rebuild nothing dead and geotag nothing: GBP Q&A went off the API on 2025-11-03, messaging ended July 2024, and Google strips EXIF on upload. [ids: gbp-qa, gbp-messaging, photo-geotagging]
+24. Work the order of leverage in `local/README.md`, top down. Primary category first, read against the top 3 pack competitors: factor 1 of 187 (Whitespark 2026). [ids: gbp-primary-category]
+25. Reviews second: velocity, recency, count of reviews carrying text, rating and owner replies inside 48 hours, measured against the pack competitors. [ids: review-velocity, review-recency, review-count, review-rating, review-photos]
+26. Services third and fastest to move: every predefined service plus custom keyword names, which went from factor 110 to 35 year over year. [ids: gbp-services-keywords, gbp-predefined-services]
+27. Then address reality and proximity, then location pages and a crawlable NAP footer, on-page 19 percent and links 15 percent of the pack model, then hours, attributes and real photos, which Ask Maps reads live. [ids: proximity, address-visible-storefront, sab-address-hidden, location-pages, nap-footer-crawlable, gbp-hours-accuracy, gbp-photos-original, ask-maps-completeness]
+28. Then one 25 to 40 citation build on exact-match NAP, then posts and photos as the engagement layer at factors 148 and 168 of 187. [ids: citation-count-25-40, citation-nap-consistency, core-five-citations, niche-directories, gbp-posts]
+29. Flag the suspension risks before anything else moves: a keyword-stuffed name, rapid core-field edits, a P.O. box or virtual office address, review gating and review incentives. [ids: gbp-name-policy-risk, gbp-business-name-keywords, rapid-core-field-edits, fake-address-listing, review-gating, review-incentives]
+30. Rebuild nothing dead and geotag nothing: GBP Q&A went off the API on 2025-11-03, messaging ended July 2024, and Google strips EXIF on upload. [ids: gbp-qa, gbp-messaging, photo-geotagging]
 
 ## 8. Programmatic and thin-page audit
 
-30. Count indexed URLs against the pages that actually earn impressions. Index bloat is templated pages Google crawls and nobody searches. [ids: thin-page-ratio, scaled-content-abuse, indexable]
-31. Flag templated pages carrying no data unique to that page, and any services times cities matrix, as doorway patterns. [ids: doorway-pages, location-pages, programmatic-templates-unique-data]
-32. Separately, check the publishing record for a volume spike on an established site and for posts outside the site's established topic. [ids: publishing-velocity-spike, topical-mismatch]
+31. Count indexed URLs against the pages that actually earn impressions. Index bloat is templated pages Google crawls and nobody searches. [ids: thin-page-ratio, scaled-content-abuse, indexable]
+32. Flag templated pages carrying no data unique to that page, and any services times cities matrix, as doorway patterns. [ids: doorway-pages, location-pages, programmatic-templates-unique-data]
+33. Separately, check the publishing record for a volume spike on an established site and for posts outside the site's established topic. [ids: publishing-velocity-spike, topical-mismatch]
 
 ## 9. How to report month 1, 3, 6
 
-33. Month 1: indexed pages and impressions, never rankings, which teach the client to watch the wrong number for a year. [ids: indexable, sitemap-submitted]
-34. Month 3: impressions trend, query-set growth, first position movement, still not leads. Month 6 and after: clicks, then leads, against the promise made at kickoff. [ids: position-one-ctr, content-freshness, zero-click-rate, ai-referral-conversion]
-35. On a flat quarter lead with what was built and what is moving underneath, and pre-empt fresh-content decay. AI citations are not clicks, so give both numbers in one sentence. [ids: content-freshness, aio-cited-click-lift, ai-referral-conversion]
-36. Local reporting runs to the day 30, 60 and 90 gates in `local/sop.md`. No forecast is quoted without a source, and no vendor has privileged algorithm access. [ids: proximity, review-velocity, google-partner-algorithm-access]
+34. Month 1: indexed pages and impressions, never rankings, which teach the client to watch the wrong number for a year. [ids: indexable, sitemap-submitted]
+35. Month 3: impressions trend, query-set growth, first position movement, still not leads. Month 6 and after: clicks, then leads, against the promise made at kickoff. [ids: position-one-ctr, content-freshness, zero-click-rate, ai-referral-conversion]
+36. On a flat quarter lead with what was built and what is moving underneath, and pre-empt fresh-content decay. AI citations are not clicks, so give both numbers in one sentence. [ids: content-freshness, aio-cited-click-lift, ai-referral-conversion]
+37. Local reporting runs to the day 30, 60 and 90 gates in `local/sop.md`. No forecast is quoted without a source, and no vendor has privileged algorithm access. [ids: proximity, review-velocity, google-partner-algorithm-access]
 
 Curated by hand. The evidence behind every id above lives in `../factors/scorecard.md`.

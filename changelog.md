@@ -2,6 +2,19 @@
 
 Newest first. One entry per pipeline run or manual fold-in. Each entry lists entries added, scorecard rows changed, disputes opened or closed.
 
+## 2026-09-06 | Manual fold-in: review widgets and iframes
+
+- Entries added: 4 (google 3, experts 1)
+- Scorecard: rows added 2 (iframe-content-attribution at Minor, grade A; self-serving-review-markup at Myth, grade A), tiers changed 0, disputes opened 0
+- Stale: none flagged
+- Registry: no registry fetches; every source was read directly on 2026-09-06
+
+**Why.** A client build asked whether a GoHighLevel review widget belongs on a homepage. The answer rested on two claims the scorecard did not carry: whether text inside a cross-origin iframe is credited to the page that embeds it, and whether Review markup on a business's own site earns stars. Both now rest on Google pages read on 2026-09-06: the December 2023 office hours transcript and the robots meta tag specification for the first, the review snippet guidelines for the second. Bastian Grimm's 2022-09-30 test adds a grade C result that agrees with Google's best-effort wording, so no dispute opens.
+
+**Tiers.** `iframe-content-attribution` enters at Minor because the credit is measurable and not reliable, which is what Minor means, and rubric rule 2 keeps a Google statement from setting Core. `self-serving-review-markup` enters at Myth on a grade A denial with no contradicting test.
+
+**Playbook.** `playbook/new-site.md` step 21 and `playbook/existing-site-audit.md` step 23 added and later steps renumbered. The measured widget cost (10 requests, 304 KB on the wire, 1.0 MB of JavaScript decoded, a Cloudflare Insights beacon, 10 contrast failures below 2.6 to 1) sits in the playbook because RSL/A's own measurements have no `sources/` tier; the vendor widget is a tool, and `pipeline/rubric.md` sends tools to `playbook/`.
+
 ## 2026-09-06 | Research run
 
 - Entries added: 27 (google 10, experts 10, creators 7)

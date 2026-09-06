@@ -1,8 +1,8 @@
 # Scorecard
 
-One row per factor, 116 rows across nine categories, bootstrapped 2026-09-06 from 142 dated entries in `sources/` and updated by the research run of 2026-09-06, which added 27 entries. Tier and evidence follow `pipeline/rubric.md`; evidence is the best grade an entry in `sources/` actually carries, never the grade the claim might deserve. Sources are entry anchors written `tier/category YYYY-MM-DD`, matching the entry heading in `sources/<tier>/<category>.md`; `seed: <doc>` means the row's only support is a seed document and no entry exists yet. Last verified is the newest entry date supporting the row, or the seed document's date when only a seed document supports it, or the date a research run re-read the row's live source and found the claim unchanged. Sorted by category in build order, then tier, then evidence grade.
+One row per factor, 118 rows across nine categories, bootstrapped 2026-09-06 from 142 dated entries in `sources/`, updated by the research run of 2026-09-06, which added 27 entries, and by a manual fold-in on 2026-09-06 that added 4 entries and 2 rows. Tier and evidence follow `pipeline/rubric.md`; evidence is the best grade an entry in `sources/` actually carries, never the grade the claim might deserve. Sources are entry anchors written `tier/category YYYY-MM-DD`, matching the entry heading in `sources/<tier>/<category>.md`; `seed: <doc>` means the row's only support is a seed document and no entry exists yet. Last verified is the newest entry date supporting the row, or the seed document's date when only a seed document supports it, or the date a research run re-read the row's live source and found the claim unchanged. Sorted by category in build order, then tier, then evidence grade.
 
-Tiers as of 2026-09-06: Required 11, Core 19, Supporting 32, Minor 45, Myth 7, Dead 2. Evidence: A 25, B 31, C 19, D 41.
+Tiers as of 2026-09-06: Required 11, Core 19, Supporting 32, Minor 46, Myth 8, Dead 2. Evidence: A 27, B 31, C 19, D 41.
 
 
 | id | Factor | Category | Scope | Lever | Stage | Tier | Evidence | Last verified | Sources |
@@ -14,6 +14,7 @@ Tiers as of 2026-09-06: Required 11, Core 19, Supporting 32, Minor 45, Myth 7, D
 | sitemap-submitted | XML sitemap submitted once inside Search Console | technical | organic | ranking | both | Supporting | C | 2026-07 | creators/technical 2026-07 |
 | domain-change-risk | Moving an established site to a new root domain | technical | organic | ranking | build | Supporting | C | 2026-07 | creators/technical 2026-07 |
 | core-web-vitals | Core Web Vitals and load speed as a tiebreaker between equal pages | technical | organic | ranking | audit | Minor | A | 2026-07 | creators/technical 2026-07; google/technical 2025-12-10; experts/technical 2022-01-31 |
+| iframe-content-attribution | Text inside a cross-origin iframe credited to the page that embeds it | technical | organic | ranking | both | Minor | A | 2026-03-24 | google/technical 2026-03-24; google/technical 2023-12-18; experts/technical 2022-09-30 |
 | schema-markup | Structured data beyond the SEO plugin default | technical | organic ai | ranking | both | Minor | B | 2026-06-17 | experts/technical 2026-01-09; creators/technical 2026-06; experts/technical 2026-05-07; creators/technical 2026-06-17 |
 | bing-indexing | Site verified and indexed in Bing Webmaster Tools | technical | ai | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
 | faq-schema | FAQPage structured data on a page with question and answer pairs | technical | ai organic | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
@@ -22,6 +23,7 @@ Tiers as of 2026-09-06: Required 11, Core 19, Supporting 32, Minor 45, Myth 7, D
 | crawl-depth | Every page you want ranked within three clicks of the homepage | technical | organic | ranking | both | Minor | D | 2026-07 | creators/technical 2026-07 |
 | url-change-risk | Changing the URL of a page that ranks, has traffic, or has backlinks | technical | organic | ranking | both | Minor | D | 2026-07 | creators/technical 2026-07 |
 | llms-txt | An llms.txt file at the site root | technical | organic ai | ranking | build | Myth | A | 2026-07 | experts/technical 2026-06-15; creators/technical 2026-07; google/ai-search 2025-12-10 |
+| self-serving-review-markup | Review or AggregateRating markup for the business on its own site | technical | organic | ranking | both | Myth | A | 2026-07-24 | google/technical 2026-07-24 |
 | meta-keywords | The meta keywords tag | technical | organic | ranking | audit | Myth | D | 2026-07 | creators/technical 2026-07 |
 | content-freshness | Content updated within the last two months | content | organic ai | ranking | both | Core | B | 2026-09-06 | experts/content 2025-12-15 |
 | cite-sources-in-content | Named, verifiable citations attached to the claims on the page | content | ai | ranking | build | Core | B | 2024-06-28 | experts/content 2024-06-28 |

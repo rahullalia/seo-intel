@@ -72,6 +72,16 @@ factors:
     evidence: "A"
     last_verified: "2026-07"
     sources: ["creators/technical 2026-07", "google/technical 2025-12-10", "experts/technical 2022-01-31"]
+  - id: iframe-content-attribution
+    factor: "Text inside a cross-origin iframe credited to the page that embeds it"
+    category: technical
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "A"
+    last_verified: "2026-03-24"
+    sources: ["google/technical 2026-03-24", "google/technical 2023-12-18", "experts/technical 2022-09-30"]
   - id: schema-markup
     factor: "Structured data beyond the SEO plugin default"
     category: technical
@@ -152,6 +162,16 @@ factors:
     evidence: "A"
     last_verified: "2026-07"
     sources: ["experts/technical 2026-06-15", "creators/technical 2026-07", "google/ai-search 2025-12-10"]
+  - id: self-serving-review-markup
+    factor: "Review or AggregateRating markup for the business on its own site"
+    category: technical
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: myth
+    evidence: "A"
+    last_verified: "2026-07-24"
+    sources: ["google/technical 2026-07-24"]
   - id: meta-keywords
     factor: "The meta keywords tag"
     category: technical

@@ -12,7 +12,7 @@ Session record, newest first. The pipeline's own run record is `changelog.md`; b
 
 **Next steps**
 
-1. File the review-widget and self-serving-markup findings as dated entries in `sources/google/` and `sources/experts/` with a scorecard row (offered 2026-09-06, not yet approved).
+1. Filed 2026-09-06 on Rahul's approval: 4 entries (`sources/google/technical.md` x3, `sources/experts/technical.md` x1), rows `iframe-content-attribution` (Minor, A) and `self-serving-review-markup` (Myth, A), one step each in `playbook/new-site.md` and `playbook/existing-site-audit.md`, changelog entry.
 
 ## 2026-09-06 02:50 PT
 

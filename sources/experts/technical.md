@@ -26,6 +26,12 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: Schema App's own site gained 19.72 percent AI Overview visibility after adding Entity Linking between October and December 2025, and one Fortune 500 customer gained 8.5 percent. Schema App discloses this as its own before and after comparison, not a controlled study with a disclosed sample size.
 - Factor: schema-markup | Evidence: C | Lever: ranking | Scope: organic ai | Stage: audit
 
+## 2022-09-30 | A framing page ranked for text that existed only inside its iframe, cross-domain included
+- Source: Search Engine Land, Bastian Grimm, "Technical SEO testing: How Googlebot handles iframes", 2022-09-30, https://searchengineland.com/how-googlebot-handles-iframes-388243
+- Quote: "The parent URL can, in some instances, rank for content that only exists in the iFramed URL and not in the parent URL."
+- Means: One controlled test with same-domain and external-domain frames saw the parent rank for framed text until the framed page carried noindex or a robots.txt block. The credit can happen, which matches Google's best-effort wording rather than contradicting it.
+- Factor: iframe-content-attribution | Evidence: C | Lever: ranking | Scope: organic | Stage: both
+
 ## 2022-01-31 | Ahrefs found a third of sites passing Core Web Vitals and no conclusive ranking effect
 - Source: Ahrefs, "Core Web Vitals Data Study w/ CrUX & 5.2M Pages", 2022-01-31, https://ahrefs.com/blog/core-web-vitals-study/
 - Quote: "Overall, we saw nearly 33% of websites passing Core Web Vitals thresholds"
