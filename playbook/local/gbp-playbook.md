@@ -79,7 +79,7 @@ Exact real-world name as it appears on signage and the website. Nothing else. No
 
 **Don't**
 - Don't use stock. Policy violation, and Google's AI flags generic/duplicate images as non-unique and buries them in the By Owner tab.
-- **Don't geotag EXIF. Settled.** Google strips all EXIF on upload. Sterling Sky (Jan 2024, 5 locations): no measurable lasting change. Search Engine Land (Mar 2025, 27 lawn-care clients, 10 weeks, geotagged uploads 2x/week): 6 of 7 metrics flat or negative, and the single improved metric ("near me" in the tagged town) cannibalized "[service] + city" rankings elsewhere. HeyTony still calls it a cheap bet; the data says spend the minute on a real photo instead. The only photo metadata Google reads is the category dropdown you pick at upload (Cover/Exterior/Interior).
+- **Don't geotag EXIF. Settled.** Google strips all EXIF on upload. Sterling Sky (Jan 2024, 5 locations): no measurable lasting change. Search Engine Land (Mar 2025, 27 lawn-care clients, 10 weeks, geotagged uploads 2x/week): 6 of 7 metrics flat or negative, and the single improved metric ("near me" in the tagged town) cannibalized "[service] + city" rankings elsewhere. HeyTony still calls it a cheap bet; the data says spend the minute on a real photo instead. The only photo metadata you control is the upload bucket: Logo, Cover, or plain "Add photos". Google sorts the rest into Interior, Exterior, At work and Team by image content once enough accumulate, and a photo cannot be retagged afterwards (Google Business Profile Help, "Manage your Business Profile photos & videos", read 2026-09-06). Photos that need a caption go on a Post or a Service.
 
 ## Google posts ("updates")
 
