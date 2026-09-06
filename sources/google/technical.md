@@ -8,6 +8,18 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: A page must return a 200 status, stay unblocked for Googlebot, and hold supported text content that does not violate spam policies before Google will consider indexing it. Meeting these does not guarantee indexing.
 - Factor: indexable | Evidence: A | Lever: ranking | Scope: organic ai | Stage: both
 
+## 2025-12-10 | Core Web Vitals are named as an input to Google's ranking systems
+- Source: Google Search Central, "Understanding page experience in Google Search results", 2025-12-10 (page last updated), https://developers.google.com/search/docs/appearance/page-experience
+- Quote: "Core Web Vitals are used by our ranking systems."
+- Means: Core Web Vitals carry ranking weight in Google's own words. The same page adds that a good score does not guarantee a top position, so a slow page is a fix on the list rather than the reason a page does not rank.
+- Factor: core-web-vitals | Evidence: A | Lever: ranking | Scope: organic | Stage: audit
+
+## 2025-12-10 | Page experience aspects other than Core Web Vitals do not directly raise rankings
+- Source: Google Search Central, "Understanding page experience in Google Search results", 2025-12-10 (page last updated), https://developers.google.com/search/docs/appearance/page-experience
+- Quote: "Beyond Core Web Vitals, other page experience aspects don't directly help your website rank higher in search results."
+- Means: Interstitials, ad load and layout clarity are user experience work with no direct ranking effect, by Google's own statement. Google says they can make a site more satisfying to use, which is the argument for them, not a ranking argument.
+- Factor: core-web-vitals | Evidence: A | Lever: ranking | Scope: organic | Stage: audit
+
 ## 2025-12-10 | Mobile-first indexing ranks a page on its phone version, not its desktop one
 - Source: Google Search Central, "Mobile-first indexing best practices", 2025-12-10, https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing
 - Quote: "Google uses the mobile version of a site's content, crawled with the smartphone agent, for indexing and ranking. This is called mobile-first indexing."

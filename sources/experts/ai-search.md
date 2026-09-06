@@ -15,6 +15,18 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: A Similarweb-based clickstream panel found 68.01 percent of US Google searches from January through April 2026 ended with no click, up from 60.45 percent in 2024. This is the most current verified zero-click figure, higher than either figure in the existing playbook dispute.
 - Factor: zero-click-rate | Evidence: B | Lever: conversion | Scope: organic ai | Stage: audit
 
+## 2026-05-07 | Content near the top of the page is the eighth strongest AI citation factor across 54 studies
+- Source: Zyppy Signal, Cyrus Shepard, "AI Citation Ranking Factors Analysis", 2026-05-07, https://signal.zyppy.com/p/ai-citation-ranking-factors
+- Quote: "Important content placed near the top of the page is more likely to be cited"
+- Means: Shepard scored 23 AI citation factors against 54 published experiments, patents and case studies, and ranked answer near the top eighth at 8.8 out of 9.5, citing Dan Petrovic on Gemini applying a retrieval cap per URL. State the direct answer above the context and the background, because the lower half of a long page may never be retrieved.
+- Factor: answer-first-structure | Evidence: B | Lever: ranking | Scope: ai organic | Stage: both
+
+## 2026-05-07 | Domain Authority ranks 22nd of 23 AI citation factors and the relationship is weak
+- Source: Zyppy Signal, Cyrus Shepard, "AI Citation Ranking Factors Analysis", 2026-05-07, https://signal.zyppy.com/p/ai-citation-ranking-factors
+- Quote: "Several studies looked at the relationship between Domain Authority and AI citations. While many found a relationship, it was often weak."
+- Means: Across the 54 sources Shepard reviewed, Domain Authority scored 5 out of 9.5 and placed 22nd of 23 factors, below freshness, brand trust and content length. Do not use a Moz Domain Authority number to predict or report AI Overview citation odds for a client.
+- Factor: domain-authority-aio | Evidence: B | Lever: ranking | Scope: ai | Stage: audit
+
 ## 2026-03-02 | Most AI Overview citations go to pages outside the top 10 organic results
 - Source: Ahrefs, "Update: 38% of AI Overview Citations Pull From The Top 10", 2026-03-02, https://ahrefs.com/blog/ai-overview-citations-top-10/
 - Quote: "37.9% of URLs cited in AI Overviews also appeared within the first 10 blocks."

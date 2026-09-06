@@ -43,3 +43,17 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Quote: "The only real "Google partner" is a Google Ads partner - nobody has special algorithm access; treat any vendor claiming otherwise as a red flag."
 - Means: Any vendor pitching ranking access is misrepresenting the partner program. The local playbook records the same line.
 - Factor: google-partner-algorithm-access | Evidence: D | Lever: trust | Scope: organic local | Stage: audit
+
+## 2026-03-21 | Edward Sturm calls YouTube the most cited website in AI search
+
+- Source: Edward Sturm, "AI SEO/GEO/AEO: How to Get Shown in LLMs in 2026", 2026-03-21, https://edwardsturm.com/articles/ai-seo-geo-aeo-get-shown-llms-2026/
+- Quote: "YouTube is now the most cited website in AI search."
+- Means: Sturm credits Datos quarterly reports for the figure and shows no data of his own, so this is one creator relaying a third party. His instruction is to make a video for every page topic and put the target prompt in the YouTube title, the description and the spoken transcript.
+- Factor: ugc-platform-presence | Evidence: D | Lever: ranking | Scope: ai | Stage: build
+
+## 2026-01-12 | One press release a week is repurposed across blog, social and forums for AI visibility
+
+- Source: Edward Sturm, "How to use press releases for SEO and LLMs", 2026-01-12, https://edwardsturm.com/articles/how-to-use-press-releases-for-seo-and-llms/
+- Quote: "This ranks, gets syndicated, and influences AI for your brand."
+- Means: Sturm names the blog, X, Threads, Facebook, LinkedIn and other forums as the indexed surfaces the same release copy goes to. He gives no measurement, so this is a second author agreeing with the HeyTony breadth claim rather than a test of it.
+- Factor: mentions-breadth-mediums | Evidence: D | Lever: ranking | Scope: ai | Stage: build

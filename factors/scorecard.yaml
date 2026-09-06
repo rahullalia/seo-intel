@@ -31,7 +31,17 @@ factors:
     tier: required
     evidence: "A"
     last_verified: "2026-07"
-    sources: ["google/technical 2025-12-18", "creators/technical 2026-07"]
+    sources: ["google/technical 2025-12-18", "creators/technical 2026-07", "google/ai-search 2025-12-10"]
+  - id: ai-crawler-allow
+    factor: "Retrieval agents allowed through robots.txt and the firewall"
+    category: technical
+    scope: [ai]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "A"
+    last_verified: "2026-07"
+    sources: ["experts/technical 2026-01-21", "creators/technical 2026-07", "google/ai-search 2025-12-10"]
   - id: sitemap-submitted
     factor: "XML sitemap submitted once inside Search Console"
     category: technical
@@ -52,6 +62,16 @@ factors:
     evidence: "C"
     last_verified: "2026-07"
     sources: ["creators/technical 2026-07"]
+  - id: core-web-vitals
+    factor: "Core Web Vitals and load speed as a tiebreaker between equal pages"
+    category: technical
+    scope: [organic]
+    lever: ranking
+    stage: audit
+    tier: minor
+    evidence: "A"
+    last_verified: "2026-07"
+    sources: ["creators/technical 2026-07", "google/technical 2025-12-10", "experts/technical 2022-01-31"]
   - id: schema-markup
     factor: "Structured data beyond the SEO plugin default"
     category: technical
@@ -59,9 +79,9 @@ factors:
     lever: ranking
     stage: both
     tier: minor
-    evidence: "C"
-    last_verified: "2026-06"
-    sources: ["experts/technical 2026-01-09", "creators/technical 2026-06"]
+    evidence: "B"
+    last_verified: "2026-06-17"
+    sources: ["experts/technical 2026-01-09", "creators/technical 2026-06", "experts/technical 2026-05-07", "creators/technical 2026-06-17"]
   - id: bing-indexing
     factor: "Site verified and indexed in Bing Webmaster Tools"
     category: technical
@@ -102,26 +122,6 @@ factors:
     evidence: "D"
     last_verified: "2026-06-11"
     sources: ["creators/technical 2026-06-11"]
-  - id: core-web-vitals
-    factor: "Core Web Vitals and load speed as a tiebreaker between equal pages"
-    category: technical
-    scope: [organic]
-    lever: ranking
-    stage: audit
-    tier: minor
-    evidence: "D"
-    last_verified: "2026-07"
-    sources: ["creators/technical 2026-07"]
-  - id: ai-crawler-allow
-    factor: "Retrieval agents allowed through robots.txt and the firewall"
-    category: technical
-    scope: [ai]
-    lever: ranking
-    stage: both
-    tier: minor
-    evidence: "D"
-    last_verified: "2026-07"
-    sources: ["experts/technical 2026-01-21", "creators/technical 2026-07"]
   - id: crawl-depth
     factor: "Every page you want ranked within three clicks of the homepage"
     category: technical
@@ -149,9 +149,9 @@ factors:
     lever: ranking
     stage: build
     tier: myth
-    evidence: "B"
+    evidence: "A"
     last_verified: "2026-07"
-    sources: ["experts/technical 2026-06-15", "creators/technical 2026-07"]
+    sources: ["experts/technical 2026-06-15", "creators/technical 2026-07", "google/ai-search 2025-12-10"]
   - id: meta-keywords
     factor: "The meta keywords tag"
     category: technical
@@ -170,7 +170,7 @@ factors:
     stage: both
     tier: core
     evidence: "B"
-    last_verified: "2025-12-15"
+    last_verified: "2026-09-06"
     sources: ["experts/content 2025-12-15"]
   - id: cite-sources-in-content
     factor: "Named, verifiable citations attached to the claims on the page"
@@ -192,6 +192,26 @@ factors:
     evidence: "A"
     last_verified: "2025-12-10"
     sources: ["google/content 2025-12-10", "google/content 2024-03-05", "creators/content 2024-02-05"]
+  - id: experience-first-person
+    factor: "First-person accounts, real outcomes and practitioner authorship"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: build
+    tier: supporting
+    evidence: "A"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/core-updates.md", "google/content 2025-09-11"]
+  - id: eeat
+    factor: "Experience, Expertise, Authoritativeness and Trustworthiness signals"
+    category: content
+    scope: [organic]
+    lever: trust
+    stage: build
+    tier: supporting
+    evidence: "A"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/core-updates.md", "google/content 2025-09-11"]
   - id: readability-grade-6-8
     factor: "Reading level at Flesch-Kincaid grade 6 to 8"
     category: content
@@ -212,6 +232,16 @@ factors:
     evidence: "B"
     last_verified: "2026-07"
     sources: ["experts/content 2025-12-15", "creators/content 2026-07"]
+  - id: answer-first-structure
+    factor: "The direct answer stated at the top of the page, before context"
+    category: content
+    scope: [organic, ai]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "B"
+    last_verified: "2026-07"
+    sources: ["creators/content 2026-07", "experts/ai-search 2026-05-07"]
   - id: one-keyword-per-page
     factor: "One target keyword per page, no page sharing a keyword with another"
     category: content
@@ -251,7 +281,7 @@ factors:
     tier: supporting
     evidence: "C"
     last_verified: "2026-07-20"
-    sources: ["creators/content 2026-07-20"]
+    sources: ["creators/content 2026-07-20", "creators/content 2026-06-17"]
   - id: keyword-density-over-optimization
     factor: "Keyword density meaningfully higher than the ranking competitors"
     category: content
@@ -272,16 +302,6 @@ factors:
     evidence: "C"
     last_verified: "2026-07"
     sources: ["creators/content 2026-07"]
-  - id: experience-first-person
-    factor: "First-person accounts, real outcomes and practitioner authorship"
-    category: content
-    scope: [organic]
-    lever: ranking
-    stage: build
-    tier: minor
-    evidence: "D"
-    last_verified: "2026-05"
-    sources: ["seed: playbook/core-updates.md"]
   - id: multi-modal-content
     factor: "Images, diagrams, tables and video alongside the text"
     category: content
@@ -292,26 +312,6 @@ factors:
     evidence: "D"
     last_verified: "2026-05"
     sources: ["seed: playbook/ai-search.md"]
-  - id: answer-first-structure
-    factor: "The direct answer stated at the top of the page, before context"
-    category: content
-    scope: [organic, ai]
-    lever: ranking
-    stage: both
-    tier: minor
-    evidence: "D"
-    last_verified: "2026-07"
-    sources: ["creators/content 2026-07"]
-  - id: eeat
-    factor: "Experience, Expertise, Authoritativeness and Trustworthiness signals"
-    category: content
-    scope: [organic]
-    lever: trust
-    stage: build
-    tier: minor
-    evidence: "D"
-    last_verified: "2026-05"
-    sources: ["seed: playbook/core-updates.md"]
   - id: answer-passage-length
     factor: "Self-contained answer passages of 134 to 167 words"
     category: content
@@ -378,10 +378,20 @@ factors:
     scope: [organic]
     lever: conversion
     stage: build
-    tier: minor
-    evidence: "D"
+    tier: supporting
+    evidence: "B"
     last_verified: "2026-07"
-    sources: ["creators/website-design 2026-07"]
+    sources: ["creators/website-design 2026-07", "experts/website-design 2025-04-03"]
+  - id: text-contrast
+    factor: "Soft dark gray on near white, never pure black on pure white"
+    category: website-design
+    scope: [organic]
+    lever: conversion
+    stage: build
+    tier: minor
+    evidence: "B"
+    last_verified: "2026-05-13"
+    sources: ["creators/website-design 2026-05-13", "experts/website-design 2024-12-12"]
   - id: single-primary-cta
     factor: "One primary CTA per page, secondary actions receding"
     category: website-design
@@ -412,16 +422,6 @@ factors:
     evidence: "D"
     last_verified: "2026-07-08"
     sources: ["creators/website-design 2026-07-08"]
-  - id: text-contrast
-    factor: "Soft dark gray on near white, never pure black on pure white"
-    category: website-design
-    scope: [organic]
-    lever: conversion
-    stage: build
-    tier: minor
-    evidence: "D"
-    last_verified: "2026-05-13"
-    sources: ["creators/website-design 2026-05-13"]
   - id: whitespace-section-rhythm
     factor: "Deliberate whitespace and alternating section rhythm"
     category: website-design
@@ -491,7 +491,7 @@ factors:
     tier: required
     evidence: "A"
     last_verified: "2026-09-06"
-    sources: ["google/local-gbp 2026-09-06", "creators/local-gbp 2026-07"]
+    sources: ["google/local-gbp 2026-09-06", "creators/local-gbp 2026-07", "google/local-gbp 2024-08-14"]
   - id: review-incentives
     factor: "Payment, discounts, freebies or contest entries offered for a review"
     category: local-gbp
@@ -501,7 +501,7 @@ factors:
     tier: required
     evidence: "A"
     last_verified: "2026-09-06"
-    sources: ["google/local-gbp 2026-09-06", "creators/local-gbp 2026-07"]
+    sources: ["google/local-gbp 2026-09-06", "creators/local-gbp 2026-07", "google/local-gbp 2024-08-14"]
   - id: sab-address-hidden
     factor: "Address hidden on a service-area business that does not serve customers on site"
     category: local-gbp
@@ -550,7 +550,7 @@ factors:
     stage: both
     tier: core
     evidence: "B"
-    last_verified: "2025-11-06"
+    last_verified: "2026-09-06"
     sources: ["experts/local-gbp 2025-11-06"]
   - id: gbp-services-keywords
     factor: "Keywords in the GBP services field"
@@ -580,7 +580,7 @@ factors:
     stage: both
     tier: core
     evidence: "B"
-    last_verified: "2025-11-06"
+    last_verified: "2026-09-06"
     sources: ["experts/local-gbp 2025-11-06"]
   - id: review-count
     factor: "Count of reviews carrying text"
@@ -620,7 +620,7 @@ factors:
     stage: both
     tier: core
     evidence: "B"
-    last_verified: "2025-11-06"
+    last_verified: "2026-09-06"
     sources: ["experts/local-gbp 2025-11-06"]
   - id: rapid-core-field-edits
     factor: "Rapid edits to name, address, category or hours in quick succession"
@@ -731,7 +731,7 @@ factors:
     tier: core
     evidence: "B"
     last_verified: "2026-06-26"
-    sources: ["experts/citations 2026-06-26", "experts/citations 2025-11-06"]
+    sources: ["experts/citations 2026-06-26", "experts/citations 2025-11-06", "creators/citations 2026-03-21"]
   - id: citation-nap-consistency
     factor: "Exact-match name, phone, city, ZIP and URL across every listing"
     category: citations
@@ -752,6 +752,16 @@ factors:
     evidence: "B"
     last_verified: "2026-07"
     sources: ["experts/citations 2018-09-07", "creators/citations 2026-07"]
+  - id: core-five-citations
+    factor: "Google, Apple Business Connect, Bing Places, Facebook and Yelp claimed"
+    category: citations
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "B"
+    last_verified: "2026-07"
+    sources: ["creators/citations 2026-07", "experts/citations 2024-10-28"]
   - id: rented-citations
     factor: "Subscription sync listings that stop when the subscription stops"
     category: citations
@@ -771,17 +781,7 @@ factors:
     tier: minor
     evidence: "D"
     last_verified: "2026-08-31"
-    sources: ["seed: playbook/local/citations.md"]
-  - id: core-five-citations
-    factor: "Google, Apple Business Connect, Bing Places, Facebook and Yelp claimed"
-    category: citations
-    scope: [local]
-    lever: ranking
-    stage: both
-    tier: minor
-    evidence: "D"
-    last_verified: "2026-07"
-    sources: ["creators/citations 2026-07"]
+    sources: ["seed: playbook/local/citations.md", "experts/citations 2024-10-28"]
   - id: data-aggregators
     factor: "Data Axle, Foursquare and TransUnion Digital Business Profile"
     category: citations
@@ -808,10 +808,10 @@ factors:
     scope: [organic, ai]
     lever: ranking
     stage: both
-    tier: supporting
-    evidence: "C"
+    tier: core
+    evidence: "B"
     last_verified: "2026-07"
-    sources: ["creators/backlinks 2026-07"]
+    sources: ["creators/backlinks 2026-07", "experts/backlinks 2023-12-01", "experts/backlinks 2018-09-18"]
   - id: backlink-anchor-relevance
     factor: "Descriptive, geo-qualified anchor text on an earned external link"
     category: backlinks
@@ -841,7 +841,7 @@ factors:
     tier: supporting
     evidence: "C"
     last_verified: "2026-07"
-    sources: ["creators/backlinks 2026-07"]
+    sources: ["creators/backlinks 2026-07", "creators/backlinks 2026-01-12"]
   - id: internal-linking-inbound
     factor: "Three older indexed pages linking into each new page"
     category: backlinks
@@ -949,9 +949,9 @@ factors:
     lever: conversion
     stage: audit
     tier: minor
-    evidence: "D"
+    evidence: "A"
     last_verified: "2026-05"
-    sources: ["seed: playbook/ai-search.md"]
+    sources: ["seed: playbook/ai-search.md", "google/ai-search 2025-12-10"]
   - id: aio-citation-answer-first
     factor: "A semantically complete answer passage that earns an AI Overview citation"
     category: ai-search
@@ -989,9 +989,9 @@ factors:
     lever: ranking
     stage: audit
     tier: myth
-    evidence: "D"
-    last_verified: "2026-05"
-    sources: ["seed: playbook/ai-search.md"]
+    evidence: "B"
+    last_verified: "2026-05-07"
+    sources: ["seed: playbook/ai-search.md", "experts/ai-search 2026-05-07"]
   - id: position-one-ctr
     factor: "Position one organic click-through rate on queries carrying AI features"
     category: signals
@@ -1031,7 +1031,7 @@ factors:
     tier: minor
     evidence: "D"
     last_verified: "2026-05"
-    sources: ["seed: playbook/ai-search.md"]
+    sources: ["seed: playbook/ai-search.md", "creators/signals 2026-03-21"]
   - id: mentions-breadth-mediums
     factor: "Breadth of different mediums carrying a mention over any one source's authority"
     category: signals
@@ -1041,7 +1041,7 @@ factors:
     tier: minor
     evidence: "D"
     last_verified: "2026-07"
-    sources: ["creators/signals 2026-07"]
+    sources: ["creators/signals 2026-07", "creators/signals 2026-01-12"]
   - id: social-posts-ranking
     factor: "Social media posts as a direct organic ranking signal"
     category: signals

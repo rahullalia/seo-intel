@@ -36,3 +36,10 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Quote: "Anybody selling AI visibility, they are making up terms."
 - Means: AI referral traffic can be tracked in GA4 by session source containing chatgpt, claude or perplexity. A vendor visibility score cannot.
 - Factor: ai-referral-conversion | Evidence: D | Lever: conversion | Scope: ai | Stage: audit
+
+## 2026-03-21 | ChatGPT runs one to three web searches per prompt and those queries can be read
+
+- Source: Edward Sturm, "AI SEO/GEO/AEO: How to Get Shown in LLMs in 2026", 2026-03-21, https://edwardsturm.com/articles/ai-seo-geo-aeo-get-shown-llms-2026/
+- Quote: "You’ll typically see 1-3 searches that ChatGPT used."
+- Means: Sturm reads the queries out of the ChatGPT network response, calls them the query fan-out, and builds a page per query carrying that phrase in the page title, meta description, URL slug, H1 and first sentence. The factor id query-fan-out-targeting is new, because no scorecard row covers targeting the queries an assistant runs rather than the prompt a person types.
+- Factor: query-fan-out-targeting | Evidence: D | Lever: ranking | Scope: ai | Stage: build

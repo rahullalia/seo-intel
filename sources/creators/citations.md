@@ -29,3 +29,10 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Quote: "Never sign up for directories in a country you don't operate in. Skip local directories entirely for a nationally-shipped ecommerce brand with no storefront."
 - Means: Directory choice follows real presence. A shipped-nationally brand with no storefront skips the local set.
 - Factor: core-five-citations | Evidence: D | Lever: ranking | Scope: local | Stage: build
+
+## 2026-03-21 | Self-published best-of listicles and company update posts are being cited by LLMs
+
+- Source: Edward Sturm, "AI SEO/GEO/AEO: How to Get Shown in LLMs in 2026", 2026-03-21, https://edwardsturm.com/articles/ai-seo-geo-aeo-get-shown-llms-2026/
+- Quote: "These are examples of the types of self-promotional “best-of” listicles and positive company updates that are influencing LLMs."
+- Means: Sturm names Asana's own list of the 11 best project management tools, where Asana ranks itself first, and a Kilo award announcement post as his two examples. He tells readers to publish positive company updates freely and to use self-ranking listicles sparingly.
+- Factor: unstructured-mentions | Evidence: D | Lever: ranking | Scope: ai | Stage: build

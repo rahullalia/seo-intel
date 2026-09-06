@@ -61,3 +61,15 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Quote: "Our advanced systems and expert analysts blocked or removed over 292 million policy-violating reviews"
 - Means: Google removed 292 million reviews and 13 million fake profiles in 2025, so a burst of reviews on one profile is being read against active filtering at that scale. Space review requests out rather than running a campaign that lands dozens in a week.
 - Factor: review-velocity | Evidence: A | Lever: ranking | Scope: local | Stage: audit
+
+## 2024-08-14 | The FTC rule bans compensation conditioned on a review's sentiment
+- Source: Federal Trade Commission, "Federal Trade Commission Announces Final Rule Banning Fake Reviews and Testimonials", 2024-08-14, https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials
+- Quote: "The final rule prohibits businesses from providing compensation or other incentives conditioned on the writing of consumer reviews expressing a particular sentiment, either positive or negative."
+- Means: A discount, freebie or prize entry offered for a positive review breaks a federal rule the FTC can seek civil penalties under, on top of Google's own policy. The FTC adds that the condition can be conveyed implicitly, so hinting at a reward counts.
+- Factor: review-incentives | Evidence: A | Lever: trust | Scope: local | Stage: both
+
+## 2024-08-14 | The FTC rule bans showing a filtered review set as if it were all reviews
+- Source: Federal Trade Commission, "Federal Trade Commission Announces Final Rule Banning Fake Reviews and Testimonials", 2024-08-14, https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials
+- Quote: "The final rule also bars a business from misrepresenting that the reviews on a review portion of its website represent all or most of the reviews submitted when reviews have been suppressed based upon their ratings or negative sentiment."
+- Means: A review widget that publishes only four and five star feedback while implying it shows every review submitted breaks the federal rule. The rule covers what the site displays; pre-screening who gets asked is covered separately by Google's review policy.
+- Factor: review-gating | Evidence: A | Lever: trust | Scope: local | Stage: both

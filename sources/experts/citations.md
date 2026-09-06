@@ -20,6 +20,18 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: Whitespark's 47 experts rank this citation type factor first in the new AI Search Visibility category, with quality of unstructured citations fourth and quantity of unstructured citations seventh. Unstructured mentions in best-of lists and articles now carry more AI-answer weight than most structured directory listings.
 - Factor: unstructured-mentions | Evidence: B | Lever: ranking | Scope: local ai | Stage: audit
 
+## 2024-10-28 | Uberall measured 89 percent more direct searches for locations listed beyond the four base directories
+- Source: Whitespark, Darren Shaw, "Do Citations Still Matter for Local SEO?", 2024-10-28, https://whitespark.ca/blog/do-citations-matter-local-seo/
+- Quote: "So the direct searches were 89% greater for the locations that were listed on all the directories."
+- Means: Uberall compared 3,000 locations listed only on Google My Business, Apple Maps, Facebook and Bing against 3,000 with wider distribution, and the wider group also showed 77 percent more indirect searches, 65 percent more search views, 91 percent more map views, 102 percent more driving directions and 87 percent more website clicks. The four base listings are a floor, not the finished job. Whitespark relays the Uberall study here rather than running its own test.
+- Factor: core-five-citations | Evidence: B | Lever: ranking | Scope: local | Stage: both
+
+## 2024-10-28 | Whitespark puts the citation stopping point at the top 30 to 50 directories
+- Source: Whitespark, Darren Shaw, "Do Citations Still Matter for Local SEO?", 2024-10-28, https://whitespark.ca/blog/do-citations-matter-local-seo/
+- Quote: "I think there is value, as the Uberall study showed, in getting in like the top 30 to 50 directories"
+- Means: Darren Shaw names 30 to 50 as the point to stop building direct citations, plus industry and city specific sites, and says further listings on low authority directories are not worth the time. This is the closest published range to the 25 to 40 figure on the scorecard, and it is Shaw's recommendation rather than a measured test.
+- Factor: citation-count-25-40 | Evidence: D | Lever: ranking | Scope: local | Stage: both
+
 ## 2024-10-28 | Two in three Yext listings broke within weeks of cancelling
 - Source: Whitespark, "What Happens When You Cancel Yext?", 2024-10-28, https://whitespark.ca/blog/what-happens-when-you-cancel-yext/
 - Quote: "60% of the listings disappeared or started featuring incorrect information after the subscription was canceled."
