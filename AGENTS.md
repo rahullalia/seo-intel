@@ -12,6 +12,7 @@ RSL/A's single SEO knowledge base: what ranks, what converts, what is required, 
 - `pipeline/` - the routine contracts: `sources.yaml` (registry), `rubric.md`, `style.md`, `lint-prose.py`, `research-prompt.md`, `qa-prompt.md`
 - `changelog.md` - one entry per run, newest first
 - `docs/brief.md` (design spec) and `docs/plan.md` (build plan and status)
+- `log.md` - session record and next steps, newest first (the pipeline's own record is `changelog.md`)
 
 ## Rules
 
