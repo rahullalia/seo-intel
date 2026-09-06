@@ -78,3 +78,10 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Quote: "Never use "click here", "learn more", or "website": banned."
 - Means: Use the destination page's own keyword, vary the phrasing across links pointing at the same money page, and place links in body copy rather than a bottom block.
 - Factor: internal-link-anchor-text | Evidence: C | Lever: ranking | Scope: organic | Stage: both
+
+## 2026-01-12 | Cheap wire press releases rank and feed AI answers for branded and low competition terms
+
+- Source: Edward Sturm, "How to use press releases for SEO and LLMs", 2026-01-12, https://edwardsturm.com/articles/how-to-use-press-releases-for-seo-and-llms/
+- Quote: "your press release shows high on Google, and influences AI Overviews, ChatGPT, Perplexity, and more."
+- Means: Sturm buys from AB Newswire at 80 dollars a release or 500 dollars for 83 releases and puts the keyword at the front of the title, the subheading and the first sentence. He limits the target to branded and non-competitive keywords, which is narrower than the HeyTony entry on this factor.
+- Factor: press-release-links | Evidence: D | Lever: ranking | Scope: organic ai | Stage: build

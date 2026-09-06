@@ -86,6 +86,13 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: Turn on the SEO plugin's automatic schema and skip a custom build; schema is only penalised when the data is wrong.
 - Factor: schema-markup | Evidence: D | Lever: ranking | Scope: organic ai | Stage: both
 
+## 2026-06-17 | 99 percent of 10,937 analysed pages were missing at least one schema type their competitors carry
+
+- Source: Kyle Roof, PageOptimizer Pro, "Why Isn't My Content Ranking in Google and AI? We Analysed 10,937 SEO'd Pages", 2026-06-17, https://www.pageoptimizer.pro/blog/why-isnt-my-content-ranking-in-google-and-ai
+- Quote: "Schema isn't advanced SEO anymore. It's table stakes - and 99% of pages in our study aren't at the table."
+- Means: 45 percent of the 10,937 pages carried no schema at all and the average page was missing 10.4 recommended types, measured between 10 and 30 April 2026. Roof writes on the same page that schema is not a direct ranking factor, which agrees with the HeyTony no-lift entry; the value he claims is indexing, rich results and AI citation.
+- Factor: schema-markup | Evidence: C | Lever: ranking | Scope: organic ai | Stage: both
+
 ## 2026-06-11 | The canonical must match the live URL exactly, trailing slash included
 
 - Source: HeyTony Insiders, call 030, 2026-06 (insiders/page-types/00-rules-for-every-page.md, citing transcripts/030_techinical-seo-with-denroi-11-06-2026.txt), local file

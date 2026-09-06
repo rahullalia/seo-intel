@@ -93,6 +93,13 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: This contradicts call 109 and playbook V 7.3 and is unresolved inside the corpus. Displayed open is the safer default until a test settles it.
 - Factor: hidden-accordion-content | Evidence: D | Lever: ranking | Scope: organic ai | Stage: both
 
+## 2026-06-17 | 58.5 percent of 10,937 analysed pages sat more than 20 percent under their competitor word count
+
+- Source: Kyle Roof, PageOptimizer Pro, "Why Isn't My Content Ranking in Google and AI? We Analysed 10,937 SEO'd Pages", 2026-06-17, https://www.pageoptimizer.pro/blog/why-isnt-my-content-ranking-in-google-and-ai
+- Quote: "Don't chase a magic word count. Match the range the pages currently ranking for your keyword are in."
+- Means: PageOptimizer Pro exported its own users' reports on 10,937 real pages run between 10 and 30 April 2026 and found an average competitor-derived target of 2,194 words against an average actual count of 1,534. About 25 percent of pages ran more than 20 percent longer than their target, so the correction is the competitor range in both directions, not more words.
+- Factor: word-count-competitor-relative | Evidence: C | Lever: ranking | Scope: organic | Stage: audit
+
 ## 2026-01-15 | One keyword per page, always
 
 - Source: HeyTony Insiders, call 097, 2026-01 (insiders/transcripts/097_technical-seo-with-denroi-15-01-2026.txt), local file

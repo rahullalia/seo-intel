@@ -1,8 +1,13 @@
 # Disputes
 
-Where Google's statements and measured field results disagree, or where two credible sources conflict. Recorded, not resolved by fiat. A dispute closes only when new evidence settles it, and the closing entry says which evidence. Bootstrapped 2026-09-06 from the seed's 19 disputes plus 1 opened by the programmatic research: 15 open, 5 closed.
+Where Google's statements and measured field results disagree, or where two credible sources conflict. Recorded, not resolved by fiat. A dispute closes only when new evidence settles it, and the closing entry says which evidence. Bootstrapped 2026-09-06 from the seed's 19 disputes plus 1 opened by the programmatic research, then 1 opened by the research run of 2026-09-06: 16 open, 5 closed.
 
 ## Open
+
+### Core Web Vitals as a measured ranking effect
+- Google says "Core Web Vitals are used by our ranking systems" on its page experience documentation, page last updated 2025-12-10, google/technical 2025-12-10
+- Ahrefs measured 5.21 million pages and reported no conclusive ranking method behind Core Web Vitals, 2022-01-31, experts/technical 2022-01-31
+- Grade A statement against a grade B measurement, so `pipeline/rubric.md` rule 6 holds the row at Minor and records the conflict. Google confirms the signal is used and attaches no weight to it; Ahrefs looked for the weight in field data and did not find it. The Ahrefs study is from 2022 and predates the March 2024 page experience documentation rewrite, so a current large-scale measurement would settle this. Opened 2026-09-06
 
 ### GBP posts as a ranking lever
 - Whitespark says post frequency ranks 148th and post quantity 168th of 187 local pack factors, both bottom quartile, 2025-11-06, experts/local-gbp 2025-11-06
@@ -13,6 +18,8 @@ Where Google's statements and measured field results disagree, or where two cred
 - Schema App says its own site gained 19.72 percent AI Overview visibility after adding entity linking, and one Fortune 500 customer gained 8.5 percent, 2026-01-09, experts/technical 2026-01-09
 - Matt Diamante says schema showed no measured lift in his testing and non-ranking pages on one site carried more schema than ranking pages, 2026-06, creators/technical 2026-06
 - The seed's 3.2x FAQ schema figure is not on Schema App's page, so the larger claim is unverified, 2026-09-06, pipeline/backlog.md
+- Cyrus Shepard scored 23 AI citation factors across 54 sources and reports a small but consistent positive relationship between schema and citation, 2026-05-07, experts/technical 2026-05-07
+- Kyle Roof measured 10,937 pages and writes that schema is not a direct ranking factor, claiming value for indexing, rich results and AI citation instead, 2026-06-17, creators/technical 2026-06-17. Shepard at grade B and Roof at grade C agree the effect is small and indirect, which narrows the dispute to the size of Schema App's 19.72 percent figure rather than the direction. The row moved to evidence B and stayed at Minor, the tier `pipeline/rubric.md` gives a measurable but small effect, 2026-09-06
 
 ### FAQ schema against FAQ content
 - SE Ranking says pages with plain text FAQ sections in the body average 4.9 AI Mode citations against 4.4 without, 2025-12-15, experts/content 2025-12-15
@@ -23,6 +30,7 @@ Where Google's statements and measured field results disagree, or where two cred
 - Cubitrek says block GPTBot, CCBot and ClaudeBot as training scrapers and allow OAI-SearchBot, ChatGPT-User and Claude-SearchBot as retrieval agents, 2026-01-21, experts/technical 2026-01-21
 - Matt Diamante says never block any AI crawler and fix crawl load with cloud hosting plus a firewall, 2026-07, creators/technical 2026-07
 - Both sides are grade D practitioner recommendations with no before and after test attached
+- Google says robots.txt directives for Googlebot are the control site owners have over how their sites are crawled for Search, and that AI is built into Search, page last updated 2025-12-10, google/ai-search 2025-12-10. This settles the Google half at grade A: blocking Googlebot removes a site from AI Overviews and AI Mode along with classic results. It says nothing about OpenAI, Anthropic or Perplexity user agents, so the dispute stays open on the non-Google crawlers, 2026-09-06
 
 ### Collapsed and accordion content
 - HeyTony call 015 says accordions and toggles are safe to index and agentic crawlers interact with menus and forms, 2026-06-25, creators/content 2026-06-25
