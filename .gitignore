@@ -1,0 +1,7 @@
+# Rank Week course videos stay local only (3.2 GB, paid course content)
+sources/creators/hey-tony/rank-week-2026/videos/
+*.log
+.env
+.DS_Store
+node_modules/
+.claude/settings.local.json

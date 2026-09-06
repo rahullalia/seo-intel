@@ -1,0 +1,219 @@
+# Source registry. Researchers read their tier only. `feed` is read first when present; `verify` marks
+# URLs the bootstrap must confirm before trusting. trust: primary | study | test | opinion.
+# check: every (every run) | monthly | quarterly (stable reference pages, re-read for changes only).
+
+google:
+  - name: Google Search Central Blog
+    url: https://developers.google.com/search/blog
+    feed: https://developers.google.com/search/blog/rss.xml
+    verify: true
+    trust: primary
+    check: every
+    categories: [technical, content, ai-search, signals]
+  - name: Google Search Status Dashboard (ranking updates)
+    url: https://status.search.google.com/summary
+    feed: https://status.search.google.com/incidents.rss
+    verify: true
+    trust: primary
+    check: every
+    categories: [signals, content]
+  - name: Google core updates list
+    url: https://developers.google.com/search/updates/core-updates
+    trust: primary
+    check: every
+    categories: [signals, content]
+  - name: Ranking systems guide
+    url: https://developers.google.com/search/docs/appearance/ranking-systems-guide
+    trust: primary
+    check: monthly
+    categories: [signals, content, backlinks]
+  - name: Spam policies
+    url: https://developers.google.com/search/docs/essentials/spam-policies
+    trust: primary
+    check: monthly
+    categories: [backlinks, content, technical]
+  - name: Search Essentials and SEO starter guide
+    url: https://developers.google.com/search/docs/essentials
+    trust: primary
+    check: quarterly
+    categories: [technical, content]
+  - name: AI features and your website
+    url: https://developers.google.com/search/docs/appearance/ai-features
+    trust: primary
+    check: every
+    categories: [ai-search]
+  - name: Page experience and Core Web Vitals docs
+    url: https://developers.google.com/search/docs/appearance/page-experience
+    trust: primary
+    check: quarterly
+    categories: [technical, website-design]
+  - name: Structured data gallery and changes
+    url: https://developers.google.com/search/docs/appearance/structured-data/search-gallery
+    trust: primary
+    check: monthly
+    categories: [technical]
+  - name: Google Business Profile guidelines
+    url: https://support.google.com/business/answer/3038177
+    trust: primary
+    check: every
+    categories: [local-gbp]
+  - name: Google Business Profile Help announcements
+    url: https://support.google.com/business/announcements
+    verify: true
+    trust: primary
+    check: every
+    categories: [local-gbp, citations]
+  - name: Local ranking help page (relevance, distance, prominence)
+    url: https://support.google.com/business/answer/7091
+    trust: primary
+    check: quarterly
+    categories: [local-gbp]
+  - name: Google Search Liaison (X)
+    url: https://x.com/searchliaison
+    trust: primary
+    check: every
+    categories: [signals, content, ai-search]
+    note: statements only, no threads without a Google source behind them
+  - name: Search Off the Record podcast and Search Central YouTube
+    url: https://www.youtube.com/@GoogleSearchCentral
+    trust: primary
+    check: monthly
+    categories: [technical, content]
+
+experts:
+  - name: Search Engine Roundtable
+    url: https://www.seroundtable.com
+    feed: https://www.seroundtable.com/index.rdf
+    verify: true
+    trust: study
+    check: every
+    categories: [signals, technical, local-gbp, ai-search]
+    note: news wire for Google statements; grade the underlying source, not the post
+  - name: Search Engine Land
+    url: https://searchengineland.com
+    feed: https://searchengineland.com/feed
+    verify: true
+    trust: study
+    check: every
+    categories: [signals, ai-search, local-gbp, technical]
+  - name: Whitespark (Local Search Ranking Factors survey)
+    url: https://whitespark.ca/local-search-ranking-factors
+    trust: study
+    check: monthly
+    categories: [local-gbp, citations, backlinks]
+  - name: Sterling Sky (Joy Hawkins)
+    url: https://www.sterlingsky.ca/blog
+    feed: https://www.sterlingsky.ca/feed
+    verify: true
+    trust: test
+    check: every
+    categories: [local-gbp, citations]
+  - name: Near Media (Blumenthal, Sterling, Mihm)
+    url: https://www.nearmedia.co
+    trust: study
+    check: every
+    categories: [local-gbp, ai-search, signals]
+  - name: BrightLocal research
+    url: https://www.brightlocal.com/research
+    trust: study
+    check: monthly
+    categories: [local-gbp, citations]
+  - name: Semrush blog and studies
+    url: https://www.semrush.com/blog
+    trust: study
+    check: monthly
+    categories: [ai-search, content, backlinks, signals]
+  - name: Ahrefs blog and studies
+    url: https://ahrefs.com/blog
+    trust: study
+    check: monthly
+    categories: [backlinks, ai-search, content, technical]
+  - name: Moz blog
+    url: https://moz.com/blog
+    trust: study
+    check: monthly
+    categories: [signals, backlinks, local-gbp]
+  - name: Backlinko (Brian Dean)
+    url: https://backlinko.com/blog
+    trust: study
+    check: quarterly
+    categories: [backlinks, content, signals]
+  - name: Marie Haynes (Search News You Can Use)
+    url: https://www.mariehaynes.com
+    trust: study
+    check: every
+    categories: [signals, content, ai-search]
+  - name: Lily Ray (Amsive)
+    url: https://www.amsive.com/insights
+    trust: study
+    check: monthly
+    categories: [content, ai-search, signals]
+  - name: Aleyda Solis (SEOFOMO)
+    url: https://www.seofomo.co
+    trust: study
+    check: every
+    categories: [technical, ai-search, signals]
+  - name: Glenn Gabe (GSQi)
+    url: https://www.gsqi.com/marketing-blog
+    trust: test
+    check: monthly
+    categories: [signals, content]
+  - name: Cyrus Shepard (Zyppy)
+    url: https://zyppy.com/seo
+    trust: test
+    check: monthly
+    categories: [content, signals, backlinks]
+  - name: Kevin Indig (Growth Memo)
+    url: https://www.growth-memo.com
+    trust: study
+    check: monthly
+    categories: [ai-search, signals]
+  - name: Seer Interactive (AI Overviews CTR studies)
+    url: https://www.seerinteractive.com/insights
+    trust: study
+    check: monthly
+    categories: [ai-search]
+  - name: Search Engine Journal
+    url: https://www.searchenginejournal.com
+    trust: opinion
+    check: every
+    categories: [signals, ai-search]
+    note: news only; do not grade its analysis above D
+
+creators:
+  - name: Matt Diamante (HeyTony)
+    url: https://heytony.ca
+    trust: test
+    check: manual
+    categories: [content, website-design, local-gbp, technical, backlinks, ai-search]
+    note: Insiders calls and emails are folded in by hand from a logged-in session; the routine reads only public posts and YouTube
+  - name: Edward Sturm
+    url: https://www.youtube.com/@EdwardSturm
+    trust: opinion
+    check: every
+    categories: [ai-search, signals, content]
+  - name: Kyle Roof (PageOptimizer Pro tests)
+    url: https://www.pageoptimizer.pro/blog
+    trust: test
+    check: monthly
+    categories: [content, technical]
+  - name: Nathan Gotch (Gotch SEO)
+    url: https://www.gotchseo.com/blog
+    trust: opinion
+    check: quarterly
+    categories: [backlinks, content]
+  - name: Steve Toth (SEO Notebook)
+    url: https://seonotebook.com
+    trust: opinion
+    check: monthly
+    categories: [content, technical, signals]
+  - name: Eli Schwartz (Product-Led SEO)
+    url: https://www.elischwartz.co/blog
+    trust: opinion
+    check: quarterly
+    categories: [content, signals]
+  - name: Koray Tugberk Gubur (Holistic SEO)
+    url: https://www.holisticseo.digital/blog
+    trust: test
+    check: quarterly
+    categories: [content, technical, signals]
