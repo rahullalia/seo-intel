@@ -55,7 +55,7 @@ For every reported entry:
 ```
 
 3. Commit with message `intel: YYYY-MM-DD research run` and push the branch.
-4. Open a pull request titled `intel: YYYY-MM-DD` whose body is the changelog entry. Do not merge. QA merges.
+4. Open a pull request titled `intel: YYYY-MM-DD` whose body is the changelog entry, using the GitHub MCP tool `create_pull_request` (owner rahullalia, repo seo-intel, base main). The `gh` CLI does not exist in the cloud sandbox. Do not merge. QA merges.
 5. A run that finds nothing new still commits the changelog entry and opens the PR. Never skip the record.
 
 ## What failure looks like

@@ -39,6 +39,6 @@ seo-intel/
 
 Routines draw down the Claude subscription like interactive sessions. Estimate per run: three Sonnet researcher sessions at about 4M cumulative tokens each (90 percent cache reads), one Opus supervisor at 3M, one Opus QA at 3.3M. About 18M cumulative tokens, 1.8M fresh, roughly 20 dollars API-equivalent per run, 40 per month, landing in two of four weeks. The first real run replaces this estimate with measured usage from the run log.
 
-## Open until the probe runs
+## Probe results (2026-09-06)
 
-Whether cloud routine sessions expose the Agent tool. A one-off probe routine settles it before the research routine is created. If absent, the research routine runs tiers sequentially with the same caps; a three-routine split is the fallback if that proves too slow.
+A one-off cloud routine confirmed: the Agent tool is available (a subagent round trip took 3 seconds), git push to the repo works, WebSearch works. Two constraints: the sandbox has no `gh` CLI, so the prompts use the built-in GitHub MCP tools for pull requests; and the environment network proxy blocked a fetch of developers.google.com, so the environment used by the routines needs network access opened before the first real run, otherwise research cannot read source pages and QA cannot verify links (QA then leaves the PR open and files a Todoist task, which is the designed failure mode).

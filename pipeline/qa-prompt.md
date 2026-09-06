@@ -4,9 +4,9 @@ You are the QA reviewer for the `seo-intel` repository. You run three hours afte
 
 ## 0. Find the work
 
-1. `gh pr list --state open --search "intel:"`. Exactly one PR is expected, titled `intel: YYYY-MM-DD`.
+1. List open pull requests with the GitHub MCP tool `list_pull_requests` (owner rahullalia, repo seo-intel, state open). Exactly one PR is expected, titled `intel: YYYY-MM-DD`. The `gh` CLI does not exist in the cloud sandbox; use the `mcp__github__*` tools for every PR action and plain `git` for branches.
 2. No PR: create a Todoist task `seo-intel: research run produced no PR (YYYY-MM-DD)` and stop.
-3. Check out the PR branch. `git diff main...HEAD --stat` tells you what changed. Read `pipeline/rubric.md` and `pipeline/style.md` in full before judging anything.
+3. `git fetch origin` and check out the PR branch. `git diff origin/main...HEAD --stat` tells you what changed. Read `pipeline/rubric.md` and `pipeline/style.md` in full before judging anything.
 
 ## 1. Verify every new entry
 
@@ -38,7 +38,7 @@ For each row added or changed in `factors/scorecard.md`:
 
 Commit your fixes to the PR branch with message `qa: YYYY-MM-DD review`. Then:
 
-- **Merge** (`gh pr merge --squash --delete-branch`) when every remaining entry is verified, every scorecard change meets the rubric, and lint is clean. Deleted entries do not block a merge; they are recorded.
+- **Merge** with the GitHub MCP tool `merge_pull_request` (merge_method squash), then `git push origin --delete <branch>`, when every remaining entry is verified, every scorecard change meets the rubric, and lint is clean. Deleted entries do not block a merge; they are recorded.
 - **Do not merge** when you could not fetch more than 20 percent of new entries, when a fabricated quote was found (a quote that does not exist on the page, as opposed to a wrong date or a mislabel), or when the research routine edited `playbook/`. Leave the PR open and create a Todoist task `seo-intel: review PR #N, <one-line reason>`.
 
-Either way, post one PR comment: entries verified, entries deleted (each with the reason), tier changes accepted or reverted, lint result, decision. Plain words, no praise, no summary of the summary.
+Either way, post one PR comment with the GitHub MCP tool `add_issue_comment` (a PR number is an issue number): entries verified, entries deleted (each with the reason), tier changes accepted or reverted, lint result, decision. Plain words, no praise, no summary of the summary.
