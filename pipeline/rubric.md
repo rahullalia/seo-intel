@@ -28,6 +28,8 @@ How a factor earns its row on the scorecard. Applied by the research routine whe
 
 **Lever:** `ranking`, `conversion`, `trust`. A factor with no ranking weight but measured conversion weight is a conversion lever, not a Myth. Hero carousels are the canonical example: no ranking effect, measured conversion damage.
 
+**Stage:** `build` when the factor is decided while a site is planned or built (architecture, URL structure, platform, page inventory), `audit` when it is diagnosed on a live site (indexing, cannibalization, internal links, decay), `both` when it applies either way. Stage does not change tier; it tells `playbook/new-site.md` and `playbook/existing-site-audit.md` which rows to walk.
+
 ## Promotion and demotion rules
 
 1. A tier moves only when the evidence grade supporting the new tier is met. Opinion never moves a tier.

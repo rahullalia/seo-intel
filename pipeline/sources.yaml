@@ -31,7 +31,7 @@ google:
     url: https://developers.google.com/search/docs/essentials/spam-policies
     trust: primary
     check: monthly
-    categories: [backlinks, content, technical]
+    categories: [backlinks, content, technical, programmatic]
   - name: Search Essentials and SEO starter guide
     url: https://developers.google.com/search/docs/essentials
     trust: primary
@@ -122,12 +122,12 @@ experts:
     url: https://www.semrush.com/blog
     trust: study
     check: monthly
-    categories: [ai-search, content, backlinks, signals]
+    categories: [ai-search, content, backlinks, signals, programmatic]
   - name: Ahrefs blog and studies
     url: https://ahrefs.com/blog
     trust: study
     check: monthly
-    categories: [backlinks, ai-search, content, technical]
+    categories: [backlinks, ai-search, content, technical, programmatic]
   - name: Moz blog
     url: https://moz.com/blog
     trust: study
@@ -167,7 +167,7 @@ experts:
     url: https://www.growth-memo.com
     trust: study
     check: monthly
-    categories: [ai-search, signals]
+    categories: [ai-search, signals, programmatic]
   - name: Seer Interactive (AI Overviews CTR studies)
     url: https://www.seerinteractive.com/insights
     trust: study
@@ -211,7 +211,7 @@ creators:
     url: https://www.elischwartz.co/blog
     trust: opinion
     check: quarterly
-    categories: [content, signals]
+    categories: [content, signals, programmatic]
   - name: Koray Tugberk Gubur (Holistic SEO)
     url: https://www.holisticseo.digital/blog
     trust: test

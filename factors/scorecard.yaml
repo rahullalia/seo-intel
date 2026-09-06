@@ -1,4 +1,4 @@
 # Machine-readable twin of scorecard.md. Same rows, same order. Skills load this file.
 # tier: required | core | supporting | minor | myth | dead
-# evidence: A | B | C | D      scope: organic | local | ai      lever: ranking | conversion | trust
+# evidence: A | B | C | D      scope: organic | local | ai      lever: ranking | conversion | trust      stage: build | audit | both
 factors: []

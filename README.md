@@ -7,9 +7,9 @@ What actually moves rankings, what only moves conversions, what is mandatory, an
 1. `factors/scorecard.md` is the answer. One row per factor: tier, evidence grade, scope, lever, last verified, sources.
 2. `factors/disputes.md` is where Google and the field disagree. Both sides, cited.
 3. `sources/<tier>/<category>.md` is the evidence behind the rows. Tiers: `google` (primary), `experts` (Semrush, Ahrefs, Moz, Whitespark, Sterling Sky, Near Media and peers), `creators` (HeyTony, Edward Sturm and peers). Newest entry on top.
-4. `playbook/` is what RSL/A does about it. Curated by hand from the evidence.
+4. `playbook/` is what RSL/A does about it. Curated by hand from the evidence. Start at `playbook/new-site.md` for a site being built, `playbook/existing-site-audit.md` for a site that exists, `playbook/tooling.md` for which tool answers which question.
 
-## Categories (identical in every tier)
+## Categories (identical in every tier, nine)
 
 | File | Covers |
 |---|---|
@@ -21,6 +21,7 @@ What actually moves rankings, what only moves conversions, what is mandatory, an
 | `backlinks.md` | Links, digital PR, press releases, anchor text, link spam policy |
 | `ai-search.md` | AI Overviews, AI Mode, ChatGPT, Perplexity, Copilot, citation behavior, AEO and GEO |
 | `signals.md` | Everything else measured: engagement, freshness, brand, entities, social, Reddit |
+| `programmatic.md` | Programmatic SEO: templated pages at scale, service and location matrices, scaled content abuse and doorway page policy, thin page risk, crawl budget, data-driven page generation |
 
 ## How it stays current
 

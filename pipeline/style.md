@@ -26,7 +26,7 @@ Every sentence carries at least one of: a fact, a number, a date, a source, a de
 - Source: Publisher, "Title", YYYY-MM-DD, https://...
 - Quote: "verbatim, 40 words or fewer"
 - Means: one or two plain sentences on what changes for a page, a profile, or a client.
-- Factor: factor-id | Evidence: A|B|C|D | Lever: ranking|conversion|trust | Scope: organic|local|ai
+- Factor: factor-id | Evidence: A|B|C|D | Lever: ranking|conversion|trust | Scope: organic|local|ai | Stage: build|audit|both
 ```
 
 Newest entry at the top of the file, directly under the header line. One entry per finding. If two sources report the same event, one entry with two Source lines.

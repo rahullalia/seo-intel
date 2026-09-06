@@ -9,7 +9,7 @@ Updated as the build proceeds. Dates are when the step finished.
 - [x] 2026-09-06 Move `local-seo-playbook/` to `playbook/local/`, seoForge references to `playbook/`, repoint skills, CLAUDE.md files, memory
 - [ ] Bootstrap: seed scorecard from playbook, seoForge references, heyTony parts
 - [ ] Bootstrap: three researcher subagents, one QA pass, first changelog entry, push
-- [ ] Research routine created (1st and 15th, 6am PT)
-- [ ] QA routine created (1st and 15th, 9am PT)
+- [x] 2026-09-06 Research routine created (1st and 15th, 6am PT), id trig_019vxJjm25dsZWCCppuYuHUd
+- [x] 2026-09-06 QA routine created (1st and 15th, 9am PT), id trig_015gBZQbNqzWj4bsMqQytA87
 - [ ] First manual run of both routines observed, cost estimate replaced with measured usage
 - [ ] Memory and workspace CLAUDE.md updated; `my-business/CLAUDE.md` contents list points at `seo-intel/`
