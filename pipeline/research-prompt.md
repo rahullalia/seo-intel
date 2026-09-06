@@ -61,3 +61,5 @@ For every reported entry:
 ## What failure looks like
 
 Writing an entry to fill a quota. Paraphrasing and calling it a quote. Inferring a date. Promoting a tier on one blog post. Editing `playbook/`. Fetching past the cap. Any of these gets the entry deleted by QA and is worse than an empty run.
+
+Do not send push notifications or messages outside this repository. GitHub notifies on the pull request, and a Todoist task is the only exception channel.

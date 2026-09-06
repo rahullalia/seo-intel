@@ -42,3 +42,5 @@ Commit your fixes to the PR branch with message `qa: YYYY-MM-DD review`. Then:
 - **Do not merge** when you could not fetch more than 20 percent of new entries, when a fabricated quote was found (a quote that does not exist on the page, as opposed to a wrong date or a mislabel), or when the research routine edited `playbook/`. Leave the PR open and create a Todoist task `seo-intel: review PR #N, <one-line reason>`.
 
 Either way, post one PR comment with the GitHub MCP tool `add_issue_comment` (a PR number is an issue number): entries verified, entries deleted (each with the reason), tier changes accepted or reverted, lint result, decision. Plain words, no praise, no summary of the summary.
+
+Do not send push notifications or messages outside this repository. GitHub notifies on the pull request, and a Todoist task is the only exception channel.

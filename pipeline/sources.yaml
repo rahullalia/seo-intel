@@ -5,7 +5,8 @@
 google:
   # This tier is the primary-source tier. Government regulators (FTC review rule, 16 CFR 465) file here too, grade A.
   - name: FTC rule on fake reviews and testimonials (16 CFR Part 465)
-    url: https://www.ftc.gov/legal-library/browse/rules/rule-use-consumer-reviews-testimonials
+    url: https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials
+    verified: 2026-09-06 (the legal-library rule path returned 404 in the first run; this press release fetches, and the Federal Register notice is https://www.ftc.gov/legal-library/browse/federal-register-notices/16-cfr-part-465-trade-regulation-rule-use-consumer-reviews-testimonials)
     trust: primary
     check: quarterly
     categories: [local-gbp]
@@ -109,7 +110,7 @@ experts:
   - name: Sterling Sky (Joy Hawkins)
     url: https://www.sterlingsky.ca/blog
     feed: https://www.sterlingsky.ca/feed
-    verified: 2026-09-06
+    verified: 2026-09-06 (valid RSS from a browser fetch; the cloud sandbox got a 202 bot challenge on 2026-09-06, so fall back to the blog index page)
     trust: test
     check: every
     categories: [local-gbp, citations]
@@ -218,7 +219,8 @@ creators:
     check: quarterly
     categories: [content, signals, programmatic]
   - name: Koray Tugberk Gubur (Holistic SEO)
-    url: https://www.holisticseo.digital/blog
+    url: https://www.holisticseo.digital/
+    note: /blog returned 404 on 2026-09-06; the WordPress posts API at /wp-json/wp/v2/posts lists articles with dates, newest 2024-08-12
     trust: test
     check: quarterly
     categories: [content, technical, signals]
