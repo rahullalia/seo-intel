@@ -40,7 +40,7 @@ seo-intel/
 
 ## Cost
 
-Routines draw down the Claude subscription like interactive sessions. Estimate per run: three Sonnet researcher sessions at about 4M cumulative tokens each (90 percent cache reads), one Opus supervisor at 3M, one Opus QA at 3.3M. About 18M cumulative tokens, 1.8M fresh, roughly 20 dollars API-equivalent per run, 40 per month, landing in two of four weeks. The first real run replaces this estimate with measured usage from the run log.
+Routines draw down the Claude subscription like interactive sessions. Estimate per run: three Sonnet researcher sessions at about 4M cumulative tokens each (90 percent cache reads), one Opus supervisor at 3M, one Opus QA at 3.3M. About 18M cumulative tokens, 1.8M fresh, roughly 20 dollars API-equivalent per run, 40 per month, landing in two of four weeks. Measured on the first manual run, 2026-09-06: the research routine took 516 seconds of supervisor time across 42 turns plus three Sonnet researchers, and QA took 456 seconds across 47 turns. Token totals are not in the run log; read them at claude.ai/settings/usage after each run.
 
 ## Probe results (2026-09-06)
 

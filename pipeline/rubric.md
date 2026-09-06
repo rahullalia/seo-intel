@@ -24,6 +24,8 @@ How a factor earns its row on the scorecard. Applied by the research routine whe
 | C | Practitioner test with data on real sites | Sterling Sky tests, Kyle Roof on-page tests, HeyTony field results with numbers |
 | D | Opinion, anecdote, single case without data | Most creator commentary, forum posts |
 
+Standards bodies (W3C WCAG, IETF) are grade A for what a standard requires, and say nothing about ranking or conversion effect. Cite them only on rows whose lever is trust or whose tier is Required for compliance, never as evidence that a factor moves rankings (QA note, 2026-09-06, `text-contrast`).
+
 **Scope:** `organic` (web results), `local` (map pack and GBP), `ai` (AI Overviews, AI Mode, assistants). A factor can carry more than one.
 
 **Lever:** `ranking`, `conversion`, `trust`. A factor with no ranking weight but measured conversion weight is a conversion lever, not a Myth. Hero carousels are the canonical example: no ranking effect, measured conversion damage.

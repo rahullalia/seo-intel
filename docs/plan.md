@@ -11,5 +11,5 @@ Updated as the build proceeds. Dates are when the step finished.
 - [x] 2026-09-06 Bootstrap: three researcher subagents, one QA pass, first changelog entry, push
 - [x] 2026-09-06 Research routine created (1st and 15th, 6am PT), id trig_019vxJjm25dsZWCCppuYuHUd
 - [x] 2026-09-06 QA routine created (1st and 15th, 9am PT), id trig_015gBZQbNqzWj4bsMqQytA87
-- [ ] First manual run of both routines observed, cost estimate replaced with measured usage
+- [x] 2026-09-06 First manual run of both routines observed: research 516 s, 42 turns plus three subagents, PR #1 with 27 entries; QA 456 s, 47 turns, 27 of 27 verified, merged squash afcb6c9
 - [x] 2026-09-06 Memory and workspace CLAUDE.md updated; `my-business/CLAUDE.md` contents list points at `seo-intel/`
