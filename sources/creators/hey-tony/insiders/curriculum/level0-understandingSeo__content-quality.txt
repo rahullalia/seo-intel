@@ -1,0 +1,7 @@
+# Content Quality
+
+HeyTony Insiders — Curriculum / level0-understandingSeo (hash: rDe3vM4LqG) | 0m 49s | ~132 words
+
+---
+
+In this video, we're going to be talking about content quality. Essentially, being useful pays off. So content is the most important thing when it comes to SEO, because you can't optimize without content. You need words, you need videos, you need images on a page. Well written, informative content will keep users on the page longer, which signals to Google that your information is high quality and your content should answer a question or solve a problem for the user. This one's a little bit harder to illustrate what quality content looks like, but essentially long form content that is answering a question that is formatted properly, which we'll get into all the formatting stuff in a couple of videos. But essentially content that is useful to people will rank higher.

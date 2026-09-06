@@ -1,0 +1,673 @@
+{
+ "source": "HeyTony Insiders — Video Training curriculum",
+ "count": 74,
+ "totalWords": 52087,
+ "items": [
+  {
+   "playlist": "startHere",
+   "title": "HeyTony Insiders Membership Tour",
+   "hash": "4Ny4B7AVDa",
+   "durSec": 386,
+   "words": 1350,
+   "file": "startHere__heytony-insiders-membership-tour",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Intro & Understanding SEO",
+   "hash": "7qL3lrplN9",
+   "durSec": 150,
+   "words": 471,
+   "file": "level0-understandingSeo__intro-understanding-seo",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Intro to On Page SEO",
+   "hash": "5244YnpE21",
+   "durSec": 51,
+   "words": 155,
+   "file": "level0-understandingSeo__intro-to-on-page-seo",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Title Tags",
+   "hash": "92QbMr7ODp",
+   "durSec": 133,
+   "words": 432,
+   "file": "level0-understandingSeo__title-tags",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Meta Descriptions",
+   "hash": "6NMYdrArNZ",
+   "durSec": 121,
+   "words": 360,
+   "file": "level0-understandingSeo__meta-descriptions",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "URLs",
+   "hash": "pDo6kVAm24",
+   "durSec": 144,
+   "words": 410,
+   "file": "level0-understandingSeo__urls",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Content Quality",
+   "hash": "rDe3vM4LqG",
+   "durSec": 49,
+   "words": 132,
+   "file": "level0-understandingSeo__content-quality",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Word Count",
+   "hash": "nNXZWr1E2B",
+   "durSec": 147,
+   "words": 431,
+   "file": "level0-understandingSeo__word-count",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Readability",
+   "hash": "4Ny4kxEgDa",
+   "durSec": 157,
+   "words": 453,
+   "file": "level0-understandingSeo__readability",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Heading Tags",
+   "hash": "lDdk640d2y",
+   "durSec": 289,
+   "words": 848,
+   "file": "level0-understandingSeo__heading-tags",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Anchor Text",
+   "hash": "7qL3lrp7N9",
+   "durSec": 205,
+   "words": 580,
+   "file": "level0-understandingSeo__anchor-text",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Bullets & Lists",
+   "hash": "n2l9aZVbDO",
+   "durSec": 166,
+   "words": 521,
+   "file": "level0-understandingSeo__bullets-lists",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Images",
+   "hash": "5244Ynpe21",
+   "durSec": 329,
+   "words": 952,
+   "file": "level0-understandingSeo__images",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "ALT TEXT",
+   "hash": "VNOJO7wkDG",
+   "durSec": 213,
+   "words": 629,
+   "file": "level0-understandingSeo__alt-text",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Video",
+   "hash": "VDGxQ3ZVNW",
+   "durSec": 107,
+   "words": 341,
+   "file": "level0-understandingSeo__video",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Keyword Density",
+   "hash": "lDdk640x2y",
+   "durSec": 235,
+   "words": 726,
+   "file": "level0-understandingSeo__keyword-density",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Internal Linking",
+   "hash": "VNOJO7wADG",
+   "durSec": 341,
+   "words": 999,
+   "file": "level0-understandingSeo__internal-linking",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "External Linking",
+   "hash": "VDGxQ3ZANW",
+   "durSec": 178,
+   "words": 504,
+   "file": "level0-understandingSeo__external-linking",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Off Page SEO Introduction",
+   "hash": "6NMYdrAeNZ",
+   "durSec": 46,
+   "words": 128,
+   "file": "level0-understandingSeo__off-page-seo-introduction",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Backlinking",
+   "hash": "Eq5KZJjGDg",
+   "durSec": 124,
+   "words": 326,
+   "file": "level0-understandingSeo__backlinking",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Content Marketing",
+   "hash": "6NKzLrpKDz",
+   "durSec": 190,
+   "words": 573,
+   "file": "level0-understandingSeo__content-marketing",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Local SEO",
+   "hash": "wqjya9YoN7",
+   "durSec": 103,
+   "words": 303,
+   "file": "level0-understandingSeo__local-seo",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Social Media",
+   "hash": "kqkOVpAzq4",
+   "durSec": 65,
+   "words": 184,
+   "file": "level0-understandingSeo__social-media",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Reviews",
+   "hash": "Yq9kJawGDn",
+   "durSec": 123,
+   "words": 350,
+   "file": "level0-understandingSeo__reviews",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Technical SEO Introduction",
+   "hash": "gNZ7Ao1Yqd",
+   "durSec": 83,
+   "words": 223,
+   "file": "level0-understandingSeo__technical-seo-introduction",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Site Speed",
+   "hash": "1q1J89lK2P",
+   "durSec": 88,
+   "words": 254,
+   "file": "level0-understandingSeo__site-speed",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Responsive Website Design",
+   "hash": "4qBLJgeVDj",
+   "durSec": 116,
+   "words": 335,
+   "file": "level0-understandingSeo__responsive-website-design",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Core Web Vitals",
+   "hash": "rq8o9aWvN3",
+   "durSec": 87,
+   "words": 249,
+   "file": "level0-understandingSeo__core-web-vitals",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Schema Markup",
+   "hash": "xDWyArQWqg",
+   "durSec": 125,
+   "words": 379,
+   "file": "level0-understandingSeo__schema-markup",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Sitemaps",
+   "hash": "ONAezaYQNZ",
+   "durSec": 100,
+   "words": 298,
+   "file": "level0-understandingSeo__sitemaps",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Robots.txt",
+   "hash": "YDaAbd9ZDQ",
+   "durSec": 94,
+   "words": 269,
+   "file": "level0-understandingSeo__robots-txt",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Crawl Depth",
+   "hash": "pqz01JbVDK",
+   "durSec": 90,
+   "words": 265,
+   "file": "level0-understandingSeo__crawl-depth",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Duplicate Tags",
+   "hash": "RqmLvJdlN1",
+   "durSec": 111,
+   "words": 347,
+   "file": "level0-understandingSeo__duplicate-tags",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Broken Links",
+   "hash": "7NJMXrK9Do",
+   "durSec": 65,
+   "words": 203,
+   "file": "level0-understandingSeo__broken-links",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "level0-understandingSeo",
+   "title": "Orphaned Pages",
+   "hash": "6Dbd0Gndqz",
+   "durSec": 84,
+   "words": 245,
+   "file": "level0-understandingSeo__orphaned-pages",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "1-starter",
+   "title": "1. Does Google Know About Your Website?",
+   "hash": "kqkOVpnMq4",
+   "durSec": 56,
+   "words": 212,
+   "file": "1-starter__1-does-google-know-about-your-website",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "1-starter",
+   "title": "2. Do you have a sitemap?",
+   "hash": "xDWyAr74qg",
+   "durSec": 166,
+   "words": 529,
+   "file": "1-starter__2-do-you-have-a-sitemap",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "1-starter",
+   "title": "3. Registering Your Site with Google",
+   "hash": "P2EgJaG0NR",
+   "durSec": 273,
+   "words": 847,
+   "file": "1-starter__3-registering-your-site-with-google",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "1-starter",
+   "title": "4. Setting up Google Analytics",
+   "hash": "RD6d9YzlqQ",
+   "durSec": 278,
+   "words": 706,
+   "file": "1-starter__4-setting-up-google-analytics",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "2-newbie",
+   "title": "1. What Are Keywords?",
+   "hash": "lDdk64602y",
+   "durSec": 143,
+   "words": 451,
+   "file": "2-newbie__1-what-are-keywords",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "2-newbie",
+   "title": "2. How to find keywords YOUR customers are searching for",
+   "hash": "5244YnYm21",
+   "durSec": 142,
+   "words": 481,
+   "file": "2-newbie__2-how-to-find-keywords-your-customers-are-searching-for",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "2-newbie",
+   "title": "3. Writing your first blog post using ChatGPT",
+   "hash": "YDaAbdbQDQ",
+   "durSec": 486,
+   "words": 1466,
+   "file": "2-newbie__3-writing-your-first-blog-post-using-chatgpt",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "3-intermediate",
+   "title": "1. Auditing Your Website",
+   "hash": "kqkOVp03q4",
+   "durSec": 151,
+   "words": 511,
+   "file": "3-intermediate__1-auditing-your-website",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "3-intermediate",
+   "title": "2. Finding Keywords",
+   "hash": "9qp4kJgpqY",
+   "durSec": 428,
+   "words": 1415,
+   "file": "3-intermediate__2-finding-keywords",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "3-intermediate",
+   "title": "3. Fixing Audit Issues & Light Keyword Research",
+   "hash": "7NJMXrk3Do",
+   "durSec": 477,
+   "words": 1451,
+   "file": "3-intermediate__3-fixing-audit-issues-light-keyword-research",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "3-intermediate",
+   "title": "4. Every Page = 1 Main topic",
+   "hash": "lDdk64MJ2y",
+   "durSec": 324,
+   "words": 972,
+   "file": "3-intermediate__4-every-page-1-main-topic",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "4-advanced",
+   "title": "1. The power of blog posts",
+   "hash": "7qL3lrJ3N9",
+   "durSec": 633,
+   "words": 2011,
+   "file": "4-advanced__1-the-power-of-blog-posts",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "4-advanced",
+   "title": "2. Finding Keywords for your blog posts",
+   "hash": "gNZ7AoB3qd",
+   "durSec": 394,
+   "words": 1359,
+   "file": "4-advanced__2-finding-keywords-for-your-blog-posts",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "4-advanced",
+   "title": "3. Creating a blog outline",
+   "hash": "l2PJ4rO8NL",
+   "durSec": 517,
+   "words": 1678,
+   "file": "4-advanced__3-creating-a-blog-outline",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "4-advanced",
+   "title": "4. Uploading & Publishing Your Content",
+   "hash": "xDWyArY3qg",
+   "durSec": 873,
+   "words": 2601,
+   "file": "4-advanced__4-uploading-publishing-your-content",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "5-expert",
+   "title": "1. Tracking Your Growth",
+   "hash": "7qL3lWbmN9",
+   "durSec": 498,
+   "words": 1598,
+   "file": "5-expert__1-tracking-your-growth",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "5-expert",
+   "title": "2. 10x your traffic for free",
+   "hash": "VqwjpzAENr",
+   "durSec": 481,
+   "words": 1532,
+   "file": "5-expert__2-10x-your-traffic-for-free",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "5-expert",
+   "title": "3. Increase CTR ",
+   "hash": "5244YROO21",
+   "durSec": 270,
+   "words": 838,
+   "file": "5-expert__3-increase-ctr",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "5-expert",
+   "title": "4. Content Calendar",
+   "hash": "8qrAbmdlNL",
+   "durSec": 103,
+   "words": 328,
+   "file": "5-expert__4-content-calendar",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "5-expert",
+   "title": "5. BONUS (Spy on your competition)",
+   "hash": "9qp4kmL0qY",
+   "durSec": 205,
+   "words": 705,
+   "file": "5-expert__5-bonus-spy-on-your-competition",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "5-expert",
+   "title": "Backlink Gap Analysis and Link Building",
+   "hash": "VNOJ7GwlDG",
+   "durSec": 185,
+   "words": 560,
+   "file": "5-expert__backlink-gap-analysis-and-link-building",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "Robots.txt (Help Video)",
+   "hash": "VDGxQ3AJNW",
+   "durSec": 67,
+   "words": 192,
+   "file": "auditFixes__robots-txt-help-video",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "Page has no content (how to fix)",
+   "hash": "VNOJO70pDG",
+   "durSec": 88,
+   "words": 294,
+   "file": "auditFixes__page-has-no-content-how-to-fix",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "page not accessible (how to fix)",
+   "hash": "5244Yngl21",
+   "durSec": 97,
+   "words": 293,
+   "file": "auditFixes__page-not-accessible-how-to-fix",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "Sitemap not available (How to Fix)",
+   "hash": "6NMYdr6lNZ",
+   "durSec": 111,
+   "words": 363,
+   "file": "auditFixes__sitemap-not-available-how-to-fix",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "Site uses Http instead of Https",
+   "hash": "Eq5KZJgXDg",
+   "durSec": 121,
+   "words": 392,
+   "file": "auditFixes__site-uses-http-instead-of-https",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "Orphaned Page No internal Links point to it",
+   "hash": "6NKzLrAeDz",
+   "durSec": 211,
+   "words": 772,
+   "file": "auditFixes__orphaned-page-no-internal-links-point-to-it",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "Dead end Page. Has no outgoing links. (How to fix)",
+   "hash": "kqkOVpjbq4",
+   "durSec": 136,
+   "words": 508,
+   "file": "auditFixes__dead-end-page-has-no-outgoing-links-how-to-fix",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "Broken Link (How to fix)",
+   "hash": "wqjya9k3N7",
+   "durSec": 240,
+   "words": 803,
+   "file": "auditFixes__broken-link-how-to-fix",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "Meta Description Issues (ALL)",
+   "hash": "Yq9kJag8Dn",
+   "durSec": 351,
+   "words": 1108,
+   "file": "auditFixes__meta-description-issues-all",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "Low Word Count (How to Fix)",
+   "hash": "9qp4kJEwqY",
+   "durSec": 270,
+   "words": 943,
+   "file": "auditFixes__low-word-count-how-to-fix",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "No H1 heading & multiple H1 headings defined",
+   "hash": "gNZ7Ao0Mqd",
+   "durSec": 626,
+   "words": 2076,
+   "file": "auditFixes__no-h1-heading-multiple-h1-headings-defined",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "Title Tags (All Issues)",
+   "hash": "4qBLJgAyDj",
+   "durSec": 535,
+   "words": 1798,
+   "file": "auditFixes__title-tags-all-issues",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "auditFixes",
+   "title": "Open Graph Issues",
+   "hash": "1q1J89AQ2P",
+   "durSec": 642,
+   "words": 2031,
+   "file": "auditFixes__open-graph-issues",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "heyKeywordsTutorials",
+   "title": "Keyword Research",
+   "hash": "pN0oR1vzDa",
+   "durSec": 303,
+   "words": 962,
+   "file": "heyKeywordsTutorials__keyword-research",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "heyKeywordsTutorials",
+   "title": "Domain Overview",
+   "hash": "Xq7xR1vY2m",
+   "durSec": 186,
+   "words": 576,
+   "file": "heyKeywordsTutorials__domain-overview",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "heyKeywordsTutorials",
+   "title": "Keyword Gap",
+   "hash": "5qnl7WRpDr",
+   "durSec": 225,
+   "words": 686,
+   "file": "heyKeywordsTutorials__keyword-gap",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "heyKeywordsTutorials",
+   "title": "Backlinks Gap",
+   "hash": "w2VaVZGEqM",
+   "durSec": 119,
+   "words": 344,
+   "file": "heyKeywordsTutorials__backlinks-gap",
+   "hasTranscript": true
+  },
+  {
+   "playlist": "heyKeywordsTutorials",
+   "title": "Find Questions",
+   "hash": "xN3yRJvP20",
+   "durSec": 162,
+   "words": 470,
+   "file": "heyKeywordsTutorials__find-questions",
+   "hasTranscript": true
+  }
+ ]
+}

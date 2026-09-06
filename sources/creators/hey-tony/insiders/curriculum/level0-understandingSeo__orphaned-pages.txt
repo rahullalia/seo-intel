@@ -1,0 +1,7 @@
+# Orphaned Pages
+
+HeyTony Insiders — Curriculum / level0-understandingSeo (hash: 6Dbd0Gndqz) | 1m 24s | ~245 words
+
+---
+
+Okay, so an orphan page is essentially a page that is not linked to from any other pages on your website. So if you look at the graphic here, all these pages, so say your homepage links to these other pages and they all link to each other, but this page just is floating around. You've published on your website, but nobody can actually get to that page by clicking through on your website. They can only get to that page if they have that link. If no one can find your orphan page, neither can Google, and that page is essentially useless. So to fix orphan pages, this is where an internal linking strategy comes into play. You want to make sure that all, every single page on your website can be found, you know, in some way or another by clicking through different pages of your website. So don't do any orphan pages. If you have some, just don't give it a link from another page on your website. And that should fix the issue. But orphan pages, that. It's a big issue that often gets overlooked by webmasters and, you know, marketers because it's a page that's not doing anything, but that shows Google and search engines that you're not being diligent and that you just have all these, like, wayward pages that are just gone and, I guess, orphaned pages on your site. So orphan pages are not a great thing.

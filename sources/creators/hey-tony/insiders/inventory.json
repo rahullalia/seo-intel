@@ -1,0 +1,1260 @@
+{
+ "source": "HeyTony Insiders (htinsiders.com) — Call Replays playlist",
+ "host": "Matt Diamante",
+ "pulled": "2026-07-21",
+ "count": 125,
+ "withTranscript": 124,
+ "totalWords": 1196322,
+ "items": [
+  {
+   "pos": 1,
+   "file": "001_work-session-20-07-2026",
+   "title": "Work Session_20.07.2026",
+   "hash": "VNOJWa5gDG",
+   "durSec": 4350,
+   "words": 11948,
+   "hasTranscript": true,
+   "aiSummary": "Host shares rapid SEO/AI wins (Reddit thread and rankweekreviews.com ranking within 24 hours) and showcases member case studies where simple, local-focused content and review tactics drove fast Google/ChatGPT visibility. Practical takeaways include publishing short weekly blogs from real customer questions, using a separate reviews domain, prioritising controllable signals (social posts, press releases, GBP/BBB), a two‑part AI content workflow, and community feedback to iterate quickly and get measurable results."
+  },
+  {
+   "pos": 2,
+   "file": "002_wdir-11am-17-07-2026",
+   "title": "WDIR_11AM_17.07.2026",
+   "hash": "l2RZWad32a",
+   "durSec": 3673,
+   "words": 10414,
+   "hasTranscript": true,
+   "aiSummary": "Weekly insiders call covers recent wins and practical SEO advice: accessibility fixes (proper heading hierarchy, descriptive alt text, test with Windows Narrator), Google Search Console tips including adding social handles, and content/indexing best practice. Also tackles local page localisation, embeds and backlinks, paid ads vs organic, plus tools like Semrush, GSC, ChatGPT and Pumeli. Action items include optimising for Google’s AI outputs/LLMs TXT files, with community site reviews and quick wins highlighted."
+  },
+  {
+   "pos": 3,
+   "file": "003_wdir-10am-17-07-2026",
+   "title": "WDIR_10AM_17.07.2026",
+   "hash": "32g9Vgm5No",
+   "durSec": 3619,
+   "words": 9988,
+   "hasTranscript": true,
+   "aiSummary": "Recap of a meetup covering AI + federal contracting, rising pressure to label AI content, and the growing value of repurposing LinkedIn/website posts into YouTube for search and traffic. Practical tactics include geotagging images for Google Business Profile with Geo Imgr, using Pomelli/Pumeli to auto-generate branded social assets, and tracking search vs ecommerce with GSC and Shopify while prioritising GBP and on-site conversion. Security and reputation guidance: use multiple admins and hardware 2FA, avoid gating reviews, steer clear of AI-only avatars for trust, and test geotagging plus niche keywords as immediate next steps."
+  },
+  {
+   "pos": 4,
+   "file": "004_work-session-13-07-2026",
+   "title": "Work Session_13.07.2026",
+   "hash": "l2PJW8WANL",
+   "durSec": 2819,
+   "words": 7861,
+   "hasTranscript": true,
+   "aiSummary": "Weekly group session focused on writing and publishing SEO‑optimised blogs, celebrating member wins (top rankings, Google leads, contest nominations) and coordinating backlink/PR opportunities like Plaid Zebra guest posts and press releases. Core workflow: use question‑finding tools (FindQuestions.com, HT Insiders Blog Idea Finder, AnswerThePublic), run the prompt flow where AI asks up to 10 clarifying questions then generates a WordPress‑ready post (H2/H3 only), and publish one blog per week. Key rules: include 1 money‑page link + 3 internal blog links, show FAQs as plain Q/A, create one city page per location for localisation, then promote via Google Business mini‑posts and social."
+  },
+  {
+   "pos": 5,
+   "file": "005_wdir-11am-10-07-2026",
+   "title": "WDIR_11AM_10.07.2026",
+   "hash": "wqjy6kbrN7",
+   "durSec": 4517,
+   "words": 12758,
+   "hasTranscript": true,
+   "aiSummary": "Community call covering SEO, Google Business/Profile (GBP), maps, social and content strategy with members sharing wins and practical tactics. Key takeaways: post to GBP around twice weekly, geotag images, keep profiles complete, create service‑area pages linked to GBP, publish consistent blog content and refresh high‑value pages, and pursue quality local backlinks and PR. Also: use lead magnets and email automation, repurpose video transcripts into blog posts, connect socials to Search Console beta, and prioritise steady, sustainable actions over quick spikes."
+  },
+  {
+   "pos": 6,
+   "file": "006_wdir-10am-10-07-2026",
+   "title": "WDIR_10AM_10.07.2026",
+   "hash": "kqkOYj63q4",
+   "durSec": 3533,
+   "words": 10235,
+   "hasTranscript": true,
+   "aiSummary": "Roundtable covering member wins, practical tips for short social videos and concrete SEO/blog tactics — focus on one primary keyword per page, separate location pages, sensible anchor text and deadline-driven submissions to beat perfectionism. Also covered Google Search Console insights, how generative AI is surfacing short videos in search, using Claude Code for non‑developer API work, and clear action items: post reels regularly, submit blog posts to the shared spreadsheet and confirm doc access."
+  },
+  {
+   "pos": 7,
+   "file": "007_technical-seo-with-denroi-09-07-2026",
+   "title": "Technical SEO with Denroi 09.07.2026",
+   "hash": "l2RZWQej2a",
+   "durSec": 3800,
+   "words": 9532,
+   "hasTranscript": true,
+   "aiSummary": "Denroy leads a live, informal SEO Q&A answering platform-specific and general SEO questions about page speed, images, meta tags, headings, sitemaps, canonicals/permalinks, indexing and keyword strategy. Common issues covered include leftover JPEG/PNG files after WebP conversion, cached audit results, Yoast overriding page builders, duplicate canonicals and missing React pages in sitemaps — fixes: convert and delete originals, enable lazy‑loading, use a CDN and server caching (OPcache/Redis), defer non‑critical CSS/JS, set meta in Yoast and add hand‑coded pages to sitemap. Prioritisation advice focuses on high‑ROI fixes (images, caching, critical JS/CSS, correct meta/canonicals, sitemap inclusion), targeting localised long‑tail keywords, regular blog content and using Search Console for reindexing; includes site‑specific next steps for an Ayurveda/yoga rug store and a medical weight‑loss clinic."
+  },
+  {
+   "pos": 8,
+   "file": "008_web-design-for-seo-08-07-2026",
+   "title": "Web Design for SEO 08.07.2026",
+   "hash": "4Ny4mnXKDa",
+   "durSec": 4905,
+   "words": 10303,
+   "hasTranscript": true,
+   "aiSummary": "Live website workshop reviewing blog layouts, posts and attendees’ sites with DevTools demos and examples (Huckberry, Medium); wireframes, replays and resources to be shared. Focus on fundamentals — typography, spacing, hierarchy and clear CTAs — with practical rules like a centred content column (940–1,000px), body font ≥16px and generous line height (~1.6–1.8), single H1, left‑aligned long text and optimised hero images (eg 1440×720 WebP). Platform tips for Elementor, Kadence, SmugMug and Ghost, quick UI fixes demonstrated (bigger/darker headlines, clearer “read more”, softened top bar) and attendees encouraged to paste site URLs for follow‑up help."
+  },
+  {
+   "pos": 9,
+   "file": "009_work-session-guest-post-06-07-2026",
+   "title": "Work Session_Guest Post_06.07.2026",
+   "hash": "VDGxWyZVNW",
+   "durSec": 2650,
+   "words": 7269,
+   "hasTranscript": true,
+   "aiSummary": "Weekly Rank Week roundup where members share wins (Instagram success, repositioning to a service-focused business, top ranking for a recovery programme, sitemap and trademark fixes, bilingual product pages, and Core Web Vitals improvements) and run a live content‑writing exercise. The Plaid Zebra will publish member guest posts for free backlinks and Facebook reach — follow the brief: find a real user question, use the Community ChatGPT prompt, include one money‑keyword anchor plus an internal Plaid Zebra link, submit a Google Doc and images (suggested deadline Friday 10 July). Key SEO takeaways: avoid keyword cannibalisation and duplicate content, be patient for traction, indexing in Search Console is optional, and watch for SiteGround crawl issues (members recommend CrocWeb)."
+  },
+  {
+   "pos": 10,
+   "file": "010_wdir-11am-03-07-2026",
+   "title": "WDIR_11AM_03.07.2026",
+   "hash": "rq8oRxzKN3",
+   "durSec": 4783,
+   "words": 13553,
+   "hasTranscript": true,
+   "aiSummary": "Weekly accountability call sharing quick wins (rankings, recovered traffic, first organic leads) and fast coaching on SEO priorities. Clear principles: SEO needs 3–6 months of consistent work; focus on internal linking, correct H1 hierarchy, compress/convert images to WebP, fix indexing issues, and build targeted backlinks while avoiding thin tag pages. Actionable next steps: prioritise high‑impression keywords in Search Console, remove or improve low‑value pages, revert harmful edits, compress images, track progress with Looker Studio/GA4, and stay patient and consistent — watch Rank Week/Insiders replays for training."
+  },
+  {
+   "pos": 11,
+   "file": "011_wdir-10am-03-07-2026",
+   "title": "WDIR_10AM_03.07.2026",
+   "hash": "4qBLWxXMDj",
+   "durSec": 3660,
+   "words": 10882,
+   "hasTranscript": true,
+   "aiSummary": "Members shared wins and client growth, then dived into practical AI and workflow tips — Claude recommended for concision, large uploads and spreadsheet parsing while ChatGPT is friendlier; prompt tightly, request fixed‑length outputs and use screenshots for debugging. The meeting also covered SEO and Rank Week tactics, Google Search Console quirks, document integrations, plus a social strategy: repurpose blogs into short cross‑posted reels, test formats, post consistently and track retention. Actionable takeaways include using Claude Code/MD for projects, scheduling admin work sessions, publish early and iterate, and try a viral one‑shot “shock” clip while keeping posting sustainable."
+  },
+  {
+   "pos": 12,
+   "file": "012_work-session-29-06-2026",
+   "title": "Work Session_29.06.2026",
+   "hash": "5qnl7GKvDr",
+   "durSec": 2909,
+   "words": 7862,
+   "hasTranscript": true,
+   "aiSummary": "Tony led the weekly call, celebrating member wins like higher Google rankings, content production, H‑tag fixes, orphan media cleanup and AI-driven visibility. The workshop introduced a two-stage prompt workflow — ask up to 10 clarifying questions with a low-latency model, then use a higher-intelligence model to produce a WordPress-ready post — plus a publishing checklist (3 internal links, images every 200–300 words, only H2/H3 headings, weekly cadence, ~750–1,500 words) and a 30-minute quiet writing session. The meeting also covered common technical SEO fixes, recommended tools (Google Search Console, SEMrush, Screaming Frog), backlink tactics, pricing examples and clear actionables to publish weekly and monitor indexing."
+  },
+  {
+   "pos": 13,
+   "file": "013_wdir-11am-26-06-2026",
+   "title": "WDIR_11AM_26.06.2026",
+   "hash": "RqmLmLQ8N1",
+   "durSec": 4985,
+   "words": 13539,
+   "hasTranscript": true,
+   "aiSummary": "Round‑up of a weekly Friday SEO call celebrating member wins—new blogs, backlinks lifting rankings, site rebuilds and big index gains—while emphasising small, consistent actions. Covers practical tools and tactics (Google Search Console, page audits, H1s vs title tags, backlinks, accessibility fixes), platform and local‑SEO recommendations, and advice on pragmatism over perfection. Clear next steps: prioritise pages around positions 11–20, preserve high‑traffic URLs during redesigns, publish 1–2 posts weekly, add internal links and batch small fixes to compound measurable gains."
+  },
+  {
+   "pos": 14,
+   "file": "014_wdir-10am-26-06-2026",
+   "title": "WDIR_10AM_26.06.2026",
+   "hash": "P2Eg6gBvNR",
+   "durSec": 3569,
+   "words": 9102,
+   "hasTranscript": true,
+   "aiSummary": "A community call covered wins and accountability meetups, including an app submission and several members landing new clients. Practical SEO advice emphasised one page per service/location (avoid duplicates), pick the easiest-to-rank service per city, use proper H1/H2/H3 structure, link blogs to money pages, and wait 3–6 months before major reworks; plus technical tips on indexing, sitemaps, backups and checking backlinks before URL changes. Also covered CRM/booking page strategy, platform/migration choices (Showit/WordPress/Squarespace), useful tools, workflow timing and action items like plugin updates, responsiveness fixes and available paid help."
+  },
+  {
+   "pos": 15,
+   "file": "015_technical-seo-with-denroi-25-06-2026",
+   "title": "Technical SEO with Denroi 25.06.2026",
+   "hash": "n2l9640MDO",
+   "durSec": 2872,
+   "words": 7841,
+   "hasTranscript": true,
+   "aiSummary": "Denroy and Elliot hosted casual live Q&A/site‑audit calls (attendees used raise‑hand), with recordings posted to the hey Tony Insiders community (usually within 48 hours). Key technical advice: remove template/dynamic/query‑string URLs from sitemaps (common with builders like Bakery/Elementor/Astra), submit a clean sitemap, and use URL Inspection to request indexing — expect indexing to sometimes take weeks to ~3 months. Content and structure guidance: avoid duplicating YouTube transcripts, embed or link instead, create category “hub” pages and one service page per core offering, reoptimise useful indexed pages and remove or draft low‑value AI/duplicate content. Quick wins and measurement: fix missing title tags/meta descriptions/duplicate H1s, enable Open Graph, validate redirects in Search Console, check translations and product metas, reduce crawl depth, monitor with Google Search Console and Analytics, and reach out in hey Tony Insiders or to Denroy/Elliot for follow‑ups (calls resume 9 July)."
+  },
+  {
+   "pos": 16,
+   "file": "016_web-design-for-seo-24-06-2026",
+   "title": "Web Design for SEO 24.06.2026",
+   "hash": "6DbdVpG0qz",
+   "durSec": 3869,
+   "words": 9608,
+   "hasTranscript": true,
+   "aiSummary": "Leanne Jones outlines a copy‑first workflow for high‑converting landing pages—covering Figma wireframes, hero and CTA design, trust indicators, and live Elementor builds. She explains the differences between paid (single, contrasting CTA; slim nav; consider noindex) and funnel/high‑ticket pages (emotional hooks, video, heavy social proof), and gives practical SEO, e‑commerce, testing and tooling tips with downloadable wireframes and examples to iterate performance."
+  },
+  {
+   "pos": 17,
+   "file": "017_q-a-new-insiders-22-06-2026",
+   "title": "Q&A New Insiders_22.06.2026",
+   "hash": "VDGx3vOJNW",
+   "durSec": 4320,
+   "words": 11840,
+   "hasTranscript": true,
+   "aiSummary": "Group Q&A unpacks SEO technical issues and content strategy, with the main problem being publicly indexed “orphan” taxonomy/profile pages created by forms that waste crawl budget and harm rankings. Practical fixes include noindexing or stopping those archives, drafting and cleaning up programmatic/AI pages, batching 5–10 high‑severity technical fixes, using canonicals/301s for duplicates and migrations, and rebuilding human‑centred content. Content guidance: tighten expert profiles (name + specialism), define a vertical aimed at organisers/hosts, publish 1–2 long helpful posts/week (c.1,100–1,200 words), add unique mini‑blogs/FAQs under collection pages, follow the internal linking rules, and prioritise local/backlink outreach and HARO once content is solid. Can turn this into a tailored short checklist if you’d like."
+  },
+  {
+   "pos": 18,
+   "file": "018_insiders-welcome-call-22-06-2026",
+   "title": "Insiders Welcome Call_22.06.2026",
+   "hash": "w2Var4VEqM",
+   "durSec": 1723,
+   "words": 5056,
+   "hasTranscript": true,
+   "aiSummary": "Host housekeeping and logistics: session recorded, attendees muted with limited Q&A (host left for a podcast but added a 1pm ET follow-up), new members should watch the Start Here video, introduce themselves in the community and access tools at app.htinsiders.com using their sign-up email.  \nPlatform tool highlights: AI blog writer (Claude), Blog Idea Finder, Money Page/Service Page analyser, Link/Backlink Gap, Rank Report Card, Topic Cluster and cannibalised keywords scanner — tip: fix missing alt text and long meta descriptions, check current rankings and rerun audits as needed.  \nCommunity norms and resources: no selling or unsolicited contact, be welcoming, use support channels, attend specialist calls for technical SEO/web design, and use replays, searchable transcripts and the built-in AI search for help."
+  },
+  {
+   "pos": 19,
+   "file": "019_work-session-22-06-2026",
+   "title": "Work Session_22.06.2026",
+   "hash": "VqwjzymQNr",
+   "durSec": 3474,
+   "words": 9300,
+   "hasTranscript": true,
+   "aiSummary": "Blended Zoom sessions pair new Insiders with veterans for focused 30–45 minute AI‑assisted writing sprints (plus a ~45‑minute welcome), where participants pick a real question and draft a ~1,000–1,500 word post answering about 10 related questions. Key takeaways cover security and backups (Wordfence, change passwords, host backups/BlogVault), practical SEO and on‑page rules (one primary keyword per page, 3–4 internal links, images every ~200–300 words, assign 1–2 categories, delete WordPress tags), and local/multilingual optimisation. Community wins show strong traffic and visibility gains, podcast backlinks and successful recoveries; next steps are pick one question, use the AI prompt, publish consistently (suggested one question/week) and train AI on internal docs."
+  },
+  {
+   "pos": 20,
+   "file": "020_rank-week-day-5-replay",
+   "title": "Rank Week_Day 5_Replay",
+   "hash": "8qrAJReGNL",
+   "durSec": 5504,
+   "words": 13977,
+   "hasTranscript": true,
+   "aiSummary": "Final day wrap of Rank Week — celebrates participant wins, stresses consistency over quick ranking gains, and warns many drop off without accountability. Introduced Insiders, a paid weekly accountability/community programme with live SEO/design work sessions, replays and a searchable archive (registration closes tonight, midnight ET). Laid out a practical 30‑day SEO plan with a weekly checklist (publish one Q&A post, internal linking, fix audit issues, optimise money pages), immediate action steps, recommended tools and key Q&A takeaways on indexing, local pages and technical priorities."
+  },
+  {
+   "pos": 21,
+   "file": "021_wdir-19-06-2026",
+   "title": "WDIR_19.06.2026",
+   "hash": "5244n0jG21",
+   "durSec": 4578,
+   "words": 12236,
+   "hasTranscript": true,
+   "aiSummary": "Rank Week check‑in with an SEO coach answering live questions, demoing tools and giving tactical advice on audits, site‑speed and image optimisation, local/location pages, internal linking, backlinks and AI‑driven SERP behaviour. Practical fixes (WebP batches, CDN, H1/Avada responsive tweaks, press release/GBP workflow) plus tool recommendations (HeyKeywords, Semrush, Claude) left participants calmer with clear next steps and wins like consolidated testimonials, new blog posts and rebuilt site structures."
+  },
+  {
+   "pos": 22,
+   "file": "022_rank-week-day-4-replay",
+   "title": "Rank Week_Day 4_Replay",
+   "hash": "nNXZrjn02B",
+   "durSec": 4841,
+   "words": 11719,
+   "hasTranscript": true,
+   "aiSummary": "Crawl depth and internal linking were the focus: pages more than four clicks from the homepage are rarely noticed by Google, so practical linking rules (each blog links to 3–5 other posts and 1 money page; when publishing, add links to the new post from three older posts) and a live ChatGPT exercise showed how to add anchor text and updated copy to surface money pages. A technical audit tool (heytony.ca) was recommended with promo code June2026 to run full‑site audits feeding into tomorrow’s 30‑day SEO plan, and Insiders offers specialist calls, hands‑on support and replays. Additional guidance covered WordPress best practice (use 5–10 categories, avoid tags), managing old content, local/ecommerce SEO tips and using AI as an assistant."
+  },
+  {
+   "pos": 23,
+   "file": "023_technical-seo-with-denroi-18-06-2026",
+   "title": "Technical SEO with Denroi- 18.06.2026",
+   "hash": "ONAea91JNZ",
+   "durSec": 3001,
+   "words": 7771,
+   "hasTranscript": true,
+   "aiSummary": "Weekly Hey Tony Insiders Q&A with Denerai and Elliot covers hands‑on local SEO: favour BrightLocal over Yext (migrate or disable Yext sync to own listings), keep GBP profiles complete and active, and treat GSC + GA as the data source of truth while using tools like BrightLocal for local tracking. Practical guidance also includes concise URL structure for multi‑location sites (/service-type/location/), Squarespace/GBP address tips, schema/FAQ basics, safer link‑building tactics, and quick debugging checks. Next insiders call is on the 25th — post unanswered questions in the community or escalate to Matt."
+  },
+  {
+   "pos": 24,
+   "file": "024_rank-week-day-3-replay-17-06-2026",
+   "title": "Rank Week Day 3 Replay- 17.06.2026",
+   "hash": "l2PJrOjbNL",
+   "durSec": 6282,
+   "words": 17140,
+   "hasTranscript": true,
+   "aiSummary": "Day 3 of Rank Week focuses on competitor gap analysis and a practical LLM workflow — paste your audit spreadsheet into a ready-made prompt (see heytony.ca/prompts) to get page-specific optimisation recommendations, plus a bonus backlink tutorial at the end. Replay, screenshots and step‑by‑step guides were shared but will be removed after Rank Week—save them, run the LLM audit, fix sitemaps/indexing, update GBP and publish short weekly posts for steady gains. Insiders offers tools, weekly calls and hands-on support; current intake closes Friday 11:59pm Eastern."
+  },
+  {
+   "pos": 25,
+   "file": "025_rank-week-day-2-replay-16-06-2026",
+   "title": "Rank Week Day 2 Replay- 16.06.2026",
+   "hash": "4qBLg14VDj",
+   "durSec": 5098,
+   "words": 12875,
+   "hasTranscript": true,
+   "aiSummary": "Day two of Rank Week focused on a hands‑on audit of one “money page” (product/service/booking page) using PageAudit.com, a Chrome extension and a ready‑made prompt plus an audit spreadsheet. Follow the step‑by‑step workflow to copy page text into ChatGPT/Claude, run the prompt, paste results and metadata into the sheet, and repeat for three top organic competitors — with troubleshooting tips and free tools provided. Tomorrow’s session will analyse those outputs and recommend fixes; the Insiders programme offers ongoing support and tools, and meaningful SEO gains usually take around 3–6 months."
+  },
+  {
+   "pos": 26,
+   "file": "026_rank-week-day-1-replay-15-06-2026",
+   "title": "Rank Week Day 1 Replay- 15.06.2026",
+   "hash": "VDGx3JKANW",
+   "durSec": 6448,
+   "words": 13387,
+   "hasTranscript": true,
+   "aiSummary": "Interactive Rank Week training shows a hands‑on SEO workflow that turns real customer questions into high‑quality blog posts using a two‑part LLM prompt, timed exercises and strategic internal linking. Designed for business owners fed up with poor leads, it emphasises genuine expertise over generic AI, a 30‑minute paced process, recommended tools (ChatGPT/Claude/Gemini, findquestions.com, AnswerThePublic, etc.) and local, conversion‑focused KPIs. Participants receive community support, bonuses (ebook, prompts, replay) and practical tips to scale consistent, useful content that drives revenue."
+  },
+  {
+   "pos": 27,
+   "file": "027_work-session-15-06-2026",
+   "title": "work session_15.06.2026",
+   "hash": "4qBLg8rgDj",
+   "durSec": 2560,
+   "words": 7072,
+   "hasTranscript": true,
+   "aiSummary": "SEO and content meetup highlights: members reported new backlinks, Google AI visibility for blog posts, traffic spikes and effective press‑release distribution (EIN Press Wire noted). Practical takeaways include immediately linking new posts from three relevant older pages, mixing content types, avoiding keyword cannibalisation, embedding YouTube Shorts in matching posts, using unique meta descriptions and tightening above‑the‑fold design. Host cautions against broadcasting sensitive press‑release tactics, advised sensible publishing cadence for new vs established sites, and promoted an upcoming hands‑on \"Rank Week\" with WordPress prompts, audits and training."
+  },
+  {
+   "pos": 28,
+   "file": "028_web-design-for-seo-10-06-2026",
+   "title": "Web Design for SEO_10.06.2026",
+   "hash": "4Ny4xrmPDa",
+   "durSec": 4510,
+   "words": 9032,
+   "hasTranscript": true,
+   "aiSummary": "Live Wix workshop pivoted to site reviews after Zoom and slow‑computer issues, with the presenter (usually a WordPress user) demonstrating Wix and comparing it to WordPress/Squarespace while showing Figma, Canva and AI tools like Claude Design. Key workflow: set branded styles from Figma, design the homepage first, use a copy‑first SEO approach and keep assets organised. Practical tips include exporting SVGs for vectors, using WebP for photos, optimising large images, clearing image titles but keeping descriptive alt text, and avoiding heavy apps while screen‑sharing. Design and conversion advice: prominent high‑contrast CTAs (hero and final), clean sans‑serif body type, more spacing, remove dated box‑shadows, test responsiveness, and follow a recommended homepage wireframe; presenter will run another Wix session and share wireframes, checklists and recordings."
+  },
+  {
+   "pos": 29,
+   "file": "029_wdir-12-06-2026",
+   "title": "WDIR_12.06.2026",
+   "hash": "kqkOpKGbq4",
+   "durSec": 3533,
+   "words": 9519,
+   "hasTranscript": true,
+   "aiSummary": "Quick round‑robin of press release wins and SEO updates: several members saw big traffic and national pickups (eg Jason’s release to ~2,000 views and USA Today, Tatiana’s enquiries quadrupling, Glenn’s near‑final US/Canada deal), while newcomers praised the practical community help. Key takeaways emphasised press releases for social proof and spikes, optimise for Google/AI visibility over relying on schema, maintain consistent helpful content and targeted long‑tail queries, and fix technical canonical/Wix/Squarespace quirks when needed. Action items include pitching local media after distribution, follow‑ups for technical support (eg Laura’s canonical issue, Nicole’s domain remediation vs migration), and sharing case studies in the Insiders community and Monday calls."
+  },
+  {
+   "pos": 30,
+   "file": "030_techinical-seo-with-denroi-11-06-2026",
+   "title": "Techinical SEO with Denroi 11.06.2026",
+   "hash": "6NKzrOYzDz",
+   "durSec": 2965,
+   "words": 7307,
+   "hasTranscript": true,
+   "aiSummary": "Denroy (Technical SEO Lead) is back from paternity leave running casual, interactive SEO/web‑dev calls — next session 18 June with Elliot co‑hosting, weekly for the rest of June then biweekly from July. Practical coverage of common WordPress breakage (PHP version mismatches — favour PHP 8.2, plugin/theme JS errors, hosting limits) and caching/plugin pitfalls (WP Rocket file‑optimisation and lazy‑load can break assets; test and roll back, involve devs). E‑commerce and content guidance: keep seasonal/out‑of‑stock pages live if restocking or 301 permanently removed items, use WebP/AVIF or compressed JPEGs, benchmark content length (~10% longer than top competitors), use one clear target keyword, audit internal links/backlinks and check self‑referencing canonicals. Broader tactics include adapting for Google AI zero‑clicks (broaden mentions and timestamps), print‑on‑demand image strategy, local‑first targeting, CMS notes (Webflow vs others) and tools like WP Rocket, Semrush and image converters."
+  },
+  {
+   "pos": 31,
+   "file": "031_work-session-press-releases-08-06-2026",
+   "title": "Work Session_Press Releases_08.06.2026",
+   "hash": "oNYLrJa3Dd",
+   "durSec": 4044,
+   "words": 10107,
+   "hasTranscript": true,
+   "aiSummary": "Practical workshop showing how to get pages cited in Google’s AI overviews by aligning content with the AI’s claims — research of ~100 queries found Google cites pages that support its generated claims, while pages that contradict them without acknowledgement are rarely cited. Concrete tactic: lead by restating the AI-backed claim then present your differing offer, because supporting the claim matters more than heading tags or format. Hands-on ABNewswire walkthrough covers drafting a press release (headline, 500‑char summary, owner quote, image, 5–6 review screenshots, CID link and up to five links), pricing (~US$80–110 for basic tiers), submission steps and follow-up to boost backlinks, AI citations and local rankings."
+  },
+  {
+   "pos": 32,
+   "file": "032_wdir-05-06-2026",
+   "title": "WDIR_05.06.2026",
+   "hash": "4qBLgWMgDj",
+   "durSec": 3639,
+   "words": 9824,
+   "hasTranscript": true,
+   "aiSummary": "Quick team check‑in with several wins: Diana’s ad experiments and Microsoft engagement, Kirill joining the ChatGPT Advertiser programme, Catherine’s Shopify migration boosting conversions, and multiple teams picking up organic and maps leads. Conversation covered generative AI in search and ads (ChatGPT ads, Google/Bing features), practical tool tips (Bing Webmaster, Primeindexer, ABNewswire) and clear site/content guidance — make small monitored edits, simplify navigation and hero visuals, audit review plugins, and create explicit local/service pages for AI citation. Agreed next steps: connect sites to Bing/Search Console once stable, run A/B ad tests across platforms, fill Zenoti meta data, and hold a Monday press‑release/blog work session focused on lead‑generation."
+  },
+  {
+   "pos": 33,
+   "file": "033_work-session-01-06-2026",
+   "title": "Work Session 01.06.2026",
+   "hash": "pN0ojPKzDa",
+   "durSec": 2042,
+   "words": 5234,
+   "hasTranscript": true,
+   "aiSummary": "Team meeting covered recent wins, a demo of Catherine’s interactive bra-size estimator and focused UX, commerce and SEO recommendations to turn measurements into product funnels. Key suggestions: move the tool higher, add images/clarifying cues, size filters and “save size” options, email capture, optional numeric inputs, and target “bra size calculator/estimator” with supporting blog content. Broader advice included using the Blog idea finder + ChatGPT/Claude workflow, trying press-release distribution, submitting sites to Google Search Console, installing analytics, and testing one major change at a time. Next steps: attendees to publish a blog post, consider a press-release workshop and reconvene in weekly catch-ups to monitor results."
+  },
+  {
+   "pos": 34,
+   "file": "034_wdir-29-05-2026",
+   "title": "WDIR_29.05.2026",
+   "hash": "l2PJrvyoNL",
+   "durSec": 3681,
+   "words": 9615,
+   "hasTranscript": true,
+   "aiSummary": "Morning group call of marketers and agency insiders shares quick wins—new clients from ChatGPT, doubled enquiries after ranking week, launches and first invoices—plus tools like an internal content engine and a prototype “Talk SEO” app to turn voice answers into blog posts. Discussion covers key SEO+AI themes: Google still dominates, broader brand signals (press releases, public social posts) influence LLM indexing, and fast experiments (ABNewswire releases, precise Facebook posts) are advised. Practical technical advice stresses upgrading hosting and adding a WAF over blanket-blocking AI crawlers, cautious migrations keeping URLs, and specific site fixes (replace headshot, simplify pages, fix analytics, prioritise authentic video)."
+  },
+  {
+   "pos": 35,
+   "file": "035_technical-seo-with-elliot-27-05-2026",
+   "title": "Technical SEO with Elliot 27.05.2026",
+   "hash": "wqjy9dr0N7",
+   "durSec": 2983,
+   "words": 9131,
+   "hasTranscript": true,
+   "aiSummary": "Weekly technical support call on site and local business profile optimisation led by Elliot with Matt/Denroy; recorded to the cloud and run in a raise‑hands/chat format. Covers practical use of GSC, Semrush, Hey Tony conflict finder, GoHighLevel and the internal /manage platform, with key points on sitemaps/indexing (allow ~1 week after resubmission; request indexing only for priority pages) and preferring incremental content edits over wholesale rewrites or URL changes. Also covers local profile best practice (regular posts/photos), blog/backlink strategy (prioritise converting service pages then regular blogging), tackling unwanted ranking signals, and guidance for moving support portals—use 301s, update sitemaps and monitor in GSC; raise insiders‑tool conflicts with Matt."
+  },
+  {
+   "pos": 36,
+   "file": "036_web-design-for-seo-27-05-2026",
+   "title": "Web Design for SEO 27.05.2026",
+   "hash": "6DbdGYVbqz",
+   "durSec": 3960,
+   "words": 8371,
+   "hasTranscript": true,
+   "aiSummary": "Live rebuild of a Figma homepage in Wix showing how to start from a blank template, set global colours and typography, configure component/button styles, and construct header, hero and multi‑column sections with strips and columns. Practical export and workflow tips (SVG/PNG/JPEG, asset naming), accessibility and SEO checks (contrast, semantic H1s, Search Console/sitemap troubleshooting), plus shortcuts and an offer from the presenter to review attendees’ sites."
+  },
+  {
+   "pos": 37,
+   "file": "037_work-session-25-05-2026",
+   "title": "Work Session 25.05.2026",
+   "hash": "RD6dYBErqQ",
+   "durSec": 2148,
+   "words": 5366,
+   "hasTranscript": true,
+   "aiSummary": "Casual check‑in from Berlin covered Google’s push toward an “AI mode” that may personalise results using Gmail, calendar and contacts — members warned about sensitive documents and advised turning off connected inboxes or using a separate secure email. Sessions also shared SEO wins, recommended keyword tools (Semrush, Ahrefs, hey Keywords), a workflow of voice transcription → LLM draft → edit, and guidance on fixing keyword cannibalisation by consolidating or differentiating pages. Practical site fixes (Avada border issues, date‑based slug redirects), troubleshooting tips, use of Gemini/Claude/ChatGPT for drafting, a Rank Week event in ~three weeks and next meeting on Friday were also covered."
+  },
+  {
+   "pos": 38,
+   "file": "038_wdir-05-22-2026",
+   "title": "WDIR_05.22.2026",
+   "hash": "wqjy9Zj0N7",
+   "durSec": 3547,
+   "words": 9563,
+   "hasTranscript": true,
+   "aiSummary": "Google is shifting from a single search bar/blue‑links model to an AI, prompt‑style interface that suggests and refines queries, so being indexable and cited by AI matters more than direct clicks — don’t block AI crawlers. Practical SEO steps: answer key questions up top, write for humans, publish both informational and conversion pages, build optimised location pages (one service/location keyword per page), target long‑tail keywords, add author bylines and use video transcripts to show real‑person authority. Use multiple AI tools to draft then validate with human expertise, focus on quality backlinks, and monitor Search Console/Analytics as AI citation reporting evolves — traffic may fall even as citations rise."
+  },
+  {
+   "pos": 39,
+   "file": "039_technical-seo-with-elliot-part-2-21-05-2026",
+   "title": "Technical SEO with Elliot Part 2: 21.05.2026",
+   "hash": "4Ny4x0bzDa",
+   "durSec": 2062,
+   "words": 5882,
+   "hasTranscript": true,
+   "aiSummary": "Group Q&A on technical SEO covering schema markup for WordPress (Rank Math/Yoast and manual JSON‑LD), where to place schema, using schema generators, and verifying page access via Google Search Console. Practical local SEO advice included GBP best practices and CID links, hyperlocal location pages, backlink and E‑A‑T strategies, and clear next steps: build/paste JSON‑LD, verify issues in Search Console, do keyword research before creating location pages, and keep GBP active; session was recorded and will be shared despite some early tech issues."
+  },
+  {
+   "pos": 40,
+   "file": "040_technical-seo-with-elliot-part-1-21-05-2026",
+   "title": "Technical SEO with Elliot Part 1: 21.05.2026",
+   "hash": "rDe3M6paqG",
+   "durSec": 540,
+   "words": 1640,
+   "hasTranscript": true,
+   "aiSummary": "Elliot Smith (hey Tony) helps a freelance sign language interpreter in Irvine, CA decide whether to target Orange County broadly or focus on specific cities and how to restructure their site. Key advice: check keyword difficulty/volume (SEMrush) before chasing county terms, optimise the homepage for a primary city, build service pages and combined service×location pages, and put services/locations in navigation with strong internal linking; use AI or lists to gather town names for location keywords. Prioritise setting up and verifying the Google Business Profile (host offered follow‑up help); keep the sitemap simple and focus first on homepage, service and key location pages (the new site already generated a real lead)."
+  },
+  {
+   "pos": 41,
+   "file": "041_ecommerce-w-matt-demers-19-05-2026",
+   "title": "Ecommerce w: Matt Demers_19.05.2026",
+   "hash": "VqwjzvX6Nr",
+   "durSec": 4195,
+   "words": 11301,
+   "hasTranscript": true,
+   "aiSummary": "Diffuse Digital’s Zoom Q&A packs a practical e‑commerce SEO checklist and live site reviews, covering keyword placement (H1/meta/URL/first 100 words), when to use collection vs product pages, collapsible FAQs, internal linking, image filename/alt text optimisation and clear CTAs. Attendee reviews (apparel, skincare, jewellery, Murano glass) highlighted priority fixes—tidy heading structure, rename images/add alt text, tighten meta titles, plan 301s for slug changes and add FAQs/“best of” blog links. Tools and workflow covered: Semrush/Ubersuggest, On Page SEO AI, Image Alt Text Viewer, keyword research and prioritisation guidance with quick wins and technical checks to monitor before rolling out bigger changes."
+  },
+  {
+   "pos": 42,
+   "file": "042_work-session-19-05-2026",
+   "title": "Work Session 19.05.2026",
+   "hash": "6NMY8bkPNZ",
+   "durSec": 2352,
+   "words": 6037,
+   "hasTranscript": true,
+   "aiSummary": "Group meeting recap: members shared weekend wins (new backlinks, higher rankings, client wins, podcast/tutorials) and confirmed recordings plus the Insiders toolkit are available. Agreed content workflow: gather user questions (AnswerThePublic/FindQuestions/Insiders toolkit) → answer (voice OK) → polish with writing models (Claude preferred; ChatGPT/Whisper for transcription), target 5–8 questions per post and always include images, internal links and a money-page link. SEO priorities stressed local SEO, long-term organic growth and collaboration; specific guidance given for CJ’s course naming/keyword strategy and Regina’s site navigation, video embeds and contact/location pages. Admin items: troubleshoot site issues with screenshots, email tutorial files to the organiser, upload recordings and keep producing Q&A-driven posts while iterating keywords and link structure."
+  },
+  {
+   "pos": 43,
+   "file": "043_wdir-15-05-2026",
+   "title": "WDIR_15.05.2026",
+   "hash": "nNXZ85RE2B",
+   "durSec": 3919,
+   "words": 10516,
+   "hasTranscript": true,
+   "aiSummary": "Weekly Friday call covered wins (backlinks, Etsy sales, ChatGPT leads and a German referral with distributorship potential), site reviews, SEO fixes and member Q&A. Claude and ChatGPT are being used heavily for drafting, prompts and coding, with demos showing AI answering daily SEO questions and auto‑generating blog content — speakers urged optimising for LLM referrals as they already drive enquiries. Key takeaways: consolidate similar pages, use excerpts for blog listings, set unique meta descriptions, add CTAs, fix mobile/layout, configure GSC/GA/Looker Studio, enable crawler access for gated content, and prepare for Rank Week/onboarding (new joiner price raised from €57 to €97)."
+  },
+  {
+   "pos": 44,
+   "file": "044_technical-seo-with-elliot-14-05-2026",
+   "title": "Technical SEO with Elliot 14.05.2026",
+   "hash": "kqkOBbnBq4",
+   "durSec": 3298,
+   "words": 9388,
+   "hasTranscript": true,
+   "aiSummary": "Live SEO/site‑audit with screen shares and on‑the‑spot recommendations covering Shopify sites, large blogs, Search Console/Analytics and Google Business Profile issues. Key findings: homepage H1s tied to logos, hundreds of “orphan” pages caused by unintended rel=\"nofollow\", many blog posts “Crawled — currently not indexed”, and a stuck GBP verification. Actionable advice: prioritise top 10–20 pages (fix H1s, remove unwanted nofollow, improve internal linking), set low‑value tag/category pages to noindex, add TL;DRs for long posts, create service/location pages for local intent and escalate GBP verification if resubmission fails."
+  },
+  {
+   "pos": 45,
+   "file": "045_web-design-for-seo-13-05-2026",
+   "title": "Web Design for SEO_13.05.2026",
+   "hash": "nNXZ8lne2B",
+   "durSec": 4093,
+   "words": 9560,
+   "hasTranscript": true,
+   "aiSummary": "Leanne Jones runs a live Figma workshop building a contact page for a mock massage‑therapy site, covering essentials: phone, email, opening hours, socials, contact form and map/location, with tips for Showit, Squarespace and WordPress users. Emphasises conversion and findability—place the form or primary contact method above the fold (or highlight phone if that’s priority), use one form with qualifying questions to improve lead quality (or shorten it to increase volume), and keep a semantic H1 (keyword in H1/first paragraph) while styling the hero cohesively. Add trust builders (testimonials, logos, FAQs), prefer lightweight review text or linked/screenshot maps to protect page speed, test performance (PageSpeed Insights), follow grid/alignment and accessibility/readability rules, and note the organiser will return in two weeks for follow‑up."
+  },
+  {
+   "pos": 46,
+   "file": "046_work-session-11-05-2026",
+   "title": "Work Session 11.05.2026",
+   "hash": "pDo6ngoa24",
+   "durSec": 2371,
+   "words": 6503,
+   "hasTranscript": true,
+   "aiSummary": "Weekly Hey Tony Insiders call emphasises consistency: members check in, publish at least one blog a week and share wins. Members reported rapid SEO progress — sites moving to page two, average position improving to 5.7, ~9,000 extra impressions in 24 hours, new high‑authority backlinks and keyword growth from 9 to 26. Practical tools and workflows covered include Blog Idea Finder/FindQuestions.com with an AI interview prompt, Link Seeker for backlink opportunities, PressMaster to humanise copy and create assets, plus WordPress tips to strip AI metadata and formatting. Clear actions: keep using the interview prompt, publish weekly, strip AI formatting before pasting, try Claude if ChatGPT underperforms and use Link Seeker to find backlinks."
+  },
+  {
+   "pos": 47,
+   "file": "047_technical-seo-with-elliot-08-05-2026",
+   "title": "Technical SEO with Elliot 08.05.2026",
+   "hash": "VDGxp77YNW",
+   "durSec": 5573,
+   "words": 16723,
+   "hasTranscript": true,
+   "aiSummary": "Technical SEO meeting led by Elliot Smith covering GMB best practice (link posts using CID links), Google Search Console and sitemap/indexing troubleshooting, prioritising “money” pages, internal linking and handling redirects. Also discussed CMS migrations, Cloudflare and bot/FAQ schema risks, with practical steps to resubmit sitemaps, request indexing and optimise headings/content. Tools mentioned: GSC, SEMrush, CID finder and external sitemap generators; Elliot will share resources and run follow‑up audits next week."
+  },
+  {
+   "pos": 48,
+   "file": "048_work-session-04-05-2026",
+   "title": "Work Session 04.05.2026",
+   "hash": "8qrAn0W8NL",
+   "durSec": 2597,
+   "words": 6850,
+   "hasTranscript": true,
+   "aiSummary": "Team meeting highlighted wins (David’s ~1.3M‑view video, site progress) plus social and health tips and reassurance that websites can be renamed and updated as they evolve. Core focus was a repeatable blog/SEO workflow: mine question tools for topics, aim for one finished post/week, record voice answers → transcribe → edit with ChatGPT/Claude while checking AI claims against competitor data, then wait weeks before optimising titles/CTR. Technical takeaways: use separate pages for distinct intent, avoid cannibalisation, vary internal anchors, prioritise backlinks and sensible images, follow simple WordPress/UX rules, and actioned next steps to publish today, maintain weekly posts and backlink cadence, and experiment with voice‑to‑blog."
+  },
+  {
+   "pos": 49,
+   "file": "049_wdir-01-05-2026",
+   "title": "WDIR_01.05.2026",
+   "hash": "kqkOBMLnq4",
+   "durSec": 3874,
+   "words": 10097,
+   "hasTranscript": true,
+   "aiSummary": "Actionable SEO and website guidance — practical tips on URL strategy (avoid years in URLs; consolidate dated pages), migration pitfalls (keep URLs/content, avoid redirect chains) and Google Business Profile hygiene (verify in-dashboard, remove irrelevant auto-suggestions). Design and performance recommendations include a single strong hero, clear CTAs, image optimisation to WebP, plugin audit and speed tooling, while content strategy emphasises SERP-led keyword research, ~800–1,000-word starters and avoiding near-duplicate location pages. Also covers YouTube thumbnail/hook experiments, community success stories, an immediate action checklist (rename “Investment” to “Pricing”, consolidate CTAs/testimonials, fix H1s/noindex, run WP Rocket/Imagify) and upcoming meetups."
+  },
+  {
+   "pos": 50,
+   "file": "050_technical-seo-with-elliot-30-04-2026",
+   "title": "Technical SEO with Elliot 30.04.2026",
+   "hash": "kqkOBYgWq4",
+   "durSec": 3476,
+   "words": 9712,
+   "hasTranscript": true,
+   "aiSummary": "Weekly technical/site audit covering WordPress URL/redirect best practice (use 301s, check Search Console before changing URLs), landing‑page handling (draft one‑time campaign pages, internally link evergreen pages), and heading/keyword advice for Showit/WordPress sites (H1 as the primary heading, include target keywords in H1/H2 without stuffing). Issues diagnosed include sitemap/Search Console fetch errors, 404s and de‑indexing (Bill), blog posts being crawled but not indexed, and confusion from multiple Google accounts/Analytics/Search Console properties — recommendation to consolidate and use the domain property. Action points: Elliot to investigate Bill’s Search Console and research Showit SEO, continue weekly audits, confirm redirects/admin access/measurement IDs, and reconvene next week."
+  },
+  {
+   "pos": 51,
+   "file": "051_work-session-27-04-2026",
+   "title": "Work Session 27.04.2026",
+   "hash": "RqmLnZ1oN1",
+   "durSec": 3901,
+   "words": 10733,
+   "hasTranscript": true,
+   "aiSummary": "Quick recap of SEO wins: site rebuilds (Avada), pruning low‑value posts, improved Google Business Profile visibility, expo leads via a temporary landing page, hiring after a steady blog plan, an AI‑generated client lead, a photo reorganisation to speed content, and a one‑page LinkGap test that drove huge signups and rankings. Practical playbook: map content in advance (1 blog/week, 2 city pages/month), add internal links from each new post to 3 related pages + 1 money page, use ChatGPT/Claude for drafting, prioritise fixes via Google Search Console, host important landing pages on your domain, and be cautious with bulk deletions. Technical note: fully uninstall/reinstall WordPress via Softaculous to clear leftover Avada template content (or remove conflicting files if you see “files already exist in target folder”), and follow a short publishing checklist before going live."
+  },
+  {
+   "pos": 52,
+   "file": "052_why-doesn-t-it-rank-24-04-2026",
+   "title": "Why Doesn’t It Rank 24.04.2026",
+   "hash": "VNOJ85XdDG",
+   "durSec": 4582,
+   "words": 12386,
+   "hasTranscript": true,
+   "aiSummary": "Meeting recap: quick check‑ins, notable wins — big organic traffic lifts, a lead from a lead magnet and a DA jump after press — plus heavy AI use with some members hitting credit limits. A 565‑response survey showed members prioritise leads over pure traffic, with time and budget as main blockers; advice centred on “one page = one question”, focused service pages, avoiding keyword cannibalisation, and earning a few quality backlinks and citations to boost local visibility. Practical tips covered Google Business Profile fixes, safe technical testing, page‑level CTR and rank tracking, tools like Semrush/HeyTony/BrightLocal, and prioritising conversions and patient, measured testing over risky hacks."
+  },
+  {
+   "pos": 53,
+   "file": "053_work-session-20-04-2026",
+   "title": "Work Session_20.04.2026",
+   "hash": "gNZ7rXGwqd",
+   "durSec": 2320,
+   "words": 6601,
+   "hasTranscript": true,
+   "aiSummary": "Real-world SEO wins and practical tactics: how consistent, helpful blogging and Q&A-style content (including client-call/webinar transcripts) is driving organic clients, ChatGPT referrals and unexpected foreign-language traffic without paid ads. Actionable tools and workflows are covered (findquestions.com, ChatGPT/Claude, .md exports, CMS link-to-existing-page), plus guidance on titles/meta, CTAs, indexing and sensible prioritisation to avoid burnout. Also includes Google review-policy notes, ads vs SEO trade-offs, and host admin updates about travel and call scheduling."
+  },
+  {
+   "pos": 54,
+   "file": "054_why-doesn-t-it-rank-17-04-2026",
+   "title": "Why Doesn’t It Rank 17.04.2026",
+   "hash": "xDWyzm7Qqg",
+   "durSec": 4643,
+   "words": 12676,
+   "hasTranscript": true,
+   "aiSummary": "Practical recap of an SEO meeting highlighting team wins (lead magnets, backlinks, traffic gains and automation) and technical priorities like using indexable pages, correct H1s/canonicals, internal linking and cautious URL changes. Covers local SEO/Google Business Profile tactics (CID links, optimised descriptions, reviews), backlink outreach, E‑A‑T for health niches, keyword/URL strategy and conversion/UX improvements. Tools and clear next steps included: share image‑resizer, run unlinked‑mentions outreach, add pricing/GMB links and publish city‑specific blogs regularly."
+  },
+  {
+   "pos": 55,
+   "file": "055_web-design-for-seo-with-leanne-15-04-2026",
+   "title": "Web Design for SEO with Leanne 15.04.2026",
+   "hash": "xN3yEObv20",
+   "durSec": 4722,
+   "words": 9474,
+   "hasTranscript": true,
+   "aiSummary": "Live website critique with Leanne Jones offering fast, actionable feedback on submitted sites via Figma and inspector demos, focused on design, UX and light SEO. Main takeaways: a clear SEO-focused H1 plus a strong above‑the‑fold hero and single dominant CTA, grid-based alternating content blocks, improved typography, spacing and high‑quality images, and proper heading hierarchy. Also includes platform-specific fixes for Shopify, Wix and WordPress, participant-specific recommendations and practical marketing tips like backlink sources and avoiding embedded Instagram."
+  },
+  {
+   "pos": 56,
+   "file": "056_work-session-13-04-2026",
+   "title": "Work Session_13.04.2026",
+   "hash": "rDe3KP57qG",
+   "durSec": 2806,
+   "words": 7539,
+   "hasTranscript": true,
+   "aiSummary": "Team recap of wins — big traffic spikes on posting days, Rank Week progress and strong GBP local rankings — with a plan to repeat day‑one tasks on Mondays and aim for ~30–45 minute draft writing. Agreed AI workflow: pick a customer question, let the model ask up to 10 sequential clarifying questions answered by voice, then generate a unique blog post from a single knowledge document and edit ~10–15%; members are testing ChatGPT, Claude and Gemini. Key SEO takeaways: optimise GBPs with service+location and city pages, keep your primary domain, prioritise quality backlinks over cheap links, improve image asset management, repurpose social/video content, and follow action items to publish drafts and compare AI outputs."
+  },
+  {
+   "pos": 57,
+   "file": "057_work-session-06-04-2026",
+   "title": "Work Session 06.04.2026",
+   "hash": "5qnl1RmODr",
+   "durSec": 1933,
+   "words": 5370,
+   "hasTranscript": true,
+   "aiSummary": "Easter Monday insiders meeting highlighted member wins — steady blogging, domain moves, agency growth, and SEO traction — plus host transparency about Hey Tony’s slipped SEO. A low‑cost keyword research tool (~€29/month intro) was demoed, and practical SEO advice covered Keyword Conflict Detector use, answering customer questions (answerthepublic/Blog Idea Finder), information‑gap content, image handling, and consolidating competing pages. Claude was recommended for documents/Excel/automation, and next steps include a guided writing session, toolkit fixes/discounts, and future calls with SEO and e‑commerce specialists."
+  },
+  {
+   "pos": 58,
+   "file": "058_why-doesn-t-it-rank-10-04-2026",
+   "title": "Why Doesn’t It Rank 10.04.2026",
+   "hash": "wqjy13vYN7",
+   "durSec": 4080,
+   "words": 10339,
+   "hasTranscript": true,
+   "aiSummary": "Weekly insiders call covers recent wins, tool updates and practical SEO tactics — from keyword research and blogging strategies to site structure, clean URLs, headings and mobile CTAs. Emphasis on one to two high‑quality blogs weekly that support money pages, local town targeting, careful use of AI, and internal linking to avoid keyword cannibalisation. Clear action steps: audit pages for single intent, prioritise realistic keywords, create/optimised location pages, publish and interlink blogs, and earn backlinks to improve indexing and conversions."
+  },
+  {
+   "pos": 59,
+   "file": "059_technical-seo-with-denroi-10-04-2026",
+   "title": "Technical SEO with Denroi 10.04.2026",
+   "hash": "1q1JABlV2P",
+   "durSec": 2771,
+   "words": 7801,
+   "hasTranscript": true,
+   "aiSummary": "Denaroy opened the meeting before going on paternity leave and introduced Elliot as the stand‑in host. Core workflow: use Google Search Console (URL Inspection, Indexing → Pages, sitemaps) as the primary diagnostic tool, use non‑cached extensions for instant checks, and remember audit tools can cache results. Key takeaways from Q&A: fix WordPress permalinks/categories in page editor or Settings → Permalinks; canonical issues may be cached so allow ~12 hours or use GSC; after migrations prioritise internal linking then H1/H2 cleanup; remove low‑value tag pages on Squarespace; check Shopify theme/store SEO settings if titles append the store name; use a dedicated redirects plugin if Rank Math 301s fail; keep NAP consistent and build location pages for local SEO. Elliot will run future calls and attendees were encouraged to continue questions in the hey Tony Insiders community."
+  },
+  {
+   "pos": 60,
+   "file": "060_web-design-for-seo-01-04-2026",
+   "title": "Web Design for SEO_01.04.2026",
+   "hash": "92QbYBd6Dp",
+   "durSec": 4405,
+   "words": 8572,
+   "hasTranscript": true,
+   "aiSummary": "Leanne Jones runs a live, design‑led website clinic that prioritises fixing the hero, clarifying CTAs and balancing visual design with SEO, accessibility and page speed. Practical tips include using high‑res on‑brand photography, optimising images to WebP, removing Instagram embeds, reducing animations, running PageSpeed Insights/Chrome DevTools and applying quick mock‑ups in Figma/Canva or Chrome DevTools, plus site‑specific fixes and tool recommendations like WP Rocket and Google Fonts."
+  },
+  {
+   "pos": 61,
+   "file": "061_why-doesn-t-it-rank-03-04-2026",
+   "title": "Why Doesn’t It Rank 03.04.2026",
+   "hash": "P2Eg8d8JNR",
+   "durSec": 4814,
+   "words": 11956,
+   "hasTranscript": true,
+   "aiSummary": "Weekly Friday coaching call with member wins and live SEO audits covering local SEO, keyword research, on‑page optimisation, site structure, GBP experiments and tools like Semrush and GSC. Practical tactics included validating ChatGPT ideas with Semrush, one main keyword per page, front‑loading title/H1, strong internal linking, dedicated location pages and GBP optimisation, plus quick fixes for tags/Wix bloat and image optimisation. Site reviews recommended either moderating member content or noindexing it for directories, adding service/location pages for one‑page sites, and splitting/cleaning long homepages with clear next steps: audit thin pages, fix H1/H2/meta/CTAs, create local landing pages and monitor indexing."
+  },
+  {
+   "pos": 62,
+   "file": "062_work-session-30-03-2026",
+   "title": "Work Session 30.03.2026",
+   "hash": "l2RZBRem2a",
+   "durSec": 1860,
+   "words": 4990,
+   "hasTranscript": true,
+   "aiSummary": "Participants share practical SEO and local‑listing wins — from setting up Apple Maps and Google Business Profile posts to a migration that lifted PageSpeed dramatically. Key takeaways include citation and backlink tactics (Bing, Yelp, BBB), content strategy and cadence (long‑tail questions, weekly posts), and tool recommendations (Claude for content, answerthepublic, Semrush, HeyTonyInsiders). Also covered: technical fixes (H1s, redirects, orphan pages), when to change URLs, and pragmatic notes on schema and LLM visibility."
+  },
+  {
+   "pos": 63,
+   "file": "063_why-doesn-t-it-rank-27-03-2026",
+   "title": "Why Doesn’t It Rank 27.03.2026",
+   "hash": "4qBLZoR3Dj",
+   "durSec": 3588,
+   "words": 9847,
+   "hasTranscript": true,
+   "aiSummary": "Roundtable recap of recent SEO wins — big visibility and ranking lifts, organic sales, and new lead magnets (Link Gap, Topic Cluster analyser, Rank Report Card) that drove thousands of sign-ups. Practical takeaways include using Google Search Console for 28‑day trend checks, publish posts as blogs and build targeted location pages, audit reviews/citations, be cautious with URL changes/migrations, and focus on conversions with clear CTAs and small weekly SEO tasks rather than daily rank obsessing. Q&A covered tool troubleshooting (Looker Studio), content migration tips, and AI guidance: prioritise usefulness over AI labels."
+  },
+  {
+   "pos": 64,
+   "file": "064_technical-seo-with-denroi-26-03-2026",
+   "title": "Technical SEO with Denroi 26.03.2026",
+   "hash": "92QbYWXODp",
+   "durSec": 2746,
+   "words": 6751,
+   "hasTranscript": true,
+   "aiSummary": "Denroy’s weekly SEO Q&A walks through practical fixes for site speed, indexing and platform-specific problems, emphasising running speed tests first and prioritising CDN, image optimisation (WebP), compression, caching and hosting. Attendees get actionable advice on using Google Search Console URL Inspection, checking robots.txt, resolving canonical/redirect and blocking issues, editing theme templates (H1s/headings), whitelisting crawlers, and when to test new templates or move to WordPress for greater flexibility. Also covers Google Business Profile best practice, incremental testing tips, and plans for regular Thursday clinics."
+  },
+  {
+   "pos": 65,
+   "file": "065_work-session-23-03-2026",
+   "title": "Work Session 23.03.2026",
+   "hash": "Xq7xAyBE2m",
+   "durSec": 4026,
+   "words": 10687,
+   "hasTranscript": true,
+   "aiSummary": "Weekly group call with a live work session and Q&A focused on website SEO, where members shared wins and got practical, hands‑on advice. Highlights include David’s jump to #1 in the local pack after adding internal and an authoritative external link, Kenneth using Google Search Console (GSC) “request indexing” to get location pages indexed quickly, and several people publishing blogs and restructuring long money pages. Key takeaways: add 2–3 internal links and one authoritative external link per post, start answers with a direct customer response, avoid editing pages that already rank, use GSC index requests, fix BigCommerce/DropInBlog/Cloudflare URL problems, and leverage tools like Claude, SEMrush, Hey Tony and BrightLocal."
+  },
+  {
+   "pos": 66,
+   "file": "066_why-doesn-t-it-rank-20-03-2026",
+   "title": "Why Doesn’t It Rank 20.03.2026",
+   "hash": "RqmL3mV8N1",
+   "durSec": 5536,
+   "words": 15080,
+   "hasTranscript": true,
+   "aiSummary": "Team review of SEO wins and troubleshooting, from client training materials and a first‑page ranking to sites suffering indexing/crawler failures caused by robots.txt and stale sitemaps. Prioritised technical and UX fixes include updating robots.txt and sitemaps, enforcing site‑wide HTTPS, one clear H1 and CTA per money page, trimming oversized pages and moving deep content to blogs, and converting images to WebP to improve performance. Also covered keyword research and link‑building workflows, GBP monitoring, monetisation options, and a short, prioritised checklist with an offer to produce a tailored action plan."
+  },
+  {
+   "pos": 67,
+   "file": "067_web-design-for-seo-18-03-2026",
+   "title": "Web Design for SEO_18.03.2026",
+   "hash": "YDaAOdyjDQ",
+   "durSec": 5464,
+   "words": 12386,
+   "hasTranscript": true,
+   "aiSummary": "Leanne Jones shows how to turn SEO lessons into conversion-focused websites with a live Elementor/WordPress build, site reviews and Q&A. Key takeaways include designing wireframes first, strict H1→H2→H3 structure, prominent CTAs and trust signals above the fold, location-targeted keywords, practical Elementor and technical SEO tips (301 redirects, alt text, heading tags), plus Drive resources and a ChatGPT prompt for page copy."
+  },
+  {
+   "pos": 68,
+   "file": "068_technical-seo-with-denroi-19-03-2026",
+   "title": "Technical SEO with Denroi 19.03.2026",
+   "hash": "Yq9knaW9Dn",
+   "durSec": 2880,
+   "words": 7222,
+   "hasTranscript": true,
+   "aiSummary": "Denroy runs a casual weekly Q&A/site‑audit (with colleague Elliot sometimes covering) answering live SEO questions and diagnosing sites. Key takeaways: prioritise great content, optimise one primary keyword per page, maintain clear site structure and internal linking, and use Google Search Console (URL Inspection → Request indexing) plus tools like the Hey Tony Chrome extension. Common technical fixes include improving title tags and meta descriptions, correcting heading hierarchy, resolving robots/sitemap/redirect issues, compressing images and embedding videos, plus practical tips for multi‑location pages, migrations and niche landing pages. Specific audits covered a Shopify store (Morvi), multi‑location strategy and platform choice (Marisa), WordPress/Divi migration tips (Nick), and audience/heading fixes for a nanny agency (Nicole); unanswered questions will roll to future sessions."
+  },
+  {
+   "pos": 69,
+   "file": "069_work-session-16-03-2026",
+   "title": "Work Session_16.03.2026",
+   "hash": "pqz0oPWEDK",
+   "durSec": 5323,
+   "words": 14183,
+   "hasTranscript": true,
+   "aiSummary": "Live meeting showcasing the new app.htinsiders.com SEO and content toolkit — site audits, brand‑guideline extraction and a blog‑writer that produces HTML drafts, does competitor/keyword analysis and maps internal links — plus team wins and practical SEO/content best practices. Troubleshooting, login/Cloudflare notes and support logistics covered, with next steps to create an account, add your site, generate brand guidelines (via ChatGPT or sample posts) and start using the blog‑writer; recording and resources will be shared."
+  },
+  {
+   "pos": 70,
+   "file": "070_wdir-13-03-2026",
+   "title": "WDIR_13.03.2026",
+   "hash": "xDWyB3eVqg",
+   "durSec": 4029,
+   "words": 11289,
+   "hasTranscript": true,
+   "aiSummary": "Group SEO coaching call for a Manhattan mental‑health practice, a Florida pest‑control firm and a homeschool maths tutor, with live feedback on site structure, local SEO and content. Major problems included cluttered navigation and deep click paths, duplicate templated location pages, poor mobile UX, slow embeds and broken schema, plus niche/competition issues for each caller. High‑leverage fixes recommended: make booking the dominant CTA, simplify to a pillar→cluster service structure, create unique city pages aligned with Google Business Profiles, fix H‑tag/schema and page speed, and target low‑difficulty long‑tail keywords; coach offered a 30‑day task calendar and page outlines to support implementation."
+  },
+  {
+   "pos": 71,
+   "file": "071_rank-week-2026-day5",
+   "title": "Rank Week 2026_Day5",
+   "hash": "kqkO1JvGq4",
+   "durSec": 5033,
+   "words": 13971,
+   "hasTranscript": true,
+   "aiSummary": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Day 5 of Rank Week is done. And honestly? I'm emotional about it.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"We made it. Five days. Five sessions. And you showed up every single one of them — or got the replays, which counts just as much. You showed up for your business when you could have been doing literally anything else, and that means something.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Before I even get into what we covered today, I want to say something I said live: I'm proud of you. Not in a fluffy way. In a real way. You came into this week either scared of SEO, frustrated by SEO, or having paid thousands of dollars to people who didn't move the needle — and you did more in five days than most of those arrangements ever produced.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Amanda said it best: \\\"I've been struggling with SEO for years, have hired so many people and I've done more this week than all of that.\\\" YiYi got more done this week than the past two years. Lori K said more than the past eight. Steve said his SEO is running more efficiently than all of his competitors — in three days.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"And then there was Denise. She joined the Insiders a few days ago, posted in the community this morning, and I genuinely thought the tool had an error. I went to Google myself — never visited her site before — and she was ranking number one. And AI Overviews was recommending her. In days. That's what this stuff does when you actually do it.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"What we did on Day 5\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"We built a 30-day SEO plan — and the whole point was to make sure everything you learned this week doesn't stop the moment life gets in the way.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Because here's the truth I shared today: if you go home and try to do this alone, most of you will stop by week two. Not because you're lazy. Not because you didn't make real progress this week. Because there's no reason to show up for SEO on a random Tuesday. Life gets busy, a new idea distracts you, you watch a reel, and suddenly the momentum is gone.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"The 30-day plan is the antidote to that. Here's how it works:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Get the 30 day SEO plan here:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"https://docs.google.com/spreadsheets/d/1b31q0rB_kmaf6MbVY3b6kT3bhvczXZ4gb1H4X8qld3k/copy\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}}],\"text\":\"https://docs.google.com/spreadsheets/d/1b31q0rB_kmaf6MbVY3b6kT3bhvczXZ4gb1H4X8qld3k/copy\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You start by going to \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"http://app.rwideas.com\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}}],\"text\":\"app.rwideas.com\"},{\"type\":\"text\",\"text\":\" (available until tonight — after that it moves inside the Insiders) and grabbing four questions your customers are actually asking. Those become your four blog posts — one per week over the next 30 days. Each blog post needs to link to three other blog posts and one money page.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Then you identify four money pages — one per week — and each week you're fixing the title tag, the meta description, and adding three internal links to that page. And every week you're also going into \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"http://audit.heytony.ca\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}}],\"text\":\"audit.heytony.ca\"},{\"type\":\"text\",\"text\":\" (use code RANKWEEK2026 to get your first month free — that code expires tonight) and fixing five red issues.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"That's it. One hour per week. Four blog posts. Four money page fixes. Twenty red issues resolved. Done in 30 days.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"I pre-filled the dates for you: March 16, March 23, March 30, April 6. Put them in your calendar. Block an hour. Show up.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"I also told you something important: the post you wrote on Monday is sitting on Google right now. Every week you don't publish another one is a week your competitors are. The 30-day plan works if you execute it.\"}]}]}"
+  },
+  {
+   "pos": 72,
+   "file": "072_technical-seo-with-denroi-13-03-2026",
+   "title": "Technical SEO with Denroi 13.03.2026",
+   "hash": "7NJMYnyWDo",
+   "durSec": 2873,
+   "words": 7473,
+   "hasTranscript": true,
+   "aiSummary": "Denray (technical SEO lead at hey Tony) ran an open Q&A/live site audit for Rank Week/Insiders, covering plugin choices, schema, rendering and robots.txt issues, and offering follow‑ups via DM/community with the next call in two weeks. Key takeaways: prefer content quality and correct page rendering over micro‑optimisations; Yoast handles basic schema/sitemaps but specialised schema may need plugins; troubleshoot WooCommerce product text by checking templates/JS/robots; local and multi‑location tactics include one clear H1, dedicated pages per location, strong CTAs and internal links; and for the flight‑delay startup, build single‑intent landing pages, use SEMrush for keyword variants and avoid linking out to competitors."
+  },
+  {
+   "pos": 73,
+   "file": "073_rank-week-2026-day-4",
+   "title": "Rank Week 2026_Day 4",
+   "hash": "YDaAOv8ZDQ",
+   "durSec": 6021,
+   "words": 16182,
+   "hasTranscript": true,
+   "aiSummary": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Day 4 Replay — Make It Easy for Google to Find You\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Day 4 covered something I called \\\"a technique even experts miss\\\" — and after three days of keyword research, audits, and competitor analysis, it's the thing tying everything together.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"What we covered:\"},{\"type\":\"text\",\"text\":\" The session introduced crawl depth — how many clicks it takes to get from your homepage to any page on your site. The rule is simple: the harder it is for a human to find a page, the less likely Google will care about it.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Click zero is your homepage.\"},{\"type\":\"text\",\"text\":\" One click is your nav menu. Two clicks is your blog archive. Three clicks is an individual post. Four clicks is the next page of blog posts — and anything past that, Google may not bother crawling at all. The goal: every page you want ranked should be 3 clicks or fewer from the homepage.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Most people discovered they'd been burying their money pages without realizing it. Orphan pages came up too — pages with no internal links pointing to them at all. Those pages haven't just been buried. They've been taken out behind the barn.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"The process:\"}]},{\"type\":\"orderedList\",\"attrs\":{\"start\":1},\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Open your money page and your Monday blog post in two separate tabs\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Open ChatGPT (or Claude, Gemini — doesn't matter)\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Go to \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"https://heytony.ca/rank-week-crawl-prompt/\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}}],\"text\":\"https://heytony.ca/rank-week-crawl-prompt/\"},{\"type\":\"text\",\"text\":\"  and copy the crawl prompt\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Paste the prompt, then add your blog post content and your money page URL at the bottom\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Press Enter\"}]}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"The prompt finds internal link opportunities inside your blog post and rewrites the relevant paragraphs with the links already inserted — anchor text, placement, and all. No guessing. You just copy the revised paragraph back into your post.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"The linking rule I gave for every new piece of content going forward: link to 3–5 existing blog posts and 1 money page. Then go back to 3 older posts and link them to your new one. That's your entire internal linking strategy, done.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"The bonus:\"},{\"type\":\"text\",\"text\":\" Attendees got one free month of the HeyTony site audit tool at \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"http://audit.heytony.ca\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}}],\"text\":\"audit.heytony.ca\"},{\"type\":\"text\",\"text\":\" (code: RANKWEEK2026). It scans your entire site for orphan pages, broken links, missing H1s, title tag and meta description issues, and more — and for every error, there's a how-to-fix video built right in.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Your one task:\"},{\"type\":\"text\",\"text\":\" Add an internal link from your Monday blog post to your money page. If your blog isn't in your navigation menu, add it today. That's two things, but both take under 10 minutes and both move the needle immediately.\"}]}]}"
+  },
+  {
+   "pos": 74,
+   "file": "074_rank-week-2026-day-3",
+   "title": "Rank Week 2026_Day 3",
+   "hash": "5qnl15wrDr",
+   "durSec": 7119,
+   "words": 19771,
+   "hasTranscript": true,
+   "aiSummary": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Day 3 Replay — Why They Rank, and You Don't\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Day 3 answered the question that frustrated the most people on Day 2: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"\\\"My competitor's page is worse than mine. So why are they ranking above me?\\\"\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Day 2 was tough — too fast, too many screens, the Chrome extension tripped people up. I've been reviewing each session overnight and adjusting the slides in real time. Today I deliberately slowed down and made sure people were following before moving on.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"What we covered:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"The session introduced the Competitor Gap Analysis — a way to look at exactly what your top-ranking competitors are doing on their money pages and identify what you need to mirror (and slightly outdo) to move up.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"The core insight: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"whatever your #1 competitor is doing, Google likes it.\"},{\"type\":\"text\",\"text\":\" Your job isn't to do more — it's to do what they're doing, and do it slightly better. More keywords ≠ better rankings. In fact, if you're using your keyword more times than the competitor who's outranking you, you may be over-optimizing, which can actively suppress your rankings.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"The process:\"}]},{\"type\":\"orderedList\",\"attrs\":{\"start\":1},\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Open ChatGPT (or Claude, Gemini, Grok — whatever you use)\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Open your Day 2 audit spreadsheet\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Go to \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"http://heytony.ca/rank-week-prompts/\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}}],\"text\":\"heytony.ca/rank-week-prompts/\"},{\"type\":\"text\",\"text\":\" and copy the full prompt\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Paste the prompt into ChatGPT — don't press Enter yet\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Copy your entire spreadsheet and paste it where it says [PASTE YOUR DATA TABLE HERE]\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Press Enter\"}]}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"The prompt analyzes 8 dimensions: title tag, meta description, H1, H2/H3 structure, word count, keyword density, page speed, and trust signals. For each one with a meaningful gap, it gives you the exact fix — written out — with a priority rating: 🔴 do this first / 🟡 do this week / 🟢 nice to have. It ends with a 3-bullet Quick Wins summary of the highest-leverage changes to make today.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Your one task:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Fix your money page based on what the gap analysis tells you. Title tag, meta description, H1 — most of this takes 5–10 minutes. Start there.\"}]}]}"
+  },
+  {
+   "pos": 75,
+   "file": "075_rank-week-2026-day-2",
+   "title": "Rank Week 2026_Day 2",
+   "hash": "gNZ7eXn9qd",
+   "durSec": 6115,
+   "words": 15635,
+   "hasTranscript": true,
+   "aiSummary": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Session #2 Recap: We Audited Your Money Page\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"First — we cleared something up that a lot of you were worried about.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Google does not penalize AI content. It penalizes \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"unhelpful\"},{\"type\":\"text\",\"text\":\" content. Big difference. What you wrote yesterday wasn't AI slop — it was your expertise, your stories, your experience, shaped by AI. That's exactly what Google wants to see. The proof is in client results: every single one trending upward, consistently, with heavy AI-assisted content that's human-edited and genuinely helpful.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"If someone told you AI content gets penalized, go find them and have a word.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Now — onto today.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"A money page is any page on your website that makes you money. A service page. A product page. The page someone lands on when they're ready to hire you or buy from you. Most people have one that's basically invisible to Google — and today we figured out why.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Here's exactly what we did:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Step 1: Set up your audit spreadsheet\"},{\"type\":\"text\",\"text\":\".\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You can grab that here: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"https://docs.google.com/spreadsheets/d/1qkz0xRMEct_eqkWl86II0rva8TcwdE573JL2_LJNezQ/copy\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}}],\"text\":\"https://docs.google.com/spreadsheets/d/1qkz0xRMEct_eqkWl86II0rva8TcwdE573JL2_LJNezQ/copy\"},{\"type\":\"hardBreak\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" You added two things: the URL of your money page, and your focus keyword (e.g. \\\"Hamilton Electrician\\\", \\\"Wedding Photographer Birmingham\\\"). One keyword per page — that's the rule.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Step 2: Go to \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"http://pageaudit.com\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}},{\"type\":\"bold\"}],\"text\":\"pageaudit.com\"},{\"type\":\"text\",\"text\":\" Paste your money page URL and your keyword. Head to the Content tab and grab three numbers:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Word count\"},{\"type\":\"text\",\"text\":\" — how many words are on the page\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Keyword occurrences\"},{\"type\":\"text\",\"text\":\" — how many times your keyword appears\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Keyword density\"},{\"type\":\"text\",\"text\":\" — the percentage (this is calculated for you)\"}]}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Paste all three into your spreadsheet.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Step 3: Install the Page Audit Chrome Extension\"},{\"type\":\"text\",\"text\":\" Click it while on your money page. Grab your:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Title tag\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Meta description\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"H1, H2, and H3 tags\"},{\"type\":\"text\",\"text\":\" (use the \\\"Copy All Headings\\\" button, then sort them into the right columns)\"}]}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Step 4: Run a Page Speed test\"},{\"type\":\"text\",\"text\":\" Go to \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"http://pagespeed.web.dev\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}},{\"type\":\"bold\"}],\"text\":\"pagespeed.web.dev\"},{\"type\":\"text\",\"text\":\", paste your money page URL, and record your mobile and desktop scores. A slow page is a ranking problem — now you know where you stand.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Step 5: Do the same thing for your top 3 competitors\"},{\"type\":\"text\",\"text\":\" Go to Google in an incognito window and search your focus keyword. Skip sponsored results and directories. Open the top 3 real business websites and run the exact same audit on each of them. Same spreadsheet.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Now you can see, side by side: how your page stacks up against whoever is ranking above you. More words? Fewer? Are they using the keyword more? Is their page faster? Are they using the keyword in their title tag and H1? That's the whole picture.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Tomorrow we fix it.\"},{\"type\":\"text\",\"text\":\" We're taking everything you found today and using ChatGPT to analyze the gaps and tell you exactly what needs to change on your money page to compete.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Q&A Highlights:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Keywords can be multiple words\"},{\"type\":\"text\",\"text\":\" — \\\"custom home builder Burnett County\\\" is a perfectly valid keyword. Don't overthink the length.\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Local business?\"},{\"type\":\"text\",\"text\":\" Use your service + city as your keyword. If you serve multiple areas, start with 5 and build location pages one at a time.\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Multiple service types?\"},{\"type\":\"text\",\"text\":\" Give each one its own page. Don't mix wedding photography and portrait painting on the same page — Google (and your customer) will be confused.\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Subdomain?\"},{\"type\":\"text\",\"text\":\" Yes, everything works the same way.\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Shopify?\"},{\"type\":\"text\",\"text\":\" Use the native blog. You don't need a fancy app.\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"After making changes, how long before you re-audit?\"},{\"type\":\"text\",\"text\":\" Wait 3–6 months. Give Google time to process the changes, and keep writing blog posts that link back to that money page in the meantime.\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"How do you rank in ChatGPT and AI tools?\"},{\"type\":\"text\",\"text\":\" Rank on Google first. ChatGPT and other LLMs pull from existing search engines — so Google rankings directly influence AI visibility.\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Bad backlinks?\"},{\"type\":\"text\",\"text\":\" Probably not hurting you as much as you think. Focus on the content first.\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Domain under a year old?\"},{\"type\":\"text\",\"text\":\" There's no crawl credit limit. In 2014 a site I registered went from zero to 4 million monthly visitors within six months. You earn it — there's no waiting period.\"}]}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Homework before tomorrow:\"},{\"type\":\"text\",\"text\":\" Complete the audit spreadsheet for your money page AND your top 3 competitors. If you didn't finish today, do it before the next session — tomorrow we can't optimize what we haven't audited.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You showed up two days in a row and did actual SEO work. That already puts you ahead of most people.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Tomorrow is where it gets really good — we take everything you just found and we start fixing it. See you at 1pm Eastern.\"}]}]}"
+  },
+  {
+   "pos": 76,
+   "file": "076_content-writing-training-with-kira-10-03-26",
+   "title": "Content Writing Training with Kira 10.03.26",
+   "hash": "gqxWxaKWNP",
+   "durSec": 2354,
+   "words": 6712,
+   "hasTranscript": true,
+   "aiSummary": "Kira's fortnightly SEO workshop delivers practical troubleshooting and peer feedback for Shopify product, collection, homepage and blog content, prioritising fixes you can implement now. Key takeaways: pick one primary commercial homepage keyword (eg. \"beard oil\"), reserve category money keywords for product pages, ensure correct H1/H2/H3 usage (fix theme code if needed), enrich thin collection pages with benefits/FAQs and publish drafts quickly to iterate. Also covered: internal linking best practices (3–5 internal links, 1–2 credible externals), tools (Hey Tony, Ubersuggest, Ahrefs), content ideas like padel shirt pages, and simple next steps including updating titles/headers and keeping a scheduling spreadsheet."
+  },
+  {
+   "pos": 77,
+   "file": "077_rank-week-2026-day-1",
+   "title": "Rank Week 2026_Day 1",
+   "hash": "rDe3K4owqG",
+   "durSec": 6581,
+   "words": 15610,
+   "hasTranscript": true,
+   "aiSummary": "Live Rank Week walkthrough for small business owners showing a practical workflow to turn real customer questions into blog posts using Blog Topic Finder/answerthepublic and a two‑step LLM prompt — attendees wrote posts live in 20 minutes. Covers cleaning AI drafts, images and internal linking, local SEO tactics (geographic anchors, reviews), publishing cadence, examples like Marcus the pool‑installer, tools to monitor performance, and ongoing support via Hayton Insiders plus a live‑only “Get Found” ebook."
+  },
+  {
+   "pos": 78,
+   "file": "078_wdir-06-03-2026",
+   "title": "WDIR_06.03.2026",
+   "hash": "xDWyBm83qg",
+   "durSec": 2976,
+   "words": 7491,
+   "hasTranscript": true,
+   "aiSummary": "Host returns and outlines Rank Week logistics — Sunday Zoom tech check, bring an Answer the Public question for Monday’s sessions, and a social push to grow the email list/freebie. Key SEO takeaways: fix obvious audit items first (meta descriptions, index directives), improve site speed, resolve canonical/sitemap issues, focus one keyword per page and reinforce small ranking gains with internal links and topical blog posts. Highlights and action items include client wins (Etsy sales, AI Readiness Alliance UX help), an interactive questionnaire built with ChatGPT/Claude integrated into GoHighLevel, and prioritising email-list growth and freebie promotion."
+  },
+  {
+   "pos": 79,
+   "file": "079_web-design-for-seo-with-leanne-05-03-2026",
+   "title": "Web Design for SEO with Leanne 05.03.2026",
+   "hash": "ONAeZ4MQNZ",
+   "durSec": 3542,
+   "words": 6110,
+   "hasTranscript": true,
+   "aiSummary": "Practical guide to designing SEO‑friendly, user‑centred websites that starts with copy and designs everything before development, structuring pages into clear, scannable sections. Covers homepage and service‑page templates (hero with focus keyword and CTA, H2 sections, intro/about, services overview with child pages and clean URLs, trust elements, FAQs) plus conversion-focused CTAs. Includes design and accessibility tips (grids, contrast, consistent headers, alt text), Figma workflow and asset export advice, and demo files for a services overview and Deep Tissue page."
+  },
+  {
+   "pos": 80,
+   "file": "080_work-session-02-03-2026-replay",
+   "title": "Work Session 02.03.2026 Replay",
+   "hash": "wqjyk0nLN7",
+   "durSec": 2063,
+   "words": 5559,
+   "hasTranscript": true,
+   "aiSummary": "Hands‑on workflow for researching, drafting and publishing SEO blog posts using free tools + ChatGPT, with a recommended prompt to generate up to 10 clarifying questions and voice‑mode drafting. Covers research via AnswerThePublic/Google PAA (target questions on pages 2–4), title/intent, meta descriptions, must‑do internal linking (3–5 out, then 3 incoming), basic schema, UX‑first structure and a sustainable cadence (one page/week). Includes real wins, upcoming Rank Week sprint and clear next steps: pick a PAA question, run the ChatGPT prompt, publish, add links and iterate."
+  },
+  {
+   "pos": 81,
+   "file": "081_wdir-replay-27-02-2026",
+   "title": "WDIR Replay 27.02.2026",
+   "hash": "RD6dgvllqQ",
+   "durSec": 3551,
+   "words": 8865,
+   "hasTranscript": true,
+   "aiSummary": "Team meeting covered recent wins and focused SEO reviews, including Diana’s index clean‑up boost and Melissa’s “small business website design” audit recommending fewer exact‑match keywords, clearer CTAs, FAQs, case studies and better internal linking. Key themes were matching content to search intent, moving CTAs above the fold, fixing KB sitemap/indexing issues, building local location pages and using AI only as an assistant with human review. Clear next steps were assigned to Melissa, Varuna, Jason, Lux and Nick, plus technical and Merchant feed checks, with a follow‑up call on Monday."
+  },
+  {
+   "pos": 82,
+   "file": "082_technical-seo-with-denroi-26-02-2026",
+   "title": "Technical SEO with Denroi 26.02.2026",
+   "hash": "oNvyz4VRDX",
+   "durSec": 2790,
+   "words": 6691,
+   "hasTranscript": true,
+   "aiSummary": "Denray, Technical SEO Team Lead, ran a live Q&A with attendee site reviews offering practical, actionable advice on migrations, Search Console/indexing fixes, internal linking and local/location pages. He recommended tools (GSC, SEMrush/Ubersuggest, Yoast, CID finders), stressed preserving URLs and using 301 redirects, prioritising ranked pages, building internal links to fix “crawled‑not‑indexed” issues, and adding GBP CIDs plus localised on‑page and conversion improvements."
+  },
+  {
+   "pos": 83,
+   "file": "083_web-design-for-seo-with-leanne-18-02-26",
+   "title": "Web Design for SEO with Leanne 18.02.26",
+   "hash": "ONAeAyVYNZ",
+   "durSec": 3927,
+   "words": 8379,
+   "hasTranscript": true,
+   "aiSummary": "Live walkthrough rehash showing how to design a homepage wireframe in Figma using a copy‑first approach (H1/H2 and focus keyword), a centred 12‑column grid and a clear hero with trust signals and repeated CTAs. Covers Figma setup and image handling, typography and layout tips, exporting assets for development, and SEO/copy best practices like using H‑tags and individual service pages. Resource folder, templates and prompts will be shared with attendees and posted to the group."
+  },
+  {
+   "pos": 84,
+   "file": "084_wdir-replay-13-02-2026",
+   "title": "WDIR Replay 13.02.2026",
+   "hash": "32g9My0eNo",
+   "durSec": 3672,
+   "words": 9584,
+   "hasTranscript": true,
+   "aiSummary": "Participants shared insights on a new Rank Week aimed at enhancing technology and user experience, while addressing website ranking challenges. Key discussions included optimizing content with targeted keywords, improving navigation, and addressing indexing issues using Google Search Console. Specific recommendations were made for a participant's Yellowstone excursions website and a Shopify collection page for tennis shirts, focusing on user intent and visibility. The session concluded with plans for future calls and a strong emphasis on community support and collaboration for ongoing site improvements."
+  },
+  {
+   "pos": 85,
+   "file": "085_content-writing-training-with-kira-10-02-26",
+   "title": "Content Writing Training with Kira 10.02.26",
+   "hash": "4qBLA6bgDj",
+   "durSec": 2276,
+   "words": 7040,
+   "hasTranscript": true,
+   "aiSummary": "Join the hey Tony Insiders community for a supportive environment focused on accountability in SEO and content creation. Kira from the hey Tony team shares innovative strategies for generating content ideas, while weekly sessions cover technical SEO training, live audits, and task batching for efficiency. Participants engage in discussions about the challenges of SEO in personal and client projects, emphasizing keyword research and backlink strategies to navigate algorithm changes and maintain traffic. Stay updated on upcoming training sessions and community resources to enhance your SEO skills."
+  },
+  {
+   "pos": 86,
+   "file": "086_technical-seo-with-denroi-12-02-2026",
+   "title": "Technical SEO with Denroi 12.02.2026",
+   "hash": "5244gM5E21",
+   "durSec": 3053,
+   "words": 7614,
+   "hasTranscript": true,
+   "aiSummary": "Denroy, the technical SEO team lead at Hey Tony, hosts interactive sessions focused on SEO strategies, where participants can seek advice on their websites and the Hey Tony process. In this session, he audits a Shopify print-on-demand store, recommending optimized title tags, meta descriptions, and keyword research for better visibility. The discussion also covers leveraging Reddit for backlinks, internal and external linking strategies, and enhancing international market visibility. Denroy emphasizes the importance of a proper heading structure and announces future Q&A calls for continued learning."
+  },
+  {
+   "pos": 87,
+   "file": "087_work-session-09-02-2026-replay",
+   "title": "Work Session 09.02.2026 Replay",
+   "hash": "RD6dgRydqQ",
+   "durSec": 2564,
+   "words": 7017,
+   "hasTranscript": true,
+   "aiSummary": "The meeting highlights various successes among participants, including Manny's achievement in keyword ranking and Matt's significant increase in organic traffic. Tatiana reports impressive growth in impressions and clicks, while Varuna shares metrics showing a tripling of clicks from blog posts. The discussion focuses on the importance of internal linking for SEO, strategies for promoting blog posts, and leveraging platforms like Pinterest. Todd emphasizes a targeted keyword strategy for a niche candle business, and participants are encouraged to share their blog links for accountability and support. The session wraps up with congratulations for everyone's accomplishments."
+  },
+  {
+   "pos": 88,
+   "file": "088_wdir-replay-06-02-2026",
+   "title": "WDIR Replay 06.02.2026",
+   "hash": "4Ny4Z1YxDa",
+   "durSec": 3895,
+   "words": 9906,
+   "hasTranscript": true,
+   "aiSummary": "The meeting focused on innovative content creation and SEO tools, highlighting a Reddit tool for keyword research and content ideas. Participants shared their experiences with lead generation and discussed troubleshooting techniques. Key topics included the importance of updating underperforming blog posts, managing SEO challenges like backlinks, and enhancing user experience for travel websites. Strategies for improving website content and local SEO were also shared, along with advice on using SEO plugins effectively. The session concluded with encouragement to celebrate small SEO victories and share testimonials."
+  },
+  {
+   "pos": 89,
+   "file": "089_web-design-for-seo-04-02-2026",
+   "title": "Web Design for SEO 04.02.2026",
+   "hash": "nNXZ0PbE2B",
+   "durSec": 4085,
+   "words": 7476,
+   "hasTranscript": true,
+   "aiSummary": "Building a compelling \"About\" page focuses on fostering customer trust through a cohesive design. Utilise tools like Figma to create a consistent layout with a 12-column grid, ensuring effective content organisation and readability. Incorporate relevant images and distinct background colours for visual separation, while optimising for SEO with descriptive H1 tags. A clear call to action should guide users, and testing on mobile devices is essential for usability. The video concludes with a Q&A addressing design and SEO concerns, providing valuable insights for effective web design."
+  },
+  {
+   "pos": 90,
+   "file": "090_content-writing-training-with-kira-03-02-26",
+   "title": "Content Writing Training with Kira 03.02.26",
+   "hash": "wqjykag3N7",
+   "durSec": 3033,
+   "words": 8915,
+   "hasTranscript": true,
+   "aiSummary": "Kira from the Hey Toni team shares her expertise in content creation and SEO during bi-weekly Q&A sessions, encouraging participants to ask questions and share experiences. She highlights the importance of adaptable SEO strategies in response to Google algorithm updates and promotes experimentation with tools like Yoast Premium. The discussion covers effective keyword research, strategies for posting news articles, and specific optimisation techniques for events like \"Paint and Sip Toronto.\" Kira invites ongoing participation and reminds viewers of upcoming community events and training sessions."
+  },
+  {
+   "pos": 91,
+   "file": "091_work-session-02-02-2026-replay",
+   "title": "Work Session 02.02.2026 Replay",
+   "hash": "7qL30GnXN9",
+   "durSec": 2102,
+   "words": 5226,
+   "hasTranscript": true,
+   "aiSummary": "Meet Layla, the new team member focused on podcast outreach and organisation. The upcoming Rank Week 2026, scheduled for March 9-13, offers free access for insiders. The discussion highlights the effectiveness of AB Newswire for press releases and personal keyword ranking success, while emphasising the critical role of SEO in boosting visibility. Participants share successful strategies for increasing traffic and rankings, along with tips for using Answer the Public for keyword research. The importance of directly answering questions in blog posts for better SEO performance is also covered, alongside a reminder to engage with the community and track blog post progress."
+  },
+  {
+   "pos": 92,
+   "file": "092_content-writing-training-with-kira-27-01-26",
+   "title": "Content Writing Training with Kira 27.01.26",
+   "hash": "VNOJ069gDG",
+   "durSec": 9392,
+   "words": 10660,
+   "hasTranscript": true,
+   "aiSummary": "Kira leads a content writing training session, introducing herself as a senior SEO specialist and announcing a shift to weekly meetings. Participants engage in discussions about AI tools, keyword strategies, and SEO challenges, with Kira providing insights on optimizing content for better traffic and conversion rates. Emphasizing the importance of community support, she encourages testing various SEO approaches, updating existing content, and focusing on user-friendly website design. The session highlights the need for clear strategies and ongoing engagement in navigating SEO effectively."
+  },
+  {
+   "pos": 93,
+   "file": "093_technical-seo-with-denroi-29-01-2026",
+   "title": "Technical SEO with Denroi 29.01.2026",
+   "hash": "32g9MQeKNo",
+   "durSec": 3175,
+   "words": 0,
+   "hasTranscript": false,
+   "aiSummary": null
+  },
+  {
+   "pos": 94,
+   "file": "094_wdir-replay-23-01-2026",
+   "title": "WDIR Replay 23.01.2026",
+   "hash": "oNYL0L7vDd",
+   "durSec": 3515,
+   "words": 8359,
+   "hasTranscript": true,
+   "aiSummary": "The speaker will be in Mexico next week, leading to no calls on Monday and Friday, with scheduled discussions on Tuesday and Thursday about AI Markdown experiments and SEO strategies. Key topics include the addition of TL;DR sections in blog posts, reinforcing common questions, and the importance of schema markup. Participants will share their SEO experiences, with specific case studies and suggestions for improving keyword rankings. Emphasis is placed on genuine traffic over click numbers, and self-education in SEO is encouraged, alongside recommendations for a comprehensive SEO book."
+  },
+  {
+   "pos": 95,
+   "file": "095_work-session-01-19-2026",
+   "title": "Work Session 01.19.2026",
+   "hash": "Eq5KbA05Dg",
+   "durSec": 2410,
+   "words": 6478,
+   "hasTranscript": true,
+   "aiSummary": "The session focused on enhancing blogging skills through practical tools like \"Answer the Public\" and ChatGPT for idea generation. Participants shared their expertise and challenges in blogging and SEO, discussing key topics such as keyword importance, image creation strategies, website indexing, and the role of social media in marketing. The facilitator encouraged a concentrated SEO approach on a single website and concluded by motivating participants to share their progress and engage with the community."
+  },
+  {
+   "pos": 96,
+   "file": "096_wdir-replay-16-01-2026",
+   "title": "WDIR_Replay 16.01.2026",
+   "hash": "VDGx60bENW",
+   "durSec": 3574,
+   "words": 9057,
+   "hasTranscript": true,
+   "aiSummary": "Participants engage in a detailed discussion on SEO strategies, highlighting the gradual nature of progress and the importance of consistent content creation. Key topics include leveraging social media for visibility, addressing technical SEO issues, and optimizing website content for better performance. Local SEO strategies are explored, particularly for a wedding photographer and a dumpster rental business, with recommendations for dedicated pages and clear messaging. The conversation emphasizes the significance of backlinks, internal linking, and community engagement, concluding with actionable steps for improving SEO rankings and website effectiveness."
+  },
+  {
+   "pos": 97,
+   "file": "097_technical-seo-with-denroi-15-01-2026",
+   "title": "Technical SEO with Denroi 15.01.2026",
+   "hash": "pqz0PvW4DK",
+   "durSec": 3007,
+   "words": 7454,
+   "hasTranscript": true,
+   "aiSummary": "Dennere, head of technical SEO at Hey Tony, leads a Q&A session addressing various SEO topics, including technical and local SEO strategies. Participants receive tailored advice on improving website performance, such as enhancing mobile PageSpeed for Wix sites, shifting focus in SEO strategies, and optimizing title tags and meta descriptions. Key discussions include indexing challenges, keyword research, and the effectiveness of the Avada theme for WooCommerce. The session concludes with Dennere encouraging further inquiries and sharing resources for site analysis."
+  },
+  {
+   "pos": 98,
+   "file": "098_choosing-strategic-colors-for-your-website-replay-14-01-2026",
+   "title": "Choosing Strategic Colors for your Website Replay 14.01.2026",
+   "hash": "pDo6PLdJ24",
+   "durSec": 3842,
+   "words": 6500,
+   "hasTranscript": true,
+   "aiSummary": "The session covers the critical role of colour theory in website design and its impact on conversions. Key topics include the colour wheel, the use of complementary and analogous colours, and their application in travel websites to enhance cohesion and highlight calls to action. Attendees receive tailored feedback on their colour choices, with recommendations for effective palettes based on target audiences. The importance of a strong hero section and consistent colour schemes is emphasised, alongside tools like Pinterest for inspiration and Adobe XD for design. The session wraps up with a Q&A and details about the next meeting."
+  },
+  {
+   "pos": 99,
+   "file": "099_work-session-writing-a-blog-post-replay-12-01-2026",
+   "title": "Work Session_Writing A Blog Post Replay 12.01.2026",
+   "hash": "wqjynEBnN7",
+   "durSec": 3032,
+   "words": 7418,
+   "hasTranscript": true,
+   "aiSummary": "Participants share their weekend activities, including reading and working on a 3D puzzle, while discussing challenges with accessing a new platform. The group focuses on writing SEO content during Monday calls, referencing a successful Reddit article and strategies for improving backlinks and domain authority. They explore Google Discover's impact on traffic, analyse competitors' sitemaps for content gaps, and engage in a practical exercise to identify blog topics. Emphasis is placed on internal linking, optimizing posts, and maintaining consistency in content creation, culminating in a collaborative feedback session on shared blog links."
+  },
+  {
+   "pos": 100,
+   "file": "100_web-design-for-seo-07-01-2026-replay",
+   "title": "Web Design for SEO 07.01.2026 Replay",
+   "hash": "l2PJPLzANL",
+   "durSec": 4073,
+   "words": 8641,
+   "hasTranscript": true,
+   "aiSummary": "The session will cover website reviews and effective hero sections, with a strong focus on participant feedback. Key critiques include suggestions for improving CTA visibility, site speed, and overall design aesthetics across various websites. Recommendations for image optimization and SEO strategies are also discussed, such as using WebP format and enhancing product page content. Participants are encouraged to engage actively and will have access to session recordings for further reference."
+  },
+  {
+   "pos": 101,
+   "file": "101_wdir-09-01-2026-replay",
+   "title": "WDIR 09.01.2026 Replay",
+   "hash": "RD6dxXa9qQ",
+   "durSec": 3870,
+   "words": 9641,
+   "hasTranscript": true,
+   "aiSummary": "The meeting addresses various SEO challenges faced by a roofing company, including the need for website optimization and the management of Google Business Profiles for different divisions. Key recommendations include focusing on the residential division, optimizing website links, and managing orphan pages. The discussion also covers the importance of quality backlinks, local SEO strategies, and effective promotional tactics for authors, highlighting the potential of location-specific content and creative marketing ideas. Participants are encouraged to ask further questions and explore additional topics in future calls."
+  },
+  {
+   "pos": 102,
+   "file": "102_work-session-writing-a-blog-post-05-01-2026-replay",
+   "title": "Work Session- Writing A Blog Post 05.01.2026 Replay",
+   "hash": "rDe3xZX8qG",
+   "durSec": 2262,
+   "words": 6071,
+   "hasTranscript": true,
+   "aiSummary": "Sam kicks off the call with New Year greetings and announces a new 8am Eastern time for future meetings. The discussion centres on blog post writing, focusing on content structure, the use of images, and enhancing readability. Participants share insights on SEO, content creation, and tools like Answer the Public for topic generation. Sam highlights the importance of addressing client queries to build topical authority and encourages the use of ChatGPT for personalized content. The call wraps up with reminders about sitemap submissions, internal linking, and sharing blog links within the community."
+  },
+  {
+   "pos": 103,
+   "file": "103_wdir-02-01-2026-replay",
+   "title": "WDIR 02.01.2026 Replay",
+   "hash": "lDdkxMv92y",
+   "durSec": 3667,
+   "words": 9497,
+   "hasTranscript": true,
+   "aiSummary": "Participants share New Year greetings while discussing their holiday SEO strategies, highlighting a successful post that garnered 1400 clicks. Jorg seeks advice on keyword targeting for his Etsy and Shopify shops, while Tatiana addresses clarity issues on her corporate website. Anthony focuses on local SEO for his dumpster rental business, and Diana seeks solutions for her consulting site’s broken links. The group emphasizes the importance of clear navigation, effective calls to action, and technical SEO improvements. They also discuss the significance of blog structure, keyword research tools, and the need for patience in seeing SEO results."
+  },
+  {
+   "pos": 104,
+   "file": "104_work-session-writing-a-blog-post-29-12-2025-replay",
+   "title": "Work Session- Writing A Blog Post 29.12.2025 Replay",
+   "hash": "6NMYJW8bNZ",
+   "durSec": 2232,
+   "words": 5255,
+   "hasTranscript": true,
+   "aiSummary": "Participants engage in a session focused on writing and publishing SEO-driven blog posts, utilising tools like AnswerThePublic.com for keyword research. The importance of crafting answerable questions to establish topical authority is highlighted, alongside the use of AI tools such as ChatGPT for content creation. The session also covers internal linking strategies, content quality, and client pricing, encouraging participants to share their work for accountability. The meeting concludes with reminders for future sessions and New Year wishes."
+  },
+  {
+   "pos": 105,
+   "file": "105_wdir-26-12-2025-replay",
+   "title": "WDIR_26.12.2025 Replay",
+   "hash": "RD6dxRxlqQ",
+   "durSec": 4295,
+   "words": 11654,
+   "hasTranscript": true,
+   "aiSummary": "Participants engage in a lively discussion about the holiday season and the importance of maintaining SEO efforts during this time. The session focuses on website performance analysis, particularly addressing the question, \"Why doesn't it rank?\" Key topics include the transition of a waste management website's services, the significance of user-friendly content, and the risks associated with subdomains. Attendees share insights on mobile responsiveness, effective heading structures, and the importance of understanding search intent. The conversation wraps up with encouragement for community support in SEO initiatives and a reminder to prioritize user needs for improved website performance."
+  },
+  {
+   "pos": 106,
+   "file": "106_web-design-for-seo-with-leanne-jones-12-24-2025-replay",
+   "title": "Web Design for SEO with Leanne Jones_12.24.2025 Replay",
+   "hash": "pqz0PYB9DK",
+   "durSec": 3364,
+   "words": 7214,
+   "hasTranscript": true,
+   "aiSummary": "An informal Q&A session delves into website design and SEO challenges. Participants discuss low traffic issues despite good rankings, with advice on ongoing SEO efforts, improving blog content, and backlinking strategies. Tips include removing background images in WordPress using tools like Photoshop or Canva, optimizing images for speed with plugins like WP Rocket, and enhancing H1 and meta descriptions for better SEO. The importance of clear calls to action and creating city-specific pages for local SEO is also highlighted, concluding with an invitation for further questions."
+  },
+  {
+   "pos": 107,
+   "file": "107_content-writing-training-with-kira-12-23-2025",
+   "title": "Content Writing Training with Kira 12.23.2025",
+   "hash": "5qnl01brDr",
+   "durSec": 7122,
+   "words": 13758,
+   "hasTranscript": true,
+   "aiSummary": "Kira introduces the Hey Tony Insiders community, a vibrant platform for sharing SEO insights and strategies. The community hosts bi-weekly calls, focusing on creative SEO techniques, keyword research, and content generation using tools like ChatGPT. Key topics include avoiding keyword cannibalization, building topical authority, and the importance of engaging content that resonates with audiences. Participants are encouraged to ask questions, share experiences, and utilize recommended tools for effective SEO learning and content creation."
+  },
+  {
+   "pos": 108,
+   "file": "108_work-session-writing-a-blog-post-12-22-2025",
+   "title": "Work Session- writing a blog post 12.22.2025",
+   "hash": "RD6dxgkyqQ",
+   "durSec": 5209,
+   "words": 12733,
+   "hasTranscript": true,
+   "aiSummary": "The speaker discusses the importance of maintaining work-life balance during the holidays while enhancing productivity through effective SEO strategies. Key tools like Ubersuggest and Semrush are recommended for keyword research, with a focus on competitor analysis and targeting low-difficulty keywords. The session covers strategies for writing impactful blog posts, emphasising unique content that addresses customer inquiries, and utilising ChatGPT for idea generation. The \"Big Five\" framework is introduced to guide blog topics, particularly around cost and pricing, to attract high-intent traffic. The speaker encourages sharing progress for accountability and concludes with holiday wishes and motivation for continued blogging efforts."
+  },
+  {
+   "pos": 109,
+   "file": "109_wdir-19-12-2025-replay",
+   "title": "WDIR_19.12.2025 Replay",
+   "hash": "9qp4781bqY",
+   "durSec": 4503,
+   "words": 11213,
+   "hasTranscript": true,
+   "aiSummary": "A discussion on SEO strategies highlights the need for a website audit for Boston Towing, addressing declining search rankings. Key factors such as keyword usage, backlinks, and local SEO signals are examined, with recommendations for improving content and user experience. The importance of Google Business Profile and local directory listings is emphasized, alongside strategies for managing multiple websites. Concerns about low authority scores and harmful backlinks are addressed, with advice on using tools like Semrush and Google Search Console for analysis. The session concludes with suggestions for website redesign and networking for better SEO outcomes, while reminding participants to take time off during the holidays."
+  },
+  {
+   "pos": 110,
+   "file": "110_technical-seo-with-denroi-2025-12-18",
+   "title": "Technical SEO with Denroi 2025.12.18",
+   "hash": "rq8onE5KN3",
+   "durSec": 2767,
+   "words": 7560,
+   "hasTranscript": true,
+   "aiSummary": "Denroy, the technical SEO team lead at Hey Tony, hosts an interactive call addressing various topics including SEO, web design, Google Ads, and web development. Participants seek advice on rebranding, domain changes, and resolving canonical page errors in WordPress, with Denroy providing insights on 301 redirects, dynamic URLs, and indexing issues. The discussion emphasizes the importance of internal linking, content optimization, and proper heading structures for improved search rankings, while also addressing concerns about duplicate content. The session concludes with a reminder to submit sitemaps to Google Search Console, and participants are informed that the call is recorded for future reference."
+  },
+  {
+   "pos": 111,
+   "file": "111_blog-post-templates-using-elementor-in-wordpress-18-12-2025-replay",
+   "title": "Blog Post Templates Using Elementor in WordPress_18.12.2025 Replay",
+   "hash": "Yq9kbWL4Dn",
+   "durSec": 3979,
+   "words": 7784,
+   "hasTranscript": true,
+   "aiSummary": "Leanne Jones, an experienced web and graphic designer, shares insights on effective blog post layouts, focusing on user experience across platforms like WordPress, Squarespace, and Wix. Key elements discussed include organized layouts, featured images, and the importance of readability through shorter paragraphs and bullet points. She recommends specific font sizes, the use of Elementor for templates, and the inclusion of a table of contents for better navigation. Additionally, Leanne addresses common queries and offers troubleshooting support, inviting further questions from participants."
+  },
+  {
+   "pos": 112,
+   "file": "112_work-session-writing-a-blog-post-12-15-2025",
+   "title": "Work Session- writing a blog post 12.15.2025",
+   "hash": "4qBLwb87Dj",
+   "durSec": 6149,
+   "words": 11533,
+   "hasTranscript": true,
+   "aiSummary": "The session focused on creating blog posts that highlight the downsides of hiring or purchasing services, promoting transparency and honesty. Participants brainstormed various topics, such as the challenges of hiring contractors, hidden costs in home renovations, and misconceptions about Pilates. Emphasis was placed on using AI tools for writing, SEO strategies, and creating engaging content that addresses common concerns. Tips on optimizing blog posts, maintaining a consistent schedule, and leveraging community resources for SEO were also shared, along with the importance of showcasing individual case studies for credibility."
+  },
+  {
+   "pos": 113,
+   "file": "113_why-doesn-t-it-rank-12-12-2025-replay",
+   "title": "Why Doesn't It Rank 12.12.2025 Replay",
+   "hash": "lDdkx0Mm2y",
+   "durSec": 3692,
+   "words": 9254,
+   "hasTranscript": true,
+   "aiSummary": "A training session on website optimization and SEO addresses strategies for improving low-ranking pages. Participants share underperforming links, with a case study on a couples therapy site illustrating the significance of location keywords and sitemaps. Key recommendations include enhancing internal linking, targeting specific keywords, and simplifying navigation for better user experience. The session also emphasizes the importance of secure links and tailored business strategies, encouraging participants to apply these insights to their websites and provide feedback for future discussions."
+  },
+  {
+   "pos": 114,
+   "file": "114_rank-week-day-5-replay",
+   "title": "Rank Week Day 5 Replay",
+   "hash": "8qrAPMXGNL",
+   "durSec": 4974,
+   "words": 13277,
+   "hasTranscript": true,
+   "aiSummary": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Rank Week Final Day Recap: Proof This Stuff Works\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Today wasn’t about learning something new.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"It was about stepping back and realizing \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"how much you actually accomplished in just one week\"},{\"type\":\"text\",\"text\":\".\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"And the biggest win?\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"👉 \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Multiple people are already ranking #1 on Google for the blog post they wrote on Day 1.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"That’s not hype. That’s not “event energy.” That’s SEO working exactly how it’s supposed to.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"From idea → to publish → to rankings — in days.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"That’s wild.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"What We Wrapped Up Today\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"1. We celebrated your wins\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Publishing content.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"Optimizing money pages.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"Auditing competitors.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"Building internal links.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Most people \"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"never\"},{\"type\":\"text\",\"text\":\" do this stuff. You did it in a single week.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You didn’t “learn SEO.”\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"You \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"became someone who actually does SEO\"},{\"type\":\"text\",\"text\":\".\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"2. We built your 30-Day SEO Action Plan\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"To make sure this momentum doesn’t die after today, we put together a \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"30-day SEO action plan spreadsheet\"},{\"type\":\"text\",\"text\":\" so you always know:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"what to work on\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"what order to do it in\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"how to keep stacking small wins\"}]}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You can grab it here: 👉\"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"https://go.heytony.ca/email-tracking/fd053dfb23d?contactId={{contact.id}}\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}},{\"type\":\"bold\"}],\"text\":\" [GET THE 30-DAY SEO ACTION PLAN]\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"If you follow that plan, SEO stops feeling overwhelming — and starts feeling predictable.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"This Is Just the Beginning\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Rank Week isn’t the end.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"It’s the \"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"starting line\"},{\"type\":\"text\",\"text\":\".\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You now know how to:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"come up with ranking blog ideas\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"optimize money pages\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"reverse-engineer competitors\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"build internal links the right way\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"and actually publish consistently\"}]}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"That puts you ahead of \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"90% of business owners online\"},{\"type\":\"text\",\"text\":\".\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"I’m genuinely proud of the work you put in this week.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"You showed up. You executed. And the results are already showing.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"💙 Thank You\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Thank you for trusting me with your time.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"Thank you for doing the work.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"And thank you for proving (to yourself) that SEO doesn’t have to be complicated... it just has to be done.\"}]}]}"
+  },
+  {
+   "pos": 115,
+   "file": "115_seo-design-wtith-leanne-10-12-2025-replay",
+   "title": "SEO Design wtith Leanne 10.12.2025 Replay",
+   "hash": "RD6dxBzlqQ",
+   "durSec": 3199,
+   "words": 6501,
+   "hasTranscript": true,
+   "aiSummary": "A comprehensive SEO makeover for a Winnipeg logo design webpage addresses critical issues such as improper heading structure, keyword stuffing, and large images lacking alt tags. The redesign focuses on enhancing clarity and visual appeal by using Elementor to implement proper heading tags, engaging copy, and optimized images. Key improvements include a clear hierarchy with H1, H2, and H3 tags, varied layouts, and strategic calls to action, resulting in significantly higher SEO audit scores."
+  },
+  {
+   "pos": 116,
+   "file": "116_rank-week-day-4",
+   "title": "Rank Week Day 4",
+   "hash": "92QbPmQMDp",
+   "durSec": 5837,
+   "words": 16178,
+   "hasTranscript": true,
+   "aiSummary": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Day 4 Recap: We Built Internal Links (AKA the Most Underrated SEO Power Move)\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Today we focused on something that is \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"ridiculously effective\"},{\"type\":\"text\",\"text\":\", criminally underused, and one of the fastest ways to help Google find and rank your pages:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Internal Linking\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Most business owners don’t do it.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"Most SEO agencies barely do it.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"Yet Google relies on internal links to understand:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"which pages matter most\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"how your site is structured\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"which pages deserve to rank faster\"}]}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"And today you didn’t just \"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"learn about\"},{\"type\":\"text\",\"text\":\" internal links — you actually built them.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Step-by-Step: What We Did Today\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Step 1:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Find 5 “money pages” (your products or services) and add them to \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Column C\"},{\"type\":\"text\",\"text\":\" of your spreadsheet.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Step 2:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Locate your sitemap.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"It’s usually at:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"yourwebsite.com/sitemap.xml\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"If you can’t find it or don’t have one — fix that ASAP.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"Your sitemap is how Google efficiently discovers and indexes your pages.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Step 3:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Use the internal linking prompt (copied below) to find 3 incoming link opportunities for each money page:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"I'm looking for 3 incoming internal linking opportunities to this service/product page: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"[LINK TO PAGE IN COLUMN C]\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Find me 3 relevant opportunities from my sitemap pasted below.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"[PASTE SITEMAP]\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Step 4:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Take the 3 URLs ChatGPT recommends and paste them into Column 1 next to your money page.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Step 5:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Go into your website and \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"edit those pages\"},{\"type\":\"text\",\"text\":\", adding a link pointing \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"back\"},{\"type\":\"text\",\"text\":\" to your money page.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"And this is important:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Use your own judgment.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"Don’t blindly copy/paste AI suggestions — make sure the link makes sense in context.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Step 6:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Repeat the entire process for the other 4 money pages.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Step 7:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"If you want more rankings (and who doesn’t?), repeat this for \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"as many money pages as you want\"},{\"type\":\"text\",\"text\":\".\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Internal linking = instant SEO momentum.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You’re Doing Real SEO Work\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Today you didn’t just “touch up your site” — you strengthened its entire internal structure.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Internal linking is one of those strategies that separates websites that \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"rank consistently\"},{\"type\":\"text\",\"text\":\" from websites that sit on page 5 forever.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You’re doing the stuff pros do.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"And you’re doing it well.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Proud of you.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Link to the Spreadsheet\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"https://docs.google.com/spreadsheets/d/1BmSrIbpQ5cQ7Vz8qXFhopzpdK8KjykSM0A-VMSNDaKc/copy\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}},{\"type\":\"bold\"}],\"text\":\"[SPREADSHEET LINK HERE]\"}]}]}"
+  },
+  {
+   "pos": 117,
+   "file": "117_rank-week-day-3-replay",
+   "title": "Rank Week Day 3 Replay",
+   "hash": "pqz0Pjd7DK",
+   "durSec": 3551,
+   "words": 9684,
+   "hasTranscript": true,
+   "aiSummary": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"🔥 Day 3 Recap: We Turned Your Audit Into Real SEO Upgrades \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Today was a BIG day.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"We took the audit spreadsheet you built yesterday and used it to: \"}]},{\"type\":\"orderedList\",\"attrs\":{\"start\":1},\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Write an optimized title tag\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Write an optimized meta description\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Write an optimized H1 tag\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Generate a first-draft of fully optimized content for your money page\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"}}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Not theory.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" Not “one day you’ll figure this out.”\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" We actually built the page you’re going to publish.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You now have a money page that’s \"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"better\"},{\"type\":\"text\",\"text\":\" than your competitors — and we did it live.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"🧠 Step-by-Step: What We Did Today\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"1. Updated Your SEO Tags Using This Prompt\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"We took your audit, plus the audits of competitor #1 and #2, and fed ChatGPT this exact prompt:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Prompt 1:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Here are my current tags and my focus keyword. Update them so the keyword appears naturally, is front-loaded where possible, and matches the style and brand of my business. Also make sure each one is better than my two competitors':\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"[PASTE YOUR AUDIT]\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Competitor 1 (Same Order As Mine)\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"[PASTE COMPETITOR AUDIT]\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Competitor 2 (Same Order As Mine)\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"[PASTE COMPETITOR AUDIT]\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\" This gave you \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"new, stronger, more clickable tags\"},{\"type\":\"text\",\"text\":\" — written with actual data.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"2. Rewrote Your Money Page Content Using This Prompt\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Prompt 2:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Here is the content from my product/service page:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"[PASTE YOUR CONTENT]\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Here are the top 2 competitor pages that rank for my keyword:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" Competitor 1: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"[paste content]\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" Competitor 2: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"[paste content]\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"My focus keyword: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"[keyword]\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Rewrite my page so that:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" • It is clearer, more helpful, and more persuasive\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" • Word count is between: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"[comp low] – [comp high] words\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" • Keyword density is similar to the competitors\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" • Includes the keyword in natural positions\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" • Adds missing topics my competitors include\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" • Improves structure, readability, and expertise\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" • Keeps my brand voice\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" • Uses headings where appropriate\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" • Does NOT keyword-stuff\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Produce the final optimized version I should publish.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"The output?\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\" A \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"clean, optimized, well-structured money page\"},{\"type\":\"text\",\"text\":\" built to rank — and built to convert.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"This is the kind of work most SEO agencies charge thousands for… and you just did it yourself in under an hour.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"🎉 You’re Crushing It\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Seriously.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Three days in and your website already looks completely different under the hood.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You’ve written a blog post… audited your competitors… and now rewritten an entire money page with strategy behind it.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You ARE doing SEO — and you’re getting better every single day.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"Proud of you.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"See you tomorrow at 1PM EST — tomorrow we push your content over the finish line. 🚀\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\" \"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"— Matt\"}]}]}"
+  },
+  {
+   "pos": 118,
+   "file": "118_rank-week-day-2-replay",
+   "title": "Rank Week Day 2 Replay",
+   "hash": "lDdkx9972y",
+   "durSec": 5523,
+   "words": 15284,
+   "hasTranscript": true,
+   "aiSummary": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Day 2 Recap: We Audited Your Money Page\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Today was all about your \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"money page\"},{\"type\":\"text\",\"text\":\" — the product or service page that should be making you the most money.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"We did two big things:\"}]},{\"type\":\"orderedList\",\"attrs\":{\"start\":1},\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Audited one of your money pages\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Analyzed the top 2 competitors ranking for your main keyword\"}]}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You didn’t just “learn about” SEO — you literally \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"built a data-backed game plan\"},{\"type\":\"text\",\"text\":\" to outrank the people currently taking your clicks.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Step-by-Step: What We Did Today\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Here’s the exact process we followed on the call:\"}]},{\"type\":\"orderedList\",\"attrs\":{\"start\":1},\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Make a copy of\"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"https://go.heytony.ca/email-tracking/15af357a05f?contactId={{contact.id}}&gid=0\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}},{\"type\":\"bold\"},{\"type\":\"underline\"}],\"text\":\" this spreadsheet\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"(The “Money Page Audit” sheet I shared with you.)\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Choose a money page from your site\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"This is a \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"product or service page\"},{\"type\":\"text\",\"text\":\" you actually want people to buy from or contact you through.\"}]}]}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Paste that URL into \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"http://PageAudit.com\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}},{\"type\":\"bold\"},{\"type\":\"underline\"}],\"text\":\"PageAudit.com\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Run an audit on your page.\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Copy the important info from the audit and paste it into your spreadsheet.\"}]}]}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Search your main keyword on Google\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Type in the keyword you want that page to rank for.\"}]}]}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Audit your top 2 competitors\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Open the \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"#1 and #2 ranking pages\"},{\"type\":\"text\",\"text\":\" in Google.\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Run each one through \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"http://PageAudit.com\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}}],\"text\":\"PageAudit.com\"},{\"type\":\"text\",\"text\":\".\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Add their data into the same spreadsheet.\"}]}]}]}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Now you’ve got \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"you vs. your top competitors\"},{\"type\":\"text\",\"text\":\" side-by-side in one place. That’s insanely powerful.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Why This Matters for Tomorrow\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Do NOT lose that spreadsheet.\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"You’ll need it tomorrow when we:\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Use \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"AI to help you optimize your money page\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Make data-driven changes based on what’s working for pages already ranking\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Turn your page into something that can actually \"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"compete\"},{\"type\":\"text\",\"text\":\" (or win)\"}]}]}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Tomorrow is where this all starts to really click.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Massive Props\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You showed up.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You picked a money page.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You audited it.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You looked your competitors in the eye and said, “Alright, I see what you’re doing.”\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"That’s real progress. Most business owners will \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"never\"},{\"type\":\"text\",\"text\":\" do this kind of work — and you just did it live.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"I’m proud of you. Keep going. This is how you win long-term.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"See you tomorrow at 1PM EST — we’re going to start optimizing that money page!\"}]}]}"
+  },
+  {
+   "pos": 119,
+   "file": "119_08-12-2025-replay",
+   "title": "08.12.2025 Replay",
+   "hash": "VNOJ13eADG",
+   "durSec": 3842,
+   "words": 9993,
+   "hasTranscript": true,
+   "aiSummary": "Enhance your website management skills with insights from a level one course focused on SEO and website optimization during \"Rank Week.\" Participants will learn to optimize product or service pages, conduct keyword research using tools like SEMrush and Ubersuggest, and analyze competitors to improve Google rankings. The session covers the importance of unique content, balanced keyword density, and ongoing keyword research, while providing practical examples and strategies for creating competitive content. Discover how to adapt product names and manage keywords effectively to boost visibility and sales in the long run."
+  },
+  {
+   "pos": 120,
+   "file": "120_rank-week-day-1-replay",
+   "title": "Rank Week Day 1 Replay",
+   "hash": "5244b4Gl21",
+   "durSec": 4669,
+   "words": 11757,
+   "hasTranscript": true,
+   "aiSummary": "{\"type\":\"doc\",\"content\":[{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Session #1 Recap: We Actually \"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"Did SEO Together\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Huge shoutout to everyone who showed up live today and got shit done. Seriously... seeing so many of you publish a blog post during the session is wild.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"You made real SEO progress, and I’m insanely proud of you.\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"We even managed to crash \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"http://AnswerThePublic.com\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}}],\"text\":\"AnswerThePublic.com\"},{\"type\":\"text\",\"text\":\"... yes, the entire site. I messaged Neil Patel after the call to tell him \"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"my people broke his tool\"},{\"type\":\"text\",\"text\":\".\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"We’ll take that as a badge of honour. lmao\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Zoom chat will be sorted for tomorrow too. Thanks for your patience!\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"text\":\"Here’s exactly what we accomplished today:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"1. Go to \"},{\"type\":\"text\",\"marks\":[{\"type\":\"link\",\"attrs\":{\"href\":\"http://AnswerThePublic.com\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer nofollow\",\"class\":null,\"appearance\":\"default\"}},{\"type\":\"bold\"}],\"text\":\"AnswerThePublic.com\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"2. Type in what you sell\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"3. Find a question you can answer\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"4. Go to ChatGPT and paste this prompt:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"“I'm writing a blog post answering this question: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"italic\"}],\"text\":\"[PASTE IN YOUR QUESTION]\"},{\"type\":\"hardBreak\",\"marks\":[{\"type\":\"italic\"}]},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"Ask me any questions you'd need to know the answer to in order to create a truly unique, helpful blog post.\"},{\"type\":\"hardBreak\",\"marks\":[{\"type\":\"italic\"}]},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"It should include my expertise, experience, case studies, etc. Keep it limited to 10 questions.”\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"5. Answer those 10 questions\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"6. Then paste this prompt:\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"“Write the blog post answering this question using my expertise, experience, case studies, etc.: \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"italic\"}],\"text\":\"[PASTE IN YOUR QUESTION]\"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"”\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"7. Copy the blog post into a blank document\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"8. Remove anything that feels like AI fluff or unnecessary numbered lists\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"9. Add 3 internal links to other relevant pages on your website\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"10. Publish it on your site\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"11. Once published, find 3 other related pages on your site and link \"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"},{\"type\":\"italic\"}],\"text\":\"to\"},{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\" your new post\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"marks\":[{\"type\":\"italic\"}],\"text\":\"(This helps Google find and rank it faster — internal links are magic.)\"}]},{\"type\":\"paragraph\",\"attrs\":{\"textAlign\":\"left\"},\"content\":[{\"type\":\"text\",\"marks\":[{\"type\":\"bold\"}],\"text\":\"Bonus:\"},{\"type\":\"hardBreak\"},{\"type\":\"text\",\"text\":\"You can use ChatGPT to generate blog images… or use personal/stock images if you prefer.\"}]}]}"
+  },
+  {
+   "pos": 121,
+   "file": "121_technical-replay-with-denroi-2025-12-04",
+   "title": "Technical Replay With Denroi 2025.12.04",
+   "hash": "5qnl0EMeDr",
+   "durSec": 3085,
+   "words": 8464,
+   "hasTranscript": true,
+   "aiSummary": "Participants engage in a productive discussion on SEO strategies and website development, led by Denroy, who shares insights on Google Search Console and managing tag pages. Key topics include improving low-traffic pages, keyword research, and the integration of YouTube with blog content. The conversation also covers the importance of internal linking, social media strategies, and email marketing, with plans for a newsletter relaunch. The meeting concludes with a commitment to implement the discussed strategies and a follow-up call scheduled in two weeks."
+  },
+  {
+   "pos": 122,
+   "file": "122_live-seo-workshop-2025-11-26",
+   "title": "Live SEO Workshop 2025.11.26",
+   "hash": "7qL3OLYmN9",
+   "durSec": 4348,
+   "words": 10535,
+   "hasTranscript": true,
+   "aiSummary": "The session focuses on effective SEO strategies to improve website ranking, highlighting a success story of using AI tools to rank a blog post without backlinks. Participants learn to identify relevant business questions using Answer the Public, select less competitive topics for content generation, and create helpful blog posts with AI assistance. Emphasis is placed on internal linking, content readability, and the importance of original images. The session concludes with tips on promoting content through social media and email, and an invitation to join ongoing collaborative SEO efforts."
+  },
+  {
+   "pos": 123,
+   "file": "123_work-session-writing-a-blog-post",
+   "title": "Work Session: Writing A Blog Post",
+   "hash": "4Ny4BrY7Da",
+   "durSec": 1752,
+   "words": 4122,
+   "hasTranscript": true,
+   "aiSummary": "The session demonstrates how to create a blog post using AI tools like ChatGPT and Semrush. Participants identify relevant blog questions, assess keyword competition, and generate content through AI responses. Key topics include targeting easily rankable questions for SEO, editing for clarity, and implementing internal linking strategies. The importance of adding images and meta descriptions is highlighted, along with plans to publish the post and monitor its search engine ranking."
+  },
+  {
+   "pos": 124,
+   "file": "124_why-doesn-t-it-rank-nov-21-2025",
+   "title": "Why doesn't it rank (Nov 21, 2025",
+   "hash": "5244ze4z21",
+   "durSec": 3871,
+   "words": 10932,
+   "hasTranscript": true,
+   "aiSummary": "Sa introduces a humorous ad featuring his face, while James shares insights from his music career and his son's social media success. The duo analyses a cleaning product website's SEO performance, highlighting low traffic despite social media attention and suggesting improvements like engaging blog content and better user experience. They discuss the importance of targeting smaller keywords, internal linking, and enhancing content depth to compete in SEO. Actionable insights focus on improving website design, navigation, and social media strategies to boost visibility and engagement."
+  },
+  {
+   "pos": 125,
+   "file": "125_seo-live-training",
+   "title": "SEO Live Training",
+   "hash": "w2VaL8PmqM",
+   "durSec": 5092,
+   "words": 12406,
+   "hasTranscript": true,
+   "aiSummary": "The session covers essential strategies for optimizing web pages to enhance SEO performance. Key topics include URL structure, keyword usage, heading tags, and meta descriptions, with participants sharing audit spreadsheets for collaborative feedback. Real-time adjustments and common SEO pitfalls, such as hidden text and keyword stuffing, are discussed, alongside the importance of local keywords and page speed. Tools like ChatGPT and keyword research platforms are recommended, and a new SEO training platform is introduced. The session concludes with a Q&A and encouragement for ongoing learning and support."
+  }
+ ]
+}

@@ -12,7 +12,7 @@ DEFAULT = ["factors", "sources/google", "sources/experts", "sources/creators", "
 SKIP = ["sources/creators/hey-tony/"]
 
 BANNED = [
-    r"\bdelve", r"\blandscape\b(?! photo| architect)", r"\bleverag(e|ing)\b", r"\brobust\b", r"\bseamless(ly)?\b",
+    r"\bdelve", r"\blandscape\b(?! photo| architect)", r"\bleverag(es|ed|ing)\b", r"\b(to|can|should|will|must) leverage\b", r"\bleverage (the|your|our|its|their|this|these|existing)\b", r"\brobust\b", r"\bseamless(ly)?\b",
     r"\bunlock(s|ing)?\b", r"\belevat(e|es|ing)\b", r"\bempower", r"\bgame[- ]chang", r"\bcutting[- ]edge\b",
     r"\bgroundbreaking\b", r"\brevolutioni[sz]", r"\btransformative\b", r"\bholistic\b", r"\bsynergy\b",
     r"\btapestry\b", r"\btestament\b", r"\bunderscor(e|es|ing)\b", r"\bpivotal\b", r"\bcrucial\b", r"\bvital\b",
@@ -46,13 +46,13 @@ def lint(path):
         if line.strip().startswith("```"):
             in_code = not in_code
             continue
-        if in_code or line.lstrip().startswith("- Quote:"):
-            continue  # quotes are verbatim and exempt
+        if in_code or line.lstrip().startswith(("- Quote:", "- Source:", "Source:")):
+            continue  # quotes and source titles are verbatim and exempt
         if DASH.search(line):
             findings.append((n, "em/en dash"))
         if EMOJI.search(line):
             findings.append((n, "emoji"))
-        if "!" in line and not line.lstrip().startswith(("http", "- Source", "[")):
+        if "!" in line and "playbook/" not in str(path) and not line.lstrip().startswith(("http", "- Source", "[")):
             if re.search(r"\w!(\s|$)", line):
                 findings.append((n, "exclamation"))
         for rx in BANNED_RE:

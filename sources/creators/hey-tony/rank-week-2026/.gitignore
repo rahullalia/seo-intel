@@ -1,0 +1,5 @@
+# Large binaries — regenerable, keep out of git
+videos/
+models/
+*.mp4
+*.wav

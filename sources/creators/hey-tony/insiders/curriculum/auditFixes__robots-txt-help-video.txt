@@ -1,0 +1,7 @@
+# Robots.txt (Help Video)
+
+HeyTony Insiders — Curriculum / auditFixes (hash: VDGxQ3AJNW) | 1m 7s | ~192 words
+
+---
+
+If you're getting an error or an issue, that's saying Robots txt is not accessible. Here's what that means. So basically every single website, if you go to whateveryourwebsiteis.comca.org, whatever, robots. TXT, you'll see something that looks like this. Some of them include more information. Mine is really simple. It basically just says allow everybody and anybody to access my website. This is generated automatically. So if you're on Squarespace, if you're on Wix, if you're on Shopify, if you're on WordPress, this will come automatically. You do not need to set anything up here. If you are getting this issue. Robots text not accessible then you need to contact whoever built your website or wherever you know. If you have a developer or if you're using a platform like a GoDaddy builder or something like that, contact that company and ask them, you know, what's going on with my robots. Txt file? It's not accessible, it doesn't exist. And you can check if yours actually exists by just going to, like I said earlier, whatever your website is.comcaor.org robots txt and if you see something like this, you're good to go.

@@ -1,0 +1,6692 @@
+1
+00:00:03,490 --> 00:00:06,650
+ Oh, man, am I nervous.
+
+2
+00:00:09,230 --> 00:00:11,670
+ This is going to be really, really great.
+
+3
+00:00:11,830 --> 00:00:15,390
+ I'm just waiting for Zoom to let everyone in.
+
+4
+00:00:15,510 --> 00:00:16,930
+ Brian, let's go.
+
+5
+00:00:17,950 --> 00:00:19,010
+ Let's go.
+
+6
+00:00:19,290 --> 00:00:20,500
+ I am pumped.
+
+7
+00:00:20,680 --> 00:00:22,060
+ This is so sick.
+
+8
+00:00:22,120 --> 00:00:22,880
+ Are you guys excited?
+
+9
+00:00:23,980 --> 00:00:25,420
+ Rank Week is finally here.
+
+10
+00:00:25,890 --> 00:00:27,090
+ We are doing this.
+
+11
+00:00:27,330 --> 00:00:28,590
+ Let me know in the chat.
+
+12
+00:00:29,080 --> 00:00:30,480
+ Chat is popping off.
+
+13
+00:00:31,580 --> 00:00:32,280
+ Hell yeah.
+
+14
+00:00:32,480 --> 00:00:33,160
+ Where's everybody from?
+
+15
+00:00:33,240 --> 00:00:33,860
+ Where's everybody from?
+
+16
+00:00:33,860 --> 00:00:35,520
+ Let's do a little bit of intro.
+
+17
+00:00:35,950 --> 00:00:41,540
+ Where's everybody from before we dive in as we wait for the slackers to arrive?
+
+18
+00:00:41,820 --> 00:00:44,480
+ Everybody who's late, who's not here on time.
+
+19
+00:00:45,190 --> 00:00:45,730
+ Oh, man.
+
+20
+00:00:46,570 --> 00:00:50,430
+ So I think this is most of the people who are going to join.
+
+21
+00:00:50,630 --> 00:00:56,710
+ And if anybody is slacking, if anybody is coming in a little bit late, they're going to miss some stuff.
+
+22
+00:00:56,710 --> 00:01:04,500
+ But first, I wanted to just tell you guys, I'm so excited that I'm wearing, look at this nice shirt.
+
+23
+00:01:04,800 --> 00:01:05,840
+ Like, look at this.
+
+24
+00:01:06,660 --> 00:01:08,120
+ I'm wearing a nice shirt today.
+
+25
+00:01:08,320 --> 00:01:09,800
+ I wanted to impress you guys.
+
+26
+00:01:09,840 --> 00:01:10,620
+ I want to look good.
+
+27
+00:01:11,020 --> 00:01:12,290
+ Button undone a little bit.
+
+28
+00:01:12,350 --> 00:01:13,470
+ Been outside tanning.
+
+29
+00:01:14,070 --> 00:01:14,990
+ Not actually tanning.
+
+30
+00:01:15,050 --> 00:01:16,150
+ Just sitting outside.
+
+31
+00:01:19,010 --> 00:01:19,390
+ Okay.
+
+32
+00:01:19,390 --> 00:01:21,200
+ So we're here.
+
+33
+00:01:21,200 --> 00:01:22,400
+ Angela is here.
+
+34
+00:01:23,300 --> 00:01:25,200
+ She is helping me out today.
+
+35
+00:01:25,300 --> 00:01:27,760
+ Angela is like my number one, number two.
+
+36
+00:01:28,440 --> 00:01:29,580
+ My wife is my number one.
+
+37
+00:01:29,680 --> 00:01:33,420
+ Angela is my number two person who's helping me on the team.
+
+38
+00:01:33,620 --> 00:01:37,700
+ And she is going to be sharing a bunch of links and everything that you guys are going to need today.
+
+39
+00:01:38,780 --> 00:01:42,970
+ So she'll be there and Renan should also be there as well.
+
+40
+00:01:43,090 --> 00:01:44,090
+ Actually, Angela.
+
+41
+00:01:44,510 --> 00:01:45,490
+ Oh, I don't know.
+
+42
+00:01:45,980 --> 00:01:46,600
+ Where is Renan?
+
+43
+00:01:46,720 --> 00:01:48,880
+ Renan is here, but she's not a panelist.
+
+44
+00:01:49,360 --> 00:01:49,900
+ That's right.
+
+45
+00:01:49,920 --> 00:01:50,640
+ I forgot one thing.
+
+46
+00:01:50,760 --> 00:01:51,420
+ I even got a haircut.
+
+47
+00:01:51,480 --> 00:01:52,540
+ I got a haircut last week, guys.
+
+48
+00:01:53,430 --> 00:01:54,230
+ So, okay.
+
+49
+00:01:54,910 --> 00:01:56,740
+ Let's get into this.
+
+50
+00:01:57,110 --> 00:01:58,950
+ Let me share my screen.
+
+51
+00:01:59,110 --> 00:02:02,010
+ I need to make sure I have my presentation open.
+
+52
+00:02:03,450 --> 00:02:04,080
+ Okay.
+
+53
+00:02:04,440 --> 00:02:06,210
+ I'm going to share my screen.
+
+54
+00:02:06,410 --> 00:02:07,450
+ How do I share this?
+
+55
+00:02:09,380 --> 00:02:10,370
+ Desktop one.
+
+56
+00:02:10,570 --> 00:02:11,150
+ Here we go.
+
+57
+00:02:11,270 --> 00:02:11,670
+ Oh, my God.
+
+58
+00:02:11,710 --> 00:02:12,210
+ Where is it?
+
+59
+00:02:12,270 --> 00:02:12,850
+ Where did it go?
+
+60
+00:02:13,010 --> 00:02:13,530
+ Here we go.
+
+61
+00:02:14,170 --> 00:02:15,050
+ Can you guys see this?
+
+62
+00:02:15,130 --> 00:02:16,070
+ Let me know in the chat.
+
+63
+00:02:16,690 --> 00:02:18,090
+ So, Hamilton baby.
+
+64
+00:02:19,070 --> 00:02:20,000
+ Oh, my God.
+
+65
+00:02:20,000 --> 00:02:20,960
+ The chat's moving too fast.
+
+66
+00:02:21,040 --> 00:02:21,720
+ Yes, you can see us.
+
+67
+00:02:22,240 --> 00:02:22,500
+ Okay.
+
+68
+00:02:23,350 --> 00:02:26,360
+ You see the big words of rank week on the screen.
+
+69
+00:02:27,580 --> 00:02:28,390
+ Great.
+
+70
+00:02:29,430 --> 00:02:29,830
+ Okay.
+
+71
+00:02:29,950 --> 00:02:33,660
+ So, I like to be a little bit chill with this stuff.
+
+72
+00:02:33,840 --> 00:02:36,380
+ So, I'm going to close the chat because I...
+
+73
+00:02:36,380 --> 00:02:37,080
+ What time did this start?
+
+74
+00:02:37,120 --> 00:02:37,740
+ It's starting right now.
+
+75
+00:02:38,850 --> 00:02:41,890
+ I get very, very distracted by the comments.
+
+76
+00:02:42,010 --> 00:02:47,430
+ So, I'm only going to open them up when I am asking you a question and I want to see your responses.
+
+77
+00:02:47,690 --> 00:02:48,870
+ So, welcome.
+
+78
+00:02:49,490 --> 00:02:51,810
+ Officially, welcome to rank week.
+
+79
+00:02:53,110 --> 00:02:53,210
+ Oh.
+
+80
+00:02:54,590 --> 00:02:57,920
+ Before we get into things, I'm going to say before we get into things a couple of times here.
+
+81
+00:02:57,920 --> 00:03:02,000
+ But there's going to be a special bonus at the very, very end for everybody who sticks around.
+
+82
+00:03:02,140 --> 00:03:04,160
+ And if you're watching the replay, I'm sorry.
+
+83
+00:03:04,460 --> 00:03:06,010
+ The bonus is live only.
+
+84
+00:03:06,190 --> 00:03:11,310
+ So, if you're here live and you stick around to the end, we're going for about an hour here, guys.
+
+85
+00:03:11,430 --> 00:03:13,190
+ And you're going to get so much stuff done.
+
+86
+00:03:13,310 --> 00:03:14,410
+ You're going to...
+
+87
+00:03:14,410 --> 00:03:18,180
+ I can't say too much because it's going to...
+
+88
+00:03:18,180 --> 00:03:18,540
+ Yeah.
+
+89
+00:03:18,620 --> 00:03:19,800
+ I don't want to...
+
+90
+00:03:19,800 --> 00:03:20,810
+ I don't even know.
+
+91
+00:03:20,910 --> 00:03:22,030
+ I'm just excited to be here.
+
+92
+00:03:22,130 --> 00:03:24,090
+ So, special bonus for everybody who stays to the end.
+
+93
+00:03:24,090 --> 00:03:28,660
+ And another thing that we're doing this time is we are doing the...
+
+94
+00:03:28,660 --> 00:03:30,560
+ What I call the most engaged bonus.
+
+95
+00:03:30,860 --> 00:03:36,860
+ So, the person who engages the most in the chat today will get an additional bonus.
+
+96
+00:03:37,060 --> 00:03:39,820
+ I'm actually going to send you something physical.
+
+97
+00:03:41,150 --> 00:03:47,160
+ So, one thing that I want to make clear, though, I'm not looking for a bunch of spam in the chat,
+
+98
+00:03:47,280 --> 00:03:49,740
+ a bunch of like saying the same thing over and over and over again.
+
+99
+00:03:49,920 --> 00:03:51,060
+ That's not what I'm looking for.
+
+100
+00:03:51,160 --> 00:03:53,660
+ So, if that's what you're doing right now, don't do that.
+
+101
+00:03:55,600 --> 00:03:57,680
+ I'm going to run all of this through Claude.
+
+102
+00:03:57,800 --> 00:04:04,600
+ I set up a custom thing that it's going to look for people who are engaging the most with what I'm saying, with each other.
+
+103
+00:04:04,720 --> 00:04:07,640
+ If you're helping somebody out, you get bonus points, guys.
+
+104
+00:04:08,660 --> 00:04:15,280
+ So, if somebody is stuck, if somebody is having a problem and you can help them, that's what the chat is all about.
+
+105
+00:04:16,130 --> 00:04:24,870
+ So, I know you guys are probably wondering, shit, there's been a lot of Google updates that have happened in the last, like, I don't know, month, month and a half.
+
+106
+00:04:25,050 --> 00:04:27,690
+ Who's wondering about these Google updates, right?
+
+107
+00:04:27,730 --> 00:04:29,610
+ There's been a lot, a lot of stuff happening.
+
+108
+00:04:30,540 --> 00:04:30,700
+ Yeah.
+
+109
+00:04:31,080 --> 00:04:32,220
+ Are you guys worried about them?
+
+110
+00:04:33,440 --> 00:04:34,140
+ Are you worried at all?
+
+111
+00:04:34,850 --> 00:04:41,490
+ Because if you are worried about them, you should not be worried about them because I'm here to look after you, right?
+
+112
+00:04:41,490 --> 00:04:48,310
+ I am here to make sure that all you need to do is focus on what you are doing for your business.
+
+113
+00:04:48,450 --> 00:04:50,210
+ Your genius skill is what I'm going to call it.
+
+114
+00:04:50,690 --> 00:04:55,450
+ Focus on doing that and leave the SEO updates and everything.
+
+115
+00:04:55,630 --> 00:04:57,130
+ To me, I will update you guys.
+
+116
+00:04:57,170 --> 00:04:58,870
+ I'll make sure you know everything that's going on.
+
+117
+00:04:59,330 --> 00:05:06,260
+ So, these updates, of course, are the AI, AI overviews, AI mode, zero click.
+
+118
+00:05:06,380 --> 00:05:16,770
+ Now, if anybody doesn't know what zero click is, it's basically when people Google things, you have the AI overviews or AI mode or chat GPT, and it just gives you the answer, right?
+
+119
+00:05:16,810 --> 00:05:19,270
+ So, websites are seeing a drop in clicks.
+
+120
+00:05:19,410 --> 00:05:23,670
+ This is across the board, and it is not necessarily a bad thing.
+
+121
+00:05:24,060 --> 00:05:28,750
+ If AI is recommending you, you will still make money.
+
+122
+00:05:28,870 --> 00:05:29,890
+ You will still get leads.
+
+123
+00:05:29,970 --> 00:05:34,380
+ You will still have people coming into your business, whatever it might be.
+
+124
+00:05:34,540 --> 00:05:37,110
+ So, oh, I'm like choking over here.
+
+125
+00:05:38,630 --> 00:05:45,970
+ Before, before, before we dive into the training for today, I want to make sure that you know that you're in the right place.
+
+126
+00:05:46,470 --> 00:05:58,480
+ So, we're going to talk about who this training is for, and just as importantly, who this training is not for, because if you, if this, if you, if you're, if this training isn't for you, it's not going to help.
+
+127
+00:05:58,670 --> 00:06:00,060
+ It's not going to work for you, right?
+
+128
+00:06:00,100 --> 00:06:01,040
+ And we're going to get through this.
+
+129
+00:06:01,040 --> 00:06:06,150
+ So, this training is for you if you have a real business and real bills to pay.
+
+130
+00:06:06,290 --> 00:06:07,190
+ Can I see in the chat?
+
+131
+00:06:07,530 --> 00:06:08,720
+ Do you have a real business?
+
+132
+00:06:08,860 --> 00:06:09,420
+ Yes or no?
+
+133
+00:06:09,640 --> 00:06:10,750
+ Do you have real bills to pay?
+
+134
+00:06:11,240 --> 00:06:12,020
+ Yes or no?
+
+135
+00:06:12,620 --> 00:06:14,780
+ I'm going to open up the chat real quick because I want to see.
+
+136
+00:06:14,960 --> 00:06:15,460
+ Yes, yes.
+
+137
+00:06:15,700 --> 00:06:16,720
+ Yes to bills.
+
+138
+00:06:17,260 --> 00:06:17,760
+ Holy shit.
+
+139
+00:06:17,880 --> 00:06:18,080
+ Okay.
+
+140
+00:06:18,850 --> 00:06:19,810
+ This is great.
+
+141
+00:06:20,250 --> 00:06:20,430
+ Okay.
+
+142
+00:06:20,530 --> 00:06:25,930
+ So, this training is for you if you've tried SEO before and it hasn't worked.
+
+143
+00:06:26,360 --> 00:06:27,790
+ Does this sound like you?
+
+144
+00:06:28,390 --> 00:06:30,010
+ Are you in the right place right now?
+
+145
+00:06:30,700 --> 00:06:31,100
+ Yes.
+
+146
+00:06:31,520 --> 00:06:32,200
+ Hell yes.
+
+147
+00:06:32,580 --> 00:06:32,940
+ Okay.
+
+148
+00:06:33,260 --> 00:06:34,260
+ So much so.
+
+149
+00:06:34,740 --> 00:06:35,100
+ Okay.
+
+150
+00:06:35,780 --> 00:06:42,190
+ This training is for you if you're tired of chasing leads and you want your customers to find you.
+
+151
+00:06:42,330 --> 00:06:47,810
+ It's for you if you're tired of watching your competitors outrank you.
+
+152
+00:06:47,810 --> 00:06:53,620
+ It's for you if you're willing to show up, do the work, and not just watch.
+
+153
+00:06:54,020 --> 00:06:58,340
+ This is why we have the engagement bonus today, right?
+
+154
+00:06:58,400 --> 00:06:59,660
+ I want you to show up.
+
+155
+00:06:59,910 --> 00:07:01,130
+ I want you to do the work.
+
+156
+00:07:01,430 --> 00:07:02,250
+ It's not hard.
+
+157
+00:07:02,330 --> 00:07:02,790
+ I promise.
+
+158
+00:07:02,890 --> 00:07:09,150
+ I'm going to show you exactly what to do and give you time to do it on this call right now.
+
+159
+00:07:09,680 --> 00:07:12,060
+ So, this training is for you.
+
+160
+00:07:12,330 --> 00:07:14,250
+ Do you guys feel like you're in the right place?
+
+161
+00:07:15,920 --> 00:07:17,710
+ Oh, my God.
+
+162
+00:07:17,730 --> 00:07:19,630
+ I just saw somebody say, will this session be recorded?
+
+163
+00:07:19,630 --> 00:07:22,110
+ And I'm like, did I start recording this?
+
+164
+00:07:22,230 --> 00:07:23,330
+ I need to double check.
+
+165
+00:07:24,670 --> 00:07:24,950
+ Okay.
+
+166
+00:07:25,010 --> 00:07:26,510
+ I am recording this.
+
+167
+00:07:26,750 --> 00:07:26,930
+ Thank.
+
+168
+00:07:27,170 --> 00:07:27,830
+ Oh, my God.
+
+169
+00:07:28,050 --> 00:07:28,770
+ You scared me.
+
+170
+00:07:28,810 --> 00:07:29,470
+ Whoever that was.
+
+171
+00:07:30,470 --> 00:07:31,850
+ You gave me a scare there.
+
+172
+00:07:32,800 --> 00:07:33,970
+ Okay.
+
+173
+00:07:34,230 --> 00:07:36,170
+ So, this training is for you.
+
+174
+00:07:36,380 --> 00:07:37,750
+ You guys feel like this training is for you.
+
+175
+00:07:37,830 --> 00:07:39,750
+ So, let's talk about who this training is not for.
+
+176
+00:07:40,310 --> 00:07:45,890
+ This training is not for you if you're okay with your website just sitting there collecting dust doing nothing for you.
+
+177
+00:07:46,450 --> 00:07:51,460
+ This training is not for you if you're happy paying an agency thousands of dollars to handle it for you.
+
+178
+00:07:51,460 --> 00:07:53,720
+ And I will say there is nothing wrong with that.
+
+179
+00:07:53,720 --> 00:07:56,360
+ But this training probably isn't for you if that's what you're looking for.
+
+180
+00:07:56,560 --> 00:08:01,050
+ This training is not for you if you're looking for overnight results.
+
+181
+00:08:01,210 --> 00:08:05,020
+ In the chat, who is willing to put in the time?
+
+182
+00:08:05,020 --> 00:08:08,890
+ Who is going to be patient?
+
+183
+00:08:10,110 --> 00:08:10,370
+ Yeah.
+
+184
+00:08:10,560 --> 00:08:11,400
+ All of you.
+
+185
+00:08:11,640 --> 00:08:12,760
+ I want to see everybody.
+
+186
+00:08:13,060 --> 00:08:15,880
+ Everybody here should be in the chat being like, yes, I'm patient.
+
+187
+00:08:16,060 --> 00:08:16,540
+ That's me.
+
+188
+00:08:16,940 --> 00:08:18,900
+ I'm not looking for overnight results.
+
+189
+00:08:20,050 --> 00:08:20,210
+ Okay.
+
+190
+00:08:20,310 --> 00:08:24,830
+ This training is not for you if you already get all the leads that you need and don't want more.
+
+191
+00:08:25,020 --> 00:08:28,200
+ It's not for you if you'd rather keep paying for ads.
+
+192
+00:08:28,400 --> 00:08:31,180
+ Again, if there's nothing wrong with that, if that works for your business, great.
+
+193
+00:08:31,280 --> 00:08:34,420
+ But this training is not for you if you'd rather keep paying for ads.
+
+194
+00:08:34,980 --> 00:08:38,100
+ So, I think you guys know why you're here.
+
+195
+00:08:38,300 --> 00:08:40,120
+ But let's talk about why you're here.
+
+196
+00:08:40,480 --> 00:08:42,580
+ You're here because you want to rank on Google and AI.
+
+197
+00:08:43,370 --> 00:08:46,230
+ You're here because you want your customers to find you.
+
+198
+00:08:46,290 --> 00:08:51,810
+ You're tired of wondering when your next client or where your next client is coming from.
+
+199
+00:08:51,890 --> 00:08:53,210
+ And I guess where they're coming from, too.
+
+200
+00:08:54,200 --> 00:09:00,070
+ You've been putting in the work, but you realize that nothing you're doing is working.
+
+201
+00:09:00,570 --> 00:09:04,750
+ You're pouring in hours and hours, watching tutorials, implementing, writing, trying every
+
+202
+00:09:04,750 --> 00:09:07,250
+ viral hack, and optimizing to the moon.
+
+203
+00:09:07,530 --> 00:09:10,470
+ But nothing you've tried is working, right?
+
+204
+00:09:10,530 --> 00:09:11,130
+ Who feels that?
+
+205
+00:09:11,820 --> 00:09:13,550
+ Who feels that right now?
+
+206
+00:09:15,380 --> 00:09:19,320
+ That's called growth, by the way.
+
+207
+00:09:20,140 --> 00:09:22,140
+ If you can identify that, that's called growth.
+
+208
+00:09:22,660 --> 00:09:26,540
+ So, you're here because your competitors are ranking.
+
+209
+00:09:27,320 --> 00:09:29,980
+ And new competitors are popping up out of nowhere, guys.
+
+210
+00:09:30,470 --> 00:09:32,270
+ You feel like you need to do something fast.
+
+211
+00:09:32,690 --> 00:09:34,670
+ And you know that that window is closing.
+
+212
+00:09:35,260 --> 00:09:37,510
+ And you don't want to miss your chance.
+
+213
+00:09:38,390 --> 00:09:39,730
+ So, that's why you're here.
+
+214
+00:09:40,200 --> 00:09:42,060
+ Let me talk about why I'm here quickly.
+
+215
+00:09:42,220 --> 00:09:44,880
+ I don't like talking about myself because I'm here to serve you.
+
+216
+00:09:45,450 --> 00:09:48,550
+ I'm here to show you how to get found on Google and AI.
+
+217
+00:09:48,960 --> 00:09:51,670
+ I'm showing you how to get consistent leads coming in.
+
+218
+00:09:51,670 --> 00:09:56,380
+ And how, oh my god, I can't even read or think.
+
+219
+00:09:56,780 --> 00:10:02,280
+ And to show you how to do it the right way without wasting your time doing the wrong things.
+
+220
+00:10:02,560 --> 00:10:07,120
+ I'm going to show you how to outrank your competitors, even if you've been invisible for years.
+
+221
+00:10:07,570 --> 00:10:11,020
+ Even if you've tried everything from agencies to courses to blogging to YouTube tutorials.
+
+222
+00:10:11,160 --> 00:10:14,740
+ Or hiring an expert on fiber to do it for you.
+
+223
+00:10:15,350 --> 00:10:16,630
+ So, here's how I know.
+
+224
+00:10:17,150 --> 00:10:18,350
+ And here's how I know this works.
+
+225
+00:10:19,040 --> 00:10:20,530
+ I need to tell you a story about Marcus.
+
+226
+00:10:20,530 --> 00:10:26,240
+ So, Marcus had a pool installation company in 2008, which I realized was 14 years ago.
+
+227
+00:10:26,320 --> 00:10:27,360
+ This is still relevant today.
+
+228
+00:10:27,620 --> 00:10:29,180
+ I promise you, and you're going to see why.
+
+229
+00:10:29,440 --> 00:10:31,100
+ He was struggling in 2008.
+
+230
+00:10:31,610 --> 00:10:32,670
+ No one was buying pools.
+
+231
+00:10:33,110 --> 00:10:35,370
+ And if they were, it wasn't from him.
+
+232
+00:10:36,170 --> 00:10:37,250
+ He was about to go bankrupt.
+
+233
+00:10:37,670 --> 00:10:38,210
+ True story.
+
+234
+00:10:38,790 --> 00:10:42,010
+ He had a real business and real bills to pay.
+
+235
+00:10:42,420 --> 00:10:43,940
+ But nothing he was doing was working.
+
+236
+00:10:44,020 --> 00:10:44,720
+ Does this sound familiar?
+
+237
+00:10:45,390 --> 00:10:48,370
+ He had no clear plan and no clear hope.
+
+238
+00:10:48,900 --> 00:10:49,660
+ Or no clear hope.
+
+239
+00:10:49,700 --> 00:10:50,060
+ No hope.
+
+240
+00:10:50,700 --> 00:10:52,380
+ But he had to make it work, right?
+
+241
+00:10:52,420 --> 00:10:53,040
+ It was his business.
+
+242
+00:10:53,140 --> 00:10:55,920
+ It was how he was paying his mortgage, feeding his family.
+
+243
+00:10:56,830 --> 00:10:59,550
+ He knew nothing about SEO, but he had an idea.
+
+244
+00:11:00,520 --> 00:11:03,000
+ Answer his customers' questions on his website.
+
+245
+00:11:03,360 --> 00:11:04,500
+ Sounds so simple.
+
+246
+00:11:05,520 --> 00:11:11,600
+ He did this every evening after his family went to sleep at his kitchen table with a laptop, right?
+
+247
+00:11:11,680 --> 00:11:12,680
+ No keyword research.
+
+248
+00:11:12,860 --> 00:11:13,760
+ None of that stuff.
+
+249
+00:11:14,450 --> 00:11:17,220
+ These were questions he heard from his potential customers.
+
+250
+00:11:17,220 --> 00:11:24,640
+ Now, all of us as business owners, we are also salespeople, which is very frustrating that nobody tells us this when we start a business.
+
+251
+00:11:25,600 --> 00:11:30,730
+ So he was going out on sales calls, and we all talk to customers.
+
+252
+00:11:31,090 --> 00:11:35,100
+ We hear questions from our customers over and over and over again.
+
+253
+00:11:35,160 --> 00:11:36,730
+ Sometimes they're the same questions.
+
+254
+00:11:36,830 --> 00:11:37,690
+ Sometimes they're variations.
+
+255
+00:11:37,850 --> 00:11:39,430
+ Sometimes they're more specific questions.
+
+256
+00:11:39,790 --> 00:11:47,260
+ But he was answering questions on his website that he was hearing from his customers while he was out on sales calls.
+
+257
+00:11:48,160 --> 00:11:54,960
+ And the result of him doing this was within two years, he had the number one pool website in the world.
+
+258
+00:11:55,220 --> 00:11:59,940
+ Now, I'm not saying I want any of us to have the number one pool website or website in the world.
+
+259
+00:12:00,100 --> 00:12:01,600
+ That is absolutely crazy.
+
+260
+00:12:01,760 --> 00:12:06,180
+ I want you to dominate your market, your niche, not the number one in the world.
+
+261
+00:12:06,320 --> 00:12:08,560
+ This is he absolutely killed it.
+
+262
+00:12:09,030 --> 00:12:12,150
+ So this is all because he had patience.
+
+263
+00:12:12,330 --> 00:12:14,130
+ He answered his customers questions.
+
+264
+00:12:14,510 --> 00:12:17,490
+ He was open and honest, and he was truly helpful.
+
+265
+00:12:18,030 --> 00:12:19,900
+ I'm going to repeat that last line again.
+
+266
+00:12:20,320 --> 00:12:22,620
+ He was truly helpful.
+
+267
+00:12:23,040 --> 00:12:25,360
+ That is what is ranking now.
+
+268
+00:12:25,360 --> 00:12:28,660
+ That is what people are looking for is helpful content.
+
+269
+00:12:28,980 --> 00:12:32,020
+ AI is looking for helpful content as well.
+
+270
+00:12:32,280 --> 00:12:39,960
+ If they're showing you the answer there, they want it to be the most helpful piece of content or the most helpful answer that they can come up with.
+
+271
+00:12:40,360 --> 00:12:41,240
+ And where are they getting that?
+
+272
+00:12:41,330 --> 00:12:43,180
+ They're getting that from you, right?
+
+273
+00:12:43,220 --> 00:12:45,520
+ They're getting that from the business owners.
+
+274
+00:12:46,660 --> 00:12:48,890
+ So all because of that, his customers found him.
+
+275
+00:12:48,970 --> 00:12:50,130
+ And that's what we're doing today.
+
+276
+00:12:51,610 --> 00:12:54,330
+ Oh, I read that before I even knew.
+
+277
+00:12:55,190 --> 00:12:57,350
+ So it's getting your customers to find you.
+
+278
+00:12:57,470 --> 00:12:58,530
+ That's what we're doing today.
+
+279
+00:12:58,530 --> 00:13:02,600
+ Even if you know nothing about SEO, are you ready?
+
+280
+00:13:03,250 --> 00:13:04,330
+ Let me know in the chat.
+
+281
+00:13:05,730 --> 00:13:06,670
+ Is blogging still relevant?
+
+282
+00:13:06,890 --> 00:13:08,050
+ Hell, yes, it is.
+
+283
+00:13:08,090 --> 00:13:11,480
+ It is more relevant than it has ever been, my friend.
+
+284
+00:13:11,960 --> 00:13:13,560
+ Look at all these people who are ready.
+
+285
+00:13:13,800 --> 00:13:16,640
+ If you are somebody who's not typing, yes, let's go.
+
+286
+00:13:16,740 --> 00:13:17,240
+ I'm ready.
+
+287
+00:13:17,660 --> 00:13:18,780
+ Get in the chat right now.
+
+288
+00:13:18,800 --> 00:13:20,100
+ I want to see you in there.
+
+289
+00:13:20,420 --> 00:13:22,640
+ We are doing an engagement bonus today.
+
+290
+00:13:22,800 --> 00:13:28,310
+ I want you to be a part of this as much as I am here being a part of this with you.
+
+291
+00:13:28,470 --> 00:13:29,510
+ Does that make any sense?
+
+292
+00:13:30,730 --> 00:13:31,410
+ Let's go.
+
+293
+00:13:31,910 --> 00:13:36,500
+ So when you guys, if you can take a sec, pause on the chat.
+
+294
+00:13:36,620 --> 00:13:37,720
+ Everybody pause in the chat.
+
+295
+00:13:37,940 --> 00:13:39,940
+ It's going wicked quick.
+
+296
+00:13:40,130 --> 00:13:41,190
+ Way too quick.
+
+297
+00:13:41,510 --> 00:13:42,660
+ Let's slow down.
+
+298
+00:13:42,740 --> 00:13:43,360
+ Stop in the chat.
+
+299
+00:13:43,440 --> 00:13:44,000
+ Stop in the chat.
+
+300
+00:13:44,100 --> 00:13:44,340
+ Okay.
+
+301
+00:13:44,480 --> 00:13:45,660
+ So we're ready.
+
+302
+00:13:45,780 --> 00:13:46,560
+ I know you guys are ready.
+
+303
+00:13:46,600 --> 00:13:47,440
+ I know you guys are excited.
+
+304
+00:13:48,100 --> 00:13:51,800
+ So there's a couple of things we're going to do here.
+
+305
+00:13:51,800 --> 00:14:00,520
+ Because of the sheer amount of people in this chat on this call, we're going to break some
+
+306
+00:14:00,520 --> 00:14:01,140
+ tools today.
+
+307
+00:14:01,610 --> 00:14:01,870
+ Okay.
+
+308
+00:14:01,910 --> 00:14:02,930
+ And we're going to start with mine.
+
+309
+00:14:03,040 --> 00:14:09,120
+ So the rankweektraining.com portal that you guys all have access to on the homepage.
+
+310
+00:14:09,260 --> 00:14:14,980
+ If you scroll down, if it loads for you, Victor, the training has started right now.
+
+311
+00:14:16,140 --> 00:14:17,270
+ Can you stop spamming, dude?
+
+312
+00:14:17,810 --> 00:14:18,130
+ All right.
+
+313
+00:14:23,130 --> 00:14:24,050
+ Rankweektraining.com.
+
+314
+00:14:24,090 --> 00:14:26,450
+ It's probably going to be really slow, not low.
+
+315
+00:14:26,550 --> 00:14:26,870
+ Don't worry.
+
+316
+00:14:26,950 --> 00:14:28,070
+ I have some other options for you.
+
+317
+00:14:28,070 --> 00:14:32,250
+ So if this works for you, find the section, scroll down on the homepage and click on find
+
+318
+00:14:32,250 --> 00:14:34,750
+ questions that should already be populated for you.
+
+319
+00:14:35,750 --> 00:14:38,730
+ If it isn't, type in what you sell.
+
+320
+00:14:38,970 --> 00:14:40,950
+ If you run a nail salon, you could type in nail salon.
+
+321
+00:14:41,050 --> 00:14:41,890
+ You could type in pedicure.
+
+322
+00:14:41,970 --> 00:14:42,690
+ You could type in manicure.
+
+323
+00:14:42,790 --> 00:14:44,410
+ Type in one thing, right?
+
+324
+00:14:44,590 --> 00:14:47,980
+ Roof repair, plumber, emergency plumber, right?
+
+325
+00:14:48,040 --> 00:14:48,760
+ Things like that.
+
+326
+00:14:48,820 --> 00:14:51,940
+ Type in the thing that you sell or one of the services that you sell.
+
+327
+00:14:52,560 --> 00:14:56,090
+ Now, if this site is not loading for you, don't freak out.
+
+328
+00:14:56,800 --> 00:14:57,280
+ Hang on.
+
+329
+00:14:57,560 --> 00:14:58,260
+ Stay there.
+
+330
+00:14:59,520 --> 00:15:00,860
+ I've prepared for this.
+
+331
+00:15:00,940 --> 00:15:02,340
+ This is not my first rodeo.
+
+332
+00:15:02,600 --> 00:15:07,260
+ If that site doesn't load, you can go to one of these sites here.
+
+333
+00:15:08,200 --> 00:15:09,650
+ Calm down in the chat.
+
+334
+00:15:09,770 --> 00:15:14,430
+ I don't want to see anybody chatting, right?
+
+335
+00:15:15,150 --> 00:15:17,980
+ Angela is going to post this link to all of these.
+
+336
+00:15:18,220 --> 00:15:19,180
+ And so we'll renown.
+
+337
+00:15:20,370 --> 00:15:21,380
+ Okay.
+
+338
+00:15:23,680 --> 00:15:25,800
+ If you don't stop spamming, I'm going to kick you out.
+
+339
+00:15:26,300 --> 00:15:28,190
+ That's what's going to happen, right?
+
+340
+00:15:28,890 --> 00:15:32,950
+ Go to one of the websites that they are sharing.
+
+341
+00:15:33,800 --> 00:15:36,410
+ Yeah, Victor's trying to get the engagement bonus.
+
+342
+00:15:36,650 --> 00:15:38,750
+ I can get it on the sites, but the questions don't load.
+
+343
+00:15:38,750 --> 00:15:41,480
+ The questions, you have to wait, right?
+
+344
+00:15:41,560 --> 00:15:46,080
+ We have thousands of people going to this, right?
+
+345
+00:15:46,260 --> 00:15:48,550
+ All of these country relevant.
+
+346
+00:15:48,770 --> 00:15:53,190
+ They are relevant to anybody who's looking up what you're selling, right?
+
+347
+00:15:53,410 --> 00:15:54,870
+ So go to one of these sites.
+
+348
+00:15:55,110 --> 00:15:56,010
+ And guess what?
+
+349
+00:15:56,070 --> 00:15:59,390
+ If you showed up to the tech check call or if you've read the emails that I sent.
+
+350
+00:16:00,120 --> 00:16:01,840
+ Yeah, Dimitri, this is why we do our homework, people.
+
+351
+00:16:02,160 --> 00:16:04,860
+ If you already have these, don't go to any of those sites.
+
+352
+00:16:04,940 --> 00:16:06,480
+ You have them saved in a document.
+
+353
+00:16:07,040 --> 00:16:09,020
+ You're going to choose one of those questions.
+
+354
+00:16:09,560 --> 00:16:10,340
+ I did the homework.
+
+355
+00:16:10,660 --> 00:16:10,860
+ Okay.
+
+356
+00:16:11,570 --> 00:16:13,190
+ So guys, can you pause in the chat?
+
+357
+00:16:13,530 --> 00:16:15,150
+ I want to make sure everybody gets the links.
+
+358
+00:16:15,630 --> 00:16:18,010
+ You can also take a screenshot of this if you want to do it later.
+
+359
+00:16:18,010 --> 00:16:23,790
+ And if you're watching the replay, you're laughing right now because none of these are all of these sites are going to work for you.
+
+360
+00:16:24,750 --> 00:16:25,690
+ Okay.
+
+361
+00:16:25,830 --> 00:16:29,920
+ So before I get to chat GPT, I'm going to wait a minute.
+
+362
+00:16:30,000 --> 00:16:40,760
+ I'm going to give you guys like an actual minute here to go find one of these sites, type in what you sell, and find questions that your customers are asking.
+
+363
+00:16:42,250 --> 00:16:44,890
+ Is this the same one in the Insiders Toolkit?
+
+364
+00:16:45,010 --> 00:16:45,970
+ Yes, it is, Anthony.
+
+365
+00:16:46,150 --> 00:16:47,870
+ You can use that as well if you want.
+
+366
+00:16:48,970 --> 00:16:52,670
+ Screen is not black right now.
+
+367
+00:16:53,290 --> 00:16:54,080
+ I am sharing.
+
+368
+00:16:54,080 --> 00:17:09,340
+ I really shouldn't drink Diet Coke during these calls because I end up burping and having to stop talking for a sec, but I'm thirsty.
+
+369
+00:17:12,010 --> 00:17:16,280
+ So while it's searching, everybody else just hang on for a sec.
+
+370
+00:17:17,760 --> 00:17:18,770
+ Just chill.
+
+371
+00:17:19,190 --> 00:17:22,470
+ I know I'm not sponsoring Diet Coke or Coca-Cola.
+
+372
+00:17:23,380 --> 00:17:27,370
+ It would be great if they paid me, but unfortunately, they're not.
+
+373
+00:17:29,080 --> 00:17:35,100
+ So, yeah, I found the best questions using findquestions.com.
+
+374
+00:17:35,200 --> 00:17:35,600
+ Great.
+
+375
+00:17:36,570 --> 00:17:39,460
+ So, 201 searches ahead of me on findquestions.com.
+
+376
+00:17:39,520 --> 00:17:39,880
+ That's okay.
+
+377
+00:17:40,270 --> 00:17:45,040
+ We're going to wait a minute, guys, because I want you to be able to follow along.
+
+378
+00:17:45,800 --> 00:17:46,880
+ You can use Ubersuggest.
+
+379
+00:17:47,100 --> 00:17:47,500
+ Definitely.
+
+380
+00:17:47,870 --> 00:17:49,230
+ There's so many different websites.
+
+381
+00:17:49,430 --> 00:17:53,590
+ These are just ones that I pulled up for you that are free, right?
+
+382
+00:17:53,710 --> 00:17:54,330
+ Rank Week Training.
+
+383
+00:17:54,510 --> 00:17:55,590
+ I set that up for you guys.
+
+384
+00:17:55,810 --> 00:17:57,290
+ Findquestions.com is also me.
+
+385
+00:17:57,550 --> 00:17:58,450
+ Answerthepublic.com.
+
+386
+00:17:58,870 --> 00:18:00,750
+ That one works sometimes.
+
+387
+00:18:00,930 --> 00:18:01,690
+ Answer Socrates.
+
+388
+00:18:02,250 --> 00:18:03,890
+ Free and also asked is free.
+
+389
+00:18:04,980 --> 00:18:06,140
+ So, yeah.
+
+390
+00:18:07,140 --> 00:18:11,660
+ So, I'm going to get into the next slides.
+
+391
+00:18:12,130 --> 00:18:12,980
+ I'm going to go.
+
+392
+00:18:13,200 --> 00:18:14,870
+ I'm going to read the prompts.
+
+393
+00:18:14,930 --> 00:18:16,090
+ I'm going to tell you guys what to do.
+
+394
+00:18:16,780 --> 00:18:20,700
+ And don't freak out if you can't keep up.
+
+395
+00:18:20,700 --> 00:18:23,240
+ I'm going to have all of this on one slide.
+
+396
+00:18:23,400 --> 00:18:25,440
+ And I'm going to leave that slide there.
+
+397
+00:18:26,350 --> 00:18:26,940
+ Okay?
+
+398
+00:18:27,890 --> 00:18:28,760
+ Cool.
+
+399
+00:18:29,060 --> 00:18:29,260
+ Okay.
+
+400
+00:18:29,340 --> 00:18:31,950
+ So, let me go a little bit forward.
+
+401
+00:18:32,330 --> 00:18:38,090
+ So, you're going to go to ChatGPT, Claude, Gemini, whatever AI, LLM you like to use.
+
+402
+00:18:38,490 --> 00:18:38,890
+ Right?
+
+403
+00:18:39,010 --> 00:18:40,310
+ And you're going to use this prompt.
+
+404
+00:18:40,430 --> 00:18:40,910
+ Don't worry.
+
+405
+00:18:41,010 --> 00:18:41,970
+ You will get this prompt.
+
+406
+00:18:42,050 --> 00:18:42,830
+ You can take a screenshot.
+
+407
+00:18:42,990 --> 00:18:43,410
+ Feel free.
+
+408
+00:18:44,450 --> 00:18:46,070
+ But you're going to use this prompt.
+
+409
+00:18:46,480 --> 00:18:48,570
+ I'm writing a blog post answering this question.
+
+410
+00:18:48,850 --> 00:18:51,350
+ Paste in one of the questions you just found.
+
+411
+00:18:51,830 --> 00:18:57,540
+ Ask me five questions you need to know the answer to in order to write a truly unique and helpful blog post.
+
+412
+00:18:57,540 --> 00:19:01,480
+ It should include my expertise, experience, case studies, opinions, etc.
+
+413
+00:19:02,100 --> 00:19:07,960
+ Ask me the questions one at a time and wait for my answer before asking me the next question.
+
+414
+00:19:08,480 --> 00:19:10,500
+ Now, you can use voice mode to answer these.
+
+415
+00:19:10,580 --> 00:19:11,460
+ You can type them out.
+
+416
+00:19:11,560 --> 00:19:12,860
+ You can do it however you want.
+
+417
+00:19:13,240 --> 00:19:14,540
+ Get the information in there.
+
+418
+00:19:14,680 --> 00:19:16,220
+ I'm going to give you time to do this.
+
+419
+00:19:16,500 --> 00:19:19,050
+ But I'm going to tell you the whole series of stuff.
+
+420
+00:19:19,550 --> 00:19:22,040
+ And I'm going to just bear with me.
+
+421
+00:19:22,120 --> 00:19:23,500
+ I've done this many times.
+
+422
+00:19:24,420 --> 00:19:27,220
+ You will answer the questions one at a time.
+
+423
+00:19:27,940 --> 00:19:30,440
+ When you're done, use this prompt.
+
+424
+00:19:30,900 --> 00:19:35,100
+ Write me the blog post answering the questions using my expertise, experience, opinions, stories, etc.
+
+425
+00:19:35,400 --> 00:19:36,820
+ I forgot to update this slide.
+
+426
+00:19:36,920 --> 00:19:39,440
+ There's a slightly different prompt, but it's on the next slide.
+
+427
+00:19:40,480 --> 00:19:42,840
+ Here is everything.
+
+428
+00:19:42,840 --> 00:19:50,140
+ So the updated prompt is write this as a clean WordPress ready blog post using my expertise, experience, opinions, stories, etc.
+
+429
+00:19:50,660 --> 00:19:52,340
+ Use H2 and H3 headings only.
+
+430
+00:19:52,680 --> 00:19:57,460
+ No horizontal rules, section dividers, tables, call-out boxes, or other formatting elements.
+
+431
+00:19:57,580 --> 00:20:00,620
+ Just headings, paragraphs, and bullet points where appropriate.
+
+432
+00:20:01,330 --> 00:20:04,550
+ Now, yeah, here's all the sites.
+
+433
+00:20:04,610 --> 00:20:11,190
+ You can go to rankweektrain.com, findquestions.com, answerthepublic.com, answersocrates.com, alsoasked.com.
+
+434
+00:20:12,090 --> 00:20:14,840
+ Second thing, you're going to find a question that you can answer.
+
+435
+00:20:15,390 --> 00:20:18,790
+ You're going to open up ChatGPT or another LLM of your choosing.
+
+436
+00:20:19,230 --> 00:20:22,230
+ And you're going to use the first prompt that is going to ask you questions.
+
+437
+00:20:22,890 --> 00:20:24,030
+ You can use voice mode to answer that.
+
+438
+00:20:24,050 --> 00:20:24,750
+ You can type them out.
+
+439
+00:20:24,810 --> 00:20:27,940
+ You can get that information into there any way you want.
+
+440
+00:20:28,000 --> 00:20:29,660
+ But I think those are the only two options.
+
+441
+00:20:30,700 --> 00:20:33,280
+ You're going to answer the questions that it asks you.
+
+442
+00:20:34,670 --> 00:20:37,230
+ Then you're going to use the last prompt that we just went over.
+
+443
+00:20:38,500 --> 00:20:44,000
+ Renan and Angela are going to be sharing the two links to actually get the prompts where you can copy-paste them.
+
+444
+00:20:44,540 --> 00:20:48,780
+ So rankweektraining.com slash prompts or heytony.ca slash prompts.
+
+445
+00:20:49,610 --> 00:20:52,950
+ Rank Week Training might be slow because there's so many people on it.
+
+446
+00:20:52,990 --> 00:20:55,910
+ But heytony.ca sure as hell will work.
+
+447
+00:20:56,310 --> 00:20:58,230
+ So click on one of those.
+
+448
+00:20:58,330 --> 00:21:00,510
+ I'm just going to make sure in the chat that they're sharing those.
+
+449
+00:21:01,170 --> 00:21:02,310
+ So open those up.
+
+450
+00:21:03,450 --> 00:21:06,790
+ I am going to leave this here.
+
+451
+00:21:08,380 --> 00:21:10,000
+ And you guys are going to go work on this.
+
+452
+00:21:10,260 --> 00:21:15,900
+ So it is 22 minutes after the hour.
+
+453
+00:21:16,880 --> 00:21:18,240
+ I am going to give you guys.
+
+454
+00:21:18,340 --> 00:21:20,560
+ I'm setting a timer on my phone right now.
+
+455
+00:21:21,540 --> 00:21:24,170
+ I'm going to give you 30 minutes.
+
+456
+00:21:25,230 --> 00:21:29,190
+ 30 minutes starting now to go do all of this stuff.
+
+457
+00:21:29,250 --> 00:21:31,660
+ Fair?
+
+458
+00:21:32,160 --> 00:21:33,000
+ Does that sound like a deal?
+
+459
+00:21:37,270 --> 00:21:37,690
+ This works.
+
+460
+00:21:37,810 --> 00:21:38,210
+ Yeah, sorry.
+
+461
+00:21:38,620 --> 00:21:40,050
+ It works for a Wix site.
+
+462
+00:21:40,110 --> 00:21:40,770
+ It works for Squarespace.
+
+463
+00:21:40,770 --> 00:21:42,150
+ It looks for custom coded sites.
+
+464
+00:21:42,210 --> 00:21:42,970
+ It works for everything.
+
+465
+00:21:43,510 --> 00:21:49,340
+ I just said write this as a clean WordPress ready blog post because AI understands what that is.
+
+466
+00:21:49,480 --> 00:21:51,030
+ You can don't do Substack.
+
+467
+00:21:51,110 --> 00:21:52,330
+ You can do anything else.
+
+468
+00:21:52,810 --> 00:21:54,150
+ Any other website builder.
+
+469
+00:21:54,290 --> 00:21:54,970
+ Show it websites.
+
+470
+00:21:55,150 --> 00:21:55,890
+ Yes, absolutely.
+
+471
+00:21:56,380 --> 00:21:57,850
+ I'm going to leave this one up.
+
+472
+00:21:57,930 --> 00:21:59,110
+ I'm going to leave this slide up.
+
+473
+00:21:59,270 --> 00:22:00,250
+ It's not going anywhere.
+
+474
+00:22:00,890 --> 00:22:03,430
+ But I'm going to reset the timer because I'm still talking here.
+
+475
+00:22:04,540 --> 00:22:07,780
+ Let's say, how do I cancel?
+
+476
+00:22:07,960 --> 00:22:08,550
+ Okay.
+
+477
+00:22:08,550 --> 00:22:11,720
+ The timer is going to, excuse me.
+
+478
+00:22:12,120 --> 00:22:14,690
+ Timer is starting now.
+
+479
+00:22:14,850 --> 00:22:18,340
+ If you want to set a timer, we're going to be back in 30 minutes.
+
+480
+00:22:18,460 --> 00:22:24,140
+ I know this is probably different training than you've been on where it's just somebody talking at you the whole time.
+
+481
+00:22:24,620 --> 00:22:27,520
+ This is where you go and do the work.
+
+482
+00:22:27,800 --> 00:22:28,700
+ I'm going on mute.
+
+483
+00:22:29,150 --> 00:22:37,860
+ I'm going off camera and Angela and Renan will be in the chat helping you guys out.
+
+484
+00:22:37,860 --> 00:22:47,810
+ And if somebody has a question that you can answer in the chat, if somebody's having a problem and you finish early, please, please, please go through and help somebody else up.
+
+485
+00:22:48,620 --> 00:22:48,780
+ Right.
+
+486
+00:22:48,940 --> 00:22:51,140
+ Scott is typing out the prompts.
+
+487
+00:22:51,260 --> 00:22:52,000
+ That is amazing.
+
+488
+00:22:52,160 --> 00:22:52,400
+ Okay.
+
+489
+00:22:52,540 --> 00:22:55,720
+ I'll see you guys in about 30 minutes.
+
+490
+00:22:55,900 --> 00:22:57,020
+ Go do the work.
+
+491
+00:22:57,120 --> 00:22:58,480
+ This is everything you need to know.
+
+492
+00:22:58,880 --> 00:23:02,560
+ It might be a little bit slow on some of these sites, but you will get there.
+
+493
+00:23:02,850 --> 00:23:05,570
+ I will see you in 29 minutes now.
+
+494
+00:23:05,570 --> 00:43:16,250
+ I'm just jumping back in to tell you guys you have about nine minutes left.
+
+495
+00:43:17,500 --> 00:43:19,980
+ So please keep working on this.
+
+496
+00:43:20,300 --> 00:43:20,920
+ I'm here.
+
+497
+00:43:21,040 --> 00:43:21,980
+ I'm watching the comments.
+
+498
+00:43:22,570 --> 00:43:23,090
+ This is great.
+
+499
+00:43:23,170 --> 00:43:24,490
+ So many of you are getting this done.
+
+500
+00:43:25,380 --> 00:43:27,890
+ We have just under nine minutes left.
+
+501
+00:43:28,030 --> 00:43:28,990
+ I will see you then.
+
+502
+00:43:29,490 --> 00:43:30,590
+ Keep working on this stuff.
+
+503
+00:43:31,220 --> 00:44:26,130
+ I have a couple more things I need to show you today and we should be able to wrap up shortly after you guys are killing it.
+
+504
+00:51:39,820 --> 00:51:40,480
+ Hell yeah.
+
+505
+00:51:40,820 --> 00:51:41,980
+ I am seeing in the chat.
+
+506
+00:51:41,980 --> 00:51:44,980
+ Sorry if I scared anybody, but just coming on and yelling.
+
+507
+00:51:46,060 --> 00:51:50,820
+ I am seeing in the chat so many of you saying done, done, done, done, done.
+
+508
+00:51:51,020 --> 00:51:51,660
+ Love this.
+
+509
+00:51:51,700 --> 00:51:53,520
+ This is the easiest thing I've ever done.
+
+510
+00:51:54,210 --> 00:51:55,710
+ This is how it is done.
+
+511
+00:51:57,090 --> 00:52:02,590
+ So if anybody is finished, if anybody is complete with their blog post, I'm not saying to post it on your site yet.
+
+512
+00:52:02,670 --> 00:52:03,690
+ I'm not saying to do anything.
+
+513
+00:52:04,380 --> 00:52:05,520
+ Are you done?
+
+514
+00:52:05,770 --> 00:52:06,400
+ Let me know.
+
+515
+00:52:11,480 --> 00:52:11,700
+ Shit.
+
+516
+00:52:11,830 --> 00:52:12,790
+ This is insane.
+
+517
+00:52:13,500 --> 00:52:17,740
+ I also have some friends watching the chat as well.
+
+518
+00:52:17,740 --> 00:52:22,920
+ They're like, this is the most insane chat I have ever seen live.
+
+519
+00:52:23,880 --> 00:52:25,870
+ So kudos to you guys.
+
+520
+00:52:25,970 --> 00:52:27,370
+ You guys are absolutely killing it.
+
+521
+00:52:27,710 --> 00:52:28,350
+ I love that.
+
+522
+00:52:29,560 --> 00:52:29,770
+ Yeah.
+
+523
+00:52:29,890 --> 00:52:33,170
+ So I'm going to close the chat because if I read this shit, I will lose track.
+
+524
+00:52:33,610 --> 00:52:34,950
+ My ADHD will kick in.
+
+525
+00:52:35,400 --> 00:52:35,940
+ I'm not muted.
+
+526
+00:52:36,180 --> 00:52:36,640
+ You're muted.
+
+527
+00:52:37,600 --> 00:52:38,590
+ People can hear me.
+
+528
+00:52:39,150 --> 00:52:39,350
+ Okay.
+
+529
+00:52:40,190 --> 00:52:48,520
+ So the next thing I want you to do, either paste that into a Word doc or paste it onto a blog on your website.
+
+530
+00:52:49,120 --> 00:52:50,300
+ One of those two things.
+
+531
+00:52:50,300 --> 00:52:53,120
+ If you know how to do the blog on your website, paste it in there.
+
+532
+00:52:53,240 --> 00:52:54,320
+ Do not publish it yet.
+
+533
+00:52:54,400 --> 00:52:57,530
+ Or paste it in a Word doc of your choosing.
+
+534
+00:52:57,770 --> 00:53:00,540
+ I'm going to give you two minutes to do this.
+
+535
+00:53:01,020 --> 00:53:03,850
+ I'm setting my timer right now.
+
+536
+00:53:04,510 --> 00:53:08,000
+ Two minutes to do this.
+
+537
+00:53:08,750 --> 00:53:08,930
+ Okay.
+
+538
+00:53:09,750 --> 00:53:14,440
+ Paste it into a Word doc or a blog post on your website.
+
+539
+00:53:14,840 --> 00:53:19,660
+ Now, for those of you who have already done this, this is the next step.
+
+540
+00:53:20,060 --> 00:53:25,090
+ You're going to open up three different links on your website.
+
+541
+00:53:25,690 --> 00:53:28,990
+ The first one is going to be a product or service.
+
+542
+00:53:29,350 --> 00:53:32,430
+ Choose one product or one service on your website.
+
+543
+00:53:32,930 --> 00:53:36,490
+ This is also known as a money page, which we are going to talk about tomorrow.
+
+544
+00:53:37,430 --> 00:53:40,600
+ I think that is the most popular day is tomorrow.
+
+545
+00:53:40,760 --> 00:53:43,460
+ So if you loved what's happening today, make sure you come back tomorrow.
+
+546
+00:53:43,460 --> 00:53:49,580
+ So you're going to open up three links right now in three different tabs or just open up three links.
+
+547
+00:53:49,740 --> 00:53:59,560
+ A product or service, your homepage, and one other blog post that is related to this blog post that you just wrote in some way.
+
+548
+00:54:00,020 --> 00:54:03,050
+ If you don't have a blog post, just get the other two links.
+
+549
+00:54:08,660 --> 00:54:08,760
+ Okay.
+
+550
+00:54:08,970 --> 00:54:10,510
+ So I'm going to go back for a sec.
+
+551
+00:54:11,460 --> 00:54:20,460
+ Paste the blog post that chat or Claude or whatever just wrote for you into a Word doc or onto your website as a post.
+
+552
+00:54:20,620 --> 00:54:22,350
+ Do not publish it.
+
+553
+00:54:22,920 --> 00:54:25,180
+ If you only have a landing page, you need to add blogs.
+
+554
+00:54:25,340 --> 00:54:34,320
+ Paste the whatever, paste the whatever, paste the blog post that chat or Claude or whatever LLM you're using just wrote.
+
+555
+00:54:34,560 --> 00:54:35,620
+ You just answer those questions.
+
+556
+00:54:36,080 --> 00:54:38,620
+ Paste that into a Word doc or onto your website.
+
+557
+00:54:39,120 --> 00:54:40,480
+ That was the two minutes.
+
+558
+00:54:40,720 --> 00:54:41,020
+ Okay.
+
+559
+00:54:41,760 --> 00:54:43,600
+ Now you're going to open up three links.
+
+560
+00:54:43,700 --> 00:54:46,880
+ I'm going to give you another two minutes to do that.
+
+561
+00:54:47,950 --> 00:54:48,510
+ Here we go.
+
+562
+00:54:49,380 --> 00:54:50,320
+ Open up three pages.
+
+563
+00:54:50,560 --> 00:54:55,470
+ A product or service page, your homepage, and another blog post.
+
+564
+00:54:55,550 --> 00:54:58,170
+ If you don't have the other blog posts, the first two are fine.
+
+565
+00:55:02,500 --> 00:55:05,920
+ You're going to do this.
+
+566
+00:55:05,920 --> 00:55:07,490
+ Got a minute and a half.
+
+567
+00:55:07,650 --> 00:55:09,850
+ Beautiful balloons.
+
+568
+00:55:10,320 --> 00:55:14,820
+ We can also do like sick laser shows, right?
+
+569
+00:55:14,880 --> 00:55:16,380
+ Or like fireworks.
+
+570
+00:55:17,140 --> 00:55:19,040
+ There's a bunch of shit that we can do here.
+
+571
+00:55:19,130 --> 00:55:25,160
+ Or I can show you guys some love, right?
+
+572
+00:55:25,480 --> 00:55:33,620
+ So if you missed the prompts, if you missed anything, you can watch the replay and the prompts will be available there.
+
+573
+00:55:33,620 --> 00:55:43,050
+ I will also send an email to you guys after later today with the replay, with all the links to everything that you guys are going to need.
+
+574
+00:55:43,570 --> 00:55:44,810
+ So that will be in there.
+
+575
+00:55:45,640 --> 00:55:45,800
+ Cool?
+
+576
+00:55:46,540 --> 00:55:47,260
+ Cool.
+
+577
+00:55:50,890 --> 00:55:51,980
+ All right.
+
+578
+00:55:52,060 --> 00:55:54,640
+ Does everybody have their three pages or two pages open?
+
+579
+00:56:01,380 --> 00:56:01,560
+ Okay.
+
+580
+00:56:01,640 --> 00:56:02,500
+ A couple no's.
+
+581
+00:56:02,680 --> 00:56:05,180
+ We still got about 30 seconds on the clock.
+
+582
+00:56:05,440 --> 00:56:06,250
+ No pressure.
+
+583
+00:56:10,110 --> 00:56:10,830
+ Two or three pages.
+
+584
+00:56:10,910 --> 00:56:11,690
+ A product or service.
+
+585
+00:56:11,690 --> 00:56:17,310
+ So it's important that it's a product or service that you are selling, that you want to sell, that you want to rank higher.
+
+586
+00:56:18,120 --> 00:56:18,660
+ Your homepage.
+
+587
+00:56:19,440 --> 00:56:20,330
+ That's simple.
+
+588
+00:56:20,470 --> 00:56:21,750
+ That's just a link to your website.
+
+589
+00:56:22,250 --> 00:56:25,310
+ And then three, another blog post if you have one.
+
+590
+00:56:25,390 --> 00:56:26,930
+ If you don't have one, that is okay.
+
+591
+00:56:28,850 --> 00:56:32,090
+ Do I get extra credit if I have 100 plus active Chrome tabs?
+
+592
+00:56:32,310 --> 00:56:33,450
+ Jeremy, I'm sorry.
+
+593
+00:56:34,430 --> 00:56:34,690
+ No.
+
+594
+00:56:34,870 --> 00:56:35,830
+ You actually lose points.
+
+595
+00:56:36,250 --> 00:56:37,650
+ Close some of those tabs, dude.
+
+596
+00:56:39,090 --> 00:56:39,630
+ Okay.
+
+597
+00:56:40,060 --> 00:56:41,730
+ So time is up.
+
+598
+00:56:41,870 --> 00:56:47,030
+ We have five, four, three, two, one.
+
+599
+00:56:47,920 --> 00:56:49,140
+ Timer is going off.
+
+600
+00:56:49,490 --> 00:56:50,440
+ Can you guys hear that?
+
+601
+00:56:51,050 --> 00:56:51,930
+ Timer is going off.
+
+602
+00:56:52,010 --> 00:56:55,270
+ That means it's time to move on to the next slide.
+
+603
+00:56:55,390 --> 00:56:57,540
+ So you have those three links.
+
+604
+00:56:57,540 --> 00:56:58,620
+ You have it pasted.
+
+605
+00:56:58,920 --> 00:57:03,010
+ What I want you to do now, and I'm going to give you a little bit more time to do this.
+
+606
+00:57:03,280 --> 00:57:04,580
+ I'll give you four minutes.
+
+607
+00:57:05,080 --> 00:57:08,340
+ I want you to go into that Google Doc or onto your website.
+
+608
+00:57:09,070 --> 00:57:13,000
+ Highlight words that describe either your product page or your service page.
+
+609
+00:57:13,260 --> 00:57:16,670
+ Your homepage, which it could just be the type of business you run.
+
+610
+00:57:16,670 --> 00:57:25,190
+ It could be your business name and the blog post and create links from your new post to those other pages.
+
+611
+00:57:25,410 --> 00:57:26,350
+ Okay.
+
+612
+00:57:26,470 --> 00:57:30,330
+ I'm going to give you four minutes to do this, and I will repeat it again.
+
+613
+00:57:30,430 --> 00:57:31,450
+ So four minutes is starting.
+
+614
+00:57:32,090 --> 00:57:40,500
+ Now, go to your Google Doc or to your website, wherever you have the blog post pasted, right?
+
+615
+00:57:40,560 --> 00:57:47,160
+ You're going to highlight words that describe one of the three pages that you're linking to that we just found.
+
+616
+00:57:47,160 --> 00:57:51,440
+ So either your product or service page, your homepage, or another blog post.
+
+617
+00:57:51,800 --> 00:57:56,510
+ You're going to highlight words that describe each of those pages, and you're going to insert a link.
+
+618
+00:57:58,420 --> 00:57:59,850
+ Okay.
+
+619
+00:58:02,110 --> 00:58:09,840
+ This is called internal linking, and we're going to be talking more about this.
+
+620
+00:58:10,000 --> 00:58:15,490
+ But if you're not sure how to insert a link, go to ChatGPT or Claude and say,
+
+621
+00:58:15,590 --> 00:58:26,580
+ how do I add a link to a blog post or to another page on my site from highlighted words, right?
+
+622
+00:58:26,580 --> 00:58:30,980
+ And then say, I use WordPress, I use Shopify, I use Wix, Squarespace, all this kind of stuff.
+
+623
+00:58:31,880 --> 00:58:36,730
+ The title of this blog post is the question, right?
+
+624
+00:58:36,770 --> 00:58:39,010
+ The question you answered is the title of the blog post.
+
+625
+00:58:51,290 --> 00:58:51,430
+ Yeah.
+
+626
+00:58:51,490 --> 00:58:52,670
+ And some of you guys, it's okay.
+
+627
+00:58:52,670 --> 00:59:00,190
+ If you can't keep up, if you're still working on your blog post or answering the questions or finding the links,
+
+628
+00:59:00,190 --> 00:59:02,290
+ that is perfectly fine, too.
+
+629
+00:59:02,750 --> 00:59:06,550
+ You will have time to do this later, right?
+
+630
+00:59:06,550 --> 00:59:10,270
+ I want to make sure that you understand what you need to do.
+
+631
+00:59:11,280 --> 00:59:14,540
+ Yeah, we're going to be doing something else tomorrow.
+
+632
+00:59:15,220 --> 00:59:16,700
+ That is not going to be writing a blog post.
+
+633
+00:59:16,920 --> 00:59:19,540
+ We will be using AI, but in a different way.
+
+634
+00:59:21,590 --> 00:59:24,310
+ If the word is repeated a lot, do I link every one of them?
+
+635
+00:59:24,770 --> 00:59:25,050
+ No.
+
+636
+00:59:25,390 --> 00:59:28,320
+ One word or one phrase, right?
+
+637
+00:59:28,360 --> 00:59:31,420
+ So in this case, on my screen, I have a probate guide.
+
+638
+00:59:31,420 --> 00:59:36,400
+ So I would link to my probate guide, whatever that is, right?
+
+639
+00:59:36,560 --> 00:59:37,420
+ So I would link to that.
+
+640
+00:59:37,420 --> 00:59:42,700
+ If I said, I do SEO services in Hamilton, I would link the words SEO services in Hamilton
+
+641
+00:59:42,700 --> 00:59:46,580
+ to my service page, right?
+
+642
+00:59:46,600 --> 00:59:54,940
+ If I sold ceramic mugs, I would link a word like ceramic mug to my ceramic mug product page.
+
+643
+00:59:55,900 --> 00:59:57,040
+ Hamilton love, Lisa.
+
+644
+01:00:02,290 --> 01:00:09,570
+ You guys still have a minute and a half to link these.
+
+645
+01:00:10,250 --> 01:00:17,290
+ You can leave, not leave the Zoom, but go from Zoom to your browser and do this.
+
+646
+01:00:17,920 --> 01:00:18,540
+ That's okay.
+
+647
+01:00:18,540 --> 01:00:19,040
+ I'm here.
+
+648
+01:00:19,140 --> 01:00:20,240
+ This is still on the screen.
+
+649
+01:00:24,310 --> 01:00:26,250
+ Can you ask AI to add the links for you?
+
+650
+01:00:26,590 --> 01:00:27,490
+ You can sure as I'll try.
+
+651
+01:00:27,570 --> 01:00:30,150
+ It doesn't always work, which is why I'm not doing it in this training.
+
+652
+01:00:30,150 --> 01:00:34,990
+ But you can say, hey, here's three links that I want to add to this blog post and see if
+
+653
+01:00:34,990 --> 01:00:36,630
+ ChatGPT will do that for you.
+
+654
+01:00:36,730 --> 01:00:39,110
+ We're doing three links for this page.
+
+655
+01:00:39,740 --> 01:00:39,860
+ Amen.
+
+656
+01:00:40,310 --> 01:00:40,660
+ Amen.
+
+657
+01:00:42,240 --> 01:00:45,420
+ So questions, get one blog post.
+
+658
+01:00:45,630 --> 01:00:50,180
+ So all the questions that you answered is answering one question.
+
+659
+01:00:51,860 --> 01:00:52,800
+ That is your blog post.
+
+660
+01:00:58,330 --> 01:00:59,210
+ Can you add more links?
+
+661
+01:00:59,270 --> 01:01:00,810
+ You can, but we're not doing that today.
+
+662
+01:01:00,870 --> 01:01:01,790
+ You don't need to do that.
+
+663
+01:01:01,870 --> 01:01:03,430
+ If you add too many links, it's a bad thing.
+
+664
+01:01:03,560 --> 01:01:05,170
+ We're going to do two to three links.
+
+665
+01:01:09,200 --> 01:01:11,650
+ And you can do that in a Word document as well.
+
+666
+01:01:24,560 --> 01:01:29,100
+ Is this live as well?
+
+667
+01:01:29,320 --> 01:01:30,120
+ What was that question?
+
+668
+01:01:30,720 --> 01:01:32,240
+ There was a live yesterday as well.
+
+669
+01:01:32,680 --> 01:01:34,160
+ There was a tech check yesterday.
+
+670
+01:01:35,070 --> 01:01:35,390
+ All right.
+
+671
+01:01:35,580 --> 01:01:36,100
+ You hear that?
+
+672
+01:01:37,250 --> 01:01:37,950
+ You guys hear that?
+
+673
+01:01:39,020 --> 01:01:39,410
+ Okay.
+
+674
+01:01:40,110 --> 01:01:41,660
+ That is the timer.
+
+675
+01:01:41,980 --> 01:01:45,390
+ We are moving on to the next step.
+
+676
+01:01:48,270 --> 01:01:52,980
+ If you haven't posted this on your site, you now have a blog post that you can post on your
+
+677
+01:01:52,980 --> 01:01:58,590
+ site and it is more likely to rank than 99% of what is out there.
+
+678
+01:01:59,780 --> 01:02:08,310
+ So I just want to say that the problem with Rank Week, and it's fantastic, is that it ends,
+
+679
+01:02:08,470 --> 01:02:08,710
+ right?
+
+680
+01:02:08,710 --> 01:02:12,510
+ By the end of the week, you know, we're saying our goodbyes, right?
+
+681
+01:02:12,530 --> 01:02:13,390
+ You're off on your own.
+
+682
+01:02:13,790 --> 01:02:16,840
+ You just learned things that actually work.
+
+683
+01:02:17,280 --> 01:02:18,330
+ You just did real SEO.
+
+684
+01:02:19,200 --> 01:02:23,740
+ So I want to hear in the chat, you just did real SEO.
+
+685
+01:02:23,860 --> 01:02:24,640
+ And don't be sad, guys.
+
+686
+01:02:25,740 --> 01:02:26,860
+ Are you pumped?
+
+687
+01:02:29,750 --> 01:02:31,190
+ That was easy AF.
+
+688
+01:02:32,050 --> 01:02:33,900
+ Were you able to follow along?
+
+689
+01:02:34,710 --> 01:02:36,980
+ Do you feel good?
+
+690
+01:02:37,100 --> 01:02:38,840
+ This is like, you just did real SEO.
+
+691
+01:02:41,670 --> 01:02:49,080
+ And like, I know this sounds so easy, so, so easy, but this is what SEO is.
+
+692
+01:02:49,580 --> 01:02:54,890
+ We're going to get into some more stuff later this week, but this is a big foundational
+
+693
+01:02:54,890 --> 01:03:01,170
+ part of SEO, and you just use AI to do it in a way that nobody else is using AI.
+
+694
+01:03:01,310 --> 01:03:02,270
+ I mean, like I say nobody else.
+
+695
+01:03:02,470 --> 01:03:04,390
+ There's like a bunch of you on here.
+
+696
+01:03:04,790 --> 01:03:09,210
+ You guys are all using this now, but most people doing SEO are just going to ChachiBD
+
+697
+01:03:09,210 --> 01:03:11,510
+ and saying, write me a blog post, optimize my page.
+
+698
+01:03:11,590 --> 01:03:12,170
+ What do I do?
+
+699
+01:03:12,230 --> 01:03:12,810
+ All this stuff.
+
+700
+01:03:13,350 --> 01:03:19,840
+ You just added your expertise, your experience, your opinions, any examples to a real piece
+
+701
+01:03:19,840 --> 01:03:27,080
+ of content, and you did real SEO that is going to stand out from everything else that is out
+
+702
+01:03:27,080 --> 01:03:29,260
+ there relating to that specific topic.
+
+703
+01:03:30,260 --> 01:03:32,030
+ So pat yourselves on the back.
+
+704
+01:03:32,340 --> 01:03:33,190
+ This is amazing.
+
+705
+01:03:34,150 --> 01:03:35,250
+ We're going to continue.
+
+706
+01:03:36,050 --> 01:03:42,210
+ So this is something that I know from doing SEO for over 15 years, working with hundreds
+
+707
+01:03:42,210 --> 01:03:48,010
+ of clients, training thousands of people on how to do this themselves, is that the people
+
+708
+01:03:48,010 --> 01:03:53,440
+ who get results aren't the ones who learn the most in a single day or a single week.
+
+709
+01:03:53,940 --> 01:03:56,200
+ They're the ones who keep going afterwards.
+
+710
+01:03:57,310 --> 01:03:58,260
+ This is Veruna.
+
+711
+01:03:58,260 --> 01:04:02,630
+ In just two hours, her blog post hit Google's number one page and Google AI.
+
+712
+01:04:03,330 --> 01:04:05,670
+ She knew nothing about SEO before this.
+
+713
+01:04:06,230 --> 01:04:09,070
+ Cam, ranking second for one that he posted yesterday.
+
+714
+01:04:09,190 --> 01:04:10,650
+ This was from last Rank Week.
+
+715
+01:04:11,380 --> 01:04:15,460
+ Josh, that blog is already number one reference in Gemini.
+
+716
+01:04:16,250 --> 01:04:21,170
+ That's what happens when you keep going, when you keep going after Rank Week ends, and you
+
+717
+01:04:21,170 --> 01:04:26,540
+ keep putting in the time and the effort, you get results, right?
+
+718
+01:04:26,910 --> 01:04:30,890
+ That's what happens exactly when you know exactly what to do next.
+
+719
+01:04:31,920 --> 01:04:33,880
+ And that's why I created the Hey Tony Insiders.
+
+720
+01:04:34,940 --> 01:04:38,760
+ It exists to help you never lose the momentum that you started today.
+
+721
+01:04:38,940 --> 01:04:40,400
+ You just made real progress.
+
+722
+01:04:40,400 --> 01:04:43,160
+ You got a real blog post done, and you did real SEO.
+
+723
+01:04:44,190 --> 01:04:49,500
+ Every Monday, we work on your site together, live, guided, step by step.
+
+724
+01:04:49,720 --> 01:04:52,640
+ And I know there's a bunch of insiders in the chat right now.
+
+725
+01:04:53,140 --> 01:04:54,140
+ Can I just hear from the insiders?
+
+726
+01:04:55,810 --> 01:04:57,380
+ Yeah?
+
+727
+01:05:00,900 --> 01:05:02,930
+ We are here.
+
+728
+01:05:03,300 --> 01:05:04,020
+ Here, here, here.
+
+729
+01:05:04,610 --> 01:05:05,450
+ What's an insider?
+
+730
+01:05:06,030 --> 01:05:13,680
+ So I also want to mention that every Friday, we, I say we, I get on a call with you, with
+
+731
+01:05:13,680 --> 01:05:19,490
+ the group, and we look at what's working, what isn't, and we fix it.
+
+732
+01:05:20,640 --> 01:05:25,200
+ And when you get stuck at 10pm on a Tuesday, there's a community of people doing the exact
+
+733
+01:05:25,200 --> 01:05:28,460
+ same thing you are with someone there to answer.
+
+734
+01:05:28,660 --> 01:05:31,260
+ So you can post a question, people can answer it for you.
+
+735
+01:05:31,700 --> 01:05:36,200
+ It's actually crazy how supportive and helpful the community is.
+
+736
+01:05:36,200 --> 01:05:38,300
+ Everybody wants everybody else to win.
+
+737
+01:05:38,900 --> 01:05:41,820
+ And that is the kind of place that I know I want to be in.
+
+738
+01:05:42,850 --> 01:05:45,590
+ Does that sound like a place that you want to be in, where everybody else wants you to
+
+739
+01:05:45,590 --> 01:05:47,460
+ win, and you want everybody else to win?
+
+740
+01:05:49,290 --> 01:05:51,420
+ Yeah, absolutely.
+
+741
+01:05:53,160 --> 01:05:54,970
+ This is insane.
+
+742
+01:05:56,620 --> 01:05:57,560
+ Coco, I see ya.
+
+743
+01:05:57,720 --> 01:05:58,570
+ Thanks for the love.
+
+744
+01:06:00,150 --> 01:06:01,910
+ So I just want to show you a couple more.
+
+745
+01:06:02,050 --> 01:06:07,150
+ Yvonne came in as a complete beginner, went from position 12 to position 2 with, and this
+
+746
+01:06:07,150 --> 01:06:09,470
+ is her words, very little computer savvy.
+
+747
+01:06:10,010 --> 01:06:11,650
+ She just kept showing up.
+
+748
+01:06:12,350 --> 01:06:12,630
+ Marvin.
+
+749
+01:06:12,810 --> 01:06:14,250
+ Marvin's in the chat today.
+
+750
+01:06:14,250 --> 01:06:20,650
+ He used what he learned to land a client at $799 a month from last rank week.
+
+751
+01:06:20,890 --> 01:06:21,410
+ Marvin.
+
+752
+01:06:22,650 --> 01:06:24,130
+ Hey, how's it going?
+
+753
+01:06:26,380 --> 01:06:35,130
+ So my question for you is, how much is one client or customer worth to you, right?
+
+754
+01:06:35,230 --> 01:06:40,160
+ If you make one sale, Daniel, 15 to 20k, I want to be in your business.
+
+755
+01:06:40,570 --> 01:06:42,670
+ 50k a month, 200k.
+
+756
+01:06:43,300 --> 01:06:45,910
+ Okay, maybe some realtors, millions.
+
+757
+01:06:47,290 --> 01:06:52,680
+ Realistically, if you get one client, how much is that worth to you, right?
+
+758
+01:06:52,840 --> 01:06:57,330
+ If you wrote this blog post today, and that's all you did, and you got one client, would
+
+759
+01:06:57,330 --> 01:06:57,970
+ that be worth it?
+
+760
+01:06:58,590 --> 01:06:59,980
+ I think so.
+
+761
+01:07:01,910 --> 01:07:02,340
+ Yeah.
+
+762
+01:07:03,680 --> 01:07:04,820
+ This is insane.
+
+763
+01:07:05,770 --> 01:07:09,210
+ I'm going to analyze this entire chat because I want to know everything about you guys so
+
+764
+01:07:09,210 --> 01:07:12,370
+ I can help you for every single day in rank week.
+
+765
+01:07:13,070 --> 01:07:19,410
+ And if you guys are having issues, right, paste it in the chat, just because I'm not calling
+
+766
+01:07:19,410 --> 01:07:24,870
+ it out, doesn't mean I'm not seeing it doesn't mean I'm not logging that and making every single
+
+767
+01:07:24,870 --> 01:07:26,010
+ day of rank week better.
+
+768
+01:07:26,590 --> 01:07:31,730
+ So again, the more that you engage, the more that it helps me make training that's going
+
+769
+01:07:31,730 --> 01:07:35,850
+ to work for the most people in this group for you specifically.
+
+770
+01:07:36,410 --> 01:07:38,420
+ So that's great.
+
+771
+01:07:39,140 --> 01:07:43,870
+ You like one client is worth hundreds, if not thousands of dollars for a lot of you.
+
+772
+01:07:44,300 --> 01:07:45,470
+ That's fantastic.
+
+773
+01:07:45,590 --> 01:07:46,090
+ I love that.
+
+774
+01:07:46,470 --> 01:07:51,990
+ So I want to invite you guys to join the Hey Tony insiders and we're going to do a Q&A
+
+775
+01:07:51,990 --> 01:07:55,150
+ and there's still a bonus immediately after this.
+
+776
+01:07:55,550 --> 01:07:59,180
+ So if you want to join the Hey Tony insiders, stop in the chat.
+
+777
+01:07:59,640 --> 01:08:03,810
+ Angela and Renan are going to be pasting the registration link.
+
+778
+01:08:04,170 --> 01:08:08,090
+ If you want to join, you can use that June 2026 discount code.
+
+779
+01:08:08,170 --> 01:08:09,810
+ You get 10 bucks off your first month.
+
+780
+01:08:10,390 --> 01:08:12,810
+ That is the price you paid for rank week, 10 bucks.
+
+781
+01:08:13,210 --> 01:08:15,810
+ So insiders, please.
+
+782
+01:08:16,060 --> 01:08:16,940
+ This is insane.
+
+783
+01:08:18,040 --> 01:08:20,600
+ So they're sharing that link.
+
+784
+01:08:20,820 --> 01:08:26,140
+ We're going to get into a Q&A, but I want to talk about the bonus, which we're going to
+
+785
+01:08:26,140 --> 01:08:28,350
+ paste in after in a bit.
+
+786
+01:08:28,590 --> 01:08:30,550
+ So Angela and Renan don't paste the bonus right away.
+
+787
+01:08:30,770 --> 01:08:35,210
+ The bonus is the ebook version of my book get found.
+
+788
+01:08:35,470 --> 01:08:38,930
+ I have one right here, right?
+
+789
+01:08:38,990 --> 01:08:39,910
+ And it's a physical book.
+
+790
+01:08:39,950 --> 01:08:43,590
+ So if you prefer that, you can go buy it or you can get the audio or not the audio book,
+
+791
+01:08:43,670 --> 01:08:45,530
+ the ebook for free.
+
+792
+01:08:46,410 --> 01:08:49,200
+ It is inside rank week training.
+
+793
+01:08:49,480 --> 01:08:52,220
+ I will send out a link to you guys to grab that.
+
+794
+01:08:53,070 --> 01:08:54,020
+ Thank you, Hayden.
+
+795
+01:08:54,160 --> 01:08:55,360
+ Hayden saying it's a great book.
+
+796
+01:08:55,440 --> 01:08:56,060
+ Many tips.
+
+797
+01:08:56,300 --> 01:08:56,980
+ Love that.
+
+798
+01:08:57,300 --> 01:09:03,180
+ So, um, yeah, I'll be sending out this link in a moment.
+
+799
+01:09:05,880 --> 01:09:07,710
+ Um, guys, stop, stop in the chat.
+
+800
+01:09:07,980 --> 01:09:09,070
+ Calm down in the chat for a sec.
+
+801
+01:09:10,570 --> 01:09:13,660
+ Somebody's saying, Matt, can you create an audio book of this?
+
+802
+01:09:14,270 --> 01:09:17,130
+ Do you guys think I was born yesterday?
+
+803
+01:09:17,330 --> 01:09:18,610
+ You don't think I did that already?
+
+804
+01:09:18,750 --> 01:09:22,450
+ You don't think there is an audio book version of this on Audible right now that you can go
+
+805
+01:09:22,450 --> 01:09:22,830
+ grab?
+
+806
+01:09:23,230 --> 01:09:24,050
+ Come on.
+
+807
+01:09:24,340 --> 01:09:25,300
+ I read it myself.
+
+808
+01:09:25,380 --> 01:09:27,340
+ It took me way longer than I thought it would.
+
+809
+01:09:27,880 --> 01:09:30,410
+ Um, yeah, it's, uh, it's there.
+
+810
+01:09:31,100 --> 01:09:35,970
+ Um, yeah, so hey, Tony insiders, I'm inviting you guys to join.
+
+811
+01:09:36,090 --> 01:09:41,420
+ We still have a full week of rank week, but this code is only good today, right?
+
+812
+01:09:41,540 --> 01:09:44,660
+ So no discount for annual, you're already getting two months off.
+
+813
+01:09:44,660 --> 01:09:49,360
+ Uh, this code works for the, um, the monthly subscription.
+
+814
+01:09:49,680 --> 01:09:56,700
+ So will I read it to you guys and, uh, serve you milk and cookies?
+
+815
+01:09:56,940 --> 01:09:57,360
+ Possibly.
+
+816
+01:09:57,720 --> 01:09:58,580
+ That would be great.
+
+817
+01:09:58,660 --> 01:09:59,440
+ I'd be like Santa Claus.
+
+818
+01:09:59,880 --> 01:10:00,900
+ Um, okay.
+
+819
+01:10:00,960 --> 01:10:10,200
+ So with that in mind, um, let's get to the Q and a, um, so if you have a question, uh,
+
+820
+01:10:10,200 --> 01:10:16,530
+ I want you to raise your zoom hand and I'm going to admit certain people from this randomly.
+
+821
+01:10:16,770 --> 01:10:18,750
+ You're going to come on.
+
+822
+01:10:19,470 --> 01:10:23,110
+ I want you to be able to turn on your camera though, because if you don't, people won't
+
+823
+01:10:23,110 --> 01:10:24,110
+ be able to see you.
+
+824
+01:10:24,130 --> 01:10:27,090
+ And it looks like I'm talking to myself and I look like a big idiot.
+
+825
+01:10:27,270 --> 01:10:27,530
+ Okay.
+
+826
+01:10:27,830 --> 01:10:28,840
+ Don't make me look dumb.
+
+827
+01:10:30,530 --> 01:10:31,310
+ Um, okay.
+
+828
+01:10:31,390 --> 01:10:39,350
+ So while I wait for people to raise their hands, I want to ask you, how do you feel about today?
+
+829
+01:10:39,350 --> 01:10:41,740
+ In one word, do you feel good?
+
+830
+01:10:41,860 --> 01:10:43,000
+ Do you feel bad?
+
+831
+01:10:43,320 --> 01:10:48,180
+ Do you feel fantastic, optimistic, inspired, validated?
+
+832
+01:10:48,340 --> 01:10:48,640
+ Oh my God.
+
+833
+01:10:48,640 --> 01:10:49,400
+ These are all great words.
+
+834
+01:10:49,800 --> 01:10:51,380
+ How do you feel about today?
+
+835
+01:10:52,150 --> 01:10:54,130
+ And I'm not looking for only positives guys.
+
+836
+01:10:54,230 --> 01:10:59,160
+ If you are frustrated, if you're behind, let me know in the chat, right?
+
+837
+01:11:03,280 --> 01:11:03,640
+ Clarity.
+
+838
+01:11:04,020 --> 01:11:04,240
+ Wow.
+
+839
+01:11:04,360 --> 01:11:04,960
+ I love that.
+
+840
+01:11:05,300 --> 01:11:06,710
+ Empowered, excited.
+
+841
+01:11:07,920 --> 01:11:08,720
+ Let's that's great.
+
+842
+01:11:09,020 --> 01:11:10,790
+ I want you to remember how you feel today.
+
+843
+01:11:10,790 --> 01:11:14,570
+ And we're going to take that moving forward every single day this week.
+
+844
+01:11:14,850 --> 01:11:16,180
+ You guys are killers.
+
+845
+01:11:16,480 --> 01:11:21,520
+ I can tell there's some people in the chat that I'm like, oh, that person's like a serial
+
+846
+01:11:21,520 --> 01:11:25,260
+ killer almost like not in a bad way, but like you're going to do really well.
+
+847
+01:11:25,260 --> 01:11:26,700
+ Well, I love that.
+
+848
+01:11:26,820 --> 01:11:31,230
+ So what I'm going to do here is I'm going to invite some people to be panelists.
+
+849
+01:11:32,140 --> 01:11:36,840
+ Keep your mic muted until I say your name and we will get to a Q&A.
+
+850
+01:11:37,040 --> 01:11:39,210
+ So I'm just going to add some people.
+
+851
+01:11:39,330 --> 01:11:39,550
+ Oops.
+
+852
+01:11:40,070 --> 01:11:43,580
+ Felicia, don't unmute you just yet.
+
+853
+01:11:43,820 --> 01:11:44,860
+ Promote to panelist.
+
+854
+01:11:45,340 --> 01:11:47,300
+ I'm going to choose some random people here.
+
+855
+01:11:49,130 --> 01:11:49,710
+ Let's see.
+
+856
+01:11:49,830 --> 01:11:50,810
+ Let's see who we got.
+
+857
+01:11:52,060 --> 01:11:54,150
+ Okay.
+
+858
+01:11:54,880 --> 01:11:56,540
+ Promote to panelist.
+
+859
+01:11:58,150 --> 01:12:02,250
+ Um, okay.
+
+860
+01:12:02,900 --> 01:12:05,900
+ Promote to panelist.
+
+861
+01:12:06,170 --> 01:12:11,420
+ I'm literally just choosing random people from this list.
+
+862
+01:12:11,500 --> 01:12:13,240
+ So thank you guys for raising your hands.
+
+863
+01:12:13,960 --> 01:12:19,080
+ Um, my God, guys, there's so many of you.
+
+864
+01:12:19,160 --> 01:12:21,060
+ I can't even keep up.
+
+865
+01:12:21,090 --> 01:12:27,300
+ Every single time you guys raise your hand, it gives a little pop, uh, which I love.
+
+866
+01:12:28,320 --> 01:12:30,320
+ Um, who, who do we have here?
+
+867
+01:12:31,120 --> 01:12:32,180
+ Okay.
+
+868
+01:12:34,720 --> 01:12:37,940
+ Um, how many panelists do we have?
+
+869
+01:12:38,300 --> 01:12:43,130
+ Let's go with, um, hold on, hold on, hold on.
+
+870
+01:12:43,440 --> 01:12:44,990
+ Mario, turn off your camera, buddy.
+
+871
+01:12:45,110 --> 01:12:45,930
+ People can see you.
+
+872
+01:12:49,000 --> 01:12:51,950
+ Uh, oh my God, this is crazy.
+
+873
+01:12:51,990 --> 01:12:56,030
+ It's moving too fast for me to even, uh, choose some names.
+
+874
+01:12:56,090 --> 01:12:56,210
+ Okay.
+
+875
+01:12:56,210 --> 01:12:56,930
+ I'll choose two more.
+
+876
+01:12:57,050 --> 01:12:58,050
+ Oh my God.
+
+877
+01:12:58,900 --> 01:12:59,710
+ Oh my God.
+
+878
+01:12:59,750 --> 01:13:00,750
+ Stop, stop, stop.
+
+879
+01:13:03,230 --> 01:13:03,880
+ This is fun.
+
+880
+01:13:03,940 --> 01:13:04,520
+ This is really fun.
+
+881
+01:13:04,600 --> 01:13:05,840
+ I don't know if you guys are having fun.
+
+882
+01:13:05,920 --> 01:13:07,380
+ I'm having a lot of fun today.
+
+883
+01:13:08,220 --> 01:13:09,130
+ Um, all right.
+
+884
+01:13:09,150 --> 01:13:09,790
+ One more.
+
+885
+01:13:09,790 --> 01:13:11,490
+ Who am I going to pick random scroll?
+
+886
+01:13:12,040 --> 01:13:12,600
+ Okay.
+
+887
+01:13:12,700 --> 01:13:13,560
+ Let's go here.
+
+888
+01:13:13,730 --> 01:13:15,660
+ All right.
+
+889
+01:13:15,760 --> 01:13:19,560
+ So if you are, oh my God, you guys all have your cameras on.
+
+890
+01:13:19,620 --> 01:13:20,420
+ People can see you.
+
+891
+01:13:20,720 --> 01:13:21,920
+ That's totally fine.
+
+892
+01:13:22,020 --> 01:13:22,620
+ That's great.
+
+893
+01:13:22,760 --> 01:13:23,780
+ Can you guys see everybody?
+
+894
+01:13:23,900 --> 01:13:26,560
+ Can you see Megan R at the moment?
+
+895
+01:13:27,820 --> 01:13:28,040
+ No.
+
+896
+01:13:28,160 --> 01:13:29,200
+ Is it cause I'm sharing my screen?
+
+897
+01:13:29,300 --> 01:13:29,620
+ Probably.
+
+898
+01:13:30,220 --> 01:13:30,520
+ Okay.
+
+899
+01:13:30,620 --> 01:13:31,920
+ So I'm going to stop sharing.
+
+900
+01:13:32,380 --> 01:13:32,820
+ Now.
+
+901
+01:13:32,900 --> 01:13:36,280
+ Can we see everybody in here?
+
+902
+01:13:37,400 --> 01:13:39,000
+ Yeah, yeah, yeah, yeah, yeah.
+
+903
+01:13:39,310 --> 01:13:39,780
+ Okay.
+
+904
+01:13:39,920 --> 01:13:40,880
+ We're going to start with Megan R.
+
+905
+01:13:41,840 --> 01:13:42,620
+ Hello.
+
+906
+01:13:42,900 --> 01:13:44,840
+ Uh, oh, I need to ask you to unmute.
+
+907
+01:13:44,980 --> 01:13:47,540
+ Did that work?
+
+908
+01:13:47,700 --> 01:13:48,480
+ I can't hear you.
+
+909
+01:13:48,560 --> 01:13:48,980
+ There you are.
+
+910
+01:13:49,180 --> 01:13:49,420
+ Hello.
+
+911
+01:13:49,540 --> 01:13:50,000
+ How are you?
+
+912
+01:13:50,220 --> 01:13:51,130
+ Hi, I'm good.
+
+913
+01:13:51,230 --> 01:13:51,610
+ How are you?
+
+914
+01:13:51,710 --> 01:13:52,610
+ How, how was today?
+
+915
+01:13:53,350 --> 01:13:54,760
+ Super excited.
+
+916
+01:13:54,780 --> 01:13:55,080
+ Oh yeah.
+
+917
+01:13:55,620 --> 01:13:56,410
+ Love that.
+
+918
+01:13:56,830 --> 01:13:58,560
+ Um, my blog post ready to go.
+
+919
+01:13:58,760 --> 01:14:02,460
+ So I already emailed my web designer to turn that on, whatever that is.
+
+920
+01:14:03,780 --> 01:14:04,620
+ I love that.
+
+921
+01:14:04,680 --> 01:14:05,100
+ That's amazing.
+
+922
+01:14:05,160 --> 01:14:05,740
+ What's your question?
+
+923
+01:14:05,980 --> 01:14:06,480
+ How can I help?
+
+924
+01:14:06,480 --> 01:14:08,440
+ So I sell high ticket dog training.
+
+925
+01:14:08,640 --> 01:14:14,730
+ My website basically functions like a squeeze page, drives people to schedule a call and
+
+926
+01:14:14,730 --> 01:14:15,270
+ into the funnel.
+
+927
+01:14:15,570 --> 01:14:18,540
+ Do I need to put the blog?
+
+928
+01:14:18,830 --> 01:14:20,200
+ Like I don't have social links.
+
+929
+01:14:20,320 --> 01:14:21,880
+ I don't like my website has one job.
+
+930
+01:14:21,980 --> 01:14:26,760
+ Do I need to put my blog in the navigation of my site?
+
+931
+01:14:27,890 --> 01:14:29,810
+ Or can it just be hosted on my site?
+
+932
+01:14:29,810 --> 01:14:32,370
+ And then the Google will find it.
+
+933
+01:14:34,130 --> 01:14:37,010
+ The Google, our Lord and savior Google.
+
+934
+01:14:37,550 --> 01:14:38,530
+ Um, no, I'm just joking.
+
+935
+01:14:38,730 --> 01:14:43,590
+ Um, so what you're doing is you're probably driving ad traffic to your website.
+
+936
+01:14:43,590 --> 01:14:45,090
+ You're probably driving social traffic.
+
+937
+01:14:45,210 --> 01:14:47,490
+ It's a squeeze page, social traffic.
+
+938
+01:14:47,550 --> 01:14:47,690
+ Okay.
+
+939
+01:14:48,310 --> 01:14:51,570
+ So I haven't run a, I haven't run a paid ad in probably four years.
+
+940
+01:14:52,130 --> 01:14:52,610
+ Congratulations.
+
+941
+01:14:52,790 --> 01:14:53,370
+ That's amazing.
+
+942
+01:14:53,890 --> 01:14:54,500
+ Good for you.
+
+943
+01:14:55,000 --> 01:14:56,940
+ Um, so I love organic as well.
+
+944
+01:14:57,300 --> 01:15:04,020
+ Um, your page as it is now is what I would call a landing page or a sales page.
+
+945
+01:15:04,300 --> 01:15:07,440
+ And that, that page has one job to convert, right?
+
+946
+01:15:07,440 --> 01:15:11,660
+ And that's your entire website is probably that one page with a thank you page likely.
+
+947
+01:15:12,250 --> 01:15:12,890
+ Yeah.
+
+948
+01:15:13,080 --> 01:15:15,300
+ Services, but yeah, it's I think four pages.
+
+949
+01:15:15,740 --> 01:15:20,220
+ So when you drive people to that site, you don't want them going to a blog post.
+
+950
+01:15:20,280 --> 01:15:23,100
+ You don't want them going anywhere else because you're driving them right to the thing that
+
+951
+01:15:23,100 --> 01:15:23,720
+ makes you money.
+
+952
+01:15:24,380 --> 01:15:25,970
+ I don't want you to change that.
+
+953
+01:15:26,350 --> 01:15:32,840
+ What I would love for you to do is in the footer possibly, um, or create, like if that's
+
+954
+01:15:32,840 --> 01:15:36,880
+ your homepage right now, make that a different page on your website and make your homepage
+
+955
+01:15:36,880 --> 01:15:38,240
+ about what you do.
+
+956
+01:15:38,520 --> 01:15:45,580
+ And then you could have links there, but your landing page should be, um, not a hidden page,
+
+957
+01:15:45,580 --> 01:15:51,200
+ but you don't need to link from your, uh, landing page to your homepage or to your blog posts.
+
+958
+01:15:51,360 --> 01:15:52,770
+ Does that make sense?
+
+959
+01:15:52,910 --> 01:15:55,330
+ So I don't need to add it to the navigation.
+
+960
+01:15:56,270 --> 01:15:58,890
+ No, not necessarily.
+
+961
+01:15:59,540 --> 01:15:59,830
+ Okay.
+
+962
+01:15:59,830 --> 01:16:00,810
+ Yeah.
+
+963
+01:16:00,810 --> 01:16:03,570
+ Um, yeah, I don't ruin what's making you money.
+
+964
+01:16:03,650 --> 01:16:04,410
+ Keep doing that.
+
+965
+01:16:04,410 --> 01:16:10,030
+ But if you want Google to find your blog posts and your website, you need to show them that
+
+966
+01:16:10,030 --> 01:16:13,570
+ you have multiple pages that you're trying to help people that you're creating content and
+
+967
+01:16:13,570 --> 01:16:16,170
+ that they know that you're an expert in your field.
+
+968
+01:16:16,250 --> 01:16:18,320
+ Make sense?
+
+969
+01:16:18,900 --> 01:16:19,120
+ Yes.
+
+970
+01:16:19,260 --> 01:16:19,940
+ Thank you very much.
+
+971
+01:16:20,500 --> 01:16:20,910
+ No problem.
+
+972
+01:16:21,430 --> 01:16:22,170
+ Uh, okay.
+
+973
+01:16:22,250 --> 01:16:23,970
+ Let's go with, Ooh, hi, Marvin.
+
+974
+01:16:26,080 --> 01:16:27,600
+ Good day.
+
+975
+01:16:27,660 --> 01:16:28,080
+ Good day.
+
+976
+01:16:28,120 --> 01:16:28,780
+ Good day.
+
+977
+01:16:29,290 --> 01:16:29,860
+ How are you?
+
+978
+01:16:29,940 --> 01:16:30,660
+ Great training as usual.
+
+979
+01:16:30,760 --> 01:16:31,940
+ Exactly what we expect.
+
+980
+01:16:32,660 --> 01:16:35,640
+ Uh, how did you like being called out?
+
+981
+01:16:36,390 --> 01:16:37,370
+ Oh, anytime.
+
+982
+01:16:37,370 --> 01:16:40,390
+ If I can help the group, I'm here to do that as well.
+
+983
+01:16:40,650 --> 01:16:44,910
+ Being a young age at 76, it's nice to be able to help other people.
+
+984
+01:16:45,230 --> 01:16:49,010
+ I think that's the only reason I continue to work is because of my clientele.
+
+985
+01:16:49,600 --> 01:16:50,880
+ Um, yeah.
+
+986
+01:16:50,880 --> 01:16:57,500
+ Um, one of the questions that keep coming up is the use of buyer intent in the blog post,
+
+987
+01:16:57,560 --> 01:16:59,760
+ driving buyer intent.
+
+988
+01:17:00,200 --> 01:17:06,340
+ And, uh, we've been writing our own posts, but we also have a service that we've, uh, incorporated
+
+989
+01:17:06,340 --> 01:17:07,820
+ that are doing the blog post.
+
+990
+01:17:07,820 --> 01:17:11,200
+ And then they humanize it as well, which is important.
+
+991
+01:17:11,600 --> 01:17:19,990
+ But I was wondering, how do you suggest we go ahead and push the buyer intent, um, yeah.
+
+992
+01:17:20,230 --> 01:17:25,950
+ Concept into the blog post because, you know, we've gotten a few emails from our contact
+
+993
+01:17:25,950 --> 01:17:31,560
+ form on blog posts, but like one of the other people said the other day, man, you get a lot
+
+994
+01:17:31,560 --> 01:17:32,280
+ of junk.
+
+995
+01:17:32,420 --> 01:17:36,740
+ A lot of people who just, they just want to be a, you know, an energy vampire.
+
+996
+01:17:36,860 --> 01:17:39,440
+ They want all the information, but they don't want to do anything.
+
+997
+01:17:40,170 --> 01:17:40,330
+ Yep.
+
+998
+01:17:40,870 --> 01:17:44,490
+ So when you're talking about intent, which is a really good point, Marvin, what we're
+
+999
+01:17:44,490 --> 01:17:51,310
+ doing today is, or what we did today, I should say is we're creating, um, informational intent,
+
+1000
+01:17:51,560 --> 01:17:51,860
+ right?
+
+1001
+01:17:51,860 --> 01:17:52,960
+ So somebody has a problem.
+
+1002
+01:17:52,960 --> 01:17:57,600
+ They're looking for information on how to solve that themselves, or they're looking for more
+
+1003
+01:17:57,600 --> 01:17:58,800
+ information about that topic.
+
+1004
+01:17:59,710 --> 01:18:03,040
+ So if you're talking about buying intent, right?
+
+1005
+01:18:03,140 --> 01:18:07,540
+ People looking to buy, we are talking about that tomorrow, right?
+
+1006
+01:18:07,640 --> 01:18:13,030
+ So I, we were going through all of this stuff this week, but I need to keep it in simple
+
+1007
+01:18:13,030 --> 01:18:13,430
+ terms.
+
+1008
+01:18:13,430 --> 01:18:17,050
+ So I don't scare anybody away who might not know what all of these things means.
+
+1009
+01:18:17,830 --> 01:18:23,180
+ So there's, um, in the audio or the ebook version or audio book version, if you guys are
+
+1010
+01:18:23,180 --> 01:18:29,090
+ getting that, um, I talk about, there's different types of, hold on keywords.
+
+1011
+01:18:29,290 --> 01:18:30,870
+ I just want to show you where it is.
+
+1012
+01:18:31,450 --> 01:18:35,550
+ Um, so, okay.
+
+1013
+01:18:35,770 --> 01:18:42,170
+ So on page 47 in this book keyword category, so we have user intent, we have informational
+
+1014
+01:18:42,170 --> 01:18:44,910
+ keywords, which we did today, navigational keywords.
+
+1015
+01:18:45,110 --> 01:18:49,910
+ So navigational keywords are like, you go to Google and you type in Netflix login or Amazon
+
+1016
+01:18:49,910 --> 01:18:50,290
+ login.
+
+1017
+01:18:50,470 --> 01:18:50,950
+ You're lazy.
+
+1018
+01:18:51,070 --> 01:18:52,750
+ You don't want to go to amazon.com and click login.
+
+1019
+01:18:52,990 --> 01:18:54,390
+ You just want to go right to that page.
+
+1020
+01:18:54,410 --> 01:18:55,290
+ That's navigational.
+
+1021
+01:18:55,470 --> 01:18:57,230
+ We have commercial keywords.
+
+1022
+01:18:57,230 --> 01:19:01,470
+ Those are comparison pieces of content, people who are looking to buy, but they're not sure
+
+1023
+01:19:01,470 --> 01:19:06,350
+ if I should get this camera or that camera or that dog food or this dog food, right?
+
+1024
+01:19:06,350 --> 01:19:10,650
+ So you're giving them more information on that to make an educated buying decision.
+
+1025
+01:19:10,850 --> 01:19:15,010
+ And then you have transactional keywords, which is what we're talking about tomorrow.
+
+1026
+01:19:15,310 --> 01:19:17,670
+ These are the keywords people use when they're ready to buy.
+
+1027
+01:19:17,790 --> 01:19:19,610
+ I'm looking for an emergency plumber.
+
+1028
+01:19:19,890 --> 01:19:26,280
+ I'm looking for, um, a ceramic mug that has Santa Claus on it, right?
+
+1029
+01:19:26,360 --> 01:19:28,560
+ A nine ounce or do they make nine ounce mugs?
+
+1030
+01:19:28,640 --> 01:19:31,040
+ Eight ounce mug, uh, with Santa Claus on it.
+
+1031
+01:19:31,510 --> 01:19:31,940
+ Right.
+
+1032
+01:19:32,040 --> 01:19:36,660
+ So, and then there's, we talk about keyword attributes like branded keywords, evergreen
+
+1033
+01:19:36,660 --> 01:19:40,540
+ keywords, time sensitive and trending geo-targeted keywords and more in here.
+
+1034
+01:19:40,540 --> 01:19:44,240
+ But we don't need to go over all of that this week because you don't need to know all of
+
+1035
+01:19:44,240 --> 01:19:44,780
+ that right away.
+
+1036
+01:19:44,880 --> 01:19:46,180
+ Does that answer your question, Marvin?
+
+1037
+01:19:46,920 --> 01:19:47,500
+ Yes, it does.
+
+1038
+01:19:47,600 --> 01:19:47,900
+ Thank you.
+
+1039
+01:19:47,920 --> 01:19:48,360
+ As usual.
+
+1040
+01:19:50,240 --> 01:19:50,640
+ Sorry.
+
+1041
+01:19:50,800 --> 01:19:54,280
+ I, uh, I sometimes go off and I digress quite a bit.
+
+1042
+01:19:54,680 --> 01:19:58,180
+ Um, but it's all to drive home a point most of the time.
+
+1043
+01:19:58,180 --> 01:20:00,140
+ I'll say, I'll say like 99% of the time.
+
+1044
+01:20:00,600 --> 01:20:01,480
+ Um, okay.
+
+1045
+01:20:01,500 --> 01:20:02,160
+ Thank you, Marvin.
+
+1046
+01:20:02,300 --> 01:20:04,600
+ I'm going to put you back to an attendee.
+
+1047
+01:20:04,740 --> 01:20:05,560
+ Appreciate you.
+
+1048
+01:20:06,000 --> 01:20:08,040
+ Uh, so glad you're making time to be here.
+
+1049
+01:20:08,140 --> 01:20:08,820
+ I love that.
+
+1050
+01:20:09,460 --> 01:20:11,830
+ Um, Dimitri, what do we got?
+
+1051
+01:20:12,790 --> 01:20:13,630
+ How's it going, boss?
+
+1052
+01:20:14,560 --> 01:20:14,960
+ Fantastic.
+
+1053
+01:20:15,040 --> 01:20:15,440
+ How are you?
+
+1054
+01:20:15,890 --> 01:20:16,710
+ Uh, pretty good.
+
+1055
+01:20:16,770 --> 01:20:18,230
+ Uh, enjoyed the lessons today.
+
+1056
+01:20:18,310 --> 01:20:19,130
+ A couple of quick questions.
+
+1057
+01:20:19,130 --> 01:20:24,670
+ I'm sure you probably already answered them, but, um, so the question should be the title
+
+1058
+01:20:24,670 --> 01:20:30,720
+ of the blog posts now, for example, the one I wrote was how to shop for a used car safely.
+
+1059
+01:20:31,040 --> 01:20:36,550
+ Um, will it just be that question mark or after the prompt built, should it be how to shop
+
+1060
+01:20:36,550 --> 01:20:40,290
+ for a used car safely 30 plus years of hard-earned advice from Stager, Illinois?
+
+1061
+01:20:41,500 --> 01:20:46,220
+ Um, either or it's whatever, whatever works for you.
+
+1062
+01:20:46,300 --> 01:20:48,040
+ The second one was way too long.
+
+1063
+01:20:48,040 --> 01:20:49,040
+ That's going to get cut off.
+
+1064
+01:20:49,040 --> 01:20:54,380
+ You have like 60 characters in Google, maybe 55, uh, before it gets cut off, especially
+
+1065
+01:20:54,380 --> 01:20:54,820
+ on mobile.
+
+1066
+01:20:55,720 --> 01:20:55,860
+ Perfect.
+
+1067
+01:20:56,020 --> 01:20:59,980
+ And, uh, one more, how many words should we hyperlink in the broad, uh, blog post?
+
+1068
+01:21:00,990 --> 01:21:03,370
+ Um, like how many links should you link to other pages?
+
+1069
+01:21:03,810 --> 01:21:04,110
+ Yeah.
+
+1070
+01:21:04,170 --> 01:21:09,380
+ You're probably looking at two to three, maybe five, but we're doing three today.
+
+1071
+01:21:09,890 --> 01:21:10,350
+ Okay.
+
+1072
+01:21:10,610 --> 01:21:11,330
+ Got it.
+
+1073
+01:21:11,370 --> 01:21:12,390
+ Uh, that's going to be it.
+
+1074
+01:21:12,830 --> 01:21:13,320
+ Awesome.
+
+1075
+01:21:13,620 --> 01:21:15,200
+ Dimitri, thank you so much for showing up today.
+
+1076
+01:21:15,580 --> 01:21:16,610
+ Thank you for having us.
+
+1077
+01:21:17,010 --> 01:21:17,570
+ Love it.
+
+1078
+01:21:17,950 --> 01:21:20,420
+ Uh, okay, Ben, what do we got?
+
+1079
+01:21:22,510 --> 01:21:22,790
+ How are you?
+
+1080
+01:21:22,850 --> 01:21:23,230
+ How's it going?
+
+1081
+01:21:23,850 --> 01:21:24,530
+ Love the beard.
+
+1082
+01:21:25,110 --> 01:21:25,440
+ Thanks.
+
+1083
+01:21:25,440 --> 01:21:26,420
+ I'm sure you get that all the time.
+
+1084
+01:21:26,620 --> 01:21:27,880
+ First time you've ever heard it, right?
+
+1085
+01:21:29,570 --> 01:21:30,570
+ No, I appreciate it.
+
+1086
+01:21:30,570 --> 01:21:31,550
+ I'm a long time fan.
+
+1087
+01:21:31,610 --> 01:21:35,190
+ I've kind of been one of those lurkers that just kind of stalks you on Instagram and stuff
+
+1088
+01:21:35,190 --> 01:21:35,590
+ like that.
+
+1089
+01:21:35,910 --> 01:21:38,860
+ And, uh, I, I was excited about the strength week.
+
+1090
+01:21:38,920 --> 01:21:40,420
+ I've blocked out the whole week for it.
+
+1091
+01:21:40,540 --> 01:21:45,560
+ And, um, amazing something that we're doing a big shift and I'm just curious this, there
+
+1092
+01:21:45,560 --> 01:21:50,130
+ might be a specific answer now, but maybe throughout the week I'll probably learn more, but we've
+
+1093
+01:21:50,130 --> 01:21:54,350
+ been building websites for 10 years and we're shifting over to restaurants and I feel like
+
+1094
+01:21:54,350 --> 01:21:57,400
+ the restaurant world is a very interesting animal.
+
+1095
+01:21:58,110 --> 01:22:04,930
+ Um, and I'm particularly maybe afraid right now, just because like every time you turn
+
+1096
+01:22:04,930 --> 01:22:09,550
+ on Instagram, it's like Claude killed this or Claude killed this and, or Google killed
+
+1097
+01:22:09,550 --> 01:22:09,990
+ the, you know what I mean?
+
+1098
+01:22:10,010 --> 01:22:10,950
+ It's just like all these things.
+
+1099
+01:22:10,950 --> 01:22:16,600
+ And I'm like with the recent thing with the search bar changes and all this stuff, I'm,
+
+1100
+01:22:16,600 --> 01:22:22,330
+ I guess I'm just trying to find out, do websites still have a place and if they do, what are
+
+1101
+01:22:22,330 --> 01:22:25,950
+ the KPIs that we should be looking at when we talk to our clients that are meaningful?
+
+1102
+01:22:25,950 --> 01:22:28,700
+ Cause dashboards can tell you anything you want.
+
+1103
+01:22:28,760 --> 01:22:29,640
+ I feel like it's like a torture.
+
+1104
+01:22:29,920 --> 01:22:34,890
+ We can make them say anything we want, but what's actually going to get butts in seats.
+
+1105
+01:22:34,890 --> 01:22:36,370
+ And that's what my clients care about.
+
+1106
+01:22:36,370 --> 01:22:37,650
+ So I'm, that's what I'm trying.
+
+1107
+01:22:37,770 --> 01:22:42,570
+ I'm here this week to try and see if I can find out what's, what are those KPIs that will
+
+1108
+01:22:42,570 --> 01:22:47,070
+ matter that are measurable and that matter to restaurants.
+
+1109
+01:22:47,070 --> 01:22:50,830
+ And, and I'm sure that applies to other businesses as well, but that's kind of where I'm focused.
+
+1110
+01:22:51,540 --> 01:22:51,660
+ Yeah.
+
+1111
+01:22:51,700 --> 01:22:53,660
+ So your first question, do websites still matter?
+
+1112
+01:22:53,760 --> 01:22:54,760
+ The answer is yes.
+
+1113
+01:22:55,240 --> 01:22:59,910
+ Um, websites, your Google business profile, your social media profiles, all of that stuff
+
+1114
+01:22:59,910 --> 01:23:00,830
+ still matters.
+
+1115
+01:23:01,330 --> 01:23:06,500
+ Um, when you're talking about a restaurant, like on your, even on your Google business profile,
+
+1116
+01:23:06,500 --> 01:23:06,920
+ right?
+
+1117
+01:23:06,920 --> 01:23:09,990
+ Just talking about that for a sec, you want to link to your menu.
+
+1118
+01:23:09,990 --> 01:23:14,550
+ You want to link to your website, to your homepage, to whatever page from your Google business
+
+1119
+01:23:14,550 --> 01:23:19,490
+ profile, because I won't tell you how many times I go, I'm like, I want to go to this restaurant
+
+1120
+01:23:19,490 --> 01:23:24,990
+ that, you know, I drove by or heard about, and I go to their Google business profile, look
+
+1121
+01:23:24,990 --> 01:23:27,650
+ at the menu or go to their website to learn more about it.
+
+1122
+01:23:27,650 --> 01:23:29,650
+ And it goes to their Facebook page.
+
+1123
+01:23:29,650 --> 01:23:31,220
+ Why the hell?
+
+1124
+01:23:31,220 --> 01:23:33,520
+ I'm sure you see that all the time.
+
+1125
+01:23:34,300 --> 01:23:40,430
+ Why are, why are you sending me away from your business to a website that makes me scroll
+
+1126
+01:23:40,430 --> 01:23:44,410
+ and like, not just scroll on your stuff, but like I have notifications there.
+
+1127
+01:23:44,550 --> 01:23:46,010
+ I'm getting distracted, right?
+
+1128
+01:23:46,050 --> 01:23:47,310
+ I get distracted by the notification.
+
+1129
+01:23:47,450 --> 01:23:48,370
+ Now I'm scrolling the feed.
+
+1130
+01:23:48,510 --> 01:23:51,290
+ It's meant to keep you scrolling the feed, right?
+
+1131
+01:23:51,310 --> 01:23:52,430
+ So send me to your website.
+
+1132
+01:23:52,630 --> 01:23:53,850
+ Let me do the thing there.
+
+1133
+01:23:53,950 --> 01:23:56,370
+ So websites still super important.
+
+1134
+01:23:56,890 --> 01:24:01,550
+ The other thing is AI, I'm, I want to say it can't make stuff up.
+
+1135
+01:24:01,650 --> 01:24:07,560
+ It does make stuff up, but it wants to give their users the most accurate information or
+
+1136
+01:24:07,560 --> 01:24:09,680
+ solve their problem, right?
+
+1137
+01:24:09,680 --> 01:24:12,180
+ And they can't do that with old information.
+
+1138
+01:24:12,180 --> 01:24:16,080
+ So they constantly need new information feeding this machine.
+
+1139
+01:24:16,680 --> 01:24:20,950
+ And if you're, if you don't have a website, AI is not going to find you.
+
+1140
+01:24:21,740 --> 01:24:22,720
+ Google's not going to find you.
+
+1141
+01:24:22,880 --> 01:24:24,790
+ And that means people aren't going to find you.
+
+1142
+01:24:26,220 --> 01:24:26,760
+ Does that make sense?
+
+1143
+01:24:27,630 --> 01:24:27,790
+ Yeah.
+
+1144
+01:24:28,200 --> 01:24:30,780
+ What, what kind of KPIs when you're looking at it?
+
+1145
+01:24:31,380 --> 01:24:35,980
+ Like if I'm showing customers, like I, sometimes I'll pull up some rush or something like that.
+
+1146
+01:24:35,980 --> 01:24:38,240
+ And I'm, and I'm a new, I'm a noob on all that kind of stuff.
+
+1147
+01:24:38,260 --> 01:24:40,280
+ And I'm like, Hey, look, the things are going up or down.
+
+1148
+01:24:40,280 --> 01:24:42,880
+ And I sound like a Neanderthal when I'm explaining it.
+
+1149
+01:24:42,880 --> 01:24:49,160
+ But like, what are the like two or three metrics, if there are any that are like, um, meaningful
+
+1150
+01:24:49,160 --> 01:24:51,820
+ from like a baseline to then show progress.
+
+1151
+01:24:51,820 --> 01:24:53,240
+ If you're, what you're doing is working.
+
+1152
+01:24:54,100 --> 01:24:58,830
+ It's, it's really tough to do that because there's like sites like SEMrush, they'll give
+
+1153
+01:24:58,830 --> 01:25:00,290
+ you again, a ton of data.
+
+1154
+01:25:00,290 --> 01:25:01,930
+ And you're like, what the hell does this shit mean?
+
+1155
+01:25:02,210 --> 01:25:05,990
+ I don't even like using SEMrush anymore and looking at that stuff because I'm like, this
+
+1156
+01:25:05,990 --> 01:25:06,610
+ is made up.
+
+1157
+01:25:06,870 --> 01:25:08,370
+ It's vanity metrics.
+
+1158
+01:25:08,790 --> 01:25:12,790
+ What the only metrics that I care about are people clicking on the booking page and filling
+
+1159
+01:25:12,790 --> 01:25:13,370
+ out the form.
+
+1160
+01:25:13,930 --> 01:25:15,110
+ Or buying the thing.
+
+1161
+01:25:15,550 --> 01:25:18,330
+ If they are doing that, that is the only KPI I care about.
+
+1162
+01:25:18,750 --> 01:25:22,830
+ Now I'm going to caveat that with saying people still want to see how much traffic they're
+
+1163
+01:25:22,830 --> 01:25:27,470
+ getting, how many times are being mentioned by LLMs or Google overviews or whatever.
+
+1164
+01:25:28,270 --> 01:25:34,420
+ Um, so with that in mind, Google is coming out with a feature that shows you, uh, in Google
+
+1165
+01:25:34,420 --> 01:25:40,360
+ search console, how many times you're being mentioned in, uh, AI overviews that is still
+
+1166
+01:25:40,360 --> 01:25:40,980
+ being rolled out.
+
+1167
+01:25:41,040 --> 01:25:41,780
+ That's still being released.
+
+1168
+01:25:41,880 --> 01:25:45,200
+ I only have it for one client out of all of my clients, which is super annoying.
+
+1169
+01:25:45,440 --> 01:25:50,470
+ So we can't build dashboards yet, but, um, those are the KPIs I would look at how much
+
+1170
+01:25:50,470 --> 01:25:54,030
+ traffic are you getting and how many, uh, AI mentions are you getting?
+
+1171
+01:25:54,160 --> 01:25:56,050
+ Plus how much money is the business making?
+
+1172
+01:25:56,160 --> 01:25:56,990
+ Yeah.
+
+1173
+01:25:57,430 --> 01:25:58,040
+ Right.
+
+1174
+01:25:58,370 --> 01:25:58,940
+ Makes sense.
+
+1175
+01:25:59,720 --> 01:25:59,880
+ Yeah.
+
+1176
+01:26:00,020 --> 01:26:00,560
+ I like that.
+
+1177
+01:26:00,700 --> 01:26:01,020
+ Thank you.
+
+1178
+01:26:01,830 --> 01:26:01,970
+ Yeah.
+
+1179
+01:26:02,910 --> 01:26:03,270
+ Awesome.
+
+1180
+01:26:03,410 --> 01:26:04,570
+ Well, thank you so much, Ben.
+
+1181
+01:26:05,030 --> 01:26:06,790
+ Uh, we're going to switch it up.
+
+1182
+01:26:06,850 --> 01:26:08,970
+ We're going to go with Felicia.
+
+1183
+01:26:09,190 --> 01:26:09,710
+ How are you?
+
+1184
+01:26:09,820 --> 01:26:14,350
+ Are you here, Felicia?
+
+1185
+01:26:15,680 --> 01:26:18,700
+ If not, we'll come back to Felicia in a sec.
+
+1186
+01:26:18,820 --> 01:26:24,360
+ Uh, Felicia, find your, um, button to unmute and, uh, we'll go with Mario.
+
+1187
+01:26:24,480 --> 01:26:28,280
+ Are you there, Mario?
+
+1188
+01:26:28,710 --> 01:26:29,000
+ Yeah.
+
+1189
+01:26:29,000 --> 01:26:29,640
+ I'm calling on you.
+
+1190
+01:26:29,700 --> 01:26:29,940
+ Got it.
+
+1191
+01:26:29,980 --> 01:26:30,340
+ Yep.
+
+1192
+01:26:30,620 --> 01:26:31,420
+ How's it going?
+
+1193
+01:26:32,400 --> 01:26:32,600
+ Awesome.
+
+1194
+01:26:33,920 --> 01:26:34,200
+ Great.
+
+1195
+01:26:34,560 --> 01:26:38,680
+ Uh, and first I want to say thanks for, for, for this.
+
+1196
+01:26:38,940 --> 01:26:42,580
+ And I'm excited for, for, oh, yeah.
+
+1197
+01:26:42,940 --> 01:26:44,570
+ So, okay.
+
+1198
+01:26:44,750 --> 01:26:50,520
+ Um, so what, what I'm doing is, uh, I'm doing, uh, uh, uh, uh, uh, uh, uh, uh, uh, I'm taking
+
+1199
+01:26:50,520 --> 01:26:51,880
+ pictures of dogs and cats.
+
+1200
+01:26:51,880 --> 01:26:54,800
+ So pets, uh, uh, uh, photography.
+
+1201
+01:26:55,160 --> 01:26:55,610
+ Yeah.
+
+1202
+01:26:55,690 --> 01:26:56,350
+ Pet photography.
+
+1203
+01:26:56,970 --> 01:27:05,000
+ And, um, now here in this blog post, um, it made the real nice blog, but it's all words.
+
+1204
+01:27:05,000 --> 01:27:08,610
+ Should we add pictures in there or no, or hell yeah.
+
+1205
+01:27:09,280 --> 01:27:09,600
+ Okay.
+
+1206
+01:27:09,680 --> 01:27:16,160
+ So, especially as a photographer, you have an amazing library of original photos that
+
+1207
+01:27:16,160 --> 01:27:20,460
+ you can use in your blog posts and you should be putting photos in, like in your blog posts,
+
+1208
+01:27:20,500 --> 01:27:25,120
+ if you're talking about posing a cat or whatever, and you have a picture of a cat in that post,
+
+1209
+01:27:25,240 --> 01:27:26,990
+ put that cat in that post, right?
+
+1210
+01:27:27,030 --> 01:27:27,730
+ People are visual.
+
+1211
+01:27:28,760 --> 01:27:28,860
+ Yeah.
+
+1212
+01:27:28,820 --> 01:27:35,640
+ Is there a, is there a amount of pictures that should be in each blog post or, or so I
+
+1213
+01:27:35,640 --> 01:27:39,850
+ would say if you can every two to 300 words, add a picture.
+
+1214
+01:27:40,030 --> 01:27:40,550
+ Okay.
+
+1215
+01:27:40,590 --> 01:27:40,750
+ Right.
+
+1216
+01:27:40,750 --> 01:27:43,130
+ Cause people don't like looking at a giant wall of texts.
+
+1217
+01:27:43,490 --> 01:27:44,710
+ They want to see some photos in there.
+
+1218
+01:27:45,320 --> 01:27:45,440
+ Yeah.
+
+1219
+01:27:45,480 --> 01:27:45,720
+ Okay.
+
+1220
+01:27:47,130 --> 01:27:56,090
+ Um, and then the, the, uh, uh, uh, uh, uh, if we put a picture there, the alt text and
+
+1221
+01:27:56,090 --> 01:27:57,690
+ that stuff, it makes a difference.
+
+1222
+01:27:58,870 --> 01:28:00,390
+ Um, is that small?
+
+1223
+01:28:01,110 --> 01:28:01,750
+ Not really.
+
+1224
+01:28:01,750 --> 01:28:03,690
+ It's, it's like a very small thing.
+
+1225
+01:28:04,030 --> 01:28:07,530
+ Um, I would say like, just describe what the images, right?
+
+1226
+01:28:07,810 --> 01:28:13,840
+ Cat difficult cat photography pose or whatever, something like that, or like whatever, just,
+
+1227
+01:28:13,840 --> 01:28:14,840
+ describe what it is.
+
+1228
+01:28:15,710 --> 01:28:16,530
+ Okay.
+
+1229
+01:28:17,280 --> 01:28:22,140
+ And then the, the, the, the, the, the, the last part was, um, with the, with the, the,
+
+1230
+01:28:22,140 --> 01:28:29,760
+ the, the, the, the websites at the end that you're saying, should we link those up at the
+
+1231
+01:28:29,760 --> 01:28:32,490
+ start or in the middle or all at the end?
+
+1232
+01:28:32,490 --> 01:28:38,630
+ Find words that do a hyperlink towards the end or throughout or through a time or.
+
+1233
+01:28:39,230 --> 01:28:39,460
+ Yep.
+
+1234
+01:28:39,620 --> 01:28:39,860
+ One time.
+
+1235
+01:28:39,940 --> 01:28:45,020
+ So each one of those links, you're going to have one link each in that post, right?
+
+1236
+01:28:45,020 --> 01:28:48,980
+ So three links, um, and you could do that throughout the post, wherever it makes sense
+
+1237
+01:28:48,980 --> 01:28:49,360
+ to do.
+
+1238
+01:28:50,240 --> 01:28:51,740
+ Okay.
+
+1239
+01:28:52,140 --> 01:28:52,490
+ Cool.
+
+1240
+01:28:52,550 --> 01:28:52,730
+ Perfect.
+
+1241
+01:28:52,830 --> 01:28:53,330
+ That makes sense.
+
+1242
+01:28:53,450 --> 01:28:54,030
+ Thanks so much.
+
+1243
+01:28:54,250 --> 01:28:54,810
+ I appreciate it.
+
+1244
+01:28:54,890 --> 01:28:55,150
+ Yes.
+
+1245
+01:28:56,250 --> 01:28:56,720
+ Okay.
+
+1246
+01:28:56,840 --> 01:28:57,580
+ Thank you, Mario.
+
+1247
+01:28:58,160 --> 01:28:59,190
+ Um, hold on.
+
+1248
+01:28:59,210 --> 01:29:03,850
+ I want to go to the chat for a sec because somebody is saying Google will still rank AI written
+
+1249
+01:29:03,850 --> 01:29:04,250
+ posts.
+
+1250
+01:29:04,410 --> 01:29:09,350
+ Don't forget the prompt Tony gave you ask for your experience, et cetera, as part of
+
+1251
+01:29:09,350 --> 01:29:10,150
+ the five questions.
+
+1252
+01:29:10,150 --> 01:29:12,170
+ These are really valuable for SEO as well.
+
+1253
+01:29:12,330 --> 01:29:20,590
+ So let me take a sec to dispel a common misconception that Google and AI hate AI written posts.
+
+1254
+01:29:20,790 --> 01:29:21,830
+ They do not.
+
+1255
+01:29:21,930 --> 01:29:23,630
+ They hate regurgitated information.
+
+1256
+01:29:23,630 --> 01:29:26,970
+ That's the same shit that everybody else is saying over and over and over again.
+
+1257
+01:29:26,970 --> 01:29:33,170
+ And that prompt that I gave you guys today completely goes the opposite direction because now you're
+
+1258
+01:29:33,170 --> 01:29:39,270
+ saying your expertise, your experience, like any, um, I guess experience that you've had or
+
+1259
+01:29:39,270 --> 01:29:41,910
+ opinions you have on that topic are coming through now.
+
+1260
+01:29:41,910 --> 01:29:48,260
+ Like you're using AI to help you get your thoughts out, to help you, um, I guess format
+
+1261
+01:29:48,260 --> 01:29:52,040
+ it better than if you were just typing it and a lot faster too, right?
+
+1262
+01:29:52,060 --> 01:29:55,180
+ Like when I do this shit, I don't know how many of you guys use voice mode to do this,
+
+1263
+01:29:55,180 --> 01:29:56,100
+ right?
+
+1264
+01:29:56,100 --> 01:30:01,440
+ I use voice mode when I'm writing a blog post and I use that prompt and I just say, cool,
+
+1265
+01:30:01,480 --> 01:30:02,200
+ I'm going to use voice mode.
+
+1266
+01:30:02,280 --> 01:30:03,820
+ Give me time to breathe, dude.
+
+1267
+01:30:04,120 --> 01:30:09,110
+ Um, and it like, it will just wait for me to answer the question.
+
+1268
+01:30:09,210 --> 01:30:13,980
+ And then when I'm done, I pause for like five seconds, not even, then it asked me the next
+
+1269
+01:30:13,980 --> 01:30:14,340
+ question.
+
+1270
+01:30:14,340 --> 01:30:18,130
+ And I'm not even, I think that is part of the future of SEO as well.
+
+1271
+01:30:18,130 --> 01:30:19,550
+ It's like, we're not writing as much.
+
+1272
+01:30:19,610 --> 01:30:20,770
+ We're talking into it.
+
+1273
+01:30:20,810 --> 01:30:24,690
+ It's writing these blog posts and then people are going to Google using voice mode to ask
+
+1274
+01:30:24,690 --> 01:30:27,690
+ a question or chat GPT to ask a question using their voice.
+
+1275
+01:30:27,810 --> 01:30:31,920
+ And then that's referencing something that was written with voice mode, but it's written
+
+1276
+01:30:31,920 --> 01:30:32,380
+ words.
+
+1277
+01:30:32,640 --> 01:30:33,500
+ Does that make sense?
+
+1278
+01:30:34,140 --> 01:30:39,110
+ Um, so with that in mind, Daniel, how the hell are you, buddy?
+
+1279
+01:30:39,730 --> 01:30:40,590
+ Doing great.
+
+1280
+01:30:40,710 --> 01:30:42,950
+ Buffalo, uh, says a big hello to you guys.
+
+1281
+01:30:43,010 --> 01:30:45,850
+ I'm like how far away from you.
+
+1282
+01:30:46,730 --> 01:30:47,870
+ 50 miles maybe.
+
+1283
+01:30:48,230 --> 01:30:49,660
+ Um, yeah, I'm a beginner.
+
+1284
+01:30:49,880 --> 01:30:50,520
+ So thank you.
+
+1285
+01:30:50,600 --> 01:30:51,540
+ Thank you for rank week.
+
+1286
+01:30:51,620 --> 01:30:53,700
+ This has been such a treasure for me.
+
+1287
+01:30:53,760 --> 01:30:54,360
+ I can't wait.
+
+1288
+01:30:54,780 --> 01:30:55,460
+ Quick question.
+
+1289
+01:30:55,600 --> 01:30:56,470
+ Um, yeah.
+
+1290
+01:30:56,570 --> 01:30:57,370
+ Uh, pictures.
+
+1291
+01:30:57,670 --> 01:31:01,490
+ Is it more important to have the picture at the top or the title?
+
+1292
+01:31:01,810 --> 01:31:04,430
+ Um, I, I think you've got the last guy pretty much covered it.
+
+1293
+01:31:04,470 --> 01:31:08,810
+ Got to have a picture or two, every few hundred words, but, um, can't wait for the rest.
+
+1294
+01:31:08,960 --> 01:31:09,840
+ Yeah.
+
+1295
+01:31:09,940 --> 01:31:13,010
+ So you should have a featured image, right?
+
+1296
+01:31:13,190 --> 01:31:16,650
+ Somewhere on your, however, your website, wherever it adds a featured image, make sure
+
+1297
+01:31:16,650 --> 01:31:17,630
+ you add a featured image.
+
+1298
+01:31:18,190 --> 01:31:19,220
+ Um, yeah.
+
+1299
+01:31:20,180 --> 01:31:21,070
+ Anything else, Daniel?
+
+1300
+01:31:22,240 --> 01:31:23,420
+ No, I'm just going to sit and listen.
+
+1301
+01:31:23,480 --> 01:31:24,780
+ This has been fantastic, man.
+
+1302
+01:31:25,230 --> 01:31:26,200
+ Hell yeah, dude.
+
+1303
+01:31:26,280 --> 01:31:26,940
+ I'm so happy that you're here.
+
+1304
+01:31:26,940 --> 01:31:27,980
+ Bed and breakfast in Buffalo.
+
+1305
+01:31:28,140 --> 01:31:30,380
+ Best breakfast in Buffalo.
+
+1306
+01:31:30,680 --> 01:31:31,540
+ Hell yeah.
+
+1307
+01:31:31,700 --> 01:31:32,200
+ I love that.
+
+1308
+01:31:32,380 --> 01:31:33,640
+ Um, I'll definitely hit you up.
+
+1309
+01:31:34,100 --> 01:31:35,550
+ Uh, thank you, Daniel.
+
+1310
+01:31:36,160 --> 01:31:38,700
+ Um, let's go with a Matty Klein.
+
+1311
+01:31:38,800 --> 01:31:39,740
+ Do people call you Matty Klein?
+
+1312
+01:31:39,880 --> 01:31:40,600
+ Like Patsy Klein?
+
+1313
+01:31:42,030 --> 01:31:42,450
+ Oh shit.
+
+1314
+01:31:42,550 --> 01:31:42,950
+ Hold on.
+
+1315
+01:31:43,290 --> 01:31:43,810
+ Matty Klein.
+
+1316
+01:31:44,070 --> 01:31:46,410
+ I accidentally, I accidentally got rid of Matty Klein.
+
+1317
+01:31:46,490 --> 01:31:46,830
+ Hold on.
+
+1318
+01:31:47,270 --> 01:31:47,890
+ Where did he go?
+
+1319
+01:31:48,230 --> 01:31:51,690
+ Well, I need to find him where there he is.
+
+1320
+01:31:51,750 --> 01:31:52,090
+ Hold on.
+
+1321
+01:31:53,330 --> 01:31:54,210
+ Promote to panelist.
+
+1322
+01:31:54,590 --> 01:31:55,770
+ Sorry about that.
+
+1323
+01:31:55,810 --> 01:32:01,430
+ Matt, um, change Daniel's role to attendee, not Matt's.
+
+1324
+01:32:01,720 --> 01:32:01,960
+ Sorry.
+
+1325
+01:32:02,040 --> 01:32:03,080
+ Do people call you Matty Klein?
+
+1326
+01:32:03,220 --> 01:32:04,240
+ That's my first question for you.
+
+1327
+01:32:04,240 --> 01:32:05,960
+ Even Zoom knows to not call me Matty.
+
+1328
+01:32:05,980 --> 01:32:08,180
+ So that's, that's the loudest.
+
+1329
+01:32:08,640 --> 01:32:10,300
+ I'm going to be on Waterdown in July.
+
+1330
+01:32:10,460 --> 01:32:12,200
+ So we'll be, we'll be close to you.
+
+1331
+01:32:12,560 --> 01:32:12,960
+ Hell yeah.
+
+1332
+01:32:13,200 --> 01:32:13,660
+ Love that.
+
+1333
+01:32:14,520 --> 01:32:19,120
+ Um, one of the guys just kind of asked, but I was wondering about links at the bottom.
+
+1334
+01:32:19,120 --> 01:32:20,050
+ Like we, yep.
+
+1335
+01:32:20,050 --> 01:32:24,610
+ We got like no links throughout and then about three or four at the bottom, but you're, would
+
+1336
+01:32:24,610 --> 01:32:27,030
+ you say only do three and then no links at the bottom?
+
+1337
+01:32:27,550 --> 01:32:28,470
+ What do you mean at the bottom?
+
+1338
+01:32:28,930 --> 01:32:33,150
+ Uh, so like at the end, it's like a, like a template, like the same links to all of our
+
+1339
+01:32:33,150 --> 01:32:35,820
+ different resources and stuff at the bottom.
+
+1340
+01:32:35,900 --> 01:32:41,820
+ So if you have a template that's the same on every single page, that's duplicate content.
+
+1341
+01:32:41,820 --> 01:32:44,700
+ Google wants to see unique content on every single page.
+
+1342
+01:32:44,700 --> 01:32:50,010
+ So you could say like for more resources, go here and then have a link to whatever the
+
+1343
+01:32:50,010 --> 01:32:50,750
+ resource is called.
+
+1344
+01:32:50,870 --> 01:32:51,730
+ You can do that.
+
+1345
+01:32:51,730 --> 01:32:54,290
+ But I wouldn't be like here are four or five links in a paragraph.
+
+1346
+01:32:54,290 --> 01:32:55,830
+ That's the same on every single page.
+
+1347
+01:32:56,510 --> 01:32:56,630
+ Right.
+
+1348
+01:32:56,920 --> 01:32:57,420
+ That makes sense.
+
+1349
+01:32:57,860 --> 01:33:01,920
+ And then if you're like, if we didn't get a blog from a podcast episode, like we do a
+
+1350
+01:33:01,920 --> 01:33:03,460
+ podcast and we make a blog out of it.
+
+1351
+01:33:03,840 --> 01:33:05,740
+ Is that good to link a podcast?
+
+1352
+01:33:05,840 --> 01:33:06,600
+ Make that one of the three.
+
+1353
+01:33:07,070 --> 01:33:08,540
+ So let me ask you this question.
+
+1354
+01:33:08,910 --> 01:33:11,480
+ Is anybody looking up that, that podcast?
+
+1355
+01:33:12,800 --> 01:33:16,420
+ Uh, like, so I guess it depends on if that's a question that's being asked.
+
+1356
+01:33:16,540 --> 01:33:17,320
+ Hey, is that what you're saying?
+
+1357
+01:33:17,930 --> 01:33:20,510
+ Well, like think about it from like a person.
+
+1358
+01:33:20,630 --> 01:33:22,390
+ Like, obviously I care about my business.
+
+1359
+01:33:22,390 --> 01:33:25,310
+ If I'm on a podcast, I'm like, I want people to be searching.
+
+1360
+01:33:25,650 --> 01:33:28,790
+ Matt Diamante podcast episode, whatever for this person.
+
+1361
+01:33:29,130 --> 01:33:32,220
+ But the reality is people aren't searching that.
+
+1362
+01:33:33,280 --> 01:33:33,480
+ Right.
+
+1363
+01:33:33,540 --> 01:33:35,080
+ I don't care how big your business is.
+
+1364
+01:33:35,240 --> 01:33:39,240
+ Unless you're like Alex Hermosey or Gary V and you're on a podcast, people probably aren't
+
+1365
+01:33:39,240 --> 01:33:40,020
+ looking it up.
+
+1366
+01:33:40,540 --> 01:33:42,340
+ And even then it's such a small amount.
+
+1367
+01:33:42,960 --> 01:33:48,860
+ So I would say you can use, here's something that I like to do.
+
+1368
+01:33:48,940 --> 01:33:53,160
+ I'll grab the transcript from a podcast because I'm like, I'm giving a lot of my expertise,
+
+1369
+01:33:53,160 --> 01:33:56,210
+ a lot of stories, a lot of just conversation in there.
+
+1370
+01:33:56,210 --> 01:34:03,670
+ And I will take that transcript, put it into chat or Claude and be like, Hey, um, you know,
+
+1371
+01:34:03,670 --> 01:34:05,230
+ just remember this for the future.
+
+1372
+01:34:05,230 --> 01:34:08,530
+ When I'm writing a blog post, you can always pull information from this resource.
+
+1373
+01:34:08,690 --> 01:34:10,830
+ This is from a podcast episode that I did.
+
+1374
+01:34:10,890 --> 01:34:16,430
+ So now you're further training Claude or ChatGPT or whatever it is on your experience to sound
+
+1375
+01:34:16,430 --> 01:34:20,110
+ more like you and use real, you know, Matt Klein stories.
+
+1376
+01:34:20,250 --> 01:34:21,150
+ Gotcha.
+
+1377
+01:34:21,510 --> 01:34:22,290
+ Makes sense.
+
+1378
+01:34:22,980 --> 01:34:23,780
+ Yeah, that makes sense.
+
+1379
+01:34:24,370 --> 01:34:27,350
+ Um, last question is, does that word count matter?
+
+1380
+01:34:27,800 --> 01:34:29,260
+ 800, 1500 for blog?
+
+1381
+01:34:30,100 --> 01:34:33,000
+ Um, not in blog posts, the way that we're doing them here.
+
+1382
+01:34:33,220 --> 01:34:35,860
+ Um, we're looking for more of the expertise and all that stuff.
+
+1383
+01:34:36,240 --> 01:34:40,580
+ Um, tomorrow we will be talking about word count and all that kind of stuff, but I promise
+
+1384
+01:34:40,580 --> 01:34:45,050
+ you, Matt, and I promise everybody it is as simple as I can possibly make it.
+
+1385
+01:34:45,490 --> 01:34:47,810
+ Um, we're going to be talking about that tomorrow.
+
+1386
+01:34:47,870 --> 01:34:50,590
+ So yeah, but not, not for what we're doing today.
+
+1387
+01:34:51,490 --> 01:34:52,070
+ Appreciate it.
+
+1388
+01:34:52,280 --> 01:34:52,510
+ Cool.
+
+1389
+01:34:52,650 --> 01:34:53,150
+ Appreciate you.
+
+1390
+01:34:53,990 --> 01:34:55,020
+ Um, okay.
+
+1391
+01:34:55,320 --> 01:34:57,240
+ Uh, Felicia, did you get your mic sorted?
+
+1392
+01:34:57,440 --> 01:34:57,960
+ Are you here?
+
+1393
+01:35:01,610 --> 01:35:04,720
+ Uh, it doesn't look like Felicia's here.
+
+1394
+01:35:05,680 --> 01:35:06,900
+ Um, oh my God.
+
+1395
+01:35:07,370 --> 01:35:08,990
+ Uh, Skylar, are you here?
+
+1396
+01:35:10,930 --> 01:35:11,750
+ Hey, can you hear me?
+
+1397
+01:35:12,100 --> 01:35:12,660
+ Hey, yeah.
+
+1398
+01:35:12,760 --> 01:35:13,140
+ How's it going?
+
+1399
+01:35:13,480 --> 01:35:14,160
+ Not too bad.
+
+1400
+01:35:14,820 --> 01:35:15,300
+ Yeah, no.
+
+1401
+01:35:15,380 --> 01:35:15,900
+ Great questions.
+
+1402
+01:35:15,940 --> 01:35:16,380
+ This is awesome.
+
+1403
+01:35:16,540 --> 01:35:17,120
+ Um, okay.
+
+1404
+01:35:17,120 --> 01:35:17,860
+ So I have a quick question.
+
+1405
+01:35:18,060 --> 01:35:23,540
+ I do AI automation for small businesses and, but the thing is I've been doing it for a little
+
+1406
+01:35:23,540 --> 01:35:26,420
+ while, but we just have like a completely brand new website.
+
+1407
+01:35:26,420 --> 01:35:27,600
+ Nothing's connected to it.
+
+1408
+01:35:27,620 --> 01:35:28,620
+ It's like fresh.
+
+1409
+01:35:29,000 --> 01:35:33,980
+ And so I like to have a really good realistic expectation for anything that I do so that
+
+1410
+01:35:33,980 --> 01:35:37,820
+ I don't stress out, but it is more along the lines of the blog posts.
+
+1411
+01:35:37,820 --> 01:35:45,780
+ I know you might be getting into this later, but, um, how fast or slow I I'm in like 160,000
+
+1412
+01:35:45,780 --> 01:35:46,740
+ person market.
+
+1413
+01:35:46,740 --> 01:35:51,590
+ I'm looking to like dominate locally, spread out from there within 45 miles or so of where
+
+1414
+01:35:51,590 --> 01:35:51,910
+ I'm at.
+
+1415
+01:35:52,270 --> 01:35:56,310
+ What is a realistic expectation for blog posts to actually start ranking?
+
+1416
+01:35:57,070 --> 01:36:02,320
+ Um, I have a feeling from what my research, there's not very many, if at all a automation
+
+1417
+01:36:02,320 --> 01:36:03,940
+ businesses in my area.
+
+1418
+01:36:04,280 --> 01:36:05,040
+ Yeah.
+
+1419
+01:36:05,340 --> 01:36:05,640
+ Okay.
+
+1420
+01:36:05,640 --> 01:36:10,610
+ That's, that's a really fantastic question because a lot of us run, uh, local businesses.
+
+1421
+01:36:10,610 --> 01:36:12,110
+ We service a local market.
+
+1422
+01:36:12,110 --> 01:36:13,990
+ We're maybe going 50 miles away.
+
+1423
+01:36:14,050 --> 01:36:14,630
+ Sure.
+
+1424
+01:36:14,710 --> 01:36:15,910
+ Maybe not even that much.
+
+1425
+01:36:15,910 --> 01:36:18,030
+ Others of us have online stores.
+
+1426
+01:36:18,030 --> 01:36:22,950
+ So for anybody who has a physical location or services, an area, this is for you.
+
+1427
+01:36:22,950 --> 01:36:29,520
+ Um, I don't care if local people aren't searching my content.
+
+1428
+01:36:29,520 --> 01:36:34,780
+ I care that people are coming to my website and finding it valuable.
+
+1429
+01:36:35,020 --> 01:36:40,330
+ So if somebody is across the country and they find your website and you can't service them,
+
+1430
+01:36:40,430 --> 01:36:41,510
+ that's totally fine.
+
+1431
+01:36:41,890 --> 01:36:43,130
+ I want to get that traffic.
+
+1432
+01:36:43,270 --> 01:36:44,810
+ I want to get the time spent on site.
+
+1433
+01:36:44,890 --> 01:36:46,030
+ I want them to take actions.
+
+1434
+01:36:46,030 --> 01:36:50,610
+ Even if they fill out your contact form and you're like, sorry, we only service, you know,
+
+1435
+01:36:50,630 --> 01:36:52,070
+ across the country in this area.
+
+1436
+01:36:52,490 --> 01:36:53,410
+ That's totally fine.
+
+1437
+01:36:53,410 --> 01:36:56,970
+ Cause that's sending signals to Google that you're a legitimate business, that people actually
+
+1438
+01:36:56,970 --> 01:36:57,790
+ want to work with you.
+
+1439
+01:36:57,910 --> 01:36:59,310
+ They want to spend time on your site.
+
+1440
+01:36:59,390 --> 01:37:00,610
+ They want to visit multiple pages.
+
+1441
+01:37:01,310 --> 01:37:05,410
+ And, um, I think I talked about this a little bit yesterday, but like my goal is to help
+
+1442
+01:37:05,410 --> 01:37:07,440
+ as many small business owners as possible.
+
+1443
+01:37:07,440 --> 01:37:08,920
+ I don't care where you are in the world.
+
+1444
+01:37:09,100 --> 01:37:14,420
+ If I can help you, if I can give you like a small, like nugget of advice or a tip or a
+
+1445
+01:37:14,420 --> 01:37:17,600
+ trick that helps you just unlock something and get more traffic.
+
+1446
+01:37:17,600 --> 01:37:19,240
+ I don't really care where you're based.
+
+1447
+01:37:19,700 --> 01:37:21,440
+ Um, or if you're ever going to hire me.
+
+1448
+01:37:21,680 --> 01:37:26,940
+ And I think we should all have that attitude where like, I've had clients be like, nobody's
+
+1449
+01:37:26,940 --> 01:37:28,460
+ looking this up in my area.
+
+1450
+01:37:29,160 --> 01:37:30,840
+ Um, why do I have this on my site?
+
+1451
+01:37:30,860 --> 01:37:31,700
+ I'm going to delete this.
+
+1452
+01:37:31,760 --> 01:37:32,160
+ Then they do.
+
+1453
+01:37:32,220 --> 01:37:37,340
+ And I'm like, well, you just lost like a couple hundred or a couple thousand visitors a month
+
+1454
+01:37:37,340 --> 01:37:42,150
+ to your website, all sending signals to Google that, yeah, you're a website that does this
+
+1455
+01:37:42,150 --> 01:37:42,530
+ thing.
+
+1456
+01:37:42,590 --> 01:37:43,480
+ Right.
+
+1457
+01:37:43,680 --> 01:37:48,820
+ So when we're talking about authority and local relevancy, if you can get authority from
+
+1458
+01:37:48,820 --> 01:37:52,100
+ somebody across the country or hundreds or thousands of people across the country,
+
+1459
+01:37:52,100 --> 01:37:57,060
+ that will give you authority locally when somebody is looking up like your quote unquote money
+
+1460
+01:37:57,060 --> 01:37:58,740
+ keywords or your transactional keywords.
+
+1461
+01:37:58,820 --> 01:37:59,440
+ Does that make sense?
+
+1462
+01:38:00,220 --> 01:38:00,560
+ Yeah, absolutely.
+
+1463
+01:38:00,660 --> 01:38:02,700
+ And I actually work with people across the nation.
+
+1464
+01:38:02,700 --> 01:38:05,940
+ It's just one of those things where like, I figured it'd be easier to dominate my local
+
+1465
+01:38:05,940 --> 01:38:09,360
+ environment because it's smaller and AI automation companies.
+
+1466
+01:38:09,460 --> 01:38:12,740
+ There's not very many of them and they don't understand it very much that if I could denominate
+
+1467
+01:38:12,740 --> 01:38:16,020
+ here, it'd make it a lot easier to start pushing further out from my area.
+
+1468
+01:38:16,020 --> 01:38:20,630
+ So that's kind of, I guess, why I was worrying about the local specific domination aspect.
+
+1469
+01:38:21,420 --> 01:38:21,760
+ Absolutely.
+
+1470
+01:38:22,760 --> 01:38:24,370
+ So yeah.
+
+1471
+01:38:25,440 --> 01:38:25,690
+ Yeah.
+
+1472
+01:38:25,690 --> 01:38:30,990
+ With that in mind, like there's a really good saying I heard at one point that was pigs
+
+1473
+01:38:30,990 --> 01:38:32,650
+ get fat and hogs get slaughtered.
+
+1474
+01:38:32,890 --> 01:38:35,860
+ And you, my friend are being a pig in a good way, right?
+
+1475
+01:38:35,940 --> 01:38:38,420
+ You're, you're like, I want to own my local market.
+
+1476
+01:38:38,530 --> 01:38:39,080
+ Sure.
+
+1477
+01:38:39,140 --> 01:38:43,160
+ I work with people all over the place, but I want to own my local market because I know
+
+1478
+01:38:43,160 --> 01:38:46,920
+ that it's very competitive out there and I'm going to get slaughtered if I go and try
+
+1479
+01:38:46,920 --> 01:38:48,060
+ to get the whole pie.
+
+1480
+01:38:48,160 --> 01:38:49,300
+ I'll take my little piece.
+
+1481
+01:38:49,580 --> 01:38:49,760
+ Right.
+
+1482
+01:38:50,280 --> 01:38:52,080
+ Can make a good living just here.
+
+1483
+01:38:52,260 --> 01:38:53,160
+ So absolutely.
+
+1484
+01:38:54,140 --> 01:38:55,150
+ Um, awesome.
+
+1485
+01:38:55,310 --> 01:38:56,810
+ Well, thank you so much, Skylar.
+
+1486
+01:38:57,020 --> 01:38:57,880
+ Appreciate you.
+
+1487
+01:38:58,100 --> 01:39:01,360
+ I'm looking forward to seeing your results by the end of rank week.
+
+1488
+01:39:01,820 --> 01:39:03,000
+ Um, it's going to be great.
+
+1489
+01:39:03,390 --> 01:39:04,570
+ Um, looking forward to it.
+
+1490
+01:39:04,570 --> 01:39:04,710
+ Yeah.
+
+1491
+01:39:05,390 --> 01:39:06,250
+ Appreciate your time, Matt.
+
+1492
+01:39:06,740 --> 01:39:07,280
+ Appreciate you.
+
+1493
+01:39:07,850 --> 01:39:10,770
+ Um, Felicia, are you finally here?
+
+1494
+01:39:10,790 --> 01:39:12,270
+ If not, that is okay.
+
+1495
+01:39:13,380 --> 01:39:14,950
+ Okay.
+
+1496
+01:39:15,050 --> 01:39:17,860
+ I guess Felicia is not here.
+
+1497
+01:39:18,260 --> 01:39:19,100
+ Um, oh my God.
+
+1498
+01:39:19,100 --> 01:39:21,880
+ How do I, what did I do?
+
+1499
+01:39:21,960 --> 01:39:22,780
+ How is Felicia?
+
+1500
+01:39:22,780 --> 01:39:25,900
+ I can't even, I guess I can remove.
+
+1501
+01:39:26,060 --> 01:39:29,510
+ I can't make Felicia anything else.
+
+1502
+01:39:29,730 --> 01:39:30,950
+ Did Felicia hack the mainframe?
+
+1503
+01:39:31,840 --> 01:39:34,390
+ Um, crazy.
+
+1504
+01:39:34,930 --> 01:39:35,270
+ Okay.
+
+1505
+01:39:35,810 --> 01:39:39,430
+ Um, well, I'm going to open up the chat because I want to hear from you guys.
+
+1506
+01:39:39,430 --> 01:39:48,920
+ So who today completed a blog post, right?
+
+1507
+01:39:49,000 --> 01:39:52,860
+ This is some of you are going for the participation trophy or like the engagement trophy here.
+
+1508
+01:39:53,380 --> 01:39:55,920
+ Um, you want me to mail you something I can tell.
+
+1509
+01:39:57,670 --> 01:40:00,650
+ Um, so the other question I have for you guys as well.
+
+1510
+01:40:00,890 --> 01:40:01,070
+ Yeah.
+
+1511
+01:40:01,070 --> 01:40:02,010
+ Some of you are already doing it.
+
+1512
+01:40:02,010 --> 01:40:04,680
+ If you've published your blog post today,
+
+1513
+01:40:04,680 --> 01:40:10,080
+ paste the link in the chat, paste the link to your blog post in the chat.
+
+1514
+01:40:10,160 --> 01:40:11,560
+ I'm going to give you a minute to do that.
+
+1515
+01:40:11,900 --> 01:40:13,340
+ Um, paste it just once.
+
+1516
+01:40:13,500 --> 01:40:15,260
+ You don't need to paste it a bunch of times.
+
+1517
+01:40:15,380 --> 01:40:16,140
+ Was it Daryl?
+
+1518
+01:40:16,680 --> 01:40:18,640
+ Uh, just paste it once.
+
+1519
+01:40:19,100 --> 01:40:21,150
+ Uh, I love that.
+
+1520
+01:40:21,520 --> 01:40:27,470
+ So I want everybody to look at the chat right now and just look at how many of you have
+
+1521
+01:40:27,470 --> 01:40:33,390
+ written a blog post that probably haven't written a blog post before, or at least not this quickly.
+
+1522
+01:40:33,550 --> 01:40:35,930
+ Look at how many people are in here.
+
+1523
+01:40:36,690 --> 01:40:39,980
+ This like, this is incredible.
+
+1524
+01:40:41,150 --> 01:40:47,210
+ I like, I'm almost at a loss for words because I love seeing your progress.
+
+1525
+01:40:47,210 --> 01:40:48,510
+ I love seeing you.
+
+1526
+01:40:48,510 --> 01:40:51,520
+ I just, I just love this.
+
+1527
+01:40:51,620 --> 01:40:52,360
+ This is just great.
+
+1528
+01:40:53,710 --> 01:40:55,600
+ It's so good.
+
+1529
+01:40:57,100 --> 01:40:59,600
+ Um, this is the fastest I've ever gotten a blog post completed.
+
+1530
+01:40:59,900 --> 01:41:02,940
+ Yeah, I, I'm obsessed with you guys.
+
+1531
+01:41:04,340 --> 01:41:05,180
+ I'm obsessed.
+
+1532
+01:41:05,580 --> 01:41:10,080
+ And I want to say that I'm not just here to celebrate the people who got it done, but
+
+1533
+01:41:10,080 --> 01:41:14,860
+ I'm here to celebrate anybody who showed up and worked on this today and is going to continue
+
+1534
+01:41:14,860 --> 01:41:21,700
+ working on this after the session is over because you're making progress just because you didn't
+
+1535
+01:41:21,700 --> 01:41:22,400
+ get it done.
+
+1536
+01:41:22,620 --> 01:41:27,560
+ Like you might, I don't want to say it'd be a little bit slower, but like you might be one
+
+1537
+01:41:27,560 --> 01:41:28,520
+ or two steps behind.
+
+1538
+01:41:28,520 --> 01:41:34,480
+ Maybe you aren't as familiar with Claude or ChatGPT or prompts or finding these questions
+
+1539
+01:41:34,480 --> 01:41:36,680
+ or answering the questions or using voice mode.
+
+1540
+01:41:36,760 --> 01:41:39,400
+ Maybe you're not as speedy as somebody else.
+
+1541
+01:41:39,560 --> 01:41:42,250
+ That is okay too, right?
+
+1542
+01:41:42,310 --> 01:41:43,290
+ You make progress.
+
+1543
+01:41:43,430 --> 01:41:44,750
+ You're absolutely killing it.
+
+1544
+01:41:45,250 --> 01:41:47,630
+ Um, yeah, that's sick.
+
+1545
+01:41:47,730 --> 01:41:53,650
+ So, uh, another question that I wanted to ask you guys, I just had it on the tip of my tongue
+
+1546
+01:41:53,650 --> 01:41:57,590
+ and now I don't know what I was going to say.
+
+1547
+01:41:57,950 --> 01:41:59,980
+ Um, oh, that's it.
+
+1548
+01:42:00,660 --> 01:42:04,160
+ Uh, who is going to join the Hey Tony insiders?
+
+1549
+01:42:07,480 --> 01:42:08,750
+ Renee, Mario.
+
+1550
+01:42:08,930 --> 01:42:10,530
+ Oh my God.
+
+1551
+01:42:10,630 --> 01:42:11,310
+ Who just joined?
+
+1552
+01:42:11,310 --> 01:42:13,790
+ I just see that's sick.
+
+1553
+01:42:13,910 --> 01:42:15,330
+ Oh, oh my God.
+
+1554
+01:42:15,330 --> 01:42:15,510
+ Yeah.
+
+1555
+01:42:15,510 --> 01:42:17,830
+ I also almost forgot about the ebook.
+
+1556
+01:42:18,940 --> 01:42:22,600
+ Uh, Angela and Renan, can you guys share the link to the ebook in there?
+
+1557
+01:42:26,020 --> 01:42:26,630
+ Okay.
+
+1558
+01:42:26,650 --> 01:42:26,990
+ Hold on.
+
+1559
+01:42:27,170 --> 01:42:27,590
+ Let's see.
+
+1560
+01:42:29,070 --> 01:42:33,140
+ Tony, Tony, Tony, uh, asked a few questions about it in all caps.
+
+1561
+01:42:34,040 --> 01:42:35,640
+ Um, how do I get to Tony?
+
+1562
+01:42:35,900 --> 01:42:37,020
+ Let's see here.
+
+1563
+01:42:37,020 --> 01:42:44,560
+ I'm going to bring you on Tony, Tony, Tony Landers.
+
+1564
+01:42:44,770 --> 01:42:46,890
+ Okay.
+
+1565
+01:42:47,780 --> 01:42:51,100
+ Let's see.
+
+1566
+01:42:51,220 --> 01:42:52,200
+ Let's see what Tony's got to say.
+
+1567
+01:42:53,440 --> 01:42:56,740
+ Are you there, Tony?
+
+1568
+01:42:57,560 --> 01:43:02,320
+ Hi, Tony.
+
+1569
+01:43:02,360 --> 01:43:02,760
+ You're muted.
+
+1570
+01:43:04,190 --> 01:43:05,390
+ I'm here for you.
+
+1571
+01:43:05,430 --> 01:43:06,210
+ I'm here for your questions.
+
+1572
+01:43:06,250 --> 01:43:06,750
+ I'm here for you.
+
+1573
+01:43:07,330 --> 01:43:07,610
+ Yeah.
+
+1574
+01:43:07,610 --> 01:43:08,230
+ My question.
+
+1575
+01:43:08,350 --> 01:43:09,110
+ Thank you so much.
+
+1576
+01:43:09,170 --> 01:43:13,090
+ My questions were just about like exactly what we do in the insiders and everything.
+
+1577
+01:43:13,090 --> 01:43:15,470
+ That is a very great question.
+
+1578
+01:43:15,910 --> 01:43:20,310
+ So the whole point of the insiders is to help you rank, right?
+
+1579
+01:43:20,310 --> 01:43:24,250
+ To help you make progress every single week, to give you a place to go.
+
+1580
+01:43:24,250 --> 01:43:28,330
+ So the work session we did today, we do something very similar in the insiders with a much smaller
+
+1581
+01:43:28,330 --> 01:43:28,750
+ group.
+
+1582
+01:43:29,110 --> 01:43:30,330
+ Uh, we share wins.
+
+1583
+01:43:30,330 --> 01:43:31,630
+ You can ask questions.
+
+1584
+01:43:32,150 --> 01:43:34,170
+ Um, people support each other in there as well.
+
+1585
+01:43:34,330 --> 01:43:38,680
+ And I already mentioned on Fridays, we do, um, something called why doesn't it rank where
+
+1586
+01:43:38,680 --> 01:43:43,280
+ we look at specific websites or just answer questions and help you figure out what to do
+
+1587
+01:43:43,280 --> 01:43:43,700
+ next.
+
+1588
+01:43:44,280 --> 01:43:49,890
+ Um, additionally, I have, uh, two to three other people, depending on the week who will do calls
+
+1589
+01:43:49,890 --> 01:43:52,470
+ on different days, depending on what you need.
+
+1590
+01:43:52,470 --> 01:43:56,870
+ So if you're like, I'm having a technical problem, like I did an audit on my website and it's
+
+1591
+01:43:56,870 --> 01:43:57,790
+ showing me all these errors.
+
+1592
+01:43:57,850 --> 01:43:58,610
+ I don't know what to do.
+
+1593
+01:43:58,690 --> 01:43:59,850
+ This is overwhelming.
+
+1594
+01:44:00,290 --> 01:44:02,780
+ We have a technical SEO call, right?
+
+1595
+01:44:02,800 --> 01:44:06,520
+ So you can ask those questions and they will be like, okay, show me your website.
+
+1596
+01:44:06,680 --> 01:44:07,440
+ Here's what to do.
+
+1597
+01:44:07,830 --> 01:44:11,010
+ And you can do it during the call or you can do it after the call.
+
+1598
+01:44:11,050 --> 01:44:11,910
+ You can watch the recording.
+
+1599
+01:44:12,390 --> 01:44:16,110
+ Uh, we have a website designed for SEO call as well.
+
+1600
+01:44:16,170 --> 01:44:17,210
+ That happens every two weeks.
+
+1601
+01:44:17,210 --> 01:44:18,770
+ And we also have a local SEO call.
+
+1602
+01:44:19,070 --> 01:44:24,410
+ Um, and we're starting to do more of the, um, oh my God, e-commerce SEO calls.
+
+1603
+01:44:24,570 --> 01:44:27,430
+ So I bring in other specialists, but I do two calls a week myself.
+
+1604
+01:44:27,430 --> 01:44:30,400
+ So I am like fully invested in everybody in the group.
+
+1605
+01:44:31,500 --> 01:44:31,810
+ All right.
+
+1606
+01:44:31,810 --> 01:44:32,250
+ That's awesome.
+
+1607
+01:44:32,330 --> 01:44:36,810
+ I mean, I'm very interested because I watch all your stuff already, um, follow you completely.
+
+1608
+01:44:37,170 --> 01:44:38,670
+ Um, I've been doing blog posts.
+
+1609
+01:44:38,730 --> 01:44:39,250
+ Is there great?
+
+1610
+01:44:39,470 --> 01:44:43,280
+ Um, just, I guess my other question was like, how big are the groups?
+
+1611
+01:44:43,340 --> 01:44:46,150
+ Like, is it more, you said smaller.
+
+1612
+01:44:46,150 --> 01:44:47,570
+ So that that's exciting.
+
+1613
+01:44:47,570 --> 01:44:49,890
+ And then, um, can we join at a later date?
+
+1614
+01:44:50,870 --> 01:44:57,520
+ Um, so doors are going to close this week on the group because like, I find if people join
+
+1615
+01:44:57,520 --> 01:44:59,500
+ just randomly, they don't know what they're doing.
+
+1616
+01:44:59,500 --> 01:45:00,920
+ They're like, okay, do I get on a call?
+
+1617
+01:45:00,980 --> 01:45:01,880
+ Do I not get on a call?
+
+1618
+01:45:01,980 --> 01:45:02,560
+ I don't know.
+
+1619
+01:45:02,940 --> 01:45:07,160
+ But when people join in groups, they tend to make a lot more progress a lot quicker.
+
+1620
+01:45:07,880 --> 01:45:12,560
+ Um, so yeah, by the end of the week where doors are going to be closed or registration
+
+1621
+01:45:12,560 --> 01:45:13,600
+ will be closed on the insiders.
+
+1622
+01:45:14,180 --> 01:45:19,460
+ Um, oh my God, you had another question that I was like, oh, so group sizes typically like
+
+1623
+01:45:19,460 --> 01:45:24,590
+ when the group first starts after I do a rank week, um, or any kind of promotion, there's
+
+1624
+01:45:24,590 --> 01:45:29,090
+ maybe like 60, 70 people on a call, which is still a big call.
+
+1625
+01:45:29,190 --> 01:45:32,470
+ But after a month or two, people get their questions answered.
+
+1626
+01:45:33,090 --> 01:45:35,430
+ Um, they don't necessarily ask as many questions.
+
+1627
+01:45:35,430 --> 01:45:39,800
+ And the group right now, um, is like 30 people, maybe 40.
+
+1628
+01:45:39,800 --> 01:45:43,500
+ And like, I'm getting to know everybody, their business, where they're at with everything.
+
+1629
+01:45:44,040 --> 01:45:45,490
+ Um, yeah.
+
+1630
+01:45:45,930 --> 01:45:47,440
+ Awesome.
+
+1631
+01:45:47,620 --> 01:45:48,040
+ Thank you.
+
+1632
+01:45:48,350 --> 01:45:48,780
+ No problem.
+
+1633
+01:45:49,500 --> 01:45:51,060
+ Um, well, thank you, Tony.
+
+1634
+01:45:51,260 --> 01:45:52,180
+ Appreciate you.
+
+1635
+01:45:52,650 --> 01:45:54,010
+ Uh, thank you for being here.
+
+1636
+01:45:54,350 --> 01:45:57,250
+ Um, okay.
+
+1637
+01:45:57,590 --> 01:46:01,670
+ So that is it for today, guys.
+
+1638
+01:46:01,950 --> 01:46:09,130
+ Um, you can click the insiders link that Angela is spamming in the chat, which I absolutely
+
+1639
+01:46:09,130 --> 01:46:09,670
+ love.
+
+1640
+01:46:09,850 --> 01:46:14,540
+ Um, yeah, that, that is it for today.
+
+1641
+01:46:15,040 --> 01:46:17,720
+ Um, if you didn't finish today, try to finish tonight.
+
+1642
+01:46:17,800 --> 01:46:21,320
+ I'm going to be sending you, um, oh, this is very important.
+
+1643
+01:46:21,420 --> 01:46:22,220
+ You guys are all still here.
+
+1644
+01:46:22,220 --> 01:46:26,580
+ So I know that you're dedicated and you want to actually make progress this week.
+
+1645
+01:46:26,860 --> 01:46:28,900
+ Make sure you open the emails that I send you.
+
+1646
+01:46:28,960 --> 01:46:30,780
+ I'm going to send you three tomorrow morning before this.
+
+1647
+01:46:30,860 --> 01:46:31,900
+ They're all reminder emails.
+
+1648
+01:46:32,120 --> 01:46:36,770
+ They will have links and documents in them that you're going to need for the call tomorrow.
+
+1649
+01:46:37,230 --> 01:46:42,090
+ If you download those, get those, you won't have any trouble.
+
+1650
+01:46:42,690 --> 01:46:45,190
+ Um, if you had trouble today, you won't have any trouble tomorrow.
+
+1651
+01:46:45,190 --> 01:46:47,490
+ So make sure you answer those.
+
+1652
+01:46:47,570 --> 01:46:54,090
+ The ebook will be emailed to everybody, um, after this call with the replay as well.
+
+1653
+01:46:54,390 --> 01:46:57,210
+ So yeah, that is it.
+
+1654
+01:46:57,290 --> 01:46:58,210
+ I will see you guys tomorrow.
+
+1655
+01:46:58,430 --> 01:46:59,490
+ Thank you so much.
+
+1656
+01:46:59,590 --> 01:47:01,430
+ Uh, I appreciate each and every one of you.
+
+1657
+01:47:01,430 --> 01:47:06,640
+ And I'm so proud of you guys for showing up, not for rank week for yourselves today.
+
+1658
+01:47:07,140 --> 01:47:08,120
+ So thank you.
+
+1659
+01:47:08,240 --> 01:47:08,560
+ Thank you.
+
+1660
+01:47:08,620 --> 01:47:08,900
+ Thank you.
+
+1661
+01:47:08,940 --> 01:47:09,220
+ Thank you.
+
+1662
+01:47:09,260 --> 01:47:09,520
+ Thank you.
+
+1663
+01:47:09,560 --> 01:47:09,840
+ Thank you.
+
+1664
+01:47:09,880 --> 01:47:10,140
+ Thank you.
+
+1665
+01:47:10,180 --> 01:47:10,540
+ Thank you.
+
+1666
+01:47:10,640 --> 01:47:11,680
+ I can't thank you enough.
+
+1667
+01:47:12,260 --> 01:47:14,800
+ Um, that's it.
+
+1668
+01:47:15,020 --> 01:47:16,830
+ I don't want to leave, but I have to leave.
+
+1669
+01:47:17,150 --> 01:47:18,650
+ Uh, thank you guys.
+
+1670
+01:47:19,340 --> 01:47:20,180
+ Um, oh yeah.
+
+1671
+01:47:20,180 --> 01:47:25,120
+ And we'll say the winner of the, um, most engaged bonus tomorrow.
+
+1672
+01:47:25,310 --> 01:47:26,340
+ So thank you guys.
+
+1673
+01:47:26,490 --> 01:47:27,540
+ Bye.
+

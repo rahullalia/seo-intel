@@ -1,0 +1,7 @@
+# Crawl Depth
+
+HeyTony Insiders — Curriculum / level0-understandingSeo (hash: pqz01JbVDK) | 1m 30s | ~265 words
+
+---
+
+Crawl depth is essentially how many clicks does it take to access any page on your website? Websites with very shallow or very low crawl depth typically rank higher because search engines can find all their pages with three or fewer clicks. And you know, if a user's coming to your site and you and they're looking for some specific information, you want them to be able to easily find that. So you need to make sure that every, your website architecture, all your internal linking is, you know, top notch. You're doing all the, all the right stuff. So essentially if you look at the internal link structure graphic here on the right, you'll see that the homepage, that doesn't count as a click. So say somebody types in, you know, hey, Tony, ca. They come to the website and then they want to find any kind of specific piece of content. They should be able to get to that content from 1, 2, 3, 3 clicks max. If, if it's taking them four or more clicks to find that content. That content, you know, it's not internally linked properly. You need to have like a better internal link strategy which we're going to talk about, or you need to remove that content because it's not relevant. And anything that's four clicks deeper or lower, Google's not really going to look at because they're like, if they don't care to feature that content, then why should we feature that content? So basically don't bury your content or no one will find it, including Google.

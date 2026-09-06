@@ -1,0 +1,7 @@
+# Technical SEO Introduction
+
+HeyTony Insiders — Curriculum / level0-understandingSeo (hash: gNZ7Ao1Yqd) | 1m 23s | ~223 words
+
+---
+
+All right, so this is the last section of this intro to SEO understanding SEO course. So technical SEO it is. It's technically, it's technically on page SEO, but it's a lot more technical and we often separate that because a lot of on page SEO is, you know, content based, whereas this is a little bit more nuts and bolts, you know, technical stuff. So like I said, technical SEO is technically a part of on page SEO. However, it's a bit more technical than the elements that we went over, you know, videos ago. So what are these elements that are included in technical SEO? So these are things like site speed, like how fast is your site, is your site responsive, does it work on a ton of, you know, basically every device and resize properly your core web vitals. We'll get into all of that in a bit. Schema markup will also get into that site maps, robot text, crawl depth, duplicate tags, broken links, and orphan pages. So we're going to go through each of these in their own videos with examples where examples make sense. So don't worry if none of this makes sense or if it seems daunting. We're going to explain every single one of these to you in, you know, the next video. Now,

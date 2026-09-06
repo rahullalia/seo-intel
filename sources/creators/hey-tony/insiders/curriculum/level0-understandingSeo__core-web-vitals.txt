@@ -1,0 +1,7 @@
+# Core Web Vitals
+
+HeyTony Insiders — Curriculum / level0-understandingSeo (hash: rq8o9aWvN3) | 1m 27s | ~249 words
+
+---
+
+When you hear core web vitals, just think user experience. So Web Vitals is an initiative by Google to provide unified guidance for quality signals that are essential to delivering a great user experience on the web. Essentially, your website should load quickly and it should not load irrelevant information. So if you've ever been to a website, you know, you're trying to take, I don't know, a buzzfeed quiz or like one of those. One of those sites that just has, like, ads everywhere and you accidentally click on one of the ads because the content shifts and then you click on the ad, you're like, I really did not mean to click on the ad. So that's called cumulative shift layout. And users hate that. So does Google. So essentially, when a site loads, it should load exactly the format that it was designed to load, and nothing is popping up and pushing content down or changing the, I guess, structure of the site. So once the site initially starts loading, that's the. That's the structure of the site. It's not, you know, loading other stuff afterwards. And at the end of the day, it's all about user experience. If people can read your text, if they can read the font on your website, they can read all the copy, the images load quickly, the website loads quickly, and there's no shifting of elements on the website. That's a good core web vitals, that's good user experience.

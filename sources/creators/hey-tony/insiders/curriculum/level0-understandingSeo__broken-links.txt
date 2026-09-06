@@ -1,0 +1,7 @@
+# Broken Links
+
+HeyTony Insiders — Curriculum / level0-understandingSeo (hash: 7NJMXrK9Do) | 1m 5s | ~203 words
+
+---
+
+A broken link is essentially a link that goes to a page that no longer exists. So a broken link signals to Google that you're not a diligent webmaster or business owner or whatever you want to call yourself. You're operating your website. And if you're not looking after your broken links, what else are you not looking after? Fixing broken links as soon as they occur will help you maintain your rankings. So essentially, if you're linking out to a study, or you're linking out to a resource or something like that, and somebody clicks on it, and they get a 404 error, which means that page no longer exists, they're not going to be happy that that information is no longer there. So essentially, you want to fix all of those. You want to find a new resource, or if that resource is gone and it makes sense for you to write your own blog post about that, that's a great way to fix it. So you just replace that link that goes to the external website that you were referencing, and you would replace that with a link to your new blog post or your new page on your website.

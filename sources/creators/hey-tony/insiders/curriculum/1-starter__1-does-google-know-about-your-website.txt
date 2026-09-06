@@ -1,0 +1,7 @@
+# 1. Does Google Know About Your Website?
+
+HeyTony Insiders — Curriculum / 1-starter (hash: kqkOVpnMq4) | 0m 56s | ~212 words
+
+---
+
+The very first thing you need to figure out is whether Google knows about your website or not. And it's really easy to do this. So just go to Google and type in site colon and then paste in your website. I have HeyTony ca, that's my website. And we can see here that there's listings, right? There's different links to the website. If this shows up like this for you, that means Google knows about your website. You don't really need to do anything else at this point except go to the next video. If you get something that looks like this, I'm going to type in a domain that doesn't exist. If it looks like this, that means that Google doesn't know about your website. And if this is the case, you're going to move on to the next couple of videos where I'm going to show you how to submit your website to Google and how to get indexed in their search results. So go check this out right now. Site colon. Paste in your website. Again. If any links show up, that means Google knows about you. If they don't, that means you have a little bit of work to do. But don't worry, it's very, very simple.

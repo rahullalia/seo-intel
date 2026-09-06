@@ -1,0 +1,7 @@
+# Intro to On Page SEO
+
+HeyTony Insiders — Curriculum / level0-understandingSeo (hash: 5244YnpE21) | 0m 51s | ~155 words
+
+---
+
+Welcome to On Page SEO. This section is long, so hold on tight. I've also broken up this section to multiple videos, so if you lose track or if you need to go back because you missed something, you'll easily be able to do that. So when talking about On Page SEO, these are essentially elements on your website that you can control yourself. So basically all the content on your website and what are these elements? What are the what the, what's the content on your website that you can control? So these are things like title tags, meta descriptions, URLs, the content quality, your word count, the readability of your content, heading tags, anchor text, bullets and lists, images, image, alt text, video, keyword density, internal links and external links. Don't worry about if you don't know what any of this is. We're going to be covering that in the next couple videos.

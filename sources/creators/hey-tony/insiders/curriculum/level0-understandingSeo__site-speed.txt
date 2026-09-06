@@ -1,0 +1,7 @@
+# Site Speed
+
+HeyTony Insiders — Curriculum / level0-understandingSeo (hash: 1q1J89lK2P) | 1m 28s | ~254 words
+
+---
+
+Site speed has become a more important factor for ranking on search engines in the last couple of years. So essentially, site speed is how quickly a user can load your content. Sites that load content quickly or fast will dominate the search rankings, and users will have access to the information they're looking for almost immediately. So slower loading sites will have higher bounce rates, which we haven't talked about bounce rates, and I'll tell you what that is in a minute. So slower loading sites will have higher bounce rates, which will eventually lower their search ranking. So I'm sure everybody watching this video, at some point, you've gone to a website, you were looking for some kind of information, you went to a website and it was taking too long to load, so you hit back and then you went to the next link that you know loaded quicker or had more complete information or whatever it was. So if a site's loading slow and it's getting a lot of people coming to it and then leaving right away and going to another link, that's going to tell search engines that the faster site is a better site and it should rank higher. So you want to make sure that your site loads as quickly as possible. There's a lot of strategies and a lot of techniques to do this, which we'll go over in the how to portion of these videos. Yeah, so that's basically it. Faster site, better site.

@@ -1,0 +1,7 @@
+# Robots.txt
+
+HeyTony Insiders — Curriculum / level0-understandingSeo (hash: YDaAbd9ZDQ) | 1m 34s | ~269 words
+
+---
+
+The robots. Txt or Robots Txt file is a hidden file that's hosted on your website. It's not really hidden, it's just users don't access it, but search engines do. So it's used primarily to manage Google's crawler traffic to your website and usually keep a file or page off of Google. So if you don't want somebody to find a file, a specific, you know, image or specific PDF or something like that or or specific page on your website, you can tell Google like, hey, don't look at this page and they'll ignore that page. You can also use your Robots text file to tell Google not to show orphan pages or not to index a page users need to be logged in to see. So stuff like that. I'll get into what's an orphan page in I think the next slide or 2 or 3 or the next couple of videos, so don't worry about that. But Robots Text, I'll show you an example of what it looks like on the hey Tony website. So this is our robots Txt file. So it's basically just saying allow any page that's on the website to be indexed. And this is where our site map is. So yeah, essentially Robots Text, it's often generated automatically through any content management system or website builder that you're using. If it's not, you need to switch your website builder because it's a very simple thing that everything every content management system or website builder should be doing. Yeah, so that's Robots Text. It basically allows you to hide content from Google.
