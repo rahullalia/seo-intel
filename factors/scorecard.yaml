@@ -1,4 +1,1164 @@
 # Machine-readable twin of scorecard.md. Same rows, same order. Skills load this file.
 # tier: required | core | supporting | minor | myth | dead
 # evidence: A | B | C | D      scope: organic | local | ai      lever: ranking | conversion | trust      stage: build | audit | both
-factors: []
+factors:
+  - id: https
+    factor: "HTTPS served sitewide"
+    category: technical
+    scope: [organic, local, ai]
+    lever: ranking
+    stage: both
+    tier: required
+    evidence: "A"
+    last_verified: "2026-07"
+    sources: ["google/technical 2014-08-07", "creators/technical 2026-07"]
+  - id: mobile-usable
+    factor: "Page reflows and stays readable on a phone under mobile-first indexing"
+    category: technical
+    scope: [organic, local, ai]
+    lever: ranking
+    stage: both
+    tier: required
+    evidence: "A"
+    last_verified: "2026-07"
+    sources: ["google/technical 2025-12-10", "creators/technical 2026-07"]
+  - id: indexable
+    factor: "Page indexed, not blocked, reachable by the crawler"
+    category: technical
+    scope: [organic, ai]
+    lever: ranking
+    stage: both
+    tier: required
+    evidence: "A"
+    last_verified: "2026-07"
+    sources: ["google/technical 2025-12-18", "creators/technical 2026-07"]
+  - id: sitemap-submitted
+    factor: "XML sitemap submitted once inside Search Console"
+    category: technical
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/technical 2026-07"]
+  - id: domain-change-risk
+    factor: "Moving an established site to a new root domain"
+    category: technical
+    scope: [organic]
+    lever: ranking
+    stage: build
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/technical 2026-07"]
+  - id: schema-markup
+    factor: "Structured data beyond the SEO plugin default"
+    category: technical
+    scope: [organic, ai]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "C"
+    last_verified: "2026-06"
+    sources: ["experts/technical 2026-01-09", "creators/technical 2026-06"]
+  - id: bing-indexing
+    factor: "Site verified and indexed in Bing Webmaster Tools"
+    category: technical
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/ai-search.md"]
+  - id: faq-schema
+    factor: "FAQPage structured data on a page with question and answer pairs"
+    category: technical
+    scope: [ai, organic]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/ai-search.md"]
+  - id: static-html-rendering
+    factor: "Static HTML or server rendering rather than client-side JavaScript"
+    category: technical
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/ai-search.md"]
+  - id: canonical-self-reference
+    factor: "Canonical tag matching the live rendered URL exactly, trailing slash included"
+    category: technical
+    scope: [organic]
+    lever: ranking
+    stage: audit
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-06-11"
+    sources: ["creators/technical 2026-06-11"]
+  - id: core-web-vitals
+    factor: "Core Web Vitals and load speed as a tiebreaker between equal pages"
+    category: technical
+    scope: [organic]
+    lever: ranking
+    stage: audit
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/technical 2026-07"]
+  - id: ai-crawler-allow
+    factor: "Retrieval agents allowed through robots.txt and the firewall"
+    category: technical
+    scope: [ai]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["experts/technical 2026-01-21", "creators/technical 2026-07"]
+  - id: crawl-depth
+    factor: "Every page you want ranked within three clicks of the homepage"
+    category: technical
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/technical 2026-07"]
+  - id: url-change-risk
+    factor: "Changing the URL of a page that ranks, has traffic, or has backlinks"
+    category: technical
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/technical 2026-07"]
+  - id: llms-txt
+    factor: "An llms.txt file at the site root"
+    category: technical
+    scope: [organic, ai]
+    lever: ranking
+    stage: build
+    tier: myth
+    evidence: "B"
+    last_verified: "2026-07"
+    sources: ["experts/technical 2026-06-15", "creators/technical 2026-07"]
+  - id: meta-keywords
+    factor: "The meta keywords tag"
+    category: technical
+    scope: [organic]
+    lever: ranking
+    stage: audit
+    tier: myth
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/technical 2026-07"]
+  - id: content-freshness
+    factor: "Content updated within the last two months"
+    category: content
+    scope: [organic, ai]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "B"
+    last_verified: "2025-12-15"
+    sources: ["experts/content 2025-12-15"]
+  - id: cite-sources-in-content
+    factor: "Named, verifiable citations attached to the claims on the page"
+    category: content
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: core
+    evidence: "B"
+    last_verified: "2024-06-28"
+    sources: ["experts/content 2024-06-28"]
+  - id: information-gain
+    factor: "Novel, non-redundant information relative to other pages on the query"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "A"
+    last_verified: "2025-12-10"
+    sources: ["google/content 2025-12-10", "google/content 2024-03-05", "creators/content 2024-02-05"]
+  - id: readability-grade-6-8
+    factor: "Reading level at Flesch-Kincaid grade 6 to 8"
+    category: content
+    scope: [organic, ai]
+    lever: ranking
+    stage: build
+    tier: supporting
+    evidence: "B"
+    last_verified: "2026-07"
+    sources: ["experts/content 2025-12-15", "creators/content 2026-07"]
+  - id: faq-block-plain-text
+    factor: "FAQ answers as plain question and answer text, capped at three or four"
+    category: content
+    scope: [organic, ai]
+    lever: ranking
+    stage: build
+    tier: supporting
+    evidence: "B"
+    last_verified: "2026-07"
+    sources: ["experts/content 2025-12-15", "creators/content 2026-07"]
+  - id: one-keyword-per-page
+    factor: "One target keyword per page, no page sharing a keyword with another"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-01-15"
+    sources: ["creators/content 2026-01-15"]
+  - id: ranking-page-freeze
+    factor: "Editing the content or structure of a page that already ranks"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/content 2026-07"]
+  - id: single-h1
+    factor: "Exactly one H1, first heading in DOM order, carrying the exact keyword"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/content 2026-07", "creators/content 2026-07-09"]
+  - id: word-count-competitor-relative
+    factor: "Word count matched to the top three results plus about ten percent"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07-20"
+    sources: ["creators/content 2026-07-20"]
+  - id: keyword-density-over-optimization
+    factor: "Keyword density meaningfully higher than the ranking competitors"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/content 2026-07"]
+  - id: unedited-ai-output
+    factor: "Publishing unreviewed AI output without expert oversight"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/content 2026-07"]
+  - id: experience-first-person
+    factor: "First-person accounts, real outcomes and practitioner authorship"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/core-updates.md"]
+  - id: multi-modal-content
+    factor: "Images, diagrams, tables and video alongside the text"
+    category: content
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/ai-search.md"]
+  - id: answer-first-structure
+    factor: "The direct answer stated at the top of the page, before context"
+    category: content
+    scope: [organic, ai]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/content 2026-07"]
+  - id: eeat
+    factor: "Experience, Expertise, Authoritativeness and Trustworthiness signals"
+    category: content
+    scope: [organic]
+    lever: trust
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/core-updates.md"]
+  - id: answer-passage-length
+    factor: "Self-contained answer passages of 134 to 167 words"
+    category: content
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/ai-search.md"]
+  - id: keyword-in-title-front
+    factor: "Focus keyword at or near the front of the title tag"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/content 2026-07"]
+  - id: hidden-accordion-content
+    factor: "Important answer content hidden behind an accordion, toggle or dropdown"
+    category: content
+    scope: [organic, ai]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-06-25"
+    sources: ["creators/content 2026-06-25", "creators/content 2025-12-19"]
+  - id: alt-text
+    factor: "Descriptive alt text on every image, screen reader first"
+    category: content
+    scope: [organic]
+    lever: trust
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2025-11"
+    sources: ["creators/content 2025-11"]
+  - id: ai-generated-content
+    factor: "Content penalised for being produced with AI rather than for quality"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: myth
+    evidence: "B"
+    last_verified: "2026-07"
+    sources: ["experts/content 2025-07-08", "creators/content 2026-07"]
+  - id: keyword-stuffing-ai
+    factor: "Repeating the target phrase to win generative engine citation"
+    category: content
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: myth
+    evidence: "B"
+    last_verified: "2024-06-28"
+    sources: ["experts/content 2024-06-28"]
+  - id: hero-carousel
+    factor: "Auto-rotating hero slider or carousel"
+    category: website-design
+    scope: [organic]
+    lever: conversion
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/website-design 2026-07"]
+  - id: single-primary-cta
+    factor: "One primary CTA per page, secondary actions receding"
+    category: website-design
+    scope: [organic]
+    lever: conversion
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/website-design 2026-07"]
+  - id: tap-to-call
+    factor: "Clickable tap-to-call number within thumb reach on mobile"
+    category: website-design
+    scope: [local, organic]
+    lever: conversion
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/website-design 2026-07"]
+  - id: body-font-size
+    factor: "Body text 16px minimum, about 1.8 line height"
+    category: website-design
+    scope: [organic]
+    lever: conversion
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07-08"
+    sources: ["creators/website-design 2026-07-08"]
+  - id: text-contrast
+    factor: "Soft dark gray on near white, never pure black on pure white"
+    category: website-design
+    scope: [organic]
+    lever: conversion
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-05-13"
+    sources: ["creators/website-design 2026-05-13"]
+  - id: whitespace-section-rhythm
+    factor: "Deliberate whitespace and alternating section rhythm"
+    category: website-design
+    scope: [organic]
+    lever: conversion
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-04-15"
+    sources: ["creators/website-design 2026-04-15"]
+  - id: real-team-photos
+    factor: "Real photos of the actual team rather than stock or AI images"
+    category: website-design
+    scope: [organic]
+    lever: trust
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/website-design 2026-07"]
+  - id: review-carousel-plugin
+    factor: "Review carousel plugin on a money page"
+    category: website-design
+    scope: [organic]
+    lever: conversion
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/website-design 2026-07"]
+  - id: accessibility-baseline
+    factor: "Real headings, live text, alt text and contrast for screen readers"
+    category: website-design
+    scope: [organic]
+    lever: trust
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07-16"
+    sources: ["creators/website-design 2026-07-16"]
+  - id: gbp-verified
+    factor: "A verified Google Business Profile"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: required
+    evidence: "A"
+    last_verified: "2026-09-06"
+    sources: ["google/local-gbp 2026-09-06"]
+  - id: gbp-name-policy-risk
+    factor: "Keyword-stuffed GBP name as a suspension and redressal risk"
+    category: local-gbp
+    scope: [local]
+    lever: trust
+    stage: both
+    tier: required
+    evidence: "A"
+    last_verified: "2026-09-06"
+    sources: ["google/local-gbp 2026-09-06"]
+  - id: review-gating
+    factor: "Sentiment pre-screening before the review ask"
+    category: local-gbp
+    scope: [local]
+    lever: trust
+    stage: both
+    tier: required
+    evidence: "A"
+    last_verified: "2026-09-06"
+    sources: ["google/local-gbp 2026-09-06", "creators/local-gbp 2026-07"]
+  - id: review-incentives
+    factor: "Payment, discounts, freebies or contest entries offered for a review"
+    category: local-gbp
+    scope: [local]
+    lever: trust
+    stage: both
+    tier: required
+    evidence: "A"
+    last_verified: "2026-09-06"
+    sources: ["google/local-gbp 2026-09-06", "creators/local-gbp 2026-07"]
+  - id: sab-address-hidden
+    factor: "Address hidden on a service-area business that does not serve customers on site"
+    category: local-gbp
+    scope: [local]
+    lever: trust
+    stage: both
+    tier: required
+    evidence: "A"
+    last_verified: "2026-09-06"
+    sources: ["google/local-gbp 2026-09-06"]
+  - id: gbp-hours-accuracy
+    factor: "Accurate hours including holidays, open at time of search"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "A"
+    last_verified: "2026-09-06"
+    sources: ["google/local-gbp 2026-09-06", "experts/local-gbp 2025-11-06"]
+  - id: review-velocity
+    factor: "Sustained review influx over time rather than bursts"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "A"
+    last_verified: "2026-07"
+    sources: ["google/local-gbp 2026-04-16", "experts/local-gbp 2025-11-06", "creators/local-gbp 2026-07"]
+  - id: proximity
+    factor: "Distance from the searcher to the verified address"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "A"
+    last_verified: "2026-09-06"
+    sources: ["google/local-gbp 2026-09-06", "experts/local-gbp 2025-11-06"]
+  - id: gbp-primary-category
+    factor: "The single most specific primary category matching the money service"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "B"
+    last_verified: "2025-11-06"
+    sources: ["experts/local-gbp 2025-11-06"]
+  - id: gbp-services-keywords
+    factor: "Keywords in the GBP services field"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "B"
+    last_verified: "2026-02-27"
+    sources: ["experts/local-gbp 2026-02-27", "experts/local-gbp 2025-11-06", "experts/local-gbp 2024-01-24"]
+  - id: gbp-predefined-services
+    factor: "Every predefined service Google offers for the category, added"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "B"
+    last_verified: "2025-11-06"
+    sources: ["experts/local-gbp 2025-11-06"]
+  - id: gbp-business-name-keywords
+    factor: "Service or city keywords in the GBP business name"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "B"
+    last_verified: "2025-11-06"
+    sources: ["experts/local-gbp 2025-11-06"]
+  - id: review-count
+    factor: "Count of reviews carrying text"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "B"
+    last_verified: "2025-11-06"
+    sources: ["experts/local-gbp 2025-11-06"]
+  - id: review-rating
+    factor: "High average star rating"
+    category: local-gbp
+    scope: [local, ai]
+    lever: ranking
+    stage: audit
+    tier: core
+    evidence: "B"
+    last_verified: "2026-07"
+    sources: ["experts/local-gbp 2025-11-06", "creators/local-gbp 2026-07"]
+  - id: review-recency
+    factor: "How recently the newest reviews arrived"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "B"
+    last_verified: "2025-11-06"
+    sources: ["experts/local-gbp 2025-11-06"]
+  - id: address-visible-storefront
+    factor: "A visible physical address in the searched city"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "B"
+    last_verified: "2025-11-06"
+    sources: ["experts/local-gbp 2025-11-06"]
+  - id: rapid-core-field-edits
+    factor: "Rapid edits to name, address, category or hours in quick succession"
+    category: local-gbp
+    scope: [local]
+    lever: trust
+    stage: both
+    tier: supporting
+    evidence: "A"
+    last_verified: "2026-09-06"
+    sources: ["google/local-gbp 2026-09-06", "experts/local-gbp 2026-03-10"]
+  - id: gbp-photos-original
+    factor: "Real, original photos on the profile, never stock"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "B"
+    last_verified: "2025-11-06"
+    sources: ["experts/local-gbp 2025-11-06"]
+  - id: review-photos
+    factor: "Reviews that carry customer photos"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: audit
+    tier: supporting
+    evidence: "B"
+    last_verified: "2025-11-06"
+    sources: ["experts/local-gbp 2025-11-06"]
+  - id: gbp-posts
+    factor: "Google post frequency and quantity"
+    category: local-gbp
+    scope: [local]
+    lever: conversion
+    stage: both
+    tier: minor
+    evidence: "B"
+    last_verified: "2026-07"
+    sources: ["experts/local-gbp 2025-11-06", "creators/local-gbp 2026-07"]
+  - id: fake-address-listing
+    factor: "A listing at a P.O. box, virtual office or unstaffed coworking desk"
+    category: local-gbp
+    scope: [local]
+    lever: trust
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-08-31"
+    sources: ["seed: playbook/local/donts.md"]
+  - id: ask-maps-completeness
+    factor: "Profile field completeness as Ask Maps source material"
+    category: local-gbp
+    scope: [local, ai]
+    lever: conversion
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/local-gbp 2026-07"]
+  - id: nap-footer-crawlable
+    factor: "Crawlable NAP in the site footer linked to the profile"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/local-gbp 2026-07"]
+  - id: photo-geotagging
+    factor: "EXIF geotag injected into photos before upload"
+    category: local-gbp
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: myth
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["experts/local-gbp 2025-03-25", "experts/local-gbp 2024-01-15", "creators/local-gbp 2026-07"]
+  - id: gbp-qa
+    factor: "Google Business Profile Q&A"
+    category: local-gbp
+    scope: [local]
+    lever: conversion
+    stage: audit
+    tier: dead
+    evidence: "A"
+    last_verified: "2026-08-28"
+    sources: ["google/local-gbp 2026-08-28"]
+  - id: gbp-messaging
+    factor: "GBP messaging, chat and call history"
+    category: local-gbp
+    scope: [local]
+    lever: conversion
+    stage: audit
+    tier: dead
+    evidence: "D"
+    last_verified: "2026-08-31"
+    sources: ["seed: playbook/local/gbp-playbook.md"]
+  - id: unstructured-mentions
+    factor: "Mentions in articles, best-of roundups, local press and association pages"
+    category: citations
+    scope: [local, ai]
+    lever: ranking
+    stage: audit
+    tier: core
+    evidence: "B"
+    last_verified: "2026-06-26"
+    sources: ["experts/citations 2026-06-26", "experts/citations 2025-11-06"]
+  - id: citation-nap-consistency
+    factor: "Exact-match name, phone, city, ZIP and URL across every listing"
+    category: citations
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "B"
+    last_verified: "2026-07"
+    sources: ["experts/citations 2025-11-06", "creators/citations 2026-07"]
+  - id: niche-directories
+    factor: "Industry specific and topically relevant directories"
+    category: citations
+    scope: [local, ai]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "B"
+    last_verified: "2026-07"
+    sources: ["experts/citations 2018-09-07", "creators/citations 2026-07"]
+  - id: rented-citations
+    factor: "Subscription sync listings that stop when the subscription stops"
+    category: citations
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["experts/citations 2024-10-28", "creators/citations 2026-07"]
+  - id: citation-count-25-40
+    factor: "Twenty five to forty city and industry relevant citations, then stop"
+    category: citations
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-08-31"
+    sources: ["seed: playbook/local/citations.md"]
+  - id: core-five-citations
+    factor: "Google, Apple Business Connect, Bing Places, Facebook and Yelp claimed"
+    category: citations
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/citations 2026-07"]
+  - id: data-aggregators
+    factor: "Data Axle, Foursquare and TransUnion Digital Business Profile"
+    category: citations
+    scope: [local]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-08-31"
+    sources: ["seed: playbook/local/citations.md"]
+  - id: citation-blast
+    factor: "Mass identical-NAP submission to hundreds of junk directories"
+    category: citations
+    scope: [local]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-08-31"
+    sources: ["seed: playbook/local/citations.md"]
+  - id: referring-domains
+    factor: "Count of unique referring domains rather than raw backlink count"
+    category: backlinks
+    scope: [organic, ai]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/backlinks 2026-07"]
+  - id: backlink-anchor-relevance
+    factor: "Descriptive, geo-qualified anchor text on an earned external link"
+    category: backlinks
+    scope: [organic]
+    lever: ranking
+    stage: build
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/backlinks 2026-07"]
+  - id: chamber-sponsorship-links
+    factor: "Chamber of commerce membership and local sponsorship links"
+    category: backlinks
+    scope: [local, organic]
+    lever: ranking
+    stage: build
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/backlinks 2026-07"]
+  - id: press-release-links
+    factor: "Paid press release distribution for links and AI answer citation"
+    category: backlinks
+    scope: [organic, ai]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/backlinks 2026-07"]
+  - id: internal-linking-inbound
+    factor: "Three older indexed pages linking into each new page"
+    category: backlinks
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/backlinks 2026-07"]
+  - id: internal-link-anchor-text
+    factor: "Internal anchor text naming the destination and its keyword"
+    category: backlinks
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/backlinks 2026-07"]
+  - id: reciprocal-links
+    factor: "Direct reciprocal link swaps and friend-group link networks"
+    category: backlinks
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/backlinks 2026-07"]
+  - id: page-level-links
+    factor: "Links pointed at the exact page you want ranked"
+    category: backlinks
+    scope: [organic]
+    lever: ranking
+    stage: audit
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/backlinks 2026-07"]
+  - id: disavow-links
+    factor: "Disavowing backlinks flagged as toxic by an audit tool"
+    category: backlinks
+    scope: [organic]
+    lever: ranking
+    stage: audit
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/backlinks 2026-07"]
+  - id: aio-outside-top-10
+    factor: "AI Overview citation for pages that do not rank in the organic top ten"
+    category: ai-search
+    scope: [ai]
+    lever: ranking
+    stage: audit
+    tier: core
+    evidence: "B"
+    last_verified: "2026-07"
+    sources: ["experts/ai-search 2026-03-02", "creators/ai-search 2026-07"]
+  - id: ai-mode-domain-traffic
+    factor: "Site-level traffic volume as an AI Mode citation driver"
+    category: ai-search
+    scope: [ai]
+    lever: ranking
+    stage: audit
+    tier: core
+    evidence: "B"
+    last_verified: "2025-12-15"
+    sources: ["experts/ai-search 2025-12-15"]
+  - id: zero-click-rate
+    factor: "Share of Google searches that end without a click"
+    category: ai-search
+    scope: [organic, ai]
+    lever: conversion
+    stage: audit
+    tier: core
+    evidence: "B"
+    last_verified: "2026-06-09"
+    sources: ["experts/ai-search 2026-06-09", "experts/ai-search 2024-07-02"]
+  - id: ai-overview-claim-alignment
+    factor: "Stating the AI Overview's own claim first, then pivoting to your data"
+    category: ai-search
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/ai-search 2026-07"]
+  - id: aio-citation-instability
+    factor: "Stability of AI Overview citation across repeated identical searches"
+    category: ai-search
+    scope: [ai]
+    lever: ranking
+    stage: audit
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/ai-search 2026-07"]
+  - id: aio-cited-click-lift
+    factor: "Click lift for a site cited inside an AI Overview"
+    category: ai-search
+    scope: [ai]
+    lever: conversion
+    stage: audit
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/ai-search.md"]
+  - id: aio-citation-answer-first
+    factor: "A semantically complete answer passage that earns an AI Overview citation"
+    category: ai-search
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/ai-search 2026-07"]
+  - id: perplexity-bluf
+    factor: "Bottom Line Up Front structure with clear heading hierarchy"
+    category: ai-search
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/ai-search.md"]
+  - id: ai-referral-conversion
+    factor: "Conversion rate of visitors arriving from an AI generated answer"
+    category: ai-search
+    scope: [ai]
+    lever: conversion
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07-28"
+    sources: ["experts/ai-search 2026-07-28", "creators/ai-search 2026-07"]
+  - id: domain-authority-aio
+    factor: "Domain Authority as a predictor of AI Overview citation"
+    category: ai-search
+    scope: [ai]
+    lever: ranking
+    stage: audit
+    tier: myth
+    evidence: "D"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/ai-search.md"]
+  - id: position-one-ctr
+    factor: "Position one organic click-through rate on queries carrying AI features"
+    category: signals
+    scope: [organic, ai]
+    lever: conversion
+    stage: audit
+    tier: core
+    evidence: "B"
+    last_verified: "2025-12-15"
+    sources: ["experts/signals 2025-12-15"]
+  - id: reddit-mentions
+    factor: "Reddit mentions and an active subreddit presence"
+    category: signals
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/signals 2026-07"]
+  - id: social-posts-ai-citation
+    factor: "Social posts as an input AI answer engines weigh"
+    category: signals
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-07"
+    sources: ["creators/signals 2026-07"]
+  - id: ugc-platform-presence
+    factor: "Presence on Reddit, YouTube, Quora and Medium"
+    category: signals
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-05"
+    sources: ["seed: playbook/ai-search.md"]
+  - id: mentions-breadth-mediums
+    factor: "Breadth of different mediums carrying a mention over any one source's authority"
+    category: signals
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/signals 2026-07"]
+  - id: social-posts-ranking
+    factor: "Social media posts as a direct organic ranking signal"
+    category: signals
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/signals 2026-07"]
+  - id: brand-longevity
+    factor: "Business longevity and established authority in the local pack"
+    category: signals
+    scope: [local]
+    lever: ranking
+    stage: audit
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/local-gbp 2026-07"]
+  - id: google-partner-algorithm-access
+    factor: "Vendors claiming privileged access to Google's ranking algorithm"
+    category: signals
+    scope: [organic, local]
+    lever: trust
+    stage: both
+    tier: myth
+    evidence: "A"
+    last_verified: "2026-07"
+    sources: ["google/signals 2026-06-05", "creators/signals 2026-07"]
+  - id: scaled-content-abuse
+    factor: "Many pages generated mainly to manipulate rankings rather than help readers"
+    category: programmatic
+    scope: [organic, ai]
+    lever: trust
+    stage: both
+    tier: required
+    evidence: "A"
+    last_verified: "2026-08-28"
+    sources: ["google/programmatic 2026-08-28"]
+  - id: doorway-pages
+    factor: "Near-identical pages built to catch queries and funnel to one weaker destination"
+    category: programmatic
+    scope: [organic, ai]
+    lever: trust
+    stage: both
+    tier: required
+    evidence: "A"
+    last_verified: "2026-08-28"
+    sources: ["google/programmatic 2026-08-28"]
+  - id: site-reputation-abuse
+    factor: "Third-party content published on a host site to ride its earned ranking signals"
+    category: programmatic
+    scope: [organic, ai]
+    lever: trust
+    stage: both
+    tier: required
+    evidence: "A"
+    last_verified: "2026-08-28"
+    sources: ["google/programmatic 2026-08-28"]
+  - id: topical-mismatch
+    factor: "Publishing outside the site's established topical area to chase traffic"
+    category: programmatic
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "A"
+    last_verified: "2026-08-28"
+    sources: ["google/content 2026-08-28"]
+  - id: location-pages
+    factor: "City level landing pages on the website"
+    category: programmatic
+    scope: [local, organic]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/programmatic 2026-07", "experts/programmatic 2026-01-20", "experts/programmatic 2025-11-27"]
+  - id: programmatic-templates-unique-data
+    factor: "A page template carrying data or assets no competing page already publishes"
+    category: programmatic
+    scope: [organic]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-01-20"
+    sources: ["experts/programmatic 2026-01-20", "experts/programmatic 2025-11-27", "creators/programmatic 2023-04-11"]
+  - id: thin-page-ratio
+    factor: "Share of a templated page set that carries little or no value per page"
+    category: programmatic
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-09-02"
+    sources: ["experts/programmatic 2026-09-02", "experts/programmatic 2025-05-05"]
+  - id: publishing-velocity-spike
+    factor: "A sudden jump in publishing volume on an established site"
+    category: programmatic
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-07"
+    sources: ["creators/content 2026-07"]
+  - id: programmatic-api-value-freshness
+    factor: "Numeric values inside a programmatic template refreshed from an API call"
+    category: programmatic
+    scope: [organic]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "D"
+    last_verified: "2023-03-13"
+    sources: ["creators/programmatic 2023-03-13"]

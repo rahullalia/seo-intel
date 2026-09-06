@@ -19,7 +19,7 @@ For a site being planned or built. It walks the `build` rows of `../factors/scor
 7. URLs stay hierarchical and plain (`/services/website-design`), keyword in every slug but the home page, no year, no "near me", every ranked page within three clicks of home. [ids: url-change-risk, crawl-depth]
 8. The platform does not decide ranking ability, but Wix, Squarespace, Shopify and GoHighLevel each cap speed, headings or image formats. Run one SEO plugin, never two. [ids: static-html-rendering, mobile-usable, keyword-in-title-front]
 9. Do not build the services times cities matrix. Home base plus satellites, one service each, smaller surrounding towns first. [ids: location-pages, one-keyword-per-page, topical-mismatch]
-10. Templated pages at scale only where each carries data no other page has. A city page with the name swapped in is a doorway pattern. [ids: programmatic, pending]
+10. Templated pages at scale only where each carries data no other page has. A city page with the name swapped in is a doorway pattern. [ids: programmatic-templates-unique-data, programmatic-api-value-freshness, doorway-pages, scaled-content-abuse]
 
 ## 4. Google Business Profile in parallel from week one, when local
 

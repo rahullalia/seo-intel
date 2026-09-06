@@ -19,7 +19,7 @@ How a factor earns its row on the scorecard. Applied by the research routine whe
 
 | Grade | Source type | Examples |
 |---|---|---|
-| A | Google itself | Search Central docs and blog, Search Status Dashboard, spam policies, GBP policies, Search Liaison statements |
+| A | Google itself, or a government regulator | Search Central docs and blog, Search Status Dashboard, spam policies, GBP policies, Search Liaison statements, FTC rules (filed in `sources/google/`, the primary-source tier) |
 | B | Large-scale study or practitioner survey with method disclosed | Whitespark Local Search Ranking Factors, Semrush and Ahrefs studies, BrightLocal consumer surveys, Seer AIO CTR studies |
 | C | Practitioner test with data on real sites | Sterling Sky tests, Kyle Roof on-page tests, HeyTony field results with numbers |
 | D | Opinion, anecdote, single case without data | Most creator commentary, forum posts |
@@ -36,7 +36,8 @@ How a factor earns its row on the scorecard. Applied by the research routine whe
 2. Google statements (grade A) set Required and Dead. They do not by themselves set Core, because Google confirms existence of a signal, not its weight.
 3. Two grade C tests must be independent: different authors, different sites, different years count as independent.
 4. A demotion needs the same evidence as a promotion. A factor is not demoted because it stopped being discussed.
-5. When A and B or C conflict, the factor keeps its tier and a dispute opens in `factors/disputes.md`.
+5. A row whose only evidence is grade D is parked at Minor, the lowest tier the table carries, and listed under `## Rows resting on opinion` at the bottom of `scorecard.md`. That is a research target, not a verdict. Myth and Dead rows keep their tier when demoting would assert the opposite claim; they get a backlog line instead (QA decision, 2026-09-06).
+6. When A and B or C conflict, the factor keeps its tier and a dispute opens in `factors/disputes.md`.
 
 ## Staleness
 

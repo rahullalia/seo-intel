@@ -3,17 +3,22 @@
 # check: every (every run) | monthly | quarterly (stable reference pages, re-read for changes only).
 
 google:
+  # This tier is the primary-source tier. Government regulators (FTC review rule, 16 CFR 465) file here too, grade A.
+  - name: FTC rule on fake reviews and testimonials (16 CFR Part 465)
+    url: https://www.ftc.gov/legal-library/browse/rules/rule-use-consumer-reviews-testimonials
+    trust: primary
+    check: quarterly
+    categories: [local-gbp]
   - name: Google Search Central Blog
     url: https://developers.google.com/search/blog
-    feed: https://developers.google.com/search/blog/rss.xml
-    verify: true
+    feed: https://feeds.feedburner.com/blogspot/amDG
+    verified: 2026-09-06 (rss.xml on developers.google.com returns 404; the FeedBurner feed is the live one)
     trust: primary
     check: every
     categories: [technical, content, ai-search, signals]
   - name: Google Search Status Dashboard (ranking updates)
     url: https://status.search.google.com/summary
-    feed: https://status.search.google.com/incidents.rss
-    verify: true
+    verified: 2026-09-06 (incidents.rss returns 404; read the summary page and follow incident links)
     trust: primary
     check: every
     categories: [signals, content]
@@ -57,9 +62,9 @@ google:
     trust: primary
     check: every
     categories: [local-gbp]
-  - name: Google Business Profile Help announcements
-    url: https://support.google.com/business/announcements
-    verify: true
+  - name: Google Business Profile Help (policy and feature changes)
+    url: https://support.google.com/business
+    verified: 2026-09-06 (the /announcements page returns 404; watch the Help home, the review policy page answer/7400114, and blog.google Maps posts)
     trust: primary
     check: every
     categories: [local-gbp, citations]
@@ -83,8 +88,8 @@ google:
 experts:
   - name: Search Engine Roundtable
     url: https://www.seroundtable.com
-    feed: https://www.seroundtable.com/index.rdf
-    verify: true
+    feed: http://feeds.seroundtable.com/SearchEngineRoundtable1
+    verified: 2026-09-06 (index.rdf redirects here; valid RSS 2.0)
     trust: study
     check: every
     categories: [signals, technical, local-gbp, ai-search]
@@ -92,7 +97,7 @@ experts:
   - name: Search Engine Land
     url: https://searchengineland.com
     feed: https://searchengineland.com/feed
-    verify: true
+    verified: 2026-09-06
     trust: study
     check: every
     categories: [signals, ai-search, local-gbp, technical]
@@ -104,7 +109,7 @@ experts:
   - name: Sterling Sky (Joy Hawkins)
     url: https://www.sterlingsky.ca/blog
     feed: https://www.sterlingsky.ca/feed
-    verify: true
+    verified: 2026-09-06
     trust: test
     check: every
     categories: [local-gbp, citations]

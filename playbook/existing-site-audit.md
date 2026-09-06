@@ -54,8 +54,8 @@ For a live site that needs diagnosing, walking the `audit` rows of `../factors/s
 
 ## 8. Programmatic and thin-page audit
 
-30. Count indexed URLs against the pages that actually earn impressions. Index bloat is templated pages Google crawls and nobody searches. [ids: programmatic, pending]
-31. Flag templated pages carrying no data unique to that page, and any services times cities matrix, as doorway patterns. [ids: programmatic, pending]
+30. Count indexed URLs against the pages that actually earn impressions. Index bloat is templated pages Google crawls and nobody searches. [ids: thin-page-ratio, scaled-content-abuse, indexable]
+31. Flag templated pages carrying no data unique to that page, and any services times cities matrix, as doorway patterns. [ids: doorway-pages, location-pages, programmatic-templates-unique-data]
 32. Separately, check the publishing record for a volume spike on an established site and for posts outside the site's established topic. [ids: publishing-velocity-spike, topical-mismatch]
 
 ## 9. How to report month 1, 3, 6

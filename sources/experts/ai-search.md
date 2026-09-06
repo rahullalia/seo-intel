@@ -2,3 +2,33 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-07-28 | ChatGPT referrals convert at roughly double the rate of organic search on ecommerce sites
+- Source: HubSpot, "How AEO drives higher-intent site visitors than other channels", 2026-07-28, https://blog.hubspot.com/marketing/aeo-drives-higher-intent-visitors
+- Quote: "ChatGPT referrals convert at 11.4% versus 5.3% for organic search across ecommerce sites"
+- Means: Report AI referral sessions separately in GA4 rather than folding them into organic, because a smaller AI session count can carry more revenue per session. HubSpot is relaying Similarweb 2025 research here rather than publishing its own test, so this is grade D until the Similarweb report itself is cited.
+- Factor: ai-referral-conversion | Evidence: D | Lever: conversion | Scope: ai | Stage: audit
+
+## 2026-06-09 | Google searches ending without a click passed 68 percent in early 2026
+- Source: SparkToro, "In 2026, Less than One Third of Google Searches Still Send a Click", 2026-06-09, https://sparktoro.com/blog/in-2026-less-than-one-third-of-google-searches-still-send-a-click/
+- Source: Search Engine Land, "Google zero-click searches reach 68% in early 2026: Study", 2026-06-09, https://searchengineland.com/google-zero-click-searches-2026-study-479717
+- Quote: "In the first four months of 2026, a whopping 68.01% of Google searches ended without a click."
+- Means: A Similarweb-based clickstream panel found 68.01 percent of US Google searches from January through April 2026 ended with no click, up from 60.45 percent in 2024. This is the most current verified zero-click figure, higher than either figure in the existing playbook dispute.
+- Factor: zero-click-rate | Evidence: B | Lever: conversion | Scope: organic ai | Stage: audit
+
+## 2026-03-02 | Most AI Overview citations go to pages outside the top 10 organic results
+- Source: Ahrefs, "Update: 38% of AI Overview Citations Pull From The Top 10", 2026-03-02, https://ahrefs.com/blog/ai-overview-citations-top-10/
+- Quote: "37.9% of URLs cited in AI Overviews also appeared within the first 10 blocks."
+- Means: Only 37.9 percent of AI Overview citations match a page in the top 10 organic results, so most citations, about 62 percent, go to pages ranking lower or not ranking at all. This independently confirms the direction of the seed's Semrush and SE Ranking figures with a different publisher.
+- Factor: aio-outside-top-10 | Evidence: B | Lever: ranking | Scope: ai | Stage: audit
+
+## 2025-12-15 | High traffic sites earn far more AI Mode citations than low traffic sites
+- Source: SE Ranking, "How to Optimize for AI Mode: Google Visibility Matters 3x More Than Content", 2025-12-15, https://seranking.com/blog/how-to-optimize-for-ai-mode/
+- Quote: "websites with over 1.16M visitors earn about 6.4 citations, compared to just 2.4 citations for those with under 2.7K visitors"
+- Means: A small site will not be cited into AI Mode by on-page work alone, because site-level traffic is the strongest predictor in this analysis. Sites over 1.16 million monthly visitors averaged 6.4 citations against 2.4 for sites under 2,700.
+- Factor: ai-mode-domain-traffic | Evidence: B | Lever: ranking | Scope: ai | Stage: audit
+
+## 2024-07-02 | For every 1,000 US Google searches in 2024, 360 clicks reached the open web
+- Source: SparkToro, "2024 Zero-Click Search Study: For every 1,000 EU Google Searches, only 374 clicks go to the Open Web. In the US, it's 360.", 2024-07-02, https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/
+- Quote: "for every 1,000 searches on Google in the United States, 360 clicks make it to a non-Google-owned, non-Google-ad-paying property"
+- Means: Datos clickstream data from September 2022 to May 2024 found 36 percent of US Google searches sent a click to a non-Google property, against 37.4 percent in the EU. This is the primary 2024 baseline behind the seed's disputed zero-click figures, and it does not match either number the seed cited.
+- Factor: zero-click-rate | Evidence: B | Lever: conversion | Scope: organic ai | Stage: audit

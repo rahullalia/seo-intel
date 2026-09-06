@@ -2,3 +2,32 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-06-26 | AI local packs surface a third as many businesses as the 3-pack
+- Source: Sterling Sky, "The State of Local SEO in 2026", 2026-06-26, https://www.sterlingsky.ca/the-state-of-local-seo-in-2026/
+- Quote: "AI local packs featured 5,943 unique businesses whereas, regular 3-packs featured 18,330"
+- Means: Joy Hawkins' analysis across 322 markets found AI-generated local packs surface about 32 percent as many unique businesses as the traditional 3-pack. Unstructured mentions and citation signals matter more when fewer businesses get any visibility at all.
+- Factor: unstructured-mentions | Evidence: C | Lever: ranking | Scope: local ai | Stage: audit
+
+## 2025-11-06 | Citation consistency ranks 28th of 187 factors
+- Source: Whitespark, "Local Search Ranking Factors 2026", 2025-11-06, https://whitespark.ca/local-search-ranking-factors/
+- Quote: "Consistency of Citations on Primary Search Engines (Google Maps, Bing Maps, Apple Maps)"
+- Means: Whitespark's 47-expert survey ranks NAP consistency across Google Maps, Bing Maps and Apple Maps 28th of 187 local pack factors. Consistency across the three big map platforms outweighs consistency across smaller directories.
+- Factor: citation-nap-consistency | Evidence: B | Lever: ranking | Scope: local | Stage: audit
+
+## 2025-11-06 | Citation factors fill three of the top five AI visibility slots
+- Source: Whitespark, "Local Search Ranking Factors 2026", 2025-11-06, https://whitespark.ca/local-search-ranking-factors/
+- Quote: "Presence of Business on Expert Curated Best of and Similar Lists"
+- Means: Whitespark's 47 experts rank this citation type factor first in the new AI Search Visibility category, with quality of unstructured citations fourth and quantity of unstructured citations seventh. Unstructured mentions in best-of lists and articles now carry more AI-answer weight than most structured directory listings.
+- Factor: unstructured-mentions | Evidence: B | Lever: ranking | Scope: local ai | Stage: audit
+
+## 2024-10-28 | Two in three Yext listings broke within weeks of cancelling
+- Source: Whitespark, "What Happens When You Cancel Yext?", 2024-10-28, https://whitespark.ca/blog/what-happens-when-you-cancel-yext/
+- Quote: "60% of the listings disappeared or started featuring incorrect information after the subscription was canceled."
+- Means: Nyagoslav Zhekov tracked 60 listings a chiropractor had synced through Yext. 25 percent vanished and 35 percent reverted to wrong information within two weeks of cancelling the subscription. Rented, sync-based citations do not survive the client relationship ending.
+- Factor: rented-citations | Evidence: C | Lever: ranking | Scope: local | Stage: audit
+
+## 2018-09-07 | Niche directories became the most valued citation source
+- Source: BrightLocal, "Citation Survey: How Important Are Citations on Local SEO?", 2018-09-07, https://www.brightlocal.com/research/expert-local-citation-survey/
+- Quote: "Since 2016, the importance of niche and industry directories have hugely grown, with 64% of the experts choosing this as their most valued source of structured citations."
+- Means: BrightLocal's fourth expert citation survey, 22 local search experts, found 64 percent named niche and industry specific directories their most valued structured citation source, ahead of generic general directories. The seed cited Whitespark for this factor; Whitespark's own report page did not yield a quotable comparison sentence after repeated checks, so this entry substitutes BrightLocal's survey as independent support for the same claim.
+- Factor: niche-directories | Evidence: B | Lever: ranking | Scope: local ai | Stage: both
