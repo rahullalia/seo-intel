@@ -21,8 +21,30 @@ How a factor earns its row on the scorecard. Applied by the research routine whe
 |---|---|---|
 | A | Google itself, or a government regulator | Search Central docs and blog, Search Status Dashboard, spam policies, GBP policies, Search Liaison statements, FTC rules (filed in `sources/google/`, the primary-source tier) |
 | B | Large-scale study or practitioner survey with method disclosed | Whitespark Local Search Ranking Factors, Semrush and Ahrefs studies, BrightLocal consumer surveys, Seer AIO CTR studies |
-| C | Practitioner test with data on real sites | Sterling Sky tests, Kyle Roof on-page tests, HeyTony field results with numbers |
+| C | Practitioner test with data on real sites | Sterling Sky tests, Kyle Roof on-page tests, HeyTony field results with numbers, RSL/A's own measurements on a named client site (see below) |
 | D | Opinion, anecdote, single case without data | Most creator commentary, forum posts |
+
+### RSL/A field data
+
+RSL/A's own measurements file in `sources/rsla/`, a fourth tier alongside `google`, `experts` and `creators`, added 2026-09-10. It exists because conversion and trust levers cannot be settled from published research: a bought study measures its own sample, not a client's visitors. Before this tier the only place for an RSL/A number was `playbook/`, where nothing carries an evidence grade, and the review widget measurements of 2026-09-06 went there for that reason.
+
+An entry grades **C** when it names the client site, the date measured, the tool, and the numbers on both sides of a change. It grades **D** when any of those is missing. Never A or B: one agency measuring its own work is a practitioner test, not a study.
+
+Rule 3 on independence applies unchanged. Two measurements on the same client site are one test, not two. Two different clients are independent.
+
+Routines never write to this tier. The cloud runs cannot see client analytics, so `sources/rsla/` is edited only in a local session, the same way `playbook/` is.
+
+Entry format, which replaces the Quote line because there is no external document to quote:
+
+```
+## YYYY-MM-DD | Short claim in plain words
+- Source: RSL/A measurement, <client site or page URL>, measured YYYY-MM-DD, <tool>
+- Measured: the numbers on both sides, each with its unit and its window
+- Means: one or two plain sentences on what changes for a page, a profile, or a client.
+- Factor: factor-id | Evidence: C|D | Lever: ranking|conversion|trust | Scope: organic|local|ai | Stage: build|audit|both
+```
+
+A measurement supports the claim it actually measures. Page weight and contrast numbers are evidence about cost and compliance, not about conversion, in the same way a standards body is grade A only for what the standard requires.
 
 Standards bodies (W3C WCAG, IETF) are grade A for what a standard requires, and say nothing about ranking or conversion effect. Cite them only on rows whose lever is trust or whose tier is Required for compliance, never as evidence that a factor moves rankings (QA note, 2026-09-06, `text-contrast`).
 

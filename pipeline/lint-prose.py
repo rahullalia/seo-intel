@@ -8,11 +8,11 @@ Usage: python3 pipeline/lint-prose.py [paths...]   (no args = default set)
 import re, sys, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-DEFAULT = ["factors", "sources/google", "sources/experts", "sources/creators", "playbook", "changelog.md", "docs"]
+DEFAULT = ["factors", "sources/google", "sources/experts", "sources/creators", "sources/rsla", "playbook", "changelog.md", "docs"]
 SKIP = ["sources/creators/hey-tony/"]
 
 BANNED = [
-    r"\bdelve", r"\blandscape\b(?! photo| architect)", r"\bleverag(es|ed|ing)\b", r"\b(to|can|should|will|must) leverage\b", r"\bleverage (the|your|our|its|their|this|these|existing)\b", r"\brobust\b", r"\bseamless(ly)?\b",
+    r"\bdelve", r"\bleverag(es|ed|ing)\b", r"\b(to|can|should|will|must) leverage\b", r"\bleverage (the|your|our|its|their|this|these|existing)\b", r"\brobust\b", r"\bseamless(ly)?\b",
     r"\bunlock(s|ing)?\b", r"\belevat(e|es|ing)\b", r"\bempower", r"\bgame[- ]chang", r"\bcutting[- ]edge\b",
     r"\bgroundbreaking\b", r"\brevolutioni[sz]", r"\btransformative\b", r"\bholistic\b", r"\bsynergy\b",
     r"\btapestry\b", r"\btestament\b", r"\bunderscor(e|es|ing)\b", r"\bpivotal\b", r"\bcrucial\b", r"\bvital\b",
@@ -25,9 +25,12 @@ BANNED = [
     r"\bjourney\b", r"\bexperts (say|agree|believe|argue)\b", r"\bmany (believe|argue|experts)\b",
     r"\bstudies show\b", r"\bit is widely\b", r"\bindustry reports\b", r"\bobservers\b",
 ]
+# Case sensitive: the banned abstract sense is lowercase ("the SEO landscape"). A capitalised
+# Landscape is a proper noun, such as the client Select Landscape, and is not a finding.
+BANNED_CASED = [r"\blandscape\b(?! photo| architect)"]
 EMOJI = re.compile("[\U0001F300-\U0001FAFF\U00002600-\U000027BF]")
 DASH = re.compile("[–—]")
-BANNED_RE = [re.compile(p, re.I) for p in BANNED]
+BANNED_RE = [re.compile(p, re.I) for p in BANNED] + [re.compile(p) for p in BANNED_CASED]
 
 def files(args):
     targets = [ROOT / a for a in args] if args else [ROOT / d for d in DEFAULT]

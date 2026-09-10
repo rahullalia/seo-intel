@@ -792,16 +792,16 @@ factors:
     evidence: "C"
     last_verified: "2026-07"
     sources: ["experts/citations 2024-10-28", "creators/citations 2026-07"]
-  - id: citation-count-25-40
-    factor: "Twenty five to forty city and industry relevant citations, then stop"
+  - id: citation-count-target
+    factor: "A stopping point for citation building, unproven; the only published range is Darren Shaw's 30 to 50 recommendation"
     category: citations
     scope: [local]
     lever: ranking
     stage: both
     tier: minor
     evidence: "D"
-    last_verified: "2026-08-31"
-    sources: ["seed: playbook/local/citations.md", "experts/citations 2024-10-28"]
+    last_verified: "2024-10-28"
+    sources: ["experts/citations 2024-10-28"]
   - id: data-aggregators
     factor: "Data Axle, Foursquare and TransUnion Digital Business Profile"
     category: citations

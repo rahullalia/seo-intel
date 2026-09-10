@@ -46,7 +46,11 @@ Run the client + 3-5 top local competitors through Whitespark's Local Citation F
 
 ## How many
 
-**25-40 total, then stop.** Whitespark's long-standing guidance: rankings respond up to ~30-40 city- and industry-relevant citations. Practical build: core five + aggregators + second tier + 5-10 niche = done. Anything past that is accuracy maintenance, not growth. Never buy "500 directories" blasts: wasted spend at best, and BrightLocal warns mass identical-NAP submission to junk directories can trigger a manual spam action.
+**No source has measured a stopping point.** The competitor gap from the section above sets the number, not a target count. Niche, city and competition all move it, so a fixed number is a guess dressed as a rule.
+
+What is actually published: Darren Shaw of Whitespark recommends the top 30 to 50 directories plus industry and city specific sites (2024-10-28), and says further listings on low authority directories are not worth the time. That is his recommendation, not a test. The Uberall study he cites compared 3,000 locations listed only on Google, Apple, Facebook and Bing against 3,000 with wider distribution, and the wider group showed 89% more direct searches, 91% more map views and 102% more driving directions. No ceiling was tested, so nothing measured says more stops working.
+
+Practical build: core five + aggregators + second tier + niche, sized to close the competitor gap. Past that it is accuracy maintenance rather than growth. Never buy "500 directories" blasts: wasted spend at best, and BrightLocal warns mass identical-NAP submission to junk directories can trigger a manual spam action.
 
 ## NAP consistency (2026 strictness)
 

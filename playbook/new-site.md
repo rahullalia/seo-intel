@@ -46,7 +46,7 @@ For a site being planned or built. It walks the `build` rows of `../factors/scor
 
 ## 7. What waits
 
-25. Backlinks, citations and directories wait until the pages exist. Then one owned citation build in order (core five, US aggregators, second tier, 5 to 10 niche), stopping at 25 to 40; never rented sync, since about 60 percent of listings degrade within 60 days of cancelling. [ids: referring-domains, press-release-links, chamber-sponsorship-links, core-five-citations, data-aggregators, niche-directories, citation-count-25-40, rented-citations]
+25. Backlinks, citations and directories wait until the pages exist. Then one owned citation build in order (core five, US aggregators, second tier, 5 to 10 niche). No source has measured a stopping point: Darren Shaw recommends the top 30 to 50 directories, and the Uberall study he cites compared 3,000 locations against 3,000 and found wider distribution better on every metric with no ceiling tested. Build to the relevance of the niche and the city, not to a number. Never rented sync, since about 60 percent of listings degrade within 60 days of cancelling. [ids: referring-domains, press-release-links, chamber-sponsorship-links, core-five-citations, data-aggregators, niche-directories, citation-count-target, rented-citations]
 26. Never audit a site still under construction, and fix speed after content and keywords match the top 3. Cap delivery at 2 posts per week plus 4 backlinks per month with link budget, or 1 post plus 2 location pages without. [ids: core-web-vitals, publishing-velocity-spike, location-pages]
 
 ## 8. The patience windows to tell the client

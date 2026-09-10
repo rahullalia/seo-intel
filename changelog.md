@@ -2,6 +2,27 @@
 
 Newest first. One entry per pipeline run or manual fold-in. Each entry lists entries added, scorecard rows changed, disputes opened or closed.
 
+## 2026-09-10 | Manual fold-in: citation count row restated, RSL/A field data tier added
+
+- Entries added: 1 (rsla 1)
+- Scorecard: rows added 0, rows renamed 1 (citation-count-25-40 to citation-count-target), tiers changed 0, disputes opened 0
+- Stale: none re-verified
+- Registry: no registry fetches
+
+**Why the citation row changed.** `citation-count-25-40` stated a range no source prints and no source measured. Its two supports were a seed document and one entry that carries Darren Shaw of Whitespark saying "I think there is value, as the Uberall study showed, in getting in like the top 30 to 50 directories" on 2024-10-28, which is a recommendation at grade D. The Uberall study Shaw cites points the other way: 3,000 locations listed only on Google, Apple, Facebook and Bing against 3,000 with wider distribution, and the wider group showed 89 percent more direct searches, 91 percent more map views and 102 percent more driving directions, with no ceiling tested. So the row asserted a stopping point that the only measured study in the category does not support. The id is now `citation-count-target`, the factor text names Shaw's 30 to 50 as the only published range and calls the stopping point unproven, the seed document is dropped, and `Last verified` falls to 2024-10-28, which is honest and makes the row stale.
+
+**Where the number was being repeated.** `playbook/new-site.md` step 25 and `playbook/existing-site-audit.md` step 28 both instructed a build "stopping at 25 to 40". Both now size the build to close the competitor gap, which is the method `playbook/local/citations.md` already prescribes one section earlier under "Where to find them". The "How many" section of that file said "25-40 total, then stop" and now says no source has measured a stopping point, prints Shaw's recommendation and the Uberall figures, and leaves the sizing to niche, city and competition. Two `pipeline/backlog.md` lines chasing a citation count figure are closed: there is nothing left to fetch, because the figure does not exist.
+
+**Why a fourth source tier.** `sources/rsla/` is added alongside `google`, `experts` and `creators`, with the same nine category files. Conversion and trust levers cannot be settled from published research, because a bought study measures its own sample rather than a client's visitors, and seven of the nine `website-design` rows have sat at grade D since the bootstrap for exactly that reason. RSL/A runs client sites with analytics on them and had nowhere to file a number: the review widget measurements of 2026-09-06 went into `playbook/`, where nothing carries an evidence grade. The tier grades C when an entry names the client site, the date, the tool and the numbers on both sides, and D when any of those is missing, and never A or B, because one agency measuring its own work is a practitioner test rather than a study. Rule 3 on independence applies unchanged: two measurements on one client site are one test.
+
+**Routines are fenced out of it.** `pipeline/research-prompt.md` and `pipeline/qa-prompt.md` now bar the routines from `sources/rsla/` and QA refuses to merge a PR that touched it, the same treatment `playbook/` already has. The cloud runs cannot see client analytics, so the tier is written only in a local session. `CLAUDE.md` and its `AGENTS.md` mirror record the fourth tier and the rule.
+
+**First entry, and what it does not do.** The Select Landscape review widget measurement is now `sources/rsla/website-design.md` 2026-09-06 at grade C: 10 requests, 304 KB on the wire, 1.0 MB of JavaScript decoded, one third-party beacon, and 10 axe contrast failures below 2.6 to 1 against the 4.5 to 1 floor in WCAG 2.2. `review-carousel-plugin` does not change tier or evidence. The measurement covers load cost, contrast and default content; the row's lever is conversion, and the rubric's new line says a measurement supports the claim it actually measures, matching the 2026-09-06 call on `text-contrast` and the 2026-09-10 call on `tap-to-call`.
+
+**Two linter fixes the new tier forced.** `pipeline/lint-prose.py` did not read `sources/rsla/`, so the fourth tier would have shipped ungated; `sources/rsla` is now in its default path list. It also flagged the client name Select Landscape, because that word is banned in its abstract sense and every pattern compiled case insensitive. The banned sense is lowercase, so that one pattern is now case sensitive in its own list. Checked against three lines: the abstract lowercase use is still a finding, the capitalised client name and the existing photography exception are not.
+
+**A pattern worth a later decision.** Three rows this month took evidence that could not attach because the row bundles a compliance or cost claim with a conversion claim under one lever: `tap-to-call` (WCAG target size against thumb reach), `text-contrast` (WCAG ratio against conversion) and now `review-carousel-plugin` (page weight and contrast against conversion). Splitting those rows, or letting a row carry two levers with separate grades, would let good evidence land. Not done here.
+
 ## 2026-09-10 | Research run
 
 - Entries added: 6 (google 3, experts 3, creators 0)

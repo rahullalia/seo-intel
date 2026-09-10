@@ -29,8 +29,8 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 ## 2024-10-28 | Whitespark puts the citation stopping point at the top 30 to 50 directories
 - Source: Whitespark, Darren Shaw, "Do Citations Still Matter for Local SEO?", 2024-10-28, https://whitespark.ca/blog/do-citations-matter-local-seo/
 - Quote: "I think there is value, as the Uberall study showed, in getting in like the top 30 to 50 directories"
-- Means: Darren Shaw names 30 to 50 as the point to stop building direct citations, plus industry and city specific sites, and says further listings on low authority directories are not worth the time. This is the closest published range to the 25 to 40 figure on the scorecard, and it is Shaw's recommendation rather than a measured test.
-- Factor: citation-count-25-40 | Evidence: D | Lever: ranking | Scope: local | Stage: both
+- Means: Darren Shaw names 30 to 50 as the point to stop building direct citations, plus industry and city specific sites, and says further listings on low authority directories are not worth the time. This is a recommendation, not a measured test, and it is the only published range on record. The Uberall study Shaw is citing compared 3,000 locations against 3,000 and found no ceiling, so no source has measured a stopping point.
+- Factor: citation-count-target | Evidence: D | Lever: ranking | Scope: local | Stage: both
 
 ## 2024-10-28 | Two in three Yext listings broke within weeks of cancelling
 - Source: Whitespark, "What Happens When You Cancel Yext?", 2024-10-28, https://whitespark.ca/blog/what-happens-when-you-cancel-yext/

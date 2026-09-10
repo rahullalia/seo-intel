@@ -8,7 +8,7 @@ Twenty five lines. Each names a scorecard factor, the source a seed document cre
 
 location-pages | Whitespark | the on-page share figure lives only in a chart image
 sab-address-hidden | Sterling Sky | overlapping territory claim not found verbatim in three articles
-citation-count-25-40 | Whitespark or BrightLocal | no source states 25 to 40, BrightLocal 2018 gives median 21 to 30 for new businesses
+citation-count-target | closed 2026-09-10 | no source measures a stopping point. Darren Shaw's 30 to 50 recommendation is on file at grade D and the row now states that. Nothing further to chase unless someone runs a test
 citation-blast | BrightLocal | manual action claim not found in four pages
 information-gain | US Patent 11,769,017 | patents.google.com not fetched
 eeat | Search Quality Evaluator Guidelines v13.0 | not reached
@@ -54,7 +54,7 @@ faq-schema | Supporting -> Minor | the Schema App 3.2x FAQ figure or another gra
 static-html-rendering | Supporting -> Minor | the Zyppy ChatGPT citation analysis of February 2026
 eeat | Supporting -> Minor | Search Quality Evaluator Guidelines v13.0
 answer-passage-length | Supporting -> Minor | the study behind the 134 to 167 word passage figure
-citation-count-25-40 | Supporting -> Minor | a Whitespark or BrightLocal figure stating a citation count range
+citation-count-target | Supporting -> Minor | a measured test of a citation count ceiling; the row was renamed on 2026-09-10 because no source states a range as a measurement
 data-aggregators | Supporting -> Minor | a grade B or C source on Data Axle, Foursquare and TransUnion coverage
 perplexity-bluf | Supporting -> Minor | Perplexity documentation on answer structure
 ugc-platform-presence | Supporting -> Minor | The Slide Factory analysis or another grade B source
