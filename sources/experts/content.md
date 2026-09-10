@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-05-07 | Text locked behind a click, like a closed accordion or tab, counts as hidden
+- Source: Zyppy Signal, Cyrus Shepard, "AI Citation Ranking Factors Analysis", 2026-05-07, https://signal.zyppy.com/p/ai-citation-ranking-factors
+- Quote: "Modern web pages can contain a lot of text that's not immediately visible, at least not without a lot of JavaScript or by requiring users to click on divs and tabs."
+- Means: Shepard's Content Visibility factor, 7.6 of 9.5 across 54 sources, names clicking into a div or tab as a way content becomes invisible to an AI crawler. Move the direct answer sentence outside a collapsed accordion even when supporting detail stays inside one.
+- Factor: hidden-accordion-content | Evidence: B | Lever: ranking | Scope: ai | Stage: both
+
 ## 2025-12-15 | AI Mode favors plain text FAQ sections written into the page
 - Source: SE Ranking, "How to Optimize for AI Mode: Google Visibility Matters 3x More Than Content", 2025-12-15, https://seranking.com/blog/how-to-optimize-for-ai-mode/
 - Quote: "Pages with FAQ sections featured within their content receive 4.9 citations on average, versus 4.4 for pages without"

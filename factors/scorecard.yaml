@@ -42,6 +42,16 @@ factors:
     evidence: "A"
     last_verified: "2026-07"
     sources: ["experts/technical 2026-01-21", "creators/technical 2026-07", "google/ai-search 2025-12-10"]
+  - id: static-html-rendering
+    factor: "Static HTML or server rendering rather than client-side JavaScript"
+    category: technical
+    scope: [ai]
+    lever: ranking
+    stage: build
+    tier: supporting
+    evidence: "B"
+    last_verified: "2026-05-07"
+    sources: ["experts/technical 2026-05-07"]
   - id: sitemap-submitted
     factor: "XML sitemap submitted once inside Search Console"
     category: technical
@@ -106,16 +116,6 @@ factors:
     factor: "FAQPage structured data on a page with question and answer pairs"
     category: technical
     scope: [ai, organic]
-    lever: ranking
-    stage: build
-    tier: minor
-    evidence: "D"
-    last_verified: "2026-05"
-    sources: ["seed: playbook/ai-search.md"]
-  - id: static-html-rendering
-    factor: "Static HTML or server rendering rather than client-side JavaScript"
-    category: technical
-    scope: [ai]
     lever: ranking
     stage: build
     tier: minor
@@ -211,7 +211,7 @@ factors:
     tier: supporting
     evidence: "A"
     last_verified: "2025-12-10"
-    sources: ["google/content 2025-12-10", "google/content 2024-03-05", "creators/content 2024-02-05"]
+    sources: ["google/content 2025-12-10", "google/content 2024-03-05", "creators/content 2024-02-05", "google/content 2022-06-07"]
   - id: experience-first-person
     factor: "First-person accounts, real outcomes and practitioner authorship"
     category: content
@@ -231,7 +231,7 @@ factors:
     tier: supporting
     evidence: "A"
     last_verified: "2026-05"
-    sources: ["seed: playbook/core-updates.md", "google/content 2025-09-11"]
+    sources: ["seed: playbook/core-updates.md", "google/content 2025-09-11", "google/content 2023-11"]
   - id: readability-grade-6-8
     factor: "Reading level at Flesch-Kincaid grade 6 to 8"
     category: content
@@ -262,6 +262,16 @@ factors:
     evidence: "B"
     last_verified: "2026-07"
     sources: ["creators/content 2026-07", "experts/ai-search 2026-05-07"]
+  - id: hidden-accordion-content
+    factor: "Important answer content hidden behind an accordion, toggle or dropdown"
+    category: content
+    scope: [organic, ai]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "B"
+    last_verified: "2026-06-25"
+    sources: ["creators/content 2026-06-25", "creators/content 2025-12-19", "experts/content 2026-05-07"]
   - id: one-keyword-per-page
     factor: "One target keyword per page, no page sharing a keyword with another"
     category: content
@@ -352,16 +362,6 @@ factors:
     evidence: "D"
     last_verified: "2026-07"
     sources: ["creators/content 2026-07"]
-  - id: hidden-accordion-content
-    factor: "Important answer content hidden behind an accordion, toggle or dropdown"
-    category: content
-    scope: [organic, ai]
-    lever: ranking
-    stage: both
-    tier: minor
-    evidence: "D"
-    last_verified: "2026-06-25"
-    sources: ["creators/content 2026-06-25", "creators/content 2025-12-19"]
   - id: alt-text
     factor: "Descriptive alt text on every image, screen reader first"
     category: content
@@ -590,7 +590,7 @@ factors:
     stage: both
     tier: core
     evidence: "B"
-    last_verified: "2025-11-06"
+    last_verified: "2026-09-10"
     sources: ["experts/local-gbp 2025-11-06"]
   - id: gbp-business-name-keywords
     factor: "Service or city keywords in the GBP business name"
@@ -610,7 +610,7 @@ factors:
     stage: both
     tier: core
     evidence: "B"
-    last_verified: "2025-11-06"
+    last_verified: "2026-09-10"
     sources: ["experts/local-gbp 2025-11-06"]
   - id: review-rating
     factor: "High average star rating"
@@ -630,7 +630,7 @@ factors:
     stage: both
     tier: core
     evidence: "B"
-    last_verified: "2025-11-06"
+    last_verified: "2026-09-10"
     sources: ["experts/local-gbp 2025-11-06"]
   - id: address-visible-storefront
     factor: "A visible physical address in the searched city"
@@ -660,7 +660,7 @@ factors:
     stage: both
     tier: supporting
     evidence: "B"
-    last_verified: "2025-11-06"
+    last_verified: "2026-09-10"
     sources: ["experts/local-gbp 2025-11-06"]
   - id: review-photos
     factor: "Reviews that carry customer photos"
@@ -670,7 +670,7 @@ factors:
     stage: audit
     tier: supporting
     evidence: "B"
-    last_verified: "2025-11-06"
+    last_verified: "2026-09-10"
     sources: ["experts/local-gbp 2025-11-06"]
   - id: gbp-posts
     factor: "Google post frequency and quantity"
@@ -739,9 +739,9 @@ factors:
     lever: conversion
     stage: audit
     tier: dead
-    evidence: "D"
-    last_verified: "2026-08-31"
-    sources: ["seed: playbook/local/gbp-playbook.md"]
+    evidence: "A"
+    last_verified: "2026-09-10"
+    sources: ["google/local-gbp 2026-09-10"]
   - id: unstructured-mentions
     factor: "Mentions in articles, best-of roundups, local press and association pages"
     category: citations

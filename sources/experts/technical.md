@@ -14,6 +14,12 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: Shepard scored 23 factors against 54 published AI citation experiments, patents and case studies covering ChatGPT, Gemini and Perplexity, and put structured data 20th at 5.6 out of 9.5, writing that the effect is typically small but consistent across studies. Keep schema on the page for AI visibility, and do not expect it to move citation counts on its own.
 - Factor: schema-markup | Evidence: B | Lever: ranking | Scope: organic ai | Stage: both
 
+## 2026-05-07 | AI engines treat text that needs a click to reveal as low visibility
+- Source: Zyppy Signal, Cyrus Shepard, "AI Citation Ranking Factors Analysis", 2026-05-07, https://signal.zyppy.com/p/ai-citation-ranking-factors
+- Quote: "Important information is in visible HTML text, not hidden"
+- Means: Shepard's Content Visibility factor scored 7.6 of 9.5 across the same 54-source review that ranked answer-first structure eighth and Domain Authority 22nd. Render the primary answer as static HTML rather than content that only appears after a script runs.
+- Factor: static-html-rendering | Evidence: B | Lever: ranking | Scope: ai | Stage: build
+
 ## 2026-01-21 | A 2026 robots.txt template splits AI crawlers into blocked trainers and allowed retrieval agents
 - Source: Cubitrek, "Robots.txt for AI Crawlers: 2026 Template", 2026-01-21, https://cubitrek.com/blog/robots-txt-2026-managing-ai-crawler-budgets
 - Quote: "consume bandwidth and return zero referral traffic"
