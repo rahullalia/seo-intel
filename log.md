@@ -2,6 +2,26 @@
 
 Session record, newest first. The pipeline's own run record is `changelog.md`; build status is `docs/plan.md`.
 
+## 2026-09-10 12:53 PT
+
+**Off-cycle research run, merged as PR #2.** Rahul asked to pull any new data ahead of the September 15 cloud run. Window was four days, 2026-09-06 to 2026-09-10. Three tier researchers ran in parallel on sonnet per `pipeline/research-prompt.md`; the QA pass ran in the same session before the commit, so the deletions and the quote correction are in the one commit rather than a separate `qa:` commit.
+
+- Nothing in the window met the entry test. No core update ran, and the feeds carried only paid media news and undated relative timestamps. All 6 entries came from `pipeline/backlog.md`.
+- Three rows left `## Rows resting on opinion`: `gbp-messaging` onto Google's own removal notice at grade A, `static-html-rendering` and `hidden-accordion-content` onto Cyrus Shepard's Content Visibility score at grade B. Grade D rows fell from 41 to 38. One dispute closed.
+- Two of the eight written entries were deleted as duplicate URLs already on `main`, and one patent quote was a splice of two near identical sentences and was corrected against the printed text. Full record in the PR comment and `changelog.md`.
+- A page summarizer misreported both the title and the E-E-A-T sentence of Google's rater guidelines PDF. Reading the extracted text directly showed the entry was correct. Verify a summarizer before deleting an entry on its word.
+- `git push` failed with "Repository not found" because the osxkeychain credential for github.com is stale. `gh` is authenticated and works, so the push went through `http.extraheader` with a basic `x-access-token` header built from `gh auth token`. `gh auth setup-git` would fix it permanently and was not run without Rahul's say-so.
+
+**Next steps**
+
+1. Seven of the nine website-design rows are still grade D. This run searched Baymard and Nielsen Norman for primary CTA count, real against stock photography and body font size and found only aggregator reprints with no primary page, including one fabricated Nielsen Norman statistic. `baymard.com/learn/button-design` carries no date and no matching sentence. These rows need a local session with a paid Baymard or NN/g source, not another web search.
+2. `query-fan-out-targeting` has a candidate test at last: Semrush's "We Tested Query Fan-Out Optimization" reports citations rising from two to five. It is an experts tier source, so the September 15 experts run should fetch it. The id has no scorecard row until it does.
+3. `bing-indexing` is confirmed absent from the Zyppy article and needs a different source. `citation-count-25-40` is confirmed unreachable from Whitespark, whose live 2026 survey prints no citation count anywhere, so the row's id names a figure no source states.
+4. After the September 15 runs, `git pull` here, read the new changelog entry, and check claude.ai/settings/usage for the real token cost; replace the duration-only figures in `docs/brief.md` if the cost matters.
+5. New HeyTony Insiders calls are still folded in by hand via `sources/creators/hey-tony/insiders/update-hey-tony.md` (needs the logged-in browser session).
+6. Optional, Rahul's call: move the 3.2 GB Rank Week videos out of the working tree to `~/Movies/rank-week-2026/` with a pointer file.
+7. Client findings that hold beyond one client go in as dated entries here, never as loose notes.
+
 ## 2026-09-06 04:57 PT
 
 **Verification session for Select Landscape, no new evidence filed.** Three questions checked against primary sources, findings recorded here so the next session does not redo them.
