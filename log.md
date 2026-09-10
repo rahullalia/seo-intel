@@ -2,6 +2,21 @@
 
 Session record, newest first. The pipeline's own run record is `changelog.md`; build status is `docs/plan.md`.
 
+## 2026-09-10 13:40 PT
+
+**Two fixes off the back of the morning run, merged as PR #3.** Rahul asked what to do about the seven grade D design rows and pushed back on the citation count number. He was right on both counts.
+
+- `citation-count-25-40` stated a range no source prints. Renamed `citation-count-target`, restated to name Darren Shaw's 30 to 50 recommendation as the only published range and call the stopping point unproven. The Uberall study Shaw cites compared 3,000 locations against 3,000 and found no ceiling, so the row was asserting the opposite of its own category's only measured study. Both playbook steps and `playbook/local/citations.md` now size the build to the competitor gap, which that file already prescribed one section earlier. Two backlog lines closed.
+- New fourth source tier `sources/rsla/` for RSL/A's own client measurements, grade C at best, routines barred from it in both prompts. This is the real unlock for the conversion rows: no bought study will settle `single-primary-cta` or `real-team-photos`, but a before and after on a client site is grade C under the existing rubric, and two different clients are independent. Seeded with the Select Landscape review widget measurement that had to go in `playbook/` on 2026-09-06 for lack of a tier.
+- `lint-prose.py` had two bugs the new tier exposed: it did not read `sources/rsla/`, and it flagged the client name Select Landscape. Both fixed, regression checked against three lines.
+
+**Next steps**
+
+1. Start filing RSL/A measurements. The cheapest first test is a before and after on one client's primary CTA count, using the GA4 and form pipeline already on those sites. Two clients gets `single-primary-cta` to Core under rule 3.
+2. Three rows bundle a compliance or cost claim with a conversion claim under one lever, so good evidence cannot attach: `tap-to-call`, `text-contrast`, `review-carousel-plugin`. Either split them or let a row carry two levers with separate grades. Rahul's call, not started.
+3. `accessibility-baseline` and `body-font-size` are provable from published standards for roughly an hour of work, not done today.
+4. `whitespace-section-rhythm` has no measurable claim and belongs in the playbook as house style rather than on the scorecard. Not moved.
+
 ## 2026-09-10 12:53 PT
 
 **Off-cycle research run, merged as PR #2.** Rahul asked to pull any new data ahead of the September 15 cloud run. Window was four days, 2026-09-06 to 2026-09-10. Three tier researchers ran in parallel on sonnet per `pipeline/research-prompt.md`; the QA pass ran in the same session before the commit, so the deletions and the quote correction are in the one commit rather than a separate `qa:` commit.
