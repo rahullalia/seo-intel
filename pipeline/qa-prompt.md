@@ -39,7 +39,7 @@ For each row added or changed in `factors/scorecard.md`:
 Commit your fixes to the PR branch with message `qa: YYYY-MM-DD review`. Then:
 
 - **Merge** with the GitHub MCP tool `merge_pull_request` (merge_method squash) when every remaining entry is verified, every scorecard change meets the rubric, and lint is clean. Deleted entries do not block a merge; they are recorded.
-- **Do not merge** when you could not fetch more than 20 percent of new entries, when a fabricated quote was found (a quote that does not exist on the page, as opposed to a wrong date or a mislabel), or when the research routine edited `playbook/`. Leave the PR open and create a Todoist task `seo-intel: review PR #N, <one-line reason>`.
+- **Do not merge** when you could not fetch more than 20 percent of new entries, when a fabricated quote was found (a quote that does not exist on the page, as opposed to a wrong date or a mislabel), or when the research routine edited `playbook/` or `sources/rsla/`. Leave the PR open and create a Todoist task `seo-intel: review PR #N, <one-line reason>`.
 
 GitHub deletes the head branch on merge (repository setting); do not try to delete it yourself, the cloud proxy returns 403 on branch deletes.
 
