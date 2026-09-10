@@ -1,6 +1,6 @@
 # Disputes
 
-Where Google's statements and measured field results disagree, or where two credible sources conflict. Recorded, not resolved by fiat. A dispute closes only when new evidence settles it, and the closing entry says which evidence. Bootstrapped 2026-09-06 from the seed's 19 disputes plus 1 opened by the programmatic research, then 1 opened by the research run of 2026-09-06: 16 open, 5 closed.
+Where Google's statements and measured field results disagree, or where two credible sources conflict. Recorded, not resolved by fiat. A dispute closes only when new evidence settles it, and the closing entry says which evidence. Bootstrapped 2026-09-06 from the seed's 19 disputes plus 1 opened by the programmatic research, then 1 opened by the research run of 2026-09-06 and 1 closed by the research run of 2026-09-10: 15 open, 6 closed.
 
 ## Open
 
@@ -31,11 +31,6 @@ Where Google's statements and measured field results disagree, or where two cred
 - Matt Diamante says never block any AI crawler and fix crawl load with cloud hosting plus a firewall, 2026-07, creators/technical 2026-07
 - Both sides are grade D practitioner recommendations with no before and after test attached
 - Google says robots.txt directives for Googlebot are the control site owners have over how their sites are crawled for Search, and that AI is built into Search, page last updated 2025-12-10, google/ai-search 2025-12-10. This settles the Google half at grade A: blocking Googlebot removes a site from AI Overviews and AI Mode along with classic results. It says nothing about OpenAI, Anthropic or Perplexity user agents, so the dispute stays open on the non-Google crawlers, 2026-09-06
-
-### Collapsed and accordion content
-- HeyTony call 015 says accordions and toggles are safe to index and agentic crawlers interact with menus and forms, 2026-06-25, creators/content 2026-06-25
-- HeyTony call 109 says hidden or collapsed text counts against you, naming dropdown FAQs, 2025-12-19, creators/content 2025-12-19
-- Same corpus, two calls, six months apart. Displayed open is the safer default until a test settles it
 
 ### Core Web Vitals priority
 - playbook/core-updates.md says pages with LCP over 3 seconds lost 23 percent more traffic in the December 2025 core update, 2026-05, seed: playbook/core-updates.md
@@ -89,6 +84,12 @@ Where Google's statements and measured field results disagree, or where two cred
 - The split is on method, not on outcome: the practitioner guides endorse templated pages carrying unique data, Diamante rejects the matrix pattern outright. Every side is grade D after QA regraded the Eli Schwartz podcast entry, which carries an opinion and no measured result
 
 ## Closed
+
+### Collapsed and accordion content
+- HeyTony call 015 says accordions and toggles are safe to index and agentic crawlers interact with menus and forms, 2026-06-25, creators/content 2026-06-25
+- HeyTony call 109 says hidden or collapsed text counts against you, naming dropdown FAQs, 2025-12-19, creators/content 2025-12-19
+- Cyrus Shepard scores a Content Visibility factor at 7.6 across 54 AI citation experiments, studies and patents, and names text that requires users to click on divs and tabs as text that is not immediately visible, 2026-05-07, experts/content 2026-05-07
+- Closed 2026-09-10 by the grade B score, which agrees with call 109 against call 015. Both HeyTony calls are grade D and `pipeline/rubric.md` rule 1 says opinion never moves a tier, so the Zyppy score is the only graded evidence in the dispute. The row moves from Minor to Supporting and evidence from D to B
 
 ### Zero-click rate
 - SparkToro says 360 of every 1,000 US Google searches in 2024 sent a click to a non-Google property, that is 36 percent, 2024-07-02, experts/ai-search 2024-07-02

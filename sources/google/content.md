@@ -31,3 +31,15 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Quote: "we expect that the combination of this update and our previous efforts will collectively reduce low-quality, unoriginal content in search results by 40%."
 - Means: Google treats its core ranking systems and spam policies as one lever against thin, unoriginal pages, and put a specific number on how much of that content it expected to remove from results.
 - Factor: information-gain | Evidence: A | Lever: ranking | Scope: organic | Stage: audit
+
+## 2023-11 | Google's own rater guidelines overview names Experience the first of the four E-E-A-T criteria
+- Source: Google, "Search Quality Rater Guidelines: An Overview", 2023-11, https://services.google.com/fh/files/misc/hsw-sqrg.pdf
+- Quote: "For this task, Raters consider the quality of the webpage using criteria that we call E-E-A-T: Experience, Expertise, Authoritativeness and Trust."
+- Means: This is a separate, shorter Google document from the raterhub.com guidelines already on file, and it states plainly that Experience is one of four criteria raters weigh on a page. A page with no visible creator or sign of first-hand contact with its topic fails this test regardless of how well it is written.
+- Factor: eeat | Evidence: A | Lever: trust | Scope: organic | Stage: build
+
+## 2022-06-07 | Google's information gain patent scores a page by what it adds beyond documents the user already saw
+- Source: Google Patents, "Contextual estimation of link information gain" (US11354342B2), 2022-06-07, https://patents.google.com/patent/US11354342B2/en
+- Quote: "An information gain score for a given document is indicative of additional information that is included in the given document beyond information contained in other documents that were already presented to the user."
+- Means: This patent measures a page against what a specific user already read, not against the page's own topic coverage. It is a second grade A Google source for information-gain, and rubric rule 2 still holds: grade A alone does not restore Core.
+- Factor: information-gain | Evidence: A | Lever: ranking | Scope: organic | Stage: both

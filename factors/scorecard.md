@@ -1,8 +1,8 @@
 # Scorecard
 
-One row per factor, 118 rows across nine categories, bootstrapped 2026-09-06 from 142 dated entries in `sources/`, updated by the research run of 2026-09-06, which added 27 entries, and by a manual fold-in on 2026-09-06 that added 4 entries and 2 rows. Tier and evidence follow `pipeline/rubric.md`; evidence is the best grade an entry in `sources/` actually carries, never the grade the claim might deserve. Sources are entry anchors written `tier/category YYYY-MM-DD`, matching the entry heading in `sources/<tier>/<category>.md`; `seed: <doc>` means the row's only support is a seed document and no entry exists yet. Last verified is the newest entry date supporting the row, or the seed document's date when only a seed document supports it, or the date a research run re-read the row's live source and found the claim unchanged. Sorted by category in build order, then tier, then evidence grade.
+One row per factor, 118 rows across nine categories, bootstrapped 2026-09-06 from 142 dated entries in `sources/`, updated by the research run of 2026-09-06, which added 27 entries, by a manual fold-in on 2026-09-06 that added 4 entries and 2 rows, and by the research run of 2026-09-10, which added 6 entries and moved 3 rows off grade D. Tier and evidence follow `pipeline/rubric.md`; evidence is the best grade an entry in `sources/` actually carries, never the grade the claim might deserve. Sources are entry anchors written `tier/category YYYY-MM-DD`, matching the entry heading in `sources/<tier>/<category>.md`; `seed: <doc>` means the row's only support is a seed document and no entry exists yet. Last verified is the newest entry date supporting the row, or the seed document's date when only a seed document supports it, or the date a research run re-read the row's live source and found the claim unchanged. Sorted by category in build order, then tier, then evidence grade.
 
-Tiers as of 2026-09-06: Required 11, Core 19, Supporting 32, Minor 46, Myth 8, Dead 2. Evidence: A 27, B 31, C 19, D 41.
+Tiers as of 2026-09-10: Required 11, Core 19, Supporting 34, Minor 44, Myth 8, Dead 2. Evidence: A 28, B 33, C 19, D 38.
 
 
 | id | Factor | Category | Scope | Lever | Stage | Tier | Evidence | Last verified | Sources |
@@ -11,6 +11,7 @@ Tiers as of 2026-09-06: Required 11, Core 19, Supporting 32, Minor 46, Myth 8, D
 | mobile-usable | Page reflows and stays readable on a phone under mobile-first indexing | technical | organic local ai | ranking | both | Required | A | 2026-07 | google/technical 2025-12-10; creators/technical 2026-07 |
 | indexable | Page indexed, not blocked, reachable by the crawler | technical | organic ai | ranking | both | Required | A | 2026-07 | google/technical 2025-12-18; creators/technical 2026-07; google/ai-search 2025-12-10 |
 | ai-crawler-allow | Retrieval agents allowed through robots.txt and the firewall | technical | ai | ranking | both | Supporting | A | 2026-07 | experts/technical 2026-01-21; creators/technical 2026-07; google/ai-search 2025-12-10 |
+| static-html-rendering | Static HTML or server rendering rather than client-side JavaScript | technical | ai | ranking | build | Supporting | B | 2026-05-07 | experts/technical 2026-05-07 |
 | sitemap-submitted | XML sitemap submitted once inside Search Console | technical | organic | ranking | both | Supporting | C | 2026-07 | creators/technical 2026-07 |
 | domain-change-risk | Moving an established site to a new root domain | technical | organic | ranking | build | Supporting | C | 2026-07 | creators/technical 2026-07 |
 | core-web-vitals | Core Web Vitals and load speed as a tiebreaker between equal pages | technical | organic | ranking | audit | Minor | A | 2026-07 | creators/technical 2026-07; google/technical 2025-12-10; experts/technical 2022-01-31 |
@@ -18,7 +19,6 @@ Tiers as of 2026-09-06: Required 11, Core 19, Supporting 32, Minor 46, Myth 8, D
 | schema-markup | Structured data beyond the SEO plugin default | technical | organic ai | ranking | both | Minor | B | 2026-06-17 | experts/technical 2026-01-09; creators/technical 2026-06; experts/technical 2026-05-07; creators/technical 2026-06-17 |
 | bing-indexing | Site verified and indexed in Bing Webmaster Tools | technical | ai | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
 | faq-schema | FAQPage structured data on a page with question and answer pairs | technical | ai organic | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
-| static-html-rendering | Static HTML or server rendering rather than client-side JavaScript | technical | ai | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
 | canonical-self-reference | Canonical tag matching the live rendered URL exactly, trailing slash included | technical | organic | ranking | audit | Minor | D | 2026-06-11 | creators/technical 2026-06-11 |
 | crawl-depth | Every page you want ranked within three clicks of the homepage | technical | organic | ranking | both | Minor | D | 2026-07 | creators/technical 2026-07 |
 | url-change-risk | Changing the URL of a page that ranks, has traffic, or has backlinks | technical | organic | ranking | both | Minor | D | 2026-07 | creators/technical 2026-07 |
@@ -27,12 +27,13 @@ Tiers as of 2026-09-06: Required 11, Core 19, Supporting 32, Minor 46, Myth 8, D
 | meta-keywords | The meta keywords tag | technical | organic | ranking | audit | Myth | D | 2026-07 | creators/technical 2026-07 |
 | content-freshness | Content updated within the last two months | content | organic ai | ranking | both | Core | B | 2026-09-06 | experts/content 2025-12-15 |
 | cite-sources-in-content | Named, verifiable citations attached to the claims on the page | content | ai | ranking | build | Core | B | 2024-06-28 | experts/content 2024-06-28 |
-| information-gain | Novel, non-redundant information relative to other pages on the query | content | organic | ranking | both | Supporting | A | 2025-12-10 | google/content 2025-12-10; google/content 2024-03-05; creators/content 2024-02-05 |
+| information-gain | Novel, non-redundant information relative to other pages on the query | content | organic | ranking | both | Supporting | A | 2025-12-10 | google/content 2025-12-10; google/content 2024-03-05; creators/content 2024-02-05; google/content 2022-06-07 |
 | experience-first-person | First-person accounts, real outcomes and practitioner authorship | content | organic | ranking | build | Supporting | A | 2026-05 | seed: playbook/core-updates.md; google/content 2025-09-11 |
-| eeat | Experience, Expertise, Authoritativeness and Trustworthiness signals | content | organic | trust | build | Supporting | A | 2026-05 | seed: playbook/core-updates.md; google/content 2025-09-11 |
+| eeat | Experience, Expertise, Authoritativeness and Trustworthiness signals | content | organic | trust | build | Supporting | A | 2026-05 | seed: playbook/core-updates.md; google/content 2025-09-11; google/content 2023-11 |
 | readability-grade-6-8 | Reading level at Flesch-Kincaid grade 6 to 8 | content | organic ai | ranking | build | Supporting | B | 2026-07 | experts/content 2025-12-15; creators/content 2026-07 |
 | faq-block-plain-text | FAQ answers as plain question and answer text, capped at three or four | content | organic ai | ranking | build | Supporting | B | 2026-07 | experts/content 2025-12-15; creators/content 2026-07 |
 | answer-first-structure | The direct answer stated at the top of the page, before context | content | organic ai | ranking | both | Supporting | B | 2026-07 | creators/content 2026-07; experts/ai-search 2026-05-07 |
+| hidden-accordion-content | Important answer content hidden behind an accordion, toggle or dropdown | content | organic ai | ranking | both | Supporting | B | 2026-06-25 | creators/content 2026-06-25; creators/content 2025-12-19; experts/content 2026-05-07 |
 | one-keyword-per-page | One target keyword per page, no page sharing a keyword with another | content | organic | ranking | both | Supporting | C | 2026-01-15 | creators/content 2026-01-15 |
 | ranking-page-freeze | Editing the content or structure of a page that already ranks | content | organic | ranking | both | Supporting | C | 2026-07 | creators/content 2026-07 |
 | single-h1 | Exactly one H1, first heading in DOM order, carrying the exact keyword | content | organic | ranking | both | Supporting | C | 2026-07 | creators/content 2026-07; creators/content 2026-07-09 |
@@ -42,7 +43,6 @@ Tiers as of 2026-09-06: Required 11, Core 19, Supporting 32, Minor 46, Myth 8, D
 | multi-modal-content | Images, diagrams, tables and video alongside the text | content | ai | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
 | answer-passage-length | Self-contained answer passages of 134 to 167 words | content | ai | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
 | keyword-in-title-front | Focus keyword at or near the front of the title tag | content | organic | ranking | both | Minor | D | 2026-07 | creators/content 2026-07 |
-| hidden-accordion-content | Important answer content hidden behind an accordion, toggle or dropdown | content | organic ai | ranking | both | Minor | D | 2026-06-25 | creators/content 2026-06-25; creators/content 2025-12-19 |
 | alt-text | Descriptive alt text on every image, screen reader first | content | organic | trust | build | Minor | D | 2025-11 | creators/content 2025-11 |
 | ai-generated-content | Content penalised for being produced with AI rather than for quality | content | organic | ranking | both | Myth | B | 2026-07 | experts/content 2025-07-08; creators/content 2026-07 |
 | keyword-stuffing-ai | Repeating the target phrase to win generative engine citation | content | ai | ranking | build | Myth | B | 2024-06-28 | experts/content 2024-06-28 |
@@ -65,22 +65,22 @@ Tiers as of 2026-09-06: Required 11, Core 19, Supporting 32, Minor 46, Myth 8, D
 | proximity | Distance from the searcher to the verified address | local-gbp | local | ranking | both | Core | A | 2026-09-06 | google/local-gbp 2026-09-06; experts/local-gbp 2025-11-06 |
 | gbp-primary-category | The single most specific primary category matching the money service | local-gbp | local | ranking | both | Core | B | 2026-09-06 | experts/local-gbp 2025-11-06 |
 | gbp-services-keywords | Keywords in the GBP services field | local-gbp | local | ranking | both | Core | B | 2026-02-27 | experts/local-gbp 2026-02-27; experts/local-gbp 2025-11-06; experts/local-gbp 2024-01-24 |
-| gbp-predefined-services | Every predefined service Google offers for the category, added | local-gbp | local | ranking | both | Core | B | 2025-11-06 | experts/local-gbp 2025-11-06 |
+| gbp-predefined-services | Every predefined service Google offers for the category, added | local-gbp | local | ranking | both | Core | B | 2026-09-10 | experts/local-gbp 2025-11-06 |
 | gbp-business-name-keywords | Service or city keywords in the GBP business name | local-gbp | local | ranking | both | Core | B | 2026-09-06 | experts/local-gbp 2025-11-06 |
-| review-count | Count of reviews carrying text | local-gbp | local | ranking | both | Core | B | 2025-11-06 | experts/local-gbp 2025-11-06 |
+| review-count | Count of reviews carrying text | local-gbp | local | ranking | both | Core | B | 2026-09-10 | experts/local-gbp 2025-11-06 |
 | review-rating | High average star rating | local-gbp | local ai | ranking | audit | Core | B | 2026-07 | experts/local-gbp 2025-11-06; creators/local-gbp 2026-07 |
-| review-recency | How recently the newest reviews arrived | local-gbp | local | ranking | both | Core | B | 2025-11-06 | experts/local-gbp 2025-11-06 |
+| review-recency | How recently the newest reviews arrived | local-gbp | local | ranking | both | Core | B | 2026-09-10 | experts/local-gbp 2025-11-06 |
 | address-visible-storefront | A visible physical address in the searched city | local-gbp | local | ranking | both | Core | B | 2026-09-06 | experts/local-gbp 2025-11-06 |
 | rapid-core-field-edits | Rapid edits to name, address, category or hours in quick succession | local-gbp | local | trust | both | Supporting | A | 2026-09-06 | google/local-gbp 2026-09-06; experts/local-gbp 2026-03-10 |
-| gbp-photos-original | Real, original photos on the profile, never stock | local-gbp | local | ranking | both | Supporting | B | 2025-11-06 | experts/local-gbp 2025-11-06 |
-| review-photos | Reviews that carry customer photos | local-gbp | local | ranking | audit | Supporting | B | 2025-11-06 | experts/local-gbp 2025-11-06 |
+| gbp-photos-original | Real, original photos on the profile, never stock | local-gbp | local | ranking | both | Supporting | B | 2026-09-10 | experts/local-gbp 2025-11-06 |
+| review-photos | Reviews that carry customer photos | local-gbp | local | ranking | audit | Supporting | B | 2026-09-10 | experts/local-gbp 2025-11-06 |
 | gbp-posts | Google post frequency and quantity | local-gbp | local | conversion | both | Minor | B | 2026-07 | experts/local-gbp 2025-11-06; creators/local-gbp 2026-07 |
 | fake-address-listing | A listing at a P.O. box, virtual office or unstaffed coworking desk | local-gbp | local | trust | both | Minor | D | 2026-08-31 | seed: playbook/local/donts.md |
 | ask-maps-completeness | Profile field completeness as Ask Maps source material | local-gbp | local ai | conversion | both | Minor | D | 2026-07 | creators/local-gbp 2026-07 |
 | nap-footer-crawlable | Crawlable NAP in the site footer linked to the profile | local-gbp | local | ranking | both | Minor | D | 2026-07 | creators/local-gbp 2026-07 |
 | photo-geotagging | EXIF geotag injected into photos before upload | local-gbp | local | ranking | both | Myth | C | 2026-07 | experts/local-gbp 2025-03-25; experts/local-gbp 2024-01-15; creators/local-gbp 2026-07 |
 | gbp-qa | Google Business Profile Q&A | local-gbp | local | conversion | audit | Dead | A | 2026-08-28 | google/local-gbp 2026-08-28 |
-| gbp-messaging | GBP messaging, chat and call history | local-gbp | local | conversion | audit | Dead | D | 2026-08-31 | seed: playbook/local/gbp-playbook.md |
+| gbp-messaging | GBP messaging, chat and call history | local-gbp | local | conversion | audit | Dead | A | 2026-09-10 | google/local-gbp 2026-09-10 |
 | unstructured-mentions | Mentions in articles, best-of roundups, local press and association pages | citations | local ai | ranking | audit | Core | B | 2026-06-26 | experts/citations 2026-06-26; experts/citations 2025-11-06; creators/citations 2026-03-21 |
 | citation-nap-consistency | Exact-match name, phone, city, ZIP and URL across every listing | citations | local | ranking | both | Supporting | B | 2026-07 | experts/citations 2025-11-06; creators/citations 2026-07 |
 | niche-directories | Industry specific and topically relevant directories | citations | local ai | ranking | both | Supporting | B | 2026-07 | experts/citations 2018-09-07; creators/citations 2026-07 |
@@ -128,18 +128,18 @@ Tiers as of 2026-09-06: Required 11, Core 19, Supporting 32, Minor 46, Myth 8, D
 
 ## Rows resting on opinion
 
-Forty one rows whose only support is grade D or no entry at all, down from fifty one after the research run of 2026-09-06 moved ten of them onto grade A or grade B evidence. QA on 2026-09-06 moved every one of them to Minor, the lowest tier the scorecard carries, because `pipeline/rubric.md` gives Supporting and Minor a floor of grade B or C and gives grade D no tier. Thirty one rest on grade D entries in `sources/`; the ten marked `seed only` have no entry and rest on a seed document with no primary link. Each is a research target in `pipeline/backlog.md`, and none of them should carry a playbook edit until a grade B study or a grade C test lands.
+Thirty eight rows whose only support is grade D or no entry at all, down from forty one after the research run of 2026-09-10 moved three of them onto graded evidence. QA on 2026-09-06 moved every one of them to Minor, the lowest tier the scorecard carries, because `pipeline/rubric.md` gives Supporting and Minor a floor of grade B or C and gives grade D no tier. Twenty eight rest on grade D entries in `sources/`; the ten marked `seed only` have no entry and rest on a seed document with no primary link. Each is a research target in `pipeline/backlog.md`, and none of them should carry a playbook edit until a grade B study or a grade C test lands.
 
-- technical: bing-indexing (seed only), faq-schema (seed only), static-html-rendering (seed only), canonical-self-reference, crawl-depth, url-change-risk, meta-keywords
-- content: multi-modal-content (seed only), answer-passage-length (seed only), keyword-in-title-front, hidden-accordion-content, alt-text
-- website-design: single-primary-cta, tap-to-call, body-font-size, whitespace-section-rhythm, real-team-photos, review-carousel-plugin, accessibility-baseline
-- local-gbp: fake-address-listing (seed only), gbp-messaging (seed only), ask-maps-completeness, nap-footer-crawlable
-- citations: citation-count-25-40, data-aggregators (seed only), citation-blast (seed only)
-- backlinks: reciprocal-links, page-level-links, disavow-links
-- ai-search: aio-citation-answer-first, perplexity-bluf (seed only), ai-referral-conversion
-- signals: ugc-platform-presence, mentions-breadth-mediums, social-posts-ranking, brand-longevity
-- programmatic: location-pages, programmatic-templates-unique-data, thin-page-ratio, publishing-velocity-spike, programmatic-api-value-freshness
+- technical: bing-indexing (seed only), faq-schema (seed only), canonical-self-reference, crawl-depth, meta-keywords, url-change-risk
+- content: answer-passage-length (seed only), multi-modal-content (seed only), alt-text, keyword-in-title-front
+- website-design: accessibility-baseline, body-font-size, real-team-photos, review-carousel-plugin, single-primary-cta, tap-to-call, whitespace-section-rhythm
+- local-gbp: fake-address-listing (seed only), ask-maps-completeness, nap-footer-crawlable
+- citations: citation-blast (seed only), citation-count-25-40 (seed only), data-aggregators (seed only)
+- backlinks: disavow-links, page-level-links, reciprocal-links
+- ai-search: perplexity-bluf (seed only), ai-referral-conversion, aio-citation-answer-first
+- signals: ugc-platform-presence (seed only), brand-longevity, mentions-breadth-mediums, social-posts-ranking
+- programmatic: location-pages, programmatic-api-value-freshness, programmatic-templates-unique-data, publishing-velocity-spike, thin-page-ratio
 
-Ten rows left this list on 2026-09-06: `ai-crawler-allow`, `aio-cited-click-lift`, `core-web-vitals`, `eeat` and `experience-first-person` on grade A Google pages, and `answer-first-structure`, `core-five-citations`, `domain-authority-aio`, `hero-carousel` and `text-contrast` on grade B studies.
+Ten rows left this list on 2026-09-06: `ai-crawler-allow`, `aio-cited-click-lift`, `core-web-vitals`, `eeat` and `experience-first-person` on grade A Google pages, and `answer-first-structure`, `core-five-citations`, `domain-authority-aio`, `hero-carousel` and `text-contrast` on grade B studies. Three more left on 2026-09-10: `gbp-messaging` on Google's own removal notice at grade A, and `static-html-rendering` and `hidden-accordion-content` on Cyrus Shepard's Content Visibility score at grade B. The seed-only count stayed at ten because `citation-count-25-40` and `ugc-platform-presence` were listed without the marker on 2026-09-06 and their rows do cite a seed document.
 
-Two rows keep a tier the evidence does not reach, because demoting them would assert the opposite claim rather than a weaker one: `gbp-messaging` stays Dead on a seed document with no entry, and `meta-keywords` stays Myth on a single grade D entry and is already an open dispute in `factors/disputes.md`. Both are backlog lines. `domain-authority-aio` left this group on 2026-09-06: Cyrus Shepard's analysis of 23 AI citation factors ranks Domain Authority 22nd and reports a weak relationship, which is the first measured support the Myth tier has carried.
+One row keeps a tier the evidence does not reach, because demoting it would assert the opposite claim rather than a weaker one: `meta-keywords` stays Myth on a single grade D entry and is already an open dispute in `factors/disputes.md`. It is a backlog line. `domain-authority-aio` left this group on 2026-09-06: Cyrus Shepard's analysis of 23 AI citation factors ranks Domain Authority 22nd and reports a weak relationship, which is the first measured support the Myth tier has carried. `gbp-messaging` left it on 2026-09-10 and now rests on the grade A notice rather than on a seed document.

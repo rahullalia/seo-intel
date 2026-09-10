@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-09-10 | Google Business Profile chat and call history stopped working July 31, 2024
+- Source: Google Business Profile Help, "Changes to Google Business Profile chat and call history", 2026-09-10 (no page date), https://support.google.com/business/answer/14919056
+- Quote: "As of July 31, 2024, the chat and call history features are no longer available in your Business Profile."
+- Means: This is Google's own removal notice for gbp-messaging, which the scorecard held at Dead on a seed document with no primary source. A workflow that reads or replies to Business Profile messages, or pulls a call history report, describes a feature Google turned off in mid-2024.
+- Factor: gbp-messaging | Evidence: A | Lever: conversion | Scope: local | Stage: audit
+
 ## 2026-09-06 | Google's review policy bars pressuring or directing reviews on the premises
 - Source: Google Business Profile Help, "Prohibited and restricted content", 2026-09-06 (no page date), https://support.google.com/business/answer/7400114
 - Quote: "Merchants should not require or pressure users to leave ratings or write reviews while on the premises, nor should they request that specific content be included."
