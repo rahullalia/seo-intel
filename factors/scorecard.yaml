@@ -412,6 +412,16 @@ factors:
     evidence: "B"
     last_verified: "2026-05-13"
     sources: ["creators/website-design 2026-05-13", "experts/website-design 2024-12-12"]
+  - id: real-team-photos
+    factor: "Real photos of the actual team rather than stock or AI images"
+    category: website-design
+    scope: [organic]
+    lever: trust
+    stage: build
+    tier: minor
+    evidence: "C"
+    last_verified: "2026-08-21"
+    sources: ["experts/website-design 2026-08-13", "experts/website-design 2026-08-21", "creators/website-design 2026-07"]
   - id: single-primary-cta
     factor: "One primary CTA per page, secondary actions receding"
     category: website-design
@@ -452,16 +462,6 @@ factors:
     evidence: "D"
     last_verified: "2026-04-15"
     sources: ["creators/website-design 2026-04-15"]
-  - id: real-team-photos
-    factor: "Real photos of the actual team rather than stock or AI images"
-    category: website-design
-    scope: [organic]
-    lever: trust
-    stage: build
-    tier: minor
-    evidence: "C"
-    last_verified: "2026-08-21"
-    sources: ["experts/website-design 2026-08-13", "experts/website-design 2026-08-21", "creators/website-design 2026-07"]
   - id: review-carousel-plugin
     factor: "Review carousel plugin on a money page"
     category: website-design

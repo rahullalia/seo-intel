@@ -11,7 +11,7 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 ## 2026-09-14 | FAQ answers open by default outperformed the same answers inside expandable sections
 - Source: Search Engine Land, Zeeshan Yaseen, "Two GEO experiments challenge conventional AI visibility advice", 2026-09-14, https://searchengineland.com/geo-experiments-challenge-conventional-ai-visibility-advice-488342
 - Quote: "FAQ content performed better when it was visible by default rather than hidden behind expandable sections."
-- Means: This is a second practitioner result pointing the same way as Cyrus Shepard's Content Visibility factor of 2026-05-07, from a different author on different sites, across two experiments covering 15 commercial-intent keywords each. Leave FAQ answers expanded in the markup on any page meant to be cited by an assistant.
+- Means: This is a practitioner test pointing the same way as Cyrus Shepard's Content Visibility factor of 2026-05-07, which scored 54 published sources rather than running a test. Yaseen reports the finding from the first of his two experiments, which tracked 15 commercial-intent keywords across four platforms. Leave FAQ answers expanded in the markup on any page meant to be cited by an assistant.
 - Factor: hidden-accordion-content | Evidence: C | Lever: ranking | Scope: ai organic | Stage: both
 
 ## 2026-05-07 | Text locked behind a click, like a closed accordion or tab, counts as hidden

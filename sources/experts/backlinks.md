@@ -5,7 +5,7 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 ## 2026-09-14 | Press releases earned AI citations by amplifying listicles rather than on their own
 - Source: Search Engine Land, Zeeshan Yaseen, "Two GEO experiments challenge conventional AI visibility advice", 2026-09-14, https://searchengineland.com/geo-experiments-challenge-conventional-ai-visibility-advice-488342
 - Quote: "In this experiment, listicles and PR appeared to work as one system rather than as separate channels."
-- Means: PR carried 24.1 percent of the first experiment's citations against 72.4 percent for listicles, and Yaseen reports the releases amplified listicles that were already being cited, with a GlobeNewswire release second to a single listicle at 190 mentions. Buy a release to reinforce a placement on a source an assistant already cites rather than as a standalone link buy.
+- Means: PR carried 24.1 percent of the first experiment's citations against 72.4 percent for listicles, and Yaseen reports the releases amplified listicles that were already being cited. A single listicle on Indeed SEO led at 190 mentions, with MEXC and a GlobeNewswire release following and neither close to that volume. Buy a release to reinforce a placement on a source an assistant already cites rather than as a standalone link buy.
 - Factor: press-release-links | Evidence: C | Lever: ranking | Scope: ai | Stage: both
 
 ## 2023-12-01 | Pages with zero referring domains almost never reach 1,000 organic visits a month

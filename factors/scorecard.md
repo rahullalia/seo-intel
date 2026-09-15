@@ -48,11 +48,11 @@ Tiers as of 2026-09-15: Required 12, Core 20, Supporting 33, Minor 44, Myth 8, D
 | keyword-stuffing-ai | Repeating the target phrase to win generative engine citation | content | ai | ranking | build | Myth | B | 2026-09-15 | experts/content 2024-06-28 |
 | hero-carousel | Auto-rotating hero slider or carousel | website-design | organic | conversion | build | Supporting | B | 2026-07 | creators/website-design 2026-07; experts/website-design 2025-04-03 |
 | text-contrast | Soft dark gray on near white, never pure black on pure white | website-design | organic | conversion | build | Minor | B | 2026-05-13 | creators/website-design 2026-05-13; experts/website-design 2024-12-12 |
+| real-team-photos | Real photos of the actual team rather than stock or AI images | website-design | organic | trust | build | Minor | C | 2026-08-21 | experts/website-design 2026-08-13; experts/website-design 2026-08-21; creators/website-design 2026-07 |
 | single-primary-cta | One primary CTA per page, secondary actions receding | website-design | organic | conversion | build | Minor | D | 2026-07 | creators/website-design 2026-07 |
 | tap-to-call | Clickable tap-to-call number within thumb reach on mobile | website-design | local organic | conversion | both | Minor | D | 2026-07 | creators/website-design 2026-07 |
 | body-font-size | Body text 16px minimum, about 1.8 line height | website-design | organic | conversion | build | Minor | D | 2026-07-08 | creators/website-design 2026-07-08 |
 | whitespace-section-rhythm | Deliberate whitespace and alternating section rhythm | website-design | organic | conversion | build | Minor | D | 2026-04-15 | creators/website-design 2026-04-15 |
-| real-team-photos | Real photos of the actual team rather than stock or AI images | website-design | organic | trust | build | Minor | C | 2026-08-21 | experts/website-design 2026-08-13; experts/website-design 2026-08-21; creators/website-design 2026-07 |
 | review-carousel-plugin | Review carousel plugin on a money page | website-design | organic | conversion | both | Minor | D | 2026-07 | creators/website-design 2026-07 |
 | accessibility-baseline | Real headings, live text, alt text and contrast for screen readers | website-design | organic | trust | both | Minor | D | 2026-07-16 | creators/website-design 2026-07-16 |
 | gbp-verified | A verified Google Business Profile | local-gbp | local | ranking | both | Required | A | 2026-09-06 | google/local-gbp 2026-09-06 |
