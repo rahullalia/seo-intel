@@ -1,6 +1,6 @@
 # Disputes
 
-Where Google's statements and measured field results disagree, or where two credible sources conflict. Recorded, not resolved by fiat. A dispute closes only when new evidence settles it, and the closing entry says which evidence. Bootstrapped 2026-09-06 from the seed's 19 disputes plus 1 opened by the programmatic research, then 1 opened by the research run of 2026-09-06 and 1 closed by the research run of 2026-09-10: 15 open, 6 closed.
+Where Google's statements and measured field results disagree, or where two credible sources conflict. Recorded, not resolved by fiat. A dispute closes only when new evidence settles it, and the closing entry says which evidence. Bootstrapped 2026-09-06 from the seed's 19 disputes plus 1 opened by the programmatic research, then 1 opened by the research run of 2026-09-06, 1 closed by the research run of 2026-09-10 and 1 closed by the research run of 2026-09-15: 14 open, 7 closed.
 
 ## Open
 
@@ -61,11 +61,6 @@ Where Google's statements and measured field results disagree, or where two cred
 - SE Ranking's referring-domain figure was carried by a second entry whose quote did not match the page, deleted by QA on 2026-09-06, so the link half of this dispute now has no verified entry
 - Matt Diamante says LinkGap.io ranks second for "backlink gap" on a single 35-word page with one backlink, and members rank 1 to 3 on long-tail keywords with zero backlinks, 2026-07, creators/backlinks 2026-07
 
-### Stock against AI imagery
-- Matt Diamante ranks image sourcing as real photography first, then AI generated, then stock, 2026-07, creators/website-design 2026-07
-- The same corpus says stock is roughly equivalent to AI generated after real photography, and call 079 calls AI images uncertain, 2026-07, seed: sources/creators/hey-tony/insiders/page-types/00-rules-for-every-page.md
-- Only real original photography is undisputed. No external source has been found for either ordering
-
 ### External links on money pages
 - HeyTony part-3 2.12 sets at least one external link per page including money pages as the rule, 2026-07, seed: heyTony part-3 2.12
 - The same source records that his own flagship SEO service page has zero external links and ranks first, 2026-07, seed: heyTony part-3 2.12
@@ -84,6 +79,12 @@ Where Google's statements and measured field results disagree, or where two cred
 - The split is on method, not on outcome: the practitioner guides endorse templated pages carrying unique data, Diamante rejects the matrix pattern outright. Every side is grade D after QA regraded the Eli Schwartz podcast entry, which carries an opinion and no measured result
 
 ## Closed
+
+### Stock against AI imagery
+- Matt Diamante ranks image sourcing as real photography first, then AI generated, then stock, 2026-07, creators/website-design 2026-07
+- The same corpus says stock is roughly equivalent to AI generated after real photography, and call 079 calls AI images uncertain, 2026-07, seed: sources/creators/hey-tony/insiders/page-types/00-rules-for-every-page.md
+- Nielsen Norman Group had 77 US adults rate 6 versions of one consulting firm page differing only in the hero image, 3 AI generated and 3 real stock, and found no statistically significant difference in trustworthiness, authenticity or professionalism on any t-test but one, 2026-08-21, experts/website-design 2026-08-21
+- Closed 2026-09-15 by the grade B test, which agrees with the second position against the first. Both corpus positions are grade D and `pipeline/rubric.md` rule 1 says opinion never moves a tier, so the Nielsen Norman study is the only graded evidence in the dispute. Raters were not told AI was involved, and the single significant gap ran 0.4 points on authenticity in favour of the AI image, so an AI hero image carries no measured trust penalty against stock. The study never tests a photo of the actual team, which is why `real-team-photos` moved to grade C on Jakob Nielsen's eyetracking entry rather than to grade B on this one
 
 ### Collapsed and accordion content
 - HeyTony call 015 says accordions and toggles are safe to index and agentic crawlers interact with menus and forms, 2026-06-25, creators/content 2026-06-25

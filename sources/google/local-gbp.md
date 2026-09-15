@@ -2,6 +2,18 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-09-15 | A virtual office address is not eligible for a Business Profile
+- Source: Google Business Profile Help, "Guidelines for representing your business on Google", 2026-09-15 (no page date), https://support.google.com/business/answer/3038177
+- Quote: "If your business rents a physical mailing address but doesn't operate out of that location, also known as a virtual office, that location isn't eligible for a Business Profile."
+- Means: A rented mail drop used as a Business Profile address is barred by Google's own guidelines, which on the same page also reject P.O. boxes and mailboxes located at remote locations. A co-working desk qualifies only with clear signage, customers received at the location during business hours, and the business's own staff there during those hours.
+- Factor: fake-address-listing | Evidence: A | Lever: trust | Scope: local | Stage: both
+
+## 2026-09-15 | Google's review policy names selective solicitation of positive reviews as rating manipulation
+- Source: Google Business Profile Help, "Prohibited and restricted content", 2026-09-15 (no page date), https://support.google.com/business/answer/7400114
+- Quote: "Discourage or prohibit negative reviews, or selectively solicit positive reviews from customers"
+- Means: Asking only satisfied customers for a review is listed under Rating Manipulation as an action Google does not allow merchants to take, so review gating is a stated policy breach rather than a grey area. The same list bars a merchant from asking staff to collect a set number of reviews or to request reviews that name a staff member.
+- Factor: review-gating | Evidence: A | Lever: trust | Scope: local | Stage: both
+
 ## 2026-09-10 | Google Business Profile chat and call history stopped working July 31, 2024
 - Source: Google Business Profile Help, "Changes to Google Business Profile chat and call history", 2026-09-10 (no page date), https://support.google.com/business/answer/14919056
 - Quote: "As of July 31, 2024, the chat and call history features are no longer available in your Business Profile."

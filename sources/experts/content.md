@@ -2,6 +2,18 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-09-14 | An answer inside the first 100 words beat every other on-page edit in a GEO test
+- Source: Search Engine Land, Zeeshan Yaseen, "Two GEO experiments challenge conventional AI visibility advice", 2026-09-14, https://searchengineland.com/geo-experiments-challenge-conventional-ai-visibility-advice-488342
+- Quote: "In our tests, pages performed better when the answer appeared within the first 100 words. A key takeaway block near the top of the page produced a larger improvement than any other on-page change we made."
+- Means: Yaseen logged 775 citation events across two experiments, each tracking 15 commercial-intent keywords checked by hand, and ranks the top-of-page takeaway block above every other on-page change he made. Open the page with the answer in the first 100 words and keep the context below it.
+- Factor: answer-first-structure | Evidence: C | Lever: ranking | Scope: ai organic | Stage: both
+
+## 2026-09-14 | FAQ answers open by default outperformed the same answers inside expandable sections
+- Source: Search Engine Land, Zeeshan Yaseen, "Two GEO experiments challenge conventional AI visibility advice", 2026-09-14, https://searchengineland.com/geo-experiments-challenge-conventional-ai-visibility-advice-488342
+- Quote: "FAQ content performed better when it was visible by default rather than hidden behind expandable sections."
+- Means: This is a second practitioner result pointing the same way as Cyrus Shepard's Content Visibility factor of 2026-05-07, from a different author on different sites, across two experiments covering 15 commercial-intent keywords each. Leave FAQ answers expanded in the markup on any page meant to be cited by an assistant.
+- Factor: hidden-accordion-content | Evidence: C | Lever: ranking | Scope: ai organic | Stage: both
+
 ## 2026-05-07 | Text locked behind a click, like a closed accordion or tab, counts as hidden
 - Source: Zyppy Signal, Cyrus Shepard, "AI Citation Ranking Factors Analysis", 2026-05-07, https://signal.zyppy.com/p/ai-citation-ranking-factors
 - Quote: "Modern web pages can contain a lot of text that's not immediately visible, at least not without a lot of JavaScript or by requiring users to click on divs and tabs."

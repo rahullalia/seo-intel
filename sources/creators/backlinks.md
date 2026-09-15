@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-09-14 | Point internal links from pages already indexed for the term at the one page that answers it
+- Source: Edward Sturm, "Rank Faster With the Topical Authority You Already Have", 2026-09-14, https://edwardsturm.com/articles/topical-authority-rank-faster/
+- Quote: "If the first page that shows could satisfy search intent for your target keyword, link the most relevant text on the other pages to that first page."
+- Means: Search the site for the target keyword, then link the other indexed pages into whichever page already satisfies the query, using the relevant phrase as anchor text. Sturm reports no ranking numbers and names no test site, so this is opinion at grade D.
+- Factor: internal-linking-inbound | Evidence: D | Lever: ranking | Scope: organic | Stage: both
+
 ## 2026-07 | Weight beats count on referring domains
 
 - Source: HeyTony master playbook, Part V 1.1, 2026-07 (skills/skills/heyTony/reference/part-5-offpage-and-ai-search.md), local file
