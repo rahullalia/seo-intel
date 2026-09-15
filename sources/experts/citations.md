@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-09-14 | Listicles carried 72.4 percent of the AI citations a paid GEO campaign earned
+- Source: Search Engine Land, Zeeshan Yaseen, "Two GEO experiments challenge conventional AI visibility advice", 2026-09-14, https://searchengineland.com/geo-experiments-challenge-conventional-ai-visibility-advice-488342
+- Quote: "In all, listicles accounted for 72.4% of citations and PR 24.1%."
+- Means: Yaseen checked 15 commercial-intent keywords by hand across ChatGPT, Claude, Gemini and Perplexity for the first of two experiments, which drew 148 citations from ChatGPT, 96 from Claude, 87 from Gemini and 64 from Perplexity, one listicle on Indeed SEO accounting for 190 mentions. Spend on placement inside the roundups and listicles a model already cites for the query, because guest posts, the brand's own site and LinkedIn split the remaining 3.5 percent.
+- Factor: unstructured-mentions | Evidence: C | Lever: ranking | Scope: ai | Stage: both
+
 ## 2026-06-26 | AI local packs surface a third as many businesses as the 3-pack
 - Source: Sterling Sky, "The State of Local SEO in 2026", 2026-06-26, https://www.sterlingsky.ca/the-state-of-local-seo-in-2026/
 - Quote: "AI local packs featured 5,943 unique businesses whereas, regular 3-packs featured 18,330"

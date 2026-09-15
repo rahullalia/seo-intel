@@ -200,8 +200,18 @@ factors:
     stage: build
     tier: core
     evidence: "B"
-    last_verified: "2024-06-28"
+    last_verified: "2026-09-15"
     sources: ["experts/content 2024-06-28"]
+  - id: answer-first-structure
+    factor: "The direct answer stated at the top of the page, before context"
+    category: content
+    scope: [organic, ai]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "B"
+    last_verified: "2026-09-14"
+    sources: ["experts/content 2026-09-14", "creators/content 2026-07", "experts/ai-search 2026-05-07"]
   - id: information-gain
     factor: "Novel, non-redundant information relative to other pages on the query"
     category: content
@@ -252,16 +262,6 @@ factors:
     evidence: "B"
     last_verified: "2026-07"
     sources: ["experts/content 2025-12-15", "creators/content 2026-07"]
-  - id: answer-first-structure
-    factor: "The direct answer stated at the top of the page, before context"
-    category: content
-    scope: [organic, ai]
-    lever: ranking
-    stage: both
-    tier: supporting
-    evidence: "B"
-    last_verified: "2026-07"
-    sources: ["creators/content 2026-07", "experts/ai-search 2026-05-07"]
   - id: hidden-accordion-content
     factor: "Important answer content hidden behind an accordion, toggle or dropdown"
     category: content
@@ -270,8 +270,8 @@ factors:
     stage: both
     tier: supporting
     evidence: "B"
-    last_verified: "2026-06-25"
-    sources: ["creators/content 2026-06-25", "creators/content 2025-12-19", "experts/content 2026-05-07"]
+    last_verified: "2026-09-14"
+    sources: ["experts/content 2026-09-14", "creators/content 2026-06-25", "creators/content 2025-12-19", "experts/content 2026-05-07"]
   - id: one-keyword-per-page
     factor: "One target keyword per page, no page sharing a keyword with another"
     category: content
@@ -390,7 +390,7 @@ factors:
     stage: build
     tier: myth
     evidence: "B"
-    last_verified: "2024-06-28"
+    last_verified: "2026-09-15"
     sources: ["experts/content 2024-06-28"]
   - id: hero-carousel
     factor: "Auto-rotating hero slider or carousel"
@@ -412,6 +412,16 @@ factors:
     evidence: "B"
     last_verified: "2026-05-13"
     sources: ["creators/website-design 2026-05-13", "experts/website-design 2024-12-12"]
+  - id: real-team-photos
+    factor: "Real photos of the actual team rather than stock or AI images"
+    category: website-design
+    scope: [organic]
+    lever: trust
+    stage: build
+    tier: minor
+    evidence: "C"
+    last_verified: "2026-08-21"
+    sources: ["experts/website-design 2026-08-13", "experts/website-design 2026-08-21", "creators/website-design 2026-07"]
   - id: single-primary-cta
     factor: "One primary CTA per page, secondary actions receding"
     category: website-design
@@ -452,16 +462,6 @@ factors:
     evidence: "D"
     last_verified: "2026-04-15"
     sources: ["creators/website-design 2026-04-15"]
-  - id: real-team-photos
-    factor: "Real photos of the actual team rather than stock or AI images"
-    category: website-design
-    scope: [organic]
-    lever: trust
-    stage: build
-    tier: minor
-    evidence: "D"
-    last_verified: "2026-07"
-    sources: ["creators/website-design 2026-07"]
   - id: review-carousel-plugin
     factor: "Review carousel plugin on a money page"
     category: website-design
@@ -510,8 +510,8 @@ factors:
     stage: both
     tier: required
     evidence: "A"
-    last_verified: "2026-09-06"
-    sources: ["google/local-gbp 2026-09-06", "creators/local-gbp 2026-07", "google/local-gbp 2024-08-14"]
+    last_verified: "2026-09-15"
+    sources: ["google/local-gbp 2026-09-15", "google/local-gbp 2026-09-06", "creators/local-gbp 2026-07", "google/local-gbp 2024-08-14"]
   - id: review-incentives
     factor: "Payment, discounts, freebies or contest entries offered for a review"
     category: local-gbp
@@ -532,6 +532,16 @@ factors:
     evidence: "A"
     last_verified: "2026-09-06"
     sources: ["google/local-gbp 2026-09-06"]
+  - id: fake-address-listing
+    factor: "A listing at a P.O. box, virtual office or unstaffed coworking desk"
+    category: local-gbp
+    scope: [local]
+    lever: trust
+    stage: both
+    tier: required
+    evidence: "A"
+    last_verified: "2026-09-15"
+    sources: ["google/local-gbp 2026-09-15"]
   - id: gbp-hours-accuracy
     factor: "Accurate hours including holidays, open at time of search"
     category: local-gbp
@@ -682,16 +692,6 @@ factors:
     evidence: "B"
     last_verified: "2026-07"
     sources: ["experts/local-gbp 2025-11-06", "creators/local-gbp 2026-07"]
-  - id: fake-address-listing
-    factor: "A listing at a P.O. box, virtual office or unstaffed coworking desk"
-    category: local-gbp
-    scope: [local]
-    lever: trust
-    stage: both
-    tier: minor
-    evidence: "D"
-    last_verified: "2026-08-31"
-    sources: ["seed: playbook/local/donts.md"]
   - id: ask-maps-completeness
     factor: "Profile field completeness as Ask Maps source material"
     category: local-gbp
@@ -750,8 +750,8 @@ factors:
     stage: audit
     tier: core
     evidence: "B"
-    last_verified: "2026-06-26"
-    sources: ["experts/citations 2026-06-26", "experts/citations 2025-11-06", "creators/citations 2026-03-21"]
+    last_verified: "2026-09-14"
+    sources: ["experts/citations 2026-09-14", "experts/citations 2026-06-26", "experts/citations 2025-11-06", "creators/citations 2026-03-21"]
   - id: citation-nap-consistency
     factor: "Exact-match name, phone, city, ZIP and URL across every listing"
     category: citations
@@ -860,8 +860,8 @@ factors:
     stage: both
     tier: supporting
     evidence: "C"
-    last_verified: "2026-07"
-    sources: ["creators/backlinks 2026-07", "creators/backlinks 2026-01-12"]
+    last_verified: "2026-09-14"
+    sources: ["experts/backlinks 2026-09-14", "creators/backlinks 2026-07", "creators/backlinks 2026-01-12"]
   - id: internal-linking-inbound
     factor: "Three older indexed pages linking into each new page"
     category: backlinks
@@ -870,8 +870,8 @@ factors:
     stage: both
     tier: supporting
     evidence: "C"
-    last_verified: "2026-07"
-    sources: ["creators/backlinks 2026-07"]
+    last_verified: "2026-09-14"
+    sources: ["creators/backlinks 2026-09-14", "creators/backlinks 2026-07"]
   - id: internal-link-anchor-text
     factor: "Internal anchor text naming the destination and its keyword"
     category: backlinks
@@ -930,7 +930,7 @@ factors:
     stage: audit
     tier: core
     evidence: "B"
-    last_verified: "2025-12-15"
+    last_verified: "2026-09-15"
     sources: ["experts/ai-search 2025-12-15"]
   - id: zero-click-rate
     factor: "Share of Google searches that end without a click"
@@ -972,6 +972,16 @@ factors:
     evidence: "A"
     last_verified: "2026-05"
     sources: ["seed: playbook/ai-search.md", "google/ai-search 2025-12-10"]
+  - id: query-fan-out-targeting
+    factor: "Page content written to answer the sub-queries an assistant fans a prompt out into"
+    category: ai-search
+    scope: [ai]
+    lever: ranking
+    stage: both
+    tier: minor
+    evidence: "C"
+    last_verified: "2025-09-26"
+    sources: ["experts/ai-search 2025-09-26", "creators/ai-search 2026-03-21"]
   - id: aio-citation-answer-first
     factor: "A semantically complete answer passage that earns an AI Overview citation"
     category: ai-search
@@ -1020,7 +1030,7 @@ factors:
     stage: audit
     tier: core
     evidence: "B"
-    last_verified: "2025-12-15"
+    last_verified: "2026-09-15"
     sources: ["experts/signals 2025-12-15"]
   - id: reddit-mentions
     factor: "Reddit mentions and an active subreddit presence"
@@ -1150,7 +1160,7 @@ factors:
     stage: build
     tier: minor
     evidence: "D"
-    last_verified: "2026-01-20"
+    last_verified: "2026-09-15"
     sources: ["experts/programmatic 2026-01-20", "experts/programmatic 2025-11-27", "creators/programmatic 2023-04-11"]
   - id: thin-page-ratio
     factor: "Share of a templated page set that carries little or no value per page"

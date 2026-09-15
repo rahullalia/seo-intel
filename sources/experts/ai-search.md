@@ -35,9 +35,15 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 
 ## 2025-12-15 | High traffic sites earn far more AI Mode citations than low traffic sites
 - Source: SE Ranking, "How to Optimize for AI Mode: Google Visibility Matters 3x More Than Content", 2025-12-15, https://seranking.com/blog/how-to-optimize-for-ai-mode/
-- Quote: "websites with over 1.16M visitors earn about 6.4 citations, compared to just 2.4 citations for those with under 2.7K visitors"
+- Quote: "Websites with over 1.16M visitors earn about 6.4 citations, compared to just 2.4 citations for those with under 2.7K visitors (roughly 3x difference)."
 - Means: A small site will not be cited into AI Mode by on-page work alone, because site-level traffic is the strongest predictor in this analysis. Sites over 1.16 million monthly visitors averaged 6.4 citations against 2.4 for sites under 2,700.
 - Factor: ai-mode-domain-traffic | Evidence: B | Lever: ranking | Scope: ai | Stage: audit
+
+## 2025-09-26 | Four Semrush articles rewritten for fan-out queries went from two citations to five
+- Source: Semrush, Zach Paruch, "We Tested Query Fan-Out Optimization (Here's What We Learned)", 2025-09-26, https://www.semrush.com/blog/query-fan-out-experiment/
+- Quote: "In our small sample of four articles, we more than doubled citations in tracked prompts from two to five."
+- Means: Paruch researched 10 to 20 fan-out queries per article, had a writer edit the four articles to answer them, and re-measured after one month in Semrush Enterprise AIO, mainly against Google AI Mode. Three extra citations across four articles is a small result the author calls a mixed bag, so cover fan-out sub-queries on a page that already ranks and do not promise a citation from it.
+- Factor: query-fan-out-targeting | Evidence: C | Lever: ranking | Scope: ai | Stage: both
 
 ## 2024-07-02 | For every 1,000 US Google searches in 2024, 360 clicks reached the open web
 - Source: SparkToro, "2024 Zero-Click Search Study: For every 1,000 EU Google Searches, only 374 clicks go to the Open Web. In the US, it's 360.", 2024-07-02, https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/
