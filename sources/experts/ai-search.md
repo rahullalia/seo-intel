@@ -2,6 +2,24 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-09-16 | Fan-out coverage rated the fifth strongest Google AI factor, just above ranking for the main query
+- Source: Zyppy, Cyrus Shepard, "Google AI Ranking Factors", 2026-09-16, https://signal.zyppy.com/p/google-ai-ranking-factors
+- Quote: "When someone searches with Google AI, Google may run multiple related fan-out queries to help answer the question. Ranking highly in Google results for these fan-out queries is associated with better AI visibility."
+- Means: Shepard's survey of over 130 respondents scored organic fan-out coverage +1.91 on a scale of +3 to -3, fifth of the 13 AI factors scored and above ranking for the main query at +1.89. Write the page to rank for the sub-questions a prompt splits into, not only the head term.
+- Factor: query-fan-out-targeting | Evidence: B | Lever: ranking | Scope: ai | Stage: both
+
+## 2026-09-16 | Publisher reputation scored +1.78 as a Google AI citation factor
+- Source: Zyppy, Cyrus Shepard, "Google AI Ranking Factors", 2026-09-16, https://signal.zyppy.com/p/google-ai-ranking-factors
+- Quote: "In traditional SEO, site/domain authority is an important signal Google uses to rank results. Most of our experts believe Google AI uses a similar system of trust when forming answers."
+- Means: Shepard's respondents placed source and publisher reputation ninth of 13 AI factors at +1.78, which runs against the 2026-05-07 meta-analysis on file that ranked Domain Authority 22nd of 23 with a weak relationship. The two numbers measure different things: one records what 130 practitioners believe, the other correlated scores against observed citations.
+- Factor: domain-authority-aio | Evidence: B | Lever: ranking | Scope: ai | Stage: audit
+
+## 2026-09-16 | Answer prominence near the top of the page scored +1.65 for AI citation
+- Source: Zyppy, Cyrus Shepard, "Google AI Ranking Factors", 2026-09-16, https://signal.zyppy.com/p/google-ai-ranking-factors
+- Quote: "How prominently the answer appears on the page, especially near the beginning."
+- Means: Shepard's respondents scored answer prominence +1.65, 11th of 13 AI factors, below query-answer match at +2.15 and citable facts at +2.07. This is the first graded study evidence on the row, which until now rested on one creator source.
+- Factor: aio-citation-answer-first | Evidence: B | Lever: ranking | Scope: ai | Stage: build
+
 ## 2026-07-28 | ChatGPT referrals convert at roughly double the rate of organic search on ecommerce sites
 - Source: HubSpot, "How AEO drives higher-intent site visitors than other channels", 2026-07-28, https://blog.hubspot.com/marketing/aeo-drives-higher-intent-visitors
 - Quote: "ChatGPT referrals convert at 11.4% versus 5.3% for organic search across ecommerce sites"

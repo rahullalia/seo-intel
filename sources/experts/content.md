@@ -14,6 +14,18 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: This is a practitioner test pointing the same way as Cyrus Shepard's Content Visibility factor of 2026-05-07, which scored 54 published sources rather than running a test. Yaseen reports the finding from the first of his two experiments, which tracked 15 commercial-intent keywords across four platforms. Leave FAQ answers expanded in the markup on any page meant to be cited by an assistant.
 - Factor: hidden-accordion-content | Evidence: C | Lever: ranking | Scope: ai organic | Stage: both
 
+## 2026-09-09 | Original research and first-party data topped the content quality factors in a 131 person survey
+- Source: Zyppy, Cyrus Shepard and Dawn Shepard, "Google Ranking Factors Expert Survey 2026", 2026-09-09, https://signal.zyppy.com/p/google-ranking-factors-expert-survey
+- Quote: "“Original Research” and “First-Party Data” top the list, reflecting the importance of producing unique, non-commodity content in the age of AI."
+- Means: 131 respondents scored 103 factors across 13,665 data points, and 47.6 percent named content quality a top three factor, third behind relevance at 57.1 percent and backlinks at 54.8 percent. A page carrying numbers the agency measured itself scores higher on this list than one restating published material.
+- Factor: information-gain | Evidence: B | Lever: ranking | Scope: organic | Stage: both
+
+## 2026-09-09 | Respondents marked AI content down for scale without added value, not for being AI
+- Source: Zyppy, Cyrus Shepard and Dawn Shepard, "Google Ranking Factors Expert Survey 2026", 2026-09-09, https://signal.zyppy.com/p/google-ranking-factors-expert-survey
+- Quote: "Many saw AI-generated content negatively, but only when it is scaled with little added value."
+- Means: The 131 respondents separated production method from output quality, which is what the Ahrefs study of 600,000 pages dated 2025-07-08 already measured. The penalty respondents described attaches to thin pages published at volume, not to the tool that wrote them.
+- Factor: ai-generated-content | Evidence: B | Lever: ranking | Scope: organic | Stage: both
+
 ## 2026-05-07 | Text locked behind a click, like a closed accordion or tab, counts as hidden
 - Source: Zyppy Signal, Cyrus Shepard, "AI Citation Ranking Factors Analysis", 2026-05-07, https://signal.zyppy.com/p/ai-citation-ranking-factors
 - Quote: "Modern web pages can contain a lot of text that's not immediately visible, at least not without a lot of JavaScript or by requiring users to click on divs and tabs."

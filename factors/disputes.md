@@ -1,8 +1,13 @@
 # Disputes
 
-Where Google's statements and measured field results disagree, or where two credible sources conflict. Recorded, not resolved by fiat. A dispute closes only when new evidence settles it, and the closing entry says which evidence. Bootstrapped 2026-09-06 from the seed's 19 disputes plus 1 opened by the programmatic research, then 1 opened by the research run of 2026-09-06, 1 closed by the research run of 2026-09-10 and 1 closed by the research run of 2026-09-15: 14 open, 7 closed.
+Where Google's statements and measured field results disagree, or where two credible sources conflict. Recorded, not resolved by fiat. A dispute closes only when new evidence settles it, and the closing entry says which evidence. Bootstrapped 2026-09-06 from the seed's 19 disputes plus 1 opened by the programmatic research, then 1 opened by the research run of 2026-09-06, 1 closed by the research run of 2026-09-10 and 1 closed by the research run of 2026-09-15 and 1 opened by the research run of 2026-10-01: 15 open, 7 closed.
 
 ## Open
+
+### Publisher reputation as an AI citation factor
+- Cyrus Shepard's Google AI Ranking Factors survey scored source and publisher reputation +1.78 on a scale of +3 to -3, ninth of the 13 factors over 130 respondents rated, 2026-09-16, experts/ai-search 2026-09-16
+- Shepard's own AI Citation Ranking Factors analysis of 54 published experiments, patents and case studies ranked Domain Authority 22nd of 23 and reported a weak relationship, 2026-05-07, experts/ai-search 2026-05-07
+- Two grade B sources from the same author point opposite ways, which `pipeline/rubric.md` rule 6 does not cover because it is written for grade A against grade B or C. The survey records what 130 practitioners believe; the meta-analysis scored correlations against observed citations. `domain-authority-aio` stays at Myth on the measured source until a study measures citation rates against publisher authority directly. Opened 2026-10-01
 
 ### Core Web Vitals as a measured ranking effect
 - Google says "Core Web Vitals are used by our ranking systems" on its page experience documentation, page last updated 2025-12-10, google/technical 2025-12-10

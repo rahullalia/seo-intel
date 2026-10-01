@@ -8,6 +8,12 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: PR carried 24.1 percent of the first experiment's citations against 72.4 percent for listicles, and Yaseen reports the releases amplified listicles that were already being cited. A single listicle on Indeed SEO led at 190 mentions, with MEXC and a GlobeNewswire release following and neither close to that volume. Buy a release to reinforce a placement on a source an assistant already cites rather than as a standalone link buy.
 - Factor: press-release-links | Evidence: C | Lever: ranking | Scope: ai | Stage: both
 
+## 2026-09-09 | Backlinks came second of 103 factors, named by 54.8 percent of 131 respondents
+- Source: Zyppy, Cyrus Shepard and Dawn Shepard, "Google Ranking Factors Expert Survey 2026", 2026-09-09, https://signal.zyppy.com/p/google-ranking-factors-expert-survey
+- Quote: "The rumor of the death of backlinks has been greatly exaggerated. In fact, respondents rated links from trusted, relevant sites as one of the most important factors."
+- Means: 54.8 percent of the 131 respondents put backlinks in their top three, behind relevance at 57.1 percent and ahead of content quality at 47.6 percent. Trust and topical relevance of the linking page were rated above raw link count, and spam links were rated one of the largest negative factors in the survey.
+- Factor: referring-domains | Evidence: B | Lever: ranking | Scope: organic | Stage: both
+
 ## 2023-12-01 | Pages with zero referring domains almost never reach 1,000 organic visits a month
 - Source: Ahrefs, "96.55% of Content Gets No Traffic From Google. Here's How to Be in the Other 3.45% [New Research for 2023]", 2023-12-01, https://ahrefs.com/blog/search-traffic-study/
 - Quote: "Our index contains ~20 million pages with no referring domains, yet only 2,997 of them get more than 1K search visits per month. That's roughly 1 in every 6,671 pages with no backlinks."

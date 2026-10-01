@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-01 | Google's Profile Strength Indicator names the profile fields it asks a business to fill
+- Source: Google Business Profile Help, "Manage your Profile Strength", 2026-10-01 (no page date), https://support.google.com/business/answer/15691556
+- Quote: "Identify and fill in missing info in your profile. This includes your business description, hours of operation, and contact info."
+- Means: Google ships a completeness tool inside the profile and names business description, hours of operation and contact info as the fields it checks, on verified listings only. The page claims connecting with more customers, not a ranking effect.
+- Factor: gbp-profile-completeness | Evidence: A | Lever: conversion | Scope: local | Stage: both
+
 ## 2026-09-15 | A virtual office address is not eligible for a Business Profile
 - Source: Google Business Profile Help, "Guidelines for representing your business on Google", 2026-09-15 (no page date), https://support.google.com/business/answer/3038177
 - Quote: "If your business rents a physical mailing address but doesn't operate out of that location, also known as a virtual office, that location isn't eligible for a Business Profile."

@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-09-24 | ChatGPT's local answers drew on Bing, Foursquare, Yelp, TripAdvisor and BBB, not Google reviews
+- Source: Near Media, Greg Sterling and Mike Blumenthal with Andrew Shotland and Mark Kabana, "EP 275 - Rankings Up, Calls Down: What AI Visibility Is Really Worth to Local Businesses (Part 2)", 2026-09-24, https://www.nearmedia.co/ep-275-rankings-up-calls-down-what-ai-visibility-is-really-worth-to-local-businesses-part-2/
+- Quote: "We actually did a study with Local Falcon this summer where we looked at several million local queries. To your point: in ChatGPT, there were no Google reviews at all in the source data."
+- Means: Shotland named Bing, Foursquare, Yelp, TripAdvisor, BBB and editorial best of lists as the sources behind ChatGPT's local results in that study. A client aiming at ChatGPT needs listings on those directories, because the Google review corpus did not appear in the source data at all.
+- Factor: niche-directories | Evidence: B | Lever: ranking | Scope: local ai | Stage: both
+
 ## 2026-09-14 | Listicles carried 72.4 percent of the AI citations a paid GEO campaign earned
 - Source: Search Engine Land, Zeeshan Yaseen, "Two GEO experiments challenge conventional AI visibility advice", 2026-09-14, https://searchengineland.com/geo-experiments-challenge-conventional-ai-visibility-advice-488342
 - Quote: "In all, listicles accounted for 72.4% of citations and PR 24.1%."

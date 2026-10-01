@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-09-16 | Crawl and snippet access rated the strongest of 13 Google AI factors at +2.20
+- Source: Zyppy, Cyrus Shepard, "Google AI Ranking Factors", 2026-09-16, https://signal.zyppy.com/p/google-ai-ranking-factors
+- Quote: "Access works as a hard gate ahead of any ranking consideration."
+- Means: The line is Fili Wiese of Search Brothers, quoted in a survey whose respondents scored AI crawl access and snippet eligibility +2.20, the highest of the 13 AI factors scored. Check robots.txt and the firewall for Google-Extended and Google's other AI user agents before spending on anything else for AI visibility.
+- Factor: ai-crawler-allow | Evidence: B | Lever: ranking | Scope: ai | Stage: both
+
 ## 2026-06-15 | Most published llms.txt files sit unread by any crawler
 - Source: Ahrefs, "We Analyzed 137K Sites: 97% of llms.txt Files Never Get Read", 2026-06-15, https://ahrefs.com/blog/llmstxt-study/
 - Quote: "More than one in four domains (38,000) in our population have adopted llms.txt, despite the fact that no major AI platform has ever committed to reading it."

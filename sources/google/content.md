@@ -26,6 +26,18 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: A practitioner account on a health, money or safety topic can rate high without formal credentials, provided it stays inside expert consensus. The guidelines still reserve items such as treatment options and instructions for filling out tax forms for experts.
 - Factor: experience-first-person | Evidence: A | Lever: trust | Scope: organic | Stage: build
 
+## 2025-09-11 | Google's raters are told that AI use alone does not set a page quality rating
+- Source: Google, "General Guidelines", 2025-09-11, https://guidelines.raterhub.com/searchqualityevaluatorguidelines.pdf
+- Quote: "the use of Generative AI tools alone does not determine the level of effort or Page Quality rating. Generative AI tools may be used for high quality and low quality content creation."
+- Means: A page is not rated down for having been written with AI, which is the grade A denial the Myth tier asks for. Section 4.6.6 applies the Lowest rating on effort, originality and added value, never on the production method.
+- Factor: ai-generated-content | Evidence: A | Lever: ranking | Scope: organic | Stage: both
+
+## 2025-09-11 | Low-effort AI output with no added value earns the Lowest page quality rating
+- Source: Google, "General Guidelines", 2025-09-11, https://guidelines.raterhub.com/searchqualityevaluatorguidelines.pdf
+- Quote: "it's also possible to use Generative AI tools to create Lowest quality content with little to no effort, little to no originality, and little to no added value for website visitors."
+- Means: Publishing an AI draft without editing, source checking or anything the model could not supply is what Google's raters mark Lowest, on the same page of section 4.6.6 that clears AI use in general. The test is effort, originality and added value for the reader.
+- Factor: unedited-ai-output | Evidence: A | Lever: ranking | Scope: organic | Stage: both
+
 ## 2024-03-05 | Google expected the March 2024 update to cut unoriginal content by 40 percent
 - Source: Google, "New ways we're tackling spammy, low-quality content on Search", 2024-03-05, https://blog.google/products/search/google-search-update-march-2024/
 - Quote: "we expect that the combination of this update and our previous efforts will collectively reduce low-quality, unoriginal content in search results by 40%."
