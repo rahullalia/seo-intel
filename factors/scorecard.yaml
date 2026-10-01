@@ -329,9 +329,9 @@ factors:
     lever: ranking
     stage: both
     tier: supporting
-    evidence: "C"
+    evidence: "A"
     last_verified: "2026-07"
-    sources: ["creators/content 2026-07"]
+    sources: ["google/content 2025-09-11", "creators/content 2026-07"]
   - id: multi-modal-content
     factor: "Images, diagrams, tables and video alongside the text"
     category: content
@@ -379,9 +379,9 @@ factors:
     lever: ranking
     stage: both
     tier: myth
-    evidence: "B"
+    evidence: "A"
     last_verified: "2026-07"
-    sources: ["experts/content 2025-07-08", "creators/content 2026-07"]
+    sources: ["google/content 2025-09-11", "experts/content 2025-07-08", "creators/content 2026-07"]
   - id: keyword-stuffing-ai
     factor: "Repeating the target phrase to win generative engine citation"
     category: content
@@ -682,6 +682,16 @@ factors:
     evidence: "B"
     last_verified: "2026-09-10"
     sources: ["experts/local-gbp 2025-11-06"]
+  - id: gbp-profile-completeness
+    factor: "Business description, hours and contact info filled on the profile"
+    category: local-gbp
+    scope: [local]
+    lever: conversion
+    stage: both
+    tier: minor
+    evidence: "A"
+    last_verified: "2026-10-01"
+    sources: ["google/local-gbp 2026-10-01"]
   - id: gbp-posts
     factor: "Google post frequency and quantity"
     category: local-gbp
@@ -1110,8 +1120,8 @@ factors:
     stage: both
     tier: required
     evidence: "A"
-    last_verified: "2026-08-28"
-    sources: ["google/programmatic 2026-08-28"]
+    last_verified: "2026-09-24"
+    sources: ["google/signals 2026-09-24", "google/programmatic 2026-08-28"]
   - id: doorway-pages
     factor: "Near-identical pages built to catch queries and funnel to one weaker destination"
     category: programmatic

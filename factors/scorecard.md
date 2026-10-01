@@ -39,12 +39,12 @@ Tiers as of 2026-09-15: Required 12, Core 20, Supporting 33, Minor 44, Myth 8, D
 | single-h1 | Exactly one H1, first heading in DOM order, carrying the exact keyword | content | organic | ranking | both | Supporting | C | 2026-07 | creators/content 2026-07; creators/content 2026-07-09 |
 | word-count-competitor-relative | Word count matched to the top three results plus about ten percent | content | organic | ranking | both | Supporting | C | 2026-07-20 | creators/content 2026-07-20; creators/content 2026-06-17 |
 | keyword-density-over-optimization | Keyword density meaningfully higher than the ranking competitors | content | organic | ranking | both | Supporting | C | 2026-07 | creators/content 2026-07 |
-| unedited-ai-output | Publishing unreviewed AI output without expert oversight | content | organic | ranking | both | Supporting | C | 2026-07 | creators/content 2026-07 |
+| unedited-ai-output | Publishing unreviewed AI output without expert oversight | content | organic | ranking | both | Supporting | A | 2026-07 | google/content 2025-09-11; creators/content 2026-07 |
 | multi-modal-content | Images, diagrams, tables and video alongside the text | content | ai | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
 | answer-passage-length | Self-contained answer passages of 134 to 167 words | content | ai | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
 | keyword-in-title-front | Focus keyword at or near the front of the title tag | content | organic | ranking | both | Minor | D | 2026-07 | creators/content 2026-07 |
 | alt-text | Descriptive alt text on every image, screen reader first | content | organic | trust | build | Minor | D | 2025-11 | creators/content 2025-11 |
-| ai-generated-content | Content penalised for being produced with AI rather than for quality | content | organic | ranking | both | Myth | B | 2026-07 | experts/content 2025-07-08; creators/content 2026-07 |
+| ai-generated-content | Content penalised for being produced with AI rather than for quality | content | organic | ranking | both | Myth | A | 2026-07 | google/content 2025-09-11; experts/content 2025-07-08; creators/content 2026-07 |
 | keyword-stuffing-ai | Repeating the target phrase to win generative engine citation | content | ai | ranking | build | Myth | B | 2026-09-15 | experts/content 2024-06-28 |
 | hero-carousel | Auto-rotating hero slider or carousel | website-design | organic | conversion | build | Supporting | B | 2026-07 | creators/website-design 2026-07; experts/website-design 2025-04-03 |
 | text-contrast | Soft dark gray on near white, never pure black on pure white | website-design | organic | conversion | build | Minor | B | 2026-05-13 | creators/website-design 2026-05-13; experts/website-design 2024-12-12 |
@@ -75,6 +75,7 @@ Tiers as of 2026-09-15: Required 12, Core 20, Supporting 33, Minor 44, Myth 8, D
 | rapid-core-field-edits | Rapid edits to name, address, category or hours in quick succession | local-gbp | local | trust | both | Supporting | A | 2026-09-06 | google/local-gbp 2026-09-06; experts/local-gbp 2026-03-10 |
 | gbp-photos-original | Real, original photos on the profile, never stock | local-gbp | local | ranking | both | Supporting | B | 2026-09-10 | experts/local-gbp 2025-11-06 |
 | review-photos | Reviews that carry customer photos | local-gbp | local | ranking | audit | Supporting | B | 2026-09-10 | experts/local-gbp 2025-11-06 |
+| gbp-profile-completeness | Business description, hours and contact info filled on the profile | local-gbp | local | conversion | both | Minor | A | 2026-10-01 | google/local-gbp 2026-10-01 |
 | gbp-posts | Google post frequency and quantity | local-gbp | local | conversion | both | Minor | B | 2026-07 | experts/local-gbp 2025-11-06; creators/local-gbp 2026-07 |
 | ask-maps-completeness | Profile field completeness as Ask Maps source material | local-gbp | local ai | conversion | both | Minor | D | 2026-07 | creators/local-gbp 2026-07 |
 | nap-footer-crawlable | Crawlable NAP in the site footer linked to the profile | local-gbp | local | ranking | both | Minor | D | 2026-07 | creators/local-gbp 2026-07 |
@@ -117,7 +118,7 @@ Tiers as of 2026-09-15: Required 12, Core 20, Supporting 33, Minor 44, Myth 8, D
 | social-posts-ranking | Social media posts as a direct organic ranking signal | signals | organic | ranking | both | Minor | D | 2026-07 | creators/signals 2026-07 |
 | brand-longevity | Business longevity and established authority in the local pack | signals | local | ranking | audit | Minor | D | 2026-07 | creators/local-gbp 2026-07 |
 | google-partner-algorithm-access | Vendors claiming privileged access to Google's ranking algorithm | signals | organic local | trust | both | Myth | A | 2026-07 | google/signals 2026-06-05; creators/signals 2026-07 |
-| scaled-content-abuse | Many pages generated mainly to manipulate rankings rather than help readers | programmatic | organic ai | trust | both | Required | A | 2026-08-28 | google/programmatic 2026-08-28 |
+| scaled-content-abuse | Many pages generated mainly to manipulate rankings rather than help readers | programmatic | organic ai | trust | both | Required | A | 2026-09-24 | google/signals 2026-09-24; google/programmatic 2026-08-28 |
 | doorway-pages | Near-identical pages built to catch queries and funnel to one weaker destination | programmatic | organic ai | trust | both | Required | A | 2026-08-28 | google/programmatic 2026-08-28 |
 | site-reputation-abuse | Third-party content published on a host site to ride its earned ranking signals | programmatic | organic ai | trust | both | Required | A | 2026-08-28 | google/programmatic 2026-08-28 |
 | topical-mismatch | Publishing outside the site's established topical area to chase traffic | programmatic | organic | ranking | both | Supporting | A | 2026-08-28 | google/content 2026-08-28 |
