@@ -38,10 +38,10 @@ factors:
     scope: [ai]
     lever: ranking
     stage: both
-    tier: supporting
+    tier: core
     evidence: "A"
-    last_verified: "2026-07"
-    sources: ["experts/technical 2026-01-21", "creators/technical 2026-07", "google/ai-search 2025-12-10"]
+    last_verified: "2026-09-16"
+    sources: ["experts/technical 2026-09-16", "experts/technical 2026-01-21", "creators/technical 2026-07", "google/ai-search 2025-12-10"]
   - id: static-html-rendering
     factor: "Static HTML or server rendering rather than client-side JavaScript"
     category: technical
@@ -182,6 +182,16 @@ factors:
     evidence: "D"
     last_verified: "2026-07"
     sources: ["creators/technical 2026-07"]
+  - id: information-gain
+    factor: "Novel, non-redundant information relative to other pages on the query"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: core
+    evidence: "A"
+    last_verified: "2026-10-01"
+    sources: ["experts/content 2026-09-09", "google/content 2025-12-10", "google/content 2024-03-05", "creators/content 2024-02-05", "google/content 2022-06-07"]
   - id: content-freshness
     factor: "Content updated within the last two months"
     category: content
@@ -212,16 +222,6 @@ factors:
     evidence: "B"
     last_verified: "2026-09-14"
     sources: ["experts/content 2026-09-14", "creators/content 2026-07", "experts/ai-search 2026-05-07"]
-  - id: information-gain
-    factor: "Novel, non-redundant information relative to other pages on the query"
-    category: content
-    scope: [organic]
-    lever: ranking
-    stage: both
-    tier: supporting
-    evidence: "A"
-    last_verified: "2026-10-01"
-    sources: ["google/content 2025-12-10", "google/content 2024-03-05", "creators/content 2024-02-05", "google/content 2022-06-07"]
   - id: experience-first-person
     factor: "First-person accounts, real outcomes and practitioner authorship"
     category: content
@@ -242,6 +242,16 @@ factors:
     evidence: "A"
     last_verified: "2026-05"
     sources: ["seed: playbook/core-updates.md", "google/content 2025-09-11", "google/content 2023-11"]
+  - id: unedited-ai-output
+    factor: "Publishing unreviewed AI output without expert oversight"
+    category: content
+    scope: [organic]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "A"
+    last_verified: "2026-07"
+    sources: ["google/content 2025-09-11", "creators/content 2026-07"]
   - id: readability-grade-6-8
     factor: "Reading level at Flesch-Kincaid grade 6 to 8"
     category: content
@@ -322,16 +332,6 @@ factors:
     evidence: "C"
     last_verified: "2026-07"
     sources: ["creators/content 2026-07"]
-  - id: unedited-ai-output
-    factor: "Publishing unreviewed AI output without expert oversight"
-    category: content
-    scope: [organic]
-    lever: ranking
-    stage: both
-    tier: supporting
-    evidence: "A"
-    last_verified: "2026-07"
-    sources: ["google/content 2025-09-11", "creators/content 2026-07"]
   - id: multi-modal-content
     factor: "Images, diagrams, tables and video alongside the text"
     category: content
@@ -380,8 +380,8 @@ factors:
     stage: both
     tier: myth
     evidence: "A"
-    last_verified: "2026-07"
-    sources: ["google/content 2025-09-11", "experts/content 2025-07-08", "creators/content 2026-07"]
+    last_verified: "2026-09-09"
+    sources: ["experts/content 2026-09-09", "google/content 2025-09-11", "experts/content 2025-07-08", "creators/content 2026-07"]
   - id: keyword-stuffing-ai
     factor: "Repeating the target phrase to win generative engine citation"
     category: content
@@ -422,6 +422,16 @@ factors:
     evidence: "C"
     last_verified: "2026-08-21"
     sources: ["experts/website-design 2026-08-13", "experts/website-design 2026-08-21", "creators/website-design 2026-07"]
+  - id: landing-page-nav-removal
+    factor: "Site navigation removed from a page whose only job is one conversion action"
+    category: website-design
+    scope: [organic]
+    lever: conversion
+    stage: build
+    tier: minor
+    evidence: "C"
+    last_verified: "2026-09-27"
+    sources: ["creators/website-design 2026-09-27"]
   - id: single-primary-cta
     factor: "One primary CTA per page, secondary actions receding"
     category: website-design
@@ -430,8 +440,8 @@ factors:
     stage: build
     tier: minor
     evidence: "D"
-    last_verified: "2026-07"
-    sources: ["creators/website-design 2026-07"]
+    last_verified: "2026-09-27"
+    sources: ["creators/website-design 2026-09-27", "creators/website-design 2026-07"]
   - id: tap-to-call
     factor: "Clickable tap-to-call number within thumb reach on mobile"
     category: website-design
@@ -620,8 +630,8 @@ factors:
     stage: both
     tier: core
     evidence: "B"
-    last_verified: "2026-09-10"
-    sources: ["experts/local-gbp 2025-11-06"]
+    last_verified: "2026-09-24"
+    sources: ["experts/local-gbp 2026-09-24", "experts/local-gbp 2025-11-06"]
   - id: review-rating
     factor: "High average star rating"
     category: local-gbp
@@ -780,8 +790,8 @@ factors:
     stage: both
     tier: supporting
     evidence: "B"
-    last_verified: "2026-07"
-    sources: ["experts/citations 2018-09-07", "creators/citations 2026-07"]
+    last_verified: "2026-09-24"
+    sources: ["experts/citations 2026-09-24", "experts/citations 2018-09-07", "creators/citations 2026-07"]
   - id: core-five-citations
     factor: "Google, Apple Business Connect, Bing Places, Facebook and Yelp claimed"
     category: citations
@@ -840,8 +850,8 @@ factors:
     stage: both
     tier: core
     evidence: "B"
-    last_verified: "2026-07"
-    sources: ["creators/backlinks 2026-07", "experts/backlinks 2023-12-01", "experts/backlinks 2018-09-18"]
+    last_verified: "2026-09-09"
+    sources: ["experts/backlinks 2026-09-09", "creators/backlinks 2026-07", "experts/backlinks 2023-12-01", "experts/backlinks 2018-09-18"]
   - id: backlink-anchor-relevance
     factor: "Descriptive, geo-qualified anchor text on an earned external link"
     category: backlinks
@@ -870,8 +880,8 @@ factors:
     stage: both
     tier: supporting
     evidence: "C"
-    last_verified: "2026-09-14"
-    sources: ["experts/backlinks 2026-09-14", "creators/backlinks 2026-07", "creators/backlinks 2026-01-12"]
+    last_verified: "2026-09-20"
+    sources: ["creators/ai-search 2026-09-20", "experts/backlinks 2026-09-14", "creators/backlinks 2026-07", "creators/backlinks 2026-01-12"]
   - id: internal-linking-inbound
     factor: "Three older indexed pages linking into each new page"
     category: backlinks
@@ -952,6 +962,16 @@ factors:
     evidence: "B"
     last_verified: "2026-06-09"
     sources: ["experts/ai-search 2026-06-09", "experts/ai-search 2024-07-02"]
+  - id: query-fan-out-targeting
+    factor: "Page content written to answer the sub-queries an assistant fans a prompt out into"
+    category: ai-search
+    scope: [ai]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "B"
+    last_verified: "2026-10-01"
+    sources: ["experts/ai-search 2026-09-16", "experts/ai-search 2025-09-26", "creators/ai-search 2026-03-21"]
   - id: ai-overview-claim-alignment
     factor: "Stating the AI Overview's own claim first, then pivoting to your data"
     category: ai-search
@@ -982,16 +1002,6 @@ factors:
     evidence: "A"
     last_verified: "2026-05"
     sources: ["seed: playbook/ai-search.md", "google/ai-search 2025-12-10"]
-  - id: query-fan-out-targeting
-    factor: "Page content written to answer the sub-queries an assistant fans a prompt out into"
-    category: ai-search
-    scope: [ai]
-    lever: ranking
-    stage: both
-    tier: minor
-    evidence: "C"
-    last_verified: "2026-10-01"
-    sources: ["experts/ai-search 2025-09-26", "creators/ai-search 2026-03-21"]
   - id: aio-citation-answer-first
     factor: "A semantically complete answer passage that earns an AI Overview citation"
     category: ai-search
@@ -999,9 +1009,9 @@ factors:
     lever: ranking
     stage: build
     tier: minor
-    evidence: "D"
-    last_verified: "2026-07"
-    sources: ["creators/ai-search 2026-07"]
+    evidence: "B"
+    last_verified: "2026-09-16"
+    sources: ["experts/ai-search 2026-09-16", "creators/ai-search 2026-07"]
   - id: perplexity-bluf
     factor: "Bottom Line Up Front structure with clear heading hierarchy"
     category: ai-search
@@ -1030,8 +1040,8 @@ factors:
     stage: audit
     tier: myth
     evidence: "B"
-    last_verified: "2026-05-07"
-    sources: ["seed: playbook/ai-search.md", "experts/ai-search 2026-05-07"]
+    last_verified: "2026-09-16"
+    sources: ["experts/ai-search 2026-09-16", "seed: playbook/ai-search.md", "experts/ai-search 2026-05-07"]
   - id: position-one-ctr
     factor: "Position one organic click-through rate on queries carrying AI features"
     category: signals
@@ -1040,8 +1050,8 @@ factors:
     stage: audit
     tier: core
     evidence: "B"
-    last_verified: "2026-09-15"
-    sources: ["experts/signals 2025-12-15"]
+    last_verified: "2026-09-24"
+    sources: ["experts/signals 2026-09-24", "experts/signals 2025-12-15"]
   - id: reddit-mentions
     factor: "Reddit mentions and an active subreddit presence"
     category: signals
@@ -1050,8 +1060,8 @@ factors:
     stage: build
     tier: supporting
     evidence: "C"
-    last_verified: "2026-07"
-    sources: ["creators/signals 2026-07"]
+    last_verified: "2026-09-20"
+    sources: ["creators/signals 2026-09-20", "creators/signals 2026-07"]
   - id: social-posts-ai-citation
     factor: "Social posts as an input AI answer engines weigh"
     category: signals

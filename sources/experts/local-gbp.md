@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-09-24 | Review count lifts AI visibility up to about 200 reviews, then stops
+- Source: Near Media, Greg Sterling and Mike Blumenthal with Andrew Shotland and Mark Kabana, "EP 275 - Rankings Up, Calls Down: What AI Visibility Is Really Worth to Local Businesses (Part 2)", 2026-09-24, https://www.nearmedia.co/ep-275-rankings-up-calls-down-what-ai-visibility-is-really-worth-to-local-businesses-part-2/
+- Quote: "We also found that across eight different verticals, the number of reviews, up to about 200, definitely correlates with improved visibility in AI, across Google and ChatGPT. But once you hit 200 or so, it plateaus."
+- Means: Andrew Shotland of Local SEO Guide described a summer 2026 study run with Local Falcon across several million local queries, and said that past roughly 200 reviews the radius a business can rank in keeps widening while visibility does not. For a profile already past 200 reviews, more reviews are not the next move for AI visibility.
+- Factor: review-count | Evidence: B | Lever: ranking | Scope: local ai | Stage: both
+
 ## 2026-03-10 | Rapid profile edits are Sterling Sky's top suspension trigger
 - Source: Sterling Sky, "The Ultimate Playbook for Google Business Profile Suspensions", 2026-03-10, https://www.sterlingsky.ca/top-reasons-google-my-business-suspended-your-listing/
 - Quote: "You made too many edits to important parts of your profile. Google finds this suspicious."
