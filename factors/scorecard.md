@@ -15,7 +15,7 @@ Tiers as of 2026-09-15: Required 12, Core 20, Supporting 33, Minor 44, Myth 8, D
 | sitemap-submitted | XML sitemap submitted once inside Search Console | technical | organic | ranking | both | Supporting | C | 2026-07 | creators/technical 2026-07 |
 | domain-change-risk | Moving an established site to a new root domain | technical | organic | ranking | build | Supporting | C | 2026-07 | creators/technical 2026-07 |
 | core-web-vitals | Core Web Vitals and load speed as a tiebreaker between equal pages | technical | organic | ranking | audit | Minor | A | 2026-07 | creators/technical 2026-07; google/technical 2025-12-10; experts/technical 2022-01-31 |
-| iframe-content-attribution | Text inside a cross-origin iframe credited to the page that embeds it | technical | organic | ranking | both | Minor | A | 2026-03-24 | google/technical 2026-03-24; google/technical 2023-12-18; experts/technical 2022-09-30 |
+| iframe-content-attribution | Text inside a cross-origin iframe credited to the page that embeds it | technical | organic | ranking | both | Minor | A | 2026-10-01 | google/technical 2026-03-24; google/technical 2023-12-18; experts/technical 2022-09-30 |
 | schema-markup | Structured data beyond the SEO plugin default | technical | organic ai | ranking | both | Minor | B | 2026-06-17 | experts/technical 2026-01-09; creators/technical 2026-06; experts/technical 2026-05-07; creators/technical 2026-06-17 |
 | bing-indexing | Site verified and indexed in Bing Webmaster Tools | technical | ai | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
 | faq-schema | FAQPage structured data on a page with question and answer pairs | technical | ai organic | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
@@ -28,7 +28,7 @@ Tiers as of 2026-09-15: Required 12, Core 20, Supporting 33, Minor 44, Myth 8, D
 | content-freshness | Content updated within the last two months | content | organic ai | ranking | both | Core | B | 2026-09-06 | experts/content 2025-12-15 |
 | cite-sources-in-content | Named, verifiable citations attached to the claims on the page | content | ai | ranking | build | Core | B | 2026-09-15 | experts/content 2024-06-28 |
 | answer-first-structure | The direct answer stated at the top of the page, before context | content | organic ai | ranking | both | Core | B | 2026-09-14 | experts/content 2026-09-14; creators/content 2026-07; experts/ai-search 2026-05-07 |
-| information-gain | Novel, non-redundant information relative to other pages on the query | content | organic | ranking | both | Supporting | A | 2025-12-10 | google/content 2025-12-10; google/content 2024-03-05; creators/content 2024-02-05; google/content 2022-06-07 |
+| information-gain | Novel, non-redundant information relative to other pages on the query | content | organic | ranking | both | Supporting | A | 2026-10-01 | google/content 2025-12-10; google/content 2024-03-05; creators/content 2024-02-05; google/content 2022-06-07 |
 | experience-first-person | First-person accounts, real outcomes and practitioner authorship | content | organic | ranking | build | Supporting | A | 2026-05 | seed: playbook/core-updates.md; google/content 2025-09-11 |
 | eeat | Experience, Expertise, Authoritativeness and Trustworthiness signals | content | organic | trust | build | Supporting | A | 2026-05 | seed: playbook/core-updates.md; google/content 2025-09-11; google/content 2023-11 |
 | readability-grade-6-8 | Reading level at Flesch-Kincaid grade 6 to 8 | content | organic ai | ranking | build | Supporting | B | 2026-07 | experts/content 2025-12-15; creators/content 2026-07 |
@@ -104,7 +104,7 @@ Tiers as of 2026-09-15: Required 12, Core 20, Supporting 33, Minor 44, Myth 8, D
 | ai-overview-claim-alignment | Stating the AI Overview's own claim first, then pivoting to your data | ai-search | ai | ranking | build | Supporting | C | 2026-07 | creators/ai-search 2026-07 |
 | aio-citation-instability | Stability of AI Overview citation across repeated identical searches | ai-search | ai | ranking | audit | Supporting | C | 2026-07 | creators/ai-search 2026-07 |
 | aio-cited-click-lift | Click lift for a site cited inside an AI Overview | ai-search | ai | conversion | audit | Minor | A | 2026-05 | seed: playbook/ai-search.md; google/ai-search 2025-12-10 |
-| query-fan-out-targeting | Page content written to answer the sub-queries an assistant fans a prompt out into | ai-search | ai | ranking | both | Minor | C | 2025-09-26 | experts/ai-search 2025-09-26; creators/ai-search 2026-03-21 |
+| query-fan-out-targeting | Page content written to answer the sub-queries an assistant fans a prompt out into | ai-search | ai | ranking | both | Minor | C | 2026-10-01 | experts/ai-search 2025-09-26; creators/ai-search 2026-03-21 |
 | aio-citation-answer-first | A semantically complete answer passage that earns an AI Overview citation | ai-search | ai | ranking | build | Minor | D | 2026-07 | creators/ai-search 2026-07 |
 | perplexity-bluf | Bottom Line Up Front structure with clear heading hierarchy | ai-search | ai | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
 | ai-referral-conversion | Conversion rate of visitors arriving from an AI generated answer | ai-search | ai | conversion | both | Minor | D | 2026-07-28 | experts/ai-search 2026-07-28; creators/ai-search 2026-07 |
@@ -125,7 +125,7 @@ Tiers as of 2026-09-15: Required 12, Core 20, Supporting 33, Minor 44, Myth 8, D
 | programmatic-templates-unique-data | A page template carrying data or assets no competing page already publishes | programmatic | organic | ranking | build | Minor | D | 2026-09-15 | experts/programmatic 2026-01-20; experts/programmatic 2025-11-27; creators/programmatic 2023-04-11 |
 | thin-page-ratio | Share of a templated page set that carries little or no value per page | programmatic | organic | ranking | both | Minor | D | 2026-09-02 | experts/programmatic 2026-09-02; experts/programmatic 2025-05-05 |
 | publishing-velocity-spike | A sudden jump in publishing volume on an established site | programmatic | organic | ranking | both | Minor | D | 2026-07 | creators/content 2026-07 |
-| programmatic-api-value-freshness | Numeric values inside a programmatic template refreshed from an API call | programmatic | organic | ranking | build | Minor | D | 2023-03-13 | creators/programmatic 2023-03-13 |
+| programmatic-api-value-freshness | Numeric values inside a programmatic template refreshed from an API call | programmatic | organic | ranking | build | Minor | D | 2026-10-01 | creators/programmatic 2023-03-13 |
 
 ## Rows resting on opinion
 

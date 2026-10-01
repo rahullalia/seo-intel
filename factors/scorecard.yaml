@@ -90,7 +90,7 @@ factors:
     stage: both
     tier: minor
     evidence: "A"
-    last_verified: "2026-03-24"
+    last_verified: "2026-10-01"
     sources: ["google/technical 2026-03-24", "google/technical 2023-12-18", "experts/technical 2022-09-30"]
   - id: schema-markup
     factor: "Structured data beyond the SEO plugin default"
@@ -220,7 +220,7 @@ factors:
     stage: both
     tier: supporting
     evidence: "A"
-    last_verified: "2025-12-10"
+    last_verified: "2026-10-01"
     sources: ["google/content 2025-12-10", "google/content 2024-03-05", "creators/content 2024-02-05", "google/content 2022-06-07"]
   - id: experience-first-person
     factor: "First-person accounts, real outcomes and practitioner authorship"
@@ -980,7 +980,7 @@ factors:
     stage: both
     tier: minor
     evidence: "C"
-    last_verified: "2025-09-26"
+    last_verified: "2026-10-01"
     sources: ["experts/ai-search 2025-09-26", "creators/ai-search 2026-03-21"]
   - id: aio-citation-answer-first
     factor: "A semantically complete answer passage that earns an AI Overview citation"
@@ -1190,5 +1190,5 @@ factors:
     stage: build
     tier: minor
     evidence: "D"
-    last_verified: "2023-03-13"
+    last_verified: "2026-10-01"
     sources: ["creators/programmatic 2023-03-13"]
