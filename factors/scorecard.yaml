@@ -1045,7 +1045,7 @@ factors:
   - id: position-one-ctr
     factor: "Position one organic click-through rate on queries carrying AI features"
     category: signals
-    scope: [organic, ai]
+    scope: [organic, local, ai]
     lever: conversion
     stage: audit
     tier: core

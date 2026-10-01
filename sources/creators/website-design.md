@@ -9,11 +9,12 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: Sturm's 2026 roundup relays a test VWO published on 2011-12-15, on an online kitchen tools store's wedding registry page. A second test, Career Point's nursing enquiry page at 3.12 percent to 13.64 percent with 95.2 percent confidence, published by Unbounce on 2013-11-12, removed the primary navigation and moved the form above the fold in the same variation, so it does not isolate the navigation. Drop the navigation on a page whose only job is one action, and read both numbers as pre-mobile-era tests.
 - Factor: landing-page-nav-removal | Evidence: C | Lever: conversion | Scope: organic | Stage: build
 
-## 2026-09-27 | Cutting a contact form from twelve fields to four raised submissions 160 percent
+## 2026-09-27 | Cutting a contact form from eleven fields to four raised submissions 160 percent
 - Source: Edward Sturm, "How to Double Your Conversions by Doing Less (10 Before-and-After Examples)", 2026-09-27, https://edwardsturm.com/articles/conversion-rate-optimisation-strategy-simplify-landing-pages/
-- Quote: "12 fields cut down to 4"
-- Means: The Imaginary Landscape case study PDF that Sturm links, imagescape.com form_case_study.pdf, returned HTTP 404 on 2026-10-01, so the 160 percent figure rests on Sturm's restatement alone and grades D. Career Point cut a nursing enquiry form from nine fields to six inside a variation that also removed the navigation, so it measures the pair rather than the form length. No scorecard row is opened on this.
-- Factor: form-field-count | Evidence: D | Lever: conversion | Scope: organic | Stage: build
+- Source: Imaginary Landscape, Brian Moloney, "Fewer fields in a contact form sharply increases conversions", 2008-06, https://www.imagescape.com/media/filer_public/06/94/0694c7f4-8914-4598-8871-b857fbc12737/form_case_study.pdf
+- Quote: "The test compared an 11-field Contact Us form with a 4-field Contact Us form. The more abbreviated form resulted in a 160% increase in submitted forms."
+- Means: Sturm prints 12 fields and the case study he links says 11, and QA read that PDF at HTTP 200 on 2026-10-01 rather than the 404 the research run recorded. Imaginary Landscape counted thank-you page views in Google Analytics over two months for each form, its own 11-question form in late 2007 against the 4-question form that replaced it in April 2008, so cut a contact form to the fields you will use and read the number as one 2008 test on one site.
+- Factor: form-field-count | Evidence: C | Lever: conversion | Scope: organic | Stage: build
 
 ## 2026-09-27 | Sturm's Highrise signup figure does not match the number the original test published
 - Source: Edward Sturm, "How to Double Your Conversions by Doing Less (10 Before-and-After Examples)", 2026-09-27, https://edwardsturm.com/articles/conversion-rate-optimisation-strategy-simplify-landing-pages/

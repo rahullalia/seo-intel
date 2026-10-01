@@ -111,7 +111,7 @@ Tiers as of 2026-10-01: Required 12, Core 22, Supporting 32, Minor 45, Myth 8, D
 | perplexity-bluf | Bottom Line Up Front structure with clear heading hierarchy | ai-search | ai | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md |
 | ai-referral-conversion | Conversion rate of visitors arriving from an AI generated answer | ai-search | ai | conversion | both | Minor | D | 2026-07-28 | experts/ai-search 2026-07-28; creators/ai-search 2026-07 |
 | domain-authority-aio | Domain Authority as a predictor of AI Overview citation | ai-search | ai | ranking | audit | Myth | B | 2026-09-16 | experts/ai-search 2026-09-16; seed: playbook/ai-search.md; experts/ai-search 2026-05-07 |
-| position-one-ctr | Position one organic click-through rate on queries carrying AI features | signals | organic ai | conversion | audit | Core | B | 2026-09-24 | experts/signals 2026-09-24; experts/signals 2025-12-15 |
+| position-one-ctr | Position one organic click-through rate on queries carrying AI features | signals | organic local ai | conversion | audit | Core | B | 2026-09-24 | experts/signals 2026-09-24; experts/signals 2025-12-15 |
 | reddit-mentions | Reddit mentions and an active subreddit presence | signals | ai | ranking | build | Supporting | C | 2026-09-20 | creators/signals 2026-09-20; creators/signals 2026-07 |
 | social-posts-ai-citation | Social posts as an input AI answer engines weigh | signals | ai | ranking | build | Supporting | C | 2026-07 | creators/signals 2026-07 |
 | ugc-platform-presence | Presence on Reddit, YouTube, Quora and Medium | signals | ai | ranking | build | Minor | D | 2026-05 | seed: playbook/ai-search.md; creators/signals 2026-03-21 |
