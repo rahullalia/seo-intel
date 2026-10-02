@@ -24,6 +24,13 @@ LeadSnap markets "listings you own forever, never deleted if you cancel." We tes
 - The public API exposes no per-directory listing URLs at all (only a master `citation-profile` record), so "listings still populated after cancelling" means LeadSnap's internal record survives, nothing more.
 - Schema fingerprint (`imprint`, `auto_sync_publisher`, per-platform tracking-number fields) looks like a white-labeled Uberall-style feed network. Inference, unconfirmed publicly.
 
+**Re-check, 2026-10-02 (Caplan Communications, citations active, LeadSnap shows "50 of 50 live"):**
+- **Live with the current address** (1451 Rockville Pike, Suite 250, plus 943-9525), indexed by Google: Yellow Pages, Superpages, MapQuest, ChamberofCommerce.com, Manta (marked CLAIMED) and n49.
+- **Still on Caplan's old address (1700 Rockville Pike, Suite 400):** ZoomInfo, Clutch, TopPRAgencies and Kompass. None of these is in LeadSnap's network, which fits a working sync.
+- **Not found in Google's index:** Hotfrog, Cylex, ShowMeLocal, EZlocal, Tupalo, Citysearch, Insider Pages and the smaller ones.
+- **About 20 of the 50 can't be checked from outside:** voice assistants, car makers, navigation apps, and the "AI discovery" entries (Gemini, Claude, ChatGPT, Perplexity).
+- **So the 08-31 verdict overstated it:** for an active location the add-on does produce real, indexed listings on the YP network, MapQuest, ChamberofCommerce.com, Manta and n49. It is still a feed with no choice of sites. Whether listings survive a cancellation is unproven: Casagrande, the lapsed location, still shows none.
+
 **Conclusion:** the add-on behaves like data-feed distribution (apps, nav, voice), not crawlable citation building. Caveats: Google's index isn't exhaustive, and some directories suppress hidden-address SABs, but Casagrande has a full public address and shows nothing either, and a citation Google cannot see is worth approximately nothing for local SEO. This upgrades "drop the add-on" from a cost argument to a delivery argument: one-time BrightLocal/Whitespark builds create real, indexed profile pages; this does not appear to.
 
 ## Citation builds (the replacement)
