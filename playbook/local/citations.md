@@ -78,7 +78,7 @@ Practical build: core five + aggregators + second tier + niche, sized to close t
 Why: duplicates split reviews and engagement, confuse Google about the canonical record, and create NAP conflicts.
 
 1. Pick the canonical (most reviews/history, correct NAP); optimize it fully first.
-2. Request a merge via GBP support (1-3 weeks) or mark the duplicate permanently closed if merge isn't offered.
+2. Request the merge on Google Maps: open the duplicate, Suggest an edit > Close or remove > Duplicate of another place, and pick the canonical profile. Google's help names this as the merge route (support.google.com/business/answer/12756178, read 2026-10-02); no access to the duplicate is needed. A merge combines the reviews (owner replies may be lost), the two profiles should show the same info, and Google answers by email to the account that reported it. If it is refused or nothing comes within about a week, contact GBP support (support.google.com/business/gethelp) with both profile links. Mark the duplicate permanently closed only if no merge is possible, since that drops its reviews.
 3. Re-point any citations referencing the duplicate's NAP.
 4. Recheck quarterly: aggregator resyncs resurrect duplicates.
 
