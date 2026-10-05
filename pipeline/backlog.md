@@ -4,7 +4,7 @@ Research targets carried out of the 2026-09-06 bootstrap. The research routine r
 
 ## Unresolved citations
 
-Twenty five lines. Each names a scorecard factor, the source a seed document credited, and why the bootstrap could not reach it. Format: `factor-id | source | why`.
+Twenty seven lines. Each names a scorecard factor, the source a seed document credited, and why the bootstrap could not reach it. Format: `factor-id | source | why`. The last two were added by the manual fold-in of 2026-10-05.
 
 location-pages | Whitespark | the on-page share figure lives only in a chart image
 sab-address-hidden | Sterling Sky | overlapping territory claim not found verbatim in three articles
@@ -31,6 +31,8 @@ ugc-platform-presence | The Slide Factory | no URL
 bing-indexing, static-html-rendering, answer-first-structure | Zyppy ChatGPT citation analysis Feb 2026 | article not located
 press-release-links | Edward Sturm | private Instagram video only
 cite-sources-in-content | Kira, HeyTony call 076 | private guest, no public page
+purchase-intent-page-type | no grade B or C source on file | a conversion rate by query intent study with its method disclosed, or a before and after on rsla.io once the 13 money pages on branch brand-visual-system ship
+purchase-intent-page-type | Edward Sturm, two YouTube videos | captions returned HTTP 429 on 2026-10-05: watch?v=ucBewL5kP9Q, watch?v=hFR1QFaOI5M
 
 ## Rows resting on opinion
 

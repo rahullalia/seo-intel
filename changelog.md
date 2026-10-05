@@ -2,6 +2,25 @@
 
 Newest first. One entry per pipeline run or manual fold-in. Each entry lists entries added, scorecard rows changed, disputes opened or closed.
 
+## 2026-10-05 | Manual fold-in: Edward Sturm's Compact Keywords, purchase-intent row added
+
+- Entries added: 7 (experts 2, creators 4, rsla 1)
+- Scorecard: rows added 1 (purchase-intent-page-type at Minor grade D), tiers changed 0, disputes opened 0
+- Stale: none re-verified
+- Registry: Edward Sturm entry corrected by hand, one of the four edits the 2026-10-01 entry left waiting
+
+**Why.** Rahul asked on 2026-10-05 whether Edward Sturm's claim holds, that conversion pages beat blog articles, and whether it belongs in the blog process. Sturm sells it as a 1,199 dollar course that RSL/A has not bought, so the fold-in read only his free material: two sales pages, 101 articles, captions of 36 videos and 8 emails. The digest is `sources/creators/edward-sturm/compact-keywords.md`, 84 quotes, each checked as an exact substring of the saved source it is filed under.
+
+**What the evidence says.** Sturm's case rests on testimonials and his own unnamed sites. Across the 101 articles none shows conversion data for a named site built on his method, and his one side by side figure has an article drawing 2,352 clicks a month against 356 for a buying page. The row therefore enters at Minor on grade D and joins the rows resting on opinion. Two grade B studies were filed under `position-one-ctr` because they bear on his AI argument from both sides: Ahrefs on 2025-04-17 found a 34.5 percent lower click rate for the top result under an AI Overview and 99.2 percent of those keywords informational, and Semrush on 2025-12-15 found the informational share falling from 91.3 to 57.1 percent in ten months while transactional rose from 1.98 to 13.94 percent. HeyTony Part II 2.3 was filed as the second creator on the row: Matt Diamante agrees an article does not sell and keeps the blog for trust and internal links.
+
+**RSL/A's own number.** `sources/rsla/content.md` carries the first entry in that file: on rsla.io the blog took 560 of 587 organic clicks in the 90 days to 2026-10-03, and GA4 attributed no booked call to organic search. It is grade D because it is a snapshot and not a change. The 13 rewritten money pages on branch brand-visual-system were not live in the window, so a second measurement 90 days after they ship would supply both sides and lift it to grade C.
+
+**Conflicts recorded, none opened as a dispute.** Sturm's line that half of each page's copy can be shared runs against `doorway-pages` and `scaled-content-abuse`, both Required at grade A, and is filed under `thin-page-ratio`. His fixed 415 words runs against `word-count-competitor-relative`. Neither is a dispute under rubric rule 6, since grade D does not contest a row.
+
+**Playbook untouched.** A row resting on opinion carries no playbook edit, so nothing went into `playbook/`. The method is used in the skills as a second creator's pattern list: `heyTony` points at the digest from its keyword and intent workflow, and `blogEngine` gained an intent check before the interview. Both skills now also check the scorecard before stating a ranking fact, and `CLAUDE.md` lists which files each skill reads.
+
+**For the next run.** Two backlog lines were added for `purchase-intent-page-type`: a conversion rate by query intent study with its method disclosed, and captions for two Sturm videos that returned HTTP 429. The research routine can now read Sturm through the WordPress API in the registry.
+
 ## 2026-10-01 | Research run
 
 - Entries added: 19 (google 4, experts 10, creators 5)

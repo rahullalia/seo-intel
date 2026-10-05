@@ -194,10 +194,13 @@ creators:
     categories: [content, website-design, local-gbp, technical, backlinks, ai-search]
     note: Insiders calls and emails are folded in by hand from a logged-in session; the routine reads only public posts and YouTube
   - name: Edward Sturm
-    url: https://www.youtube.com/@EdwardSturm
+    url: https://edwardsturm.com/articles/
+    feed: https://edwardsturm.com/wp-json/wp/v2/posts?per_page=20&_fields=date,link,title,content
+    verified: 2026-10-05 (the old registry URL youtube.com/@EdwardSturm was a 404 in the 2026-10-01 run; his channel is youtube.com/@buildinpublic, and the WordPress API returns dates and full post bodies in one call)
     trust: opinion
     check: every
-    categories: [ai-search, signals, content]
+    categories: [ai-search, signals, content, backlinks, website-design, programmatic]
+    note: his Compact Keywords method, from free sources only, is digested by hand in sources/creators/edward-sturm/compact-keywords.md. The paid course is not bought and the pages under /compact-keywords/program/ are login gated; do not fetch them
   - name: Kyle Roof (PageOptimizer Pro tests)
     url: https://www.pageoptimizer.pro/blog
     trust: test

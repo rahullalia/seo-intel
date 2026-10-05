@@ -2,6 +2,27 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-05 | Edward Sturm sells purchase-intent landing pages as the replacement for blog SEO
+
+- Source: Edward Sturm, "Compact Keywords: SEO That Makes More but Requires Less", 2026-10-05 (undated sales page, date read), https://edwardsturm.com/compact-keywords/
+- Quote: "Compact Keywords SEO = scalable SEO landing pages for high-intent scenarios."
+- Means: Sturm defines blog SEO as answering how, what and why questions and then trying to convert the reader, and his method as a page that offers the product to a searcher who is already looking to buy. The page carries customer testimonials with self-reported results and no dataset, named test site or control, so this is one seller describing his own course. The full digest is `sources/creators/edward-sturm/compact-keywords.md`.
+- Factor: purchase-intent-page-type | Evidence: D | Lever: conversion | Scope: organic ai | Stage: both
+
+## 2026-10-05 | Sturm puts the average page ranking for a purchase-intent keyword at about 415 words
+
+- Source: Edward Sturm, "OLD Compact Keywords", 2026-10-05 (undated earlier sales page, date read), https://edwardsturm.com/old-page-compact-keywords/
+- Quote: "Low average words per page required to rank high, ~415."
+- Means: Sturm gives the figure with no sample, keyword set or date, so it is not a target. The row's rule stands: count the top three results for the exact keyword and match them.
+- Factor: word-count-competitor-relative | Evidence: D | Lever: ranking | Scope: organic | Stage: both
+
+## 2026-07 | HeyTony keeps the blog for trust and topical authority, not for direct conversion
+
+- Source: HeyTony master playbook, Part II 2.3, 2026-07 (skills/skills/heyTony/reference/part-2-keywords-and-content.md), local file
+- Quote: "Blog posts are informational-intent by default and usually aren't meant to convert directly."
+- Means: Matt Diamante agrees with Sturm that an article does not sell, and disagrees on what follows: he keeps publishing articles to pass internal link authority to a money page, and adds a business CTA to a ranking post instead of rewriting it into a sales page.
+- Factor: purchase-intent-page-type | Evidence: D | Lever: conversion | Scope: organic | Stage: both
+
 ## 2026-07 | Never edit a page that already ranks
 
 - Source: HeyTony master playbook, Part I 3 and Part III 1.2, 2026-07 (skills/skills/heyTony/reference/part-1-philosophy-and-system.md), local file

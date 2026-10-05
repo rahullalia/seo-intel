@@ -372,6 +372,16 @@ factors:
     evidence: "D"
     last_verified: "2025-11"
     sources: ["creators/content 2025-11"]
+  - id: purchase-intent-page-type
+    factor: "Purchase-intent keyword served by a short conversion page instead of an article"
+    category: content
+    scope: [organic, ai]
+    lever: conversion
+    stage: both
+    tier: minor
+    evidence: "D"
+    last_verified: "2026-10-05"
+    sources: ["creators/content 2026-10-05", "creators/content 2026-07", "rsla/content 2026-10-05"]
   - id: ai-generated-content
     factor: "Content penalised for being produced with AI rather than for quality"
     category: content
@@ -1051,7 +1061,7 @@ factors:
     tier: core
     evidence: "B"
     last_verified: "2026-09-24"
-    sources: ["experts/signals 2026-09-24", "experts/signals 2025-12-15"]
+    sources: ["experts/signals 2026-09-24", "experts/signals 2025-12-15", "experts/signals 2025-04-17"]
   - id: reddit-mentions
     factor: "Reddit mentions and an active subreddit presence"
     category: signals

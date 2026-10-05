@@ -2,6 +2,13 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-05 | Sturm builds purchase-intent pages from reused sections with about half the copy unique
+
+- Source: Edward Sturm, "OLD Compact Keywords", 2026-10-05 (undated earlier sales page, date read), https://edwardsturm.com/old-page-compact-keywords/
+- Quote: "Put up pages. Each page is ~415 words. ~50% is unique copy."
+- Means: Half of each page is shared with its siblings by design. The `doorway-pages` and `scaled-content-abuse` rows, both Required at grade A, rest on Google's spam policy text filed in `sources/google/programmatic.md` on 2026-08-28. Sturm reports no penalty and no test of the 50 percent figure, so treat it as his practice and give every page something its siblings lack.
+- Factor: thin-page-ratio | Evidence: D | Lever: ranking | Scope: organic | Stage: build
+
 ## 2026-07 | Location pages need genuinely original content, not a city swap
 
 - Source: HeyTony master playbook, Part VI 2.2, 2026-07 (skills/skills/heyTony/reference/part-6-tools-local-ecommerce-business.md), local file

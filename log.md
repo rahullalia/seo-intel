@@ -2,6 +2,23 @@
 
 Session record, newest first. The pipeline's own run record is `changelog.md`; build status is `docs/plan.md`.
 
+## 2026-10-05 14:50 PT
+
+**The skills now read the scorecard, and Edward Sturm's Compact Keywords is on file.** Rahul asked two things: whether the skill structure over this repo was sound, and what to make of Sturm's claim that conversion pages beat blog articles.
+
+- The structure was sound but the deliverable was orphaned: no skill read `factors/scorecard.md`. `heyTony` now checks it before stating a ranking fact and routes to every playbook file. `seoForge` checks it before repeating a number. Grade A or B rows, and Required, Myth and Dead tiers, outrank the skill text. Grade C or D rows leave the creator's method standing, labelled as method.
+- Sturm's free material is digested in `sources/creators/edward-sturm/compact-keywords.md`. The course was not bought and its login gated pages were not fetched. Detail and counts are in `changelog.md` under 2026-10-05.
+- `blogEngine` gained Gate 0.5: sort the keyword into learn, weigh or hire before the interview, and name the money page the post feeds. A hire keyword stops the post and goes to the service page pipeline.
+- New row `purchase-intent-page-type` at Minor grade D. RSL/A's own rsla.io numbers are the first entry in `sources/rsla/content.md`.
+- Gotcha recorded in memory: a Search Console page filter with a non-page dimension undercounts. Sum `dimensions=page` rows.
+
+**Next steps**
+
+- Rahul: decide when the 13 money pages on branch brand-visual-system ship. They are the buying pages this whole question is about, and `/services/crm` and `/bakersfield` still return 404 on the live site.
+- 90 days after they ship: re-measure blog against service pages on rsla.io and file it in `sources/rsla/content.md`, which would lift the entry to grade C. Tracked as RSL-544, blocked by RSL-369.
+- Pushed 2026-10-05 on Rahul's go, after `git pull --rebase`.
+- Standing rule from the same message: every site RSL/A manages gets checked for missing conversion pages. The check is `heyTony` workflow B, and the cross-client sweep is tracked in Linear.
+
 ## 2026-09-10 13:40 PT
 
 **Two fixes off the back of the morning run, merged as PR #3.** Rahul asked what to do about the seven grade D design rows and pushed back on the citation count number. He was right on both counts.
