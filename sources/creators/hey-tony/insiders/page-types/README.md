@@ -31,6 +31,7 @@ Everything Matt Diamante ("Tony", HeyTony) teaches about building each type of p
 | `14-cross-page-elements.md` | 1.6k | Header and nav, mega menus, footer, sidebars, pop-ups and email capture, chat, sticky bars, breadcrumbs, search |
 | `15-what-the-emails-add.md` | 0.9k | The page-relevant rules from Matt's emails, in one page |
 | `16-source-index-124-calls.md` | 7.2k | One line per coaching call: what it covered and which member sites were reviewed (decode any `[call NNN]` citation here) |
+| `money-pages-playbook.md` | 1.4k | Matt's owner facing build script (received 2026-10-12): the interview questions per service, the page skeleton with H2 order, hub and nesting rules, the pre publish checklist, the multi city and ecommerce rules. Use it as the interview and the checklist when building a service page |
 | `page-types-master.md` | 88.5k | All of the above in one file (same content, same numbering), for single-file search |
 | `heytony-email-tips.md` | 6.1k | Every tip, prompt, checklist, and template from the 190 matt@heytony.ca emails, with a dated index |
 | `research/` | | The underlying digests the chapters were synthesized from (see `research/README.md`) |
