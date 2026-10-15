@@ -5,7 +5,7 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 ## 2026-10-12 | Reddit's share of ChatGPT citations fell from about 1 answer in 5 to about 1 in 43
 - Source: Ahrefs, Louise Linehan, "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)", 2026-10-12, https://ahrefs.com/blog/query-fan-out-chatgpt/
 - Quote: "In March, about 1 in every 5 ChatGPT answers cited Reddit, but by late September it was about 1 in 43."
-- Means: The figure comes from Brand Radar's US ChatGPT citations, 2.4 to 3.8 million answers a month from March to September 2026, and Ahrefs reports the same drop for Wikipedia and YouTube. The reddit-mentions row rests on two grade C creator tests from 2026-07 and 2026-09-20, and this grade B measurement puts the citation share those tests worked against roughly eight times lower over seven months.
+- Means: The figure comes from Brand Radar's US ChatGPT citations, 2.4 to 3.8 million answers a month from March to September 2026, and Ahrefs reports Wikipedia falling from 1 in 7 answers to 1 in 35 and YouTube from about 1 in 370 to about 1 in 500 over the same period. The reddit-mentions row rests on two grade C HeyTony tests both dated 2026-07, and this grade B measurement puts the citation share those tests worked against roughly eight times lower over seven months.
 - Factor: reddit-mentions | Evidence: B | Lever: ranking | Scope: ai | Stage: build
 
 ## 2026-09-24 | A 100 location franchise gained 20 to 30 percent in rankings while calls fell 40 percent
