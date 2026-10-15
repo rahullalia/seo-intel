@@ -830,7 +830,7 @@ factors:
     stage: both
     tier: minor
     evidence: "D"
-    last_verified: "2024-10-28"
+    last_verified: "2026-10-15"
     sources: ["experts/citations 2024-10-28"]
   - id: data-aggregators
     factor: "Data Axle, Foursquare and TransUnion Digital Business Profile"
