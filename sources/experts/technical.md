@@ -2,6 +2,18 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-12 | Three in four of ChatGPT's site-restricted searches pointed at a brand's own domain
+- Source: Ahrefs, Louise Linehan, "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)", 2026-10-12, https://ahrefs.com/blog/query-fan-out-chatgpt/
+- Quote: "among the ~160 most-searched sites, three in four of those searches targeted a brand site"
+- Means: Ahrefs puts the figure at 75.9 percent in the chart label, measured over the 15 million fan-out queries behind 66.6 million GPT-5.6 Luna responses from August and September 2026. ChatGPT runs site-restricted searches against a brand's own domain, so the brand's own pages have to be indexed and have to answer the question on that domain.
+- Factor: indexable | Evidence: B | Lever: ranking | Scope: ai | Stage: both
+
+## 2026-10-08 | Citation Labs reports an LLM answering from the search snippet rather than the page
+- Source: Near Media, Greg Sterling and Mike Blumenthal with Garrett French, James Wirth and Valerie Cecil, "EP 277- Correcting the Machine: Citation Labs on the Six Layers of AI Visibility (Part 1)", 2026-10-08, https://www.nearmedia.co/ep-277-correcting-the-machine-citation-labs-on-the-six-layers-of-ai-visibility-part-1/
+- Quote: "The LLM was not retrieving the page. It was just going on the snippet in the result."
+- Means: James Wirth of Citation Labs described a telecom client analysis on the call and gave no numbers, so this is grade D. If it holds, the search result snippet can be the only text a model reads for a page, which keeps snippet eligibility on the ai-crawler-allow row next to crawl access.
+- Factor: ai-crawler-allow | Evidence: D | Lever: ranking | Scope: ai | Stage: audit
+
 ## 2026-09-16 | Crawl and snippet access rated the strongest of 13 Google AI factors at +2.20
 - Source: Zyppy, Cyrus Shepard, "Google AI Ranking Factors", 2026-09-16, https://signal.zyppy.com/p/google-ai-ranking-factors
 - Quote: "Access works as a hard gate ahead of any ranking consideration."

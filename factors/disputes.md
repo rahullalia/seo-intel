@@ -1,8 +1,13 @@
 # Disputes
 
-Where Google's statements and measured field results disagree, or where two credible sources conflict. Recorded, not resolved by fiat. A dispute closes only when new evidence settles it, and the closing entry says which evidence. Bootstrapped 2026-09-06 from the seed's 19 disputes plus 1 opened by the programmatic research, then 1 opened by the research run of 2026-09-06, 1 closed by the research run of 2026-09-10 and 1 closed by the research run of 2026-09-15 and 1 opened by the research run of 2026-10-01: 15 open, 7 closed.
+Where Google's statements and measured field results disagree, or where two credible sources conflict. Recorded, not resolved by fiat. A dispute closes only when new evidence settles it, and the closing entry says which evidence. Bootstrapped 2026-09-06 from the seed's 19 disputes plus 1 opened by the programmatic research, then 1 opened by the research run of 2026-09-06, 1 closed by the research run of 2026-09-10 and 1 closed by the research run of 2026-09-15 and 1 opened by the research run of 2026-10-01 and 1 opened by the research run of 2026-10-15: 16 open, 7 closed.
 
 ## Open
+
+### How much a Reddit mention is still worth in AI answers
+- Ahrefs measured Brand Radar's US ChatGPT citations over 2.4 to 3.8 million answers a month and reports Reddit cited in about 1 answer in 5 in March 2026 and about 1 in 43 in late September 2026, 2026-10-12, experts/signals 2026-10-12
+- Matt Diamante's internal testing across hundreds of keywords reports that mentions alone move Google AI Overview visibility without a link back, and that a Reddit post reached an AI Overview in under 24 hours, 2026-07, creators/signals 2026-07
+- The two sources measure different assistants, so neither refutes the other: Ahrefs counted ChatGPT citations and Diamante tested Google AI Overviews. Both sit inside the row's `ai` scope, which `pipeline/rubric.md` defines as AI Overviews, AI Mode and assistants. `reddit-mentions` keeps Supporting because the grade C tests that set it are untouched, and its evidence moves C to B on the Ahrefs measurement. A demotion to Minor would need a measurement of Reddit's reach in Google AI Overviews, not in ChatGPT. Opened 2026-10-15
 
 ### Publisher reputation as an AI citation factor
 - Cyrus Shepard's Google AI Ranking Factors survey scored source and publisher reputation +1.78 on a scale of +3 to -3, ninth of the 13 factors over 130 respondents rated, 2026-09-16, experts/ai-search 2026-09-16

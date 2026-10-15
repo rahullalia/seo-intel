@@ -2,6 +2,35 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-14 | Grokipedia's monthly Google clicks fell from 6.5 million in July to 200,000
+
+- Source: Edward Sturm, "Elon Musk's Grokipedia Just Lost 97% of Its Google Traffic. Here's Why", 2026-10-14, https://www.youtube.com/watch?v=9AwTxWy4BrU (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "Grokipedia went from 6.5 million monthly Google clicks in July to just 200,000."
+- Means: Sturm puts the fall at 97 percent on an entirely AI-written encyclopedia that holds links from the New York Times, the Guardian, NPR, NBC News and the Verge. He names no traffic tool and no measurement window, and his own description says a Google penalty cannot be concluded, so this is one case without a disclosed method.
+- Factor: unedited-ai-output | Evidence: D | Lever: ranking | Scope: organic | Stage: both
+
+## 2026-10-12 | Content effort is reported to be independent of word count and of whether AI wrote the page
+
+- Source: Edward Sturm, "Google's Secret Content Effort Score: Here's What It Looks For", 2026-10-12, https://www.youtube.com/watch?v=T2ZMC4utIBQ (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "Google’s definition of content effort (effort doesn’t mean word count, hours spent writing, or whether a human wrote the content instead of AI)."
+- Means: Sturm is reading Cyrus Shepard's article "Content Effort: The Google Ranking Feature Nobody Talks About" at https://signal.zyppy.com/p/content-effort, which this run did not fetch, so the underlying source was not read. He reports two metric names from the 2024 Google API leak, contentEffort and ugcDiscussionEffortScore, and says it is not known whether either is used in live rankings.
+- Factor: information-gain | Evidence: D | Lever: ranking | Scope: organic ai | Stage: both
+
+## 2026-10-11 | Sturm puts one clear image at the top of a commercial page ahead of AI-written body copy
+
+- Source: Edward Sturm, "3 SEO Tactics (Easy to Hard): Images, Links, ChatGPT Plugins", 2026-10-11, https://edwardsturm.com/articles/seo-tactics-images-backlinks-chatgpt-plugins/
+- Quote: "A growing trend in SEO is AI-heavy pages that forget that the easiest way to humanize AI content while simultaneously improving conversions is using images."
+- Means: The only test he shows is an unnamed company that he says more than quadrupled conversions by shortening its form, removing the navigation and replacing a collage with one large clear image, three changes in one variation with no link to the underlying test. The `multi-modal-content` row carries lever ranking and scope ai today, so this is the first conversion reading filed against it.
+- Factor: multi-modal-content | Evidence: D | Lever: conversion | Scope: organic | Stage: both
+
+## 2026-10-09 | An AI writing method that buried the answer is said to cut search visibility 36 percent and AI citation 22 percent
+
+- Source: Edward Sturm, "This is why using AI for SEO content is so dangerous", 2026-10-09, https://www.youtube.com/shorts/2pQ4Pid4sg0 (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Source: Sunghwan Kim, Wooseok Jeong, Serin Kim, Sangam Lee and Dongha Lee, "SAGEO Arena: A Realistic Environment for Evaluating Search-Augmented Generative Engine Optimization", arXiv 2602.12187v2, revised 2026-08-07, https://arxiv.org/abs/2602.12187
+- Quote: "Search found these AI SEO pages 36% less often. AI search cited them 22% less often."
+- Means: Sturm attributes the figures to the SAGEO Arena paper across 171,000 web pages and says one page whose answer moved down three paragraphs fell from position 6 to 24. None of those four numbers appears in the abstract read on 2026-10-15 and the PDF was not read, so they stay at grade D until the paper is read.
+- Factor: answer-first-structure | Evidence: D | Lever: ranking | Scope: organic ai | Stage: both
+
 ## 2026-10-05 | Edward Sturm sells purchase-intent landing pages as the replacement for blog SEO
 
 - Source: Edward Sturm, "Compact Keywords: SEO That Makes More but Requires Less", 2026-10-05 (undated sales page, date read), https://edwardsturm.com/compact-keywords/

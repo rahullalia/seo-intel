@@ -2,6 +2,18 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-12 | 14.4 percent of 66.6 million ChatGPT responses ran a web search at all
+- Source: Ahrefs, Louise Linehan, "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)", 2026-10-12, https://ahrefs.com/blog/query-fan-out-chatgpt/
+- Quote: "Only 14.4% of the 66.6 million responses required a web search."
+- Means: Ahrefs sampled 66.6 million free, logged-out GPT-5.6 Luna responses from August and September 2026 together with their 15 million fan-out queries. In the other 85.6 percent of responses no page was fetched, so no site could be cited, and that is the ChatGPT counterpart of the zero-click share this row tracks on Google.
+- Factor: zero-click-rate | Evidence: B | Lever: conversion | Scope: ai | Stage: audit
+
+## 2026-10-12 | Price fan-out queries rose from 6.04 to 8.88 percent of ChatGPT fan-outs in one month
+- Source: Ahrefs, Louise Linehan, "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)", 2026-10-12, https://ahrefs.com/blog/query-fan-out-chatgpt/
+- Quote: "went from 6.04% to 8.88% of fan-outs, a relative rise of nearly half (47%) in one month"
+- Means: The term Ahrefs measured is Price, counted across the 15 million fan-out queries behind 66.6 million GPT-5.6 Luna responses in August and September 2026. Put the price on the page instead of behind a quote form, because price is one of the fan-out terms whose share grew inside that sample.
+- Factor: query-fan-out-targeting | Evidence: B | Lever: ranking | Scope: ai | Stage: both
+
 ## 2026-09-16 | Fan-out coverage rated the fifth strongest Google AI factor, just above ranking for the main query
 - Source: Zyppy, Cyrus Shepard, "Google AI Ranking Factors", 2026-09-16, https://signal.zyppy.com/p/google-ai-ranking-factors
 - Quote: "When someone searches with Google AI, Google may run multiple related fan-out queries to help answer the question. Ranking highly in Google results for these fan-out queries is associated with better AI visibility."

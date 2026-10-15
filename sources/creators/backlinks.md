@@ -2,7 +2,22 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-15 | A test Sturm does not name is said to show internal link clicks carry weight
+
+- Source: Edward Sturm, "Do internal link CLICKS matter for SEO??", 2026-10-15, https://www.youtube.com/shorts/U8Q5gMs9YXA (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "This guy spent over $50,000 testing if people clicking on internal links matters for SEO."
+- Means: Sturm names neither the tester, the sites nor the numbers, and points at the Google patent "Ranking documents based on user behavior and/or feature data" and antitrust testimony on click measurement instead of the test. The underlying test was not read, so nothing moves on the internal link rows. Put internal links inside body copy where a reader will click them rather than in a footer block.
+- Factor: internal-linking-inbound | Evidence: D | Lever: ranking | Scope: organic | Stage: audit
+
+## 2026-10-11 | Sturm says a clear pattern is what makes a link spam and that search engines discount rather than penalise
+
+- Source: Edward Sturm, "3 SEO Tactics (Easy to Hard): Images, Links, ChatGPT Plugins", 2026-10-11, https://edwardsturm.com/articles/seo-tactics-images-backlinks-chatgpt-plugins/
+- Quote: "Instead, search engines will just discount or ignore the backlinks."
+- Means: He gives all high authority links and all do-follow guest post links as the two patterns, and reports no test and no site. The `disavow-links` row sits at Minor on grade D, so a second creator opinion does not move it and supplies no reason to disavow.
+- Factor: disavow-links | Evidence: D | Lever: ranking | Scope: organic | Stage: audit
+
 ## 2026-09-14 | Point internal links from pages already indexed for the term at the one page that answers it
+
 - Source: Edward Sturm, "Rank Faster With the Topical Authority You Already Have", 2026-09-14, https://edwardsturm.com/articles/topical-authority-rank-faster/
 - Quote: "If the first page that shows could satisfy search intent for your target keyword, link the most relevant text on the other pages to that first page."
 - Means: Search the site for the target keyword, then link the other indexed pages into whichever page already satisfies the query, using the relevant phrase as anchor text. Sturm reports no ranking numbers and names no test site, so this is opinion at grade D.
