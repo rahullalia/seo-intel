@@ -2,6 +2,13 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-10 | Charles Floate says the site reputation abuse policy barely changed his parasite SEO work
+
+- Source: Edward Sturm, "Parasite SEO: How Charles Floate Ranks Pages on Google.com Itself", 2026-10-10, https://www.youtube.com/watch?v=clcy9RbjrXQ (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "He also demonstrates how he automates parasite SEO with AI agents, including a system that published 10 pages in roughly 60 seconds and another that has created over 400 pages."
+- Means: The same description records that Google deindexed parasite pages on NotebookLM and Google Scripts, so one episode carries both the tactic and the enforcement. No page, domain or revenue figure is dated or tied to a tool, and the episode itself was not watched, so the `site-reputation-abuse` row keeps Google's spam policy of 2026-08-28 as its evidence.
+- Factor: site-reputation-abuse | Evidence: D | Lever: trust | Scope: organic ai | Stage: both
+
 ## 2026-10-05 | Sturm builds purchase-intent pages from reused sections with about half the copy unique
 
 - Source: Edward Sturm, "OLD Compact Keywords", 2026-10-05 (undated earlier sales page, date read), https://edwardsturm.com/old-page-compact-keywords/

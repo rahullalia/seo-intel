@@ -191,7 +191,7 @@ factors:
     tier: core
     evidence: "A"
     last_verified: "2026-10-01"
-    sources: ["experts/content 2026-09-09", "google/content 2025-12-10", "google/content 2024-03-05", "creators/content 2024-02-05", "google/content 2022-06-07"]
+    sources: ["experts/content 2026-09-09", "google/content 2025-12-10", "google/content 2024-03-05", "creators/content 2024-02-05", "google/content 2022-06-07", "creators/content 2026-10-12"]
   - id: content-freshness
     factor: "Content updated within the last two months"
     category: content
@@ -221,7 +221,7 @@ factors:
     tier: core
     evidence: "B"
     last_verified: "2026-09-14"
-    sources: ["experts/content 2026-09-14", "creators/content 2026-07", "experts/ai-search 2026-05-07"]
+    sources: ["experts/content 2026-09-14", "creators/content 2026-07", "experts/ai-search 2026-05-07", "creators/content 2026-10-09"]
   - id: experience-first-person
     factor: "First-person accounts, real outcomes and practitioner authorship"
     category: content
@@ -251,7 +251,7 @@ factors:
     tier: supporting
     evidence: "A"
     last_verified: "2026-07"
-    sources: ["google/content 2025-09-11", "creators/content 2026-07"]
+    sources: ["google/content 2025-09-11", "creators/content 2026-07", "creators/content 2026-10-14"]
   - id: readability-grade-6-8
     factor: "Reading level at Flesch-Kincaid grade 6 to 8"
     category: content
@@ -341,7 +341,7 @@ factors:
     tier: minor
     evidence: "D"
     last_verified: "2026-05"
-    sources: ["seed: playbook/ai-search.md"]
+    sources: ["seed: playbook/ai-search.md", "creators/content 2026-10-11"]
   - id: answer-passage-length
     factor: "Self-contained answer passages of 134 to 167 words"
     category: content
@@ -850,8 +850,8 @@ factors:
     stage: both
     tier: minor
     evidence: "D"
-    last_verified: "2026-08-31"
-    sources: ["seed: playbook/local/citations.md"]
+    last_verified: "2026-10-11"
+    sources: ["seed: playbook/local/citations.md", "creators/citations 2026-10-11"]
   - id: referring-domains
     factor: "Count of unique referring domains rather than raw backlink count"
     category: backlinks
@@ -901,7 +901,7 @@ factors:
     tier: supporting
     evidence: "C"
     last_verified: "2026-09-14"
-    sources: ["creators/backlinks 2026-09-14", "creators/backlinks 2026-07"]
+    sources: ["creators/backlinks 2026-09-14", "creators/backlinks 2026-07", "creators/backlinks 2026-10-15"]
   - id: internal-link-anchor-text
     factor: "Internal anchor text naming the destination and its keyword"
     category: backlinks
@@ -940,8 +940,8 @@ factors:
     stage: audit
     tier: minor
     evidence: "D"
-    last_verified: "2026-07"
-    sources: ["creators/backlinks 2026-07"]
+    last_verified: "2026-10-11"
+    sources: ["creators/backlinks 2026-07", "creators/backlinks 2026-10-11"]
   - id: aio-outside-top-10
     factor: "AI Overview citation for pages that do not rank in the organic top ten"
     category: ai-search
@@ -981,7 +981,7 @@ factors:
     tier: supporting
     evidence: "B"
     last_verified: "2026-10-12"
-    sources: ["experts/ai-search 2026-09-16", "experts/ai-search 2025-09-26", "creators/ai-search 2026-03-21", "experts/ai-search 2026-10-12"]
+    sources: ["experts/ai-search 2026-09-16", "experts/ai-search 2025-09-26", "creators/ai-search 2026-03-21", "experts/ai-search 2026-10-12", "creators/ai-search 2026-10-10"]
   - id: ai-overview-claim-alignment
     factor: "Stating the AI Overview's own claim first, then pivoting to your data"
     category: ai-search
@@ -1161,7 +1161,7 @@ factors:
     tier: required
     evidence: "A"
     last_verified: "2026-08-28"
-    sources: ["google/programmatic 2026-08-28"]
+    sources: ["google/programmatic 2026-08-28", "creators/programmatic 2026-10-10"]
   - id: topical-mismatch
     factor: "Publishing outside the site's established topical area to chase traffic"
     category: programmatic

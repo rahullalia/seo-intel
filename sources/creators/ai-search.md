@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-10 | The searches ChatGPT runs can be read out of the browser network tab
+- Source: Edward Sturm, "I'm going to remind you one more time, ChatGPT gets its answers from search engines", 2026-10-10, https://www.youtube.com/shorts/x_LLGHec2d8 (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "Find the searches ChatGPT does so you can influence the answers it gives."
+- Means: Sturm's method is to open the network tab on a ChatGPT conversation, search the response for the word queries, then reuse that wording in the page title, slug, H1 and opening sentences. He reports no test and no site, so this is a way to read the fan-out and not evidence that matching it earns a citation.
+- Factor: query-fan-out-targeting | Evidence: D | Lever: ranking | Scope: ai | Stage: both
+
 ## 2026-09-20 | A $6 press release ranked first and was cited in the AI Overview within hours
 - Source: Edward Sturm, "King of AEO: The Exact Tactics Ranking Pages and Changing AI Overviews in Hours", 2026-09-20, https://edwardsturm.com/articles/king-of-aeo-seo-tactics/
 - Quote: "Both of these releases immediately ranked high on Google and were used in Google's AI Overview"

@@ -2,6 +2,13 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-11 | Sturm says the easy links anybody can get are worth building for a bottom-of-funnel page
+
+- Source: Edward Sturm, "3 SEO Tactics (Easy to Hard): Images, Links, ChatGPT Plugins", 2026-10-11, https://edwardsturm.com/articles/seo-tactics-images-backlinks-chatgpt-plugins/
+- Quote: "Basically the links anybody can get. When you’re targeting an under-targeted bottom-of-funnel keyword, just having some of these links is better than having none."
+- Means: He points at Nick Nolan's Medium list of free do-follow backlinks, https://nick-nolan.medium.com/a-growing-list-of-free-do-follow-backlinks-f07a0ab1d7c0, and names Disqus, Flickr, Evernote and Medium as the recognisable entries. He reports no test and no site, so this stays one creator's practice against the `citation-blast` row, which covers mass identical submission and also sits at Minor on grade D.
+- Factor: citation-blast | Evidence: D | Lever: ranking | Scope: organic local | Stage: build
+
 ## 2026-07 | Citations built through a subscription overlay are rented, not owned
 
 - Source: HeyTony master playbook, Part V 4.5 and Part VI 2.4, 2026-07 (skills/skills/heyTony/reference/part-5-offpage-and-ai-search.md), local file
