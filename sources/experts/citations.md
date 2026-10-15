@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-12 | OpenAI licensing partners doubled their share of ChatGPT citations between March and July 2026
+- Source: Ahrefs, Louise Linehan, "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)", 2026-10-12, https://ahrefs.com/blog/query-fan-out-chatgpt/
+- Quote: "partner titles among ChatGPT's 200 most-cited domains more than doubled their combined share of citations, from 7.5% in March to 15.8% in July"
+- Means: Ahrefs counts 17 publishers and platforms holding licensing deals with OpenAI and records their combined share at 12.5 percent in late September 2026, measured over Brand Radar's 2.4 to 3.8 million US ChatGPT answers a month. A placement in one of those 17 titles sits on a rising share of ChatGPT citations, so name them on the target list for third-party mentions rather than any high-authority site.
+- Factor: unstructured-mentions | Evidence: B | Lever: ranking | Scope: ai | Stage: both
+
 ## 2026-09-24 | ChatGPT's local answers drew on Bing, Foursquare, Yelp, TripAdvisor and BBB, not Google reviews
 - Source: Near Media, Greg Sterling and Mike Blumenthal with Andrew Shotland and Mark Kabana, "EP 275 - Rankings Up, Calls Down: What AI Visibility Is Really Worth to Local Businesses (Part 2)", 2026-09-24, https://www.nearmedia.co/ep-275-rankings-up-calls-down-what-ai-visibility-is-really-worth-to-local-businesses-part-2/
 - Quote: "We actually did a study with Local Falcon this summer where we looked at several million local queries. To your point: in ChatGPT, there were no Google reviews at all in the source data."

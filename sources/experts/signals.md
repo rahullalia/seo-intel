@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-12 | Reddit's share of ChatGPT citations fell from about 1 answer in 5 to about 1 in 43
+- Source: Ahrefs, Louise Linehan, "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)", 2026-10-12, https://ahrefs.com/blog/query-fan-out-chatgpt/
+- Quote: "In March, about 1 in every 5 ChatGPT answers cited Reddit, but by late September it was about 1 in 43."
+- Means: The figure comes from Brand Radar's US ChatGPT citations, 2.4 to 3.8 million answers a month from March to September 2026, and Ahrefs reports the same drop for Wikipedia and YouTube. The reddit-mentions row rests on two grade C creator tests from 2026-07 and 2026-09-20, and this grade B measurement puts the citation share those tests worked against roughly eight times lower over seven months.
+- Factor: reddit-mentions | Evidence: B | Lever: ranking | Scope: ai | Stage: build
+
 ## 2026-09-24 | A 100 location franchise gained 20 to 30 percent in rankings while calls fell 40 percent
 - Source: Near Media, Greg Sterling and Mike Blumenthal with Andrew Shotland and Mark Kabana, "EP 275 - Rankings Up, Calls Down: What AI Visibility Is Really Worth to Local Businesses (Part 2)", 2026-09-24, https://www.nearmedia.co/ep-275-rankings-up-calls-down-what-ai-visibility-is-really-worth-to-local-businesses-part-2/
 - Quote: "Their rankings are up like 20 to 30 percent year over year. So, hooray for us. Their clicks and calls are down 40%, right?"

@@ -30,8 +30,8 @@ factors:
     stage: both
     tier: required
     evidence: "A"
-    last_verified: "2026-07"
-    sources: ["google/technical 2025-12-18", "creators/technical 2026-07", "google/ai-search 2025-12-10"]
+    last_verified: "2026-10-12"
+    sources: ["google/technical 2025-12-18", "creators/technical 2026-07", "google/ai-search 2025-12-10", "experts/technical 2026-10-12"]
   - id: ai-crawler-allow
     factor: "Retrieval agents allowed through robots.txt and the firewall"
     category: technical
@@ -41,7 +41,7 @@ factors:
     tier: core
     evidence: "A"
     last_verified: "2026-09-16"
-    sources: ["experts/technical 2026-09-16", "experts/technical 2026-01-21", "creators/technical 2026-07", "google/ai-search 2025-12-10"]
+    sources: ["experts/technical 2026-09-16", "experts/technical 2026-01-21", "creators/technical 2026-07", "google/ai-search 2025-12-10", "experts/technical 2026-10-08"]
   - id: static-html-rendering
     factor: "Static HTML or server rendering rather than client-side JavaScript"
     category: technical
@@ -780,8 +780,8 @@ factors:
     stage: audit
     tier: core
     evidence: "B"
-    last_verified: "2026-09-14"
-    sources: ["experts/citations 2026-09-14", "experts/citations 2026-06-26", "experts/citations 2025-11-06", "creators/citations 2026-03-21"]
+    last_verified: "2026-10-12"
+    sources: ["experts/citations 2026-09-14", "experts/citations 2026-06-26", "experts/citations 2025-11-06", "creators/citations 2026-03-21", "experts/citations 2026-10-12"]
   - id: citation-nap-consistency
     factor: "Exact-match name, phone, city, ZIP and URL across every listing"
     category: citations
@@ -970,8 +970,8 @@ factors:
     stage: audit
     tier: core
     evidence: "B"
-    last_verified: "2026-06-09"
-    sources: ["experts/ai-search 2026-06-09", "experts/ai-search 2024-07-02"]
+    last_verified: "2026-10-12"
+    sources: ["experts/ai-search 2026-06-09", "experts/ai-search 2024-07-02", "experts/ai-search 2026-10-12"]
   - id: query-fan-out-targeting
     factor: "Page content written to answer the sub-queries an assistant fans a prompt out into"
     category: ai-search
@@ -980,8 +980,8 @@ factors:
     stage: both
     tier: supporting
     evidence: "B"
-    last_verified: "2026-10-01"
-    sources: ["experts/ai-search 2026-09-16", "experts/ai-search 2025-09-26", "creators/ai-search 2026-03-21"]
+    last_verified: "2026-10-12"
+    sources: ["experts/ai-search 2026-09-16", "experts/ai-search 2025-09-26", "creators/ai-search 2026-03-21", "experts/ai-search 2026-10-12"]
   - id: ai-overview-claim-alignment
     factor: "Stating the AI Overview's own claim first, then pivoting to your data"
     category: ai-search
@@ -1069,9 +1069,9 @@ factors:
     lever: ranking
     stage: build
     tier: supporting
-    evidence: "C"
-    last_verified: "2026-09-20"
-    sources: ["creators/signals 2026-09-20", "creators/signals 2026-07"]
+    evidence: "B"
+    last_verified: "2026-10-12"
+    sources: ["creators/signals 2026-09-20", "creators/signals 2026-07", "experts/signals 2026-10-12"]
   - id: social-posts-ai-citation
     factor: "Social posts as an input AI answer engines weigh"
     category: signals
