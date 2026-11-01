@@ -9,11 +9,11 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: The two timings he names are time to first byte and total blocking time. The core-web-vitals row sits at Minor on Google's own page, and this relay names no test site and no numbers and the two-hour episode was not watched, so the row does not move.
 - Factor: core-web-vitals | Evidence: D | Lever: ranking | Scope: organic | Stage: audit
 
-## 2026-10-28 | Sturm puts 100 posts on one page so his article index carries no pagination
+## 2026-10-28 | Sturm sets 100 posts per page on his article index, with pagination below that
 
 - Source: Edward Sturm, "Making your content infinite", 2026-10-28, https://www.youtube.com/shorts/pOmY5CYanCo (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
 - Quote: "The secret is my posts per page are set to 100. There are 100 posts on a single page."
-- Means: On https://edwardsturm.com/articles/ that leaves every post one click from the index instead of behind paged archives. He argues it from bingeability and reports no crawl, index or ranking measurement, so the crawl-depth row keeps grade D.
+- Means: On https://edwardsturm.com/articles/ that puts the first 100 posts one click from the index, and he says the pagination sits below them, so the setting raises the per-page count rather than removing paging. He argues it from bingeability and reports no crawl, index or ranking measurement, so the crawl-depth row keeps grade D.
 - Factor: crawl-depth | Evidence: D | Lever: ranking | Scope: organic | Stage: both
 
 ## 2026-07 | Every site needs HTTPS
