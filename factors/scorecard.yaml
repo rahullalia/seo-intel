@@ -30,8 +30,8 @@ factors:
     stage: both
     tier: required
     evidence: "A"
-    last_verified: "2026-10-12"
-    sources: ["google/technical 2025-12-18", "creators/technical 2026-07", "google/ai-search 2025-12-10", "experts/technical 2026-10-12"]
+    last_verified: "2026-10-21"
+    sources: ["google/technical 2025-12-18", "creators/technical 2026-07", "google/ai-search 2025-12-10", "experts/technical 2026-10-12", "google/technical 2026-10-21"]
   - id: ai-crawler-allow
     factor: "Retrieval agents allowed through robots.txt and the firewall"
     category: technical
@@ -40,8 +40,8 @@ factors:
     stage: both
     tier: core
     evidence: "A"
-    last_verified: "2026-09-16"
-    sources: ["experts/technical 2026-09-16", "experts/technical 2026-01-21", "creators/technical 2026-07", "google/ai-search 2025-12-10", "experts/technical 2026-10-08"]
+    last_verified: "2026-10-30"
+    sources: ["experts/technical 2026-09-16", "experts/technical 2026-01-21", "creators/technical 2026-07", "google/ai-search 2025-12-10", "experts/technical 2026-10-08", "google/ai-search 2026-10-30"]
   - id: static-html-rendering
     factor: "Static HTML or server rendering rather than client-side JavaScript"
     category: technical
@@ -81,7 +81,7 @@ factors:
     tier: minor
     evidence: "A"
     last_verified: "2026-07"
-    sources: ["creators/technical 2026-07", "google/technical 2025-12-10", "experts/technical 2022-01-31"]
+    sources: ["creators/technical 2026-07", "google/technical 2025-12-10", "experts/technical 2022-01-31", "creators/technical 2026-10-30"]
   - id: iframe-content-attribution
     factor: "Text inside a cross-origin iframe credited to the page that embeds it"
     category: technical
@@ -92,6 +92,16 @@ factors:
     evidence: "A"
     last_verified: "2026-10-01"
     sources: ["google/technical 2026-03-24", "google/technical 2023-12-18", "experts/technical 2022-09-30"]
+  - id: url-word-separators
+    factor: "Hyphens rather than the _ character between words in a URL slug"
+    category: technical
+    scope: [organic]
+    lever: ranking
+    stage: build
+    tier: minor
+    evidence: "A"
+    last_verified: "2026-10-21"
+    sources: ["google/technical 2026-10-21"]
   - id: schema-markup
     factor: "Structured data beyond the SEO plugin default"
     category: technical
@@ -140,8 +150,8 @@ factors:
     stage: both
     tier: minor
     evidence: "D"
-    last_verified: "2026-07"
-    sources: ["creators/technical 2026-07"]
+    last_verified: "2026-10-28"
+    sources: ["creators/technical 2026-07", "creators/technical 2026-10-28"]
   - id: url-change-risk
     factor: "Changing the URL of a page that ranks, has traffic, or has backlinks"
     category: technical
@@ -261,7 +271,7 @@ factors:
     tier: supporting
     evidence: "B"
     last_verified: "2026-07"
-    sources: ["experts/content 2025-12-15", "creators/content 2026-07"]
+    sources: ["experts/content 2025-12-15", "creators/content 2026-07", "creators/content 2026-10-30"]
   - id: faq-block-plain-text
     factor: "FAQ answers as plain question and answer text, capped at three or four"
     category: content
@@ -300,8 +310,8 @@ factors:
     stage: both
     tier: supporting
     evidence: "C"
-    last_verified: "2026-07"
-    sources: ["creators/content 2026-07"]
+    last_verified: "2026-10-18"
+    sources: ["creators/content 2026-07", "creators/content 2026-10-18"]
   - id: single-h1
     factor: "Exactly one H1, first heading in DOM order, carrying the exact keyword"
     category: content
@@ -380,8 +390,8 @@ factors:
     stage: both
     tier: minor
     evidence: "D"
-    last_verified: "2026-10-05"
-    sources: ["creators/content 2026-10-05", "creators/content 2026-07", "rsla/content 2026-10-05"]
+    last_verified: "2026-10-29"
+    sources: ["creators/content 2026-10-05", "creators/content 2026-07", "rsla/content 2026-10-05", "creators/content 2026-10-29"]
   - id: ai-generated-content
     factor: "Content penalised for being produced with AI rather than for quality"
     category: content
@@ -510,8 +520,8 @@ factors:
     stage: both
     tier: required
     evidence: "A"
-    last_verified: "2026-09-06"
-    sources: ["google/local-gbp 2026-09-06"]
+    last_verified: "2026-10-21"
+    sources: ["google/local-gbp 2026-09-06", "experts/local-gbp 2026-10-21"]
   - id: gbp-name-policy-risk
     factor: "Keyword-stuffed GBP name as a suspension and redressal risk"
     category: local-gbp
@@ -580,8 +590,8 @@ factors:
     stage: both
     tier: core
     evidence: "A"
-    last_verified: "2026-07"
-    sources: ["google/local-gbp 2026-04-16", "experts/local-gbp 2025-11-06", "creators/local-gbp 2026-07"]
+    last_verified: "2026-10-21"
+    sources: ["google/local-gbp 2026-04-16", "experts/local-gbp 2025-11-06", "creators/local-gbp 2026-07", "experts/local-gbp 2026-10-21"]
   - id: proximity
     factor: "Distance from the searcher to the verified address"
     category: local-gbp
@@ -590,8 +600,8 @@ factors:
     stage: both
     tier: core
     evidence: "A"
-    last_verified: "2026-09-06"
-    sources: ["google/local-gbp 2026-09-06", "experts/local-gbp 2025-11-06"]
+    last_verified: "2026-10-31"
+    sources: ["google/local-gbp 2026-09-06", "experts/local-gbp 2025-11-06", "creators/local-gbp 2026-10-31"]
   - id: gbp-primary-category
     factor: "The single most specific primary category matching the money service"
     category: local-gbp
@@ -640,8 +650,8 @@ factors:
     stage: both
     tier: core
     evidence: "B"
-    last_verified: "2026-09-24"
-    sources: ["experts/local-gbp 2026-09-24", "experts/local-gbp 2025-11-06"]
+    last_verified: "2026-10-21"
+    sources: ["experts/local-gbp 2026-09-24", "experts/local-gbp 2025-11-06", "experts/local-gbp 2026-10-21"]
   - id: review-rating
     factor: "High average star rating"
     category: local-gbp
@@ -800,8 +810,8 @@ factors:
     stage: both
     tier: supporting
     evidence: "B"
-    last_verified: "2026-09-24"
-    sources: ["experts/citations 2026-09-24", "experts/citations 2018-09-07", "creators/citations 2026-07"]
+    last_verified: "2026-10-21"
+    sources: ["experts/citations 2026-09-24", "experts/citations 2018-09-07", "creators/citations 2026-07", "experts/citations 2026-10-21"]
   - id: core-five-citations
     factor: "Google, Apple Business Connect, Bing Places, Facebook and Yelp claimed"
     category: citations
@@ -930,8 +940,8 @@ factors:
     stage: audit
     tier: minor
     evidence: "D"
-    last_verified: "2026-07"
-    sources: ["creators/backlinks 2026-07"]
+    last_verified: "2026-10-27"
+    sources: ["creators/backlinks 2026-07", "creators/backlinks 2026-10-27"]
   - id: disavow-links
     factor: "Disavowing backlinks flagged as toxic by an audit tool"
     category: backlinks
@@ -980,8 +990,18 @@ factors:
     stage: both
     tier: supporting
     evidence: "B"
-    last_verified: "2026-10-12"
-    sources: ["experts/ai-search 2026-09-16", "experts/ai-search 2025-09-26", "creators/ai-search 2026-03-21", "experts/ai-search 2026-10-12", "creators/ai-search 2026-10-10"]
+    last_verified: "2026-10-31"
+    sources: ["experts/ai-search 2026-09-16", "experts/ai-search 2025-09-26", "creators/ai-search 2026-03-21", "experts/ai-search 2026-10-12", "creators/ai-search 2026-10-10", "creators/ai-search 2026-10-31"]
+  - id: aio-commercial-query-coverage
+    factor: "Share of commercial-intent queries that return an AI Overview at all"
+    category: ai-search
+    scope: [ai]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "B"
+    last_verified: "2026-10-21"
+    sources: ["experts/ai-search 2026-10-21"]
   - id: ai-overview-claim-alignment
     factor: "Stating the AI Overview's own claim first, then pivoting to your data"
     category: ai-search
@@ -1091,7 +1111,7 @@ factors:
     tier: minor
     evidence: "D"
     last_verified: "2026-05"
-    sources: ["seed: playbook/ai-search.md", "creators/signals 2026-03-21"]
+    sources: ["seed: playbook/ai-search.md", "creators/signals 2026-03-21", "creators/signals 2026-10-28"]
   - id: mentions-breadth-mediums
     factor: "Breadth of different mediums carrying a mention over any one source's authority"
     category: signals
@@ -1162,6 +1182,16 @@ factors:
     evidence: "A"
     last_verified: "2026-08-28"
     sources: ["google/programmatic 2026-08-28", "creators/programmatic 2026-10-10"]
+  - id: user-generated-spam
+    factor: "Spammy content added through a channel intended for user content, left indexable"
+    category: programmatic
+    scope: [organic]
+    lever: trust
+    stage: audit
+    tier: required
+    evidence: "A"
+    last_verified: "2026-11-01"
+    sources: ["google/programmatic 2026-10-26"]
   - id: topical-mismatch
     factor: "Publishing outside the site's established topical area to chase traffic"
     category: programmatic

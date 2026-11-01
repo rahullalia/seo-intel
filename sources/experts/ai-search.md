@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-21 | AI Overviews reached 82 to 96 percent coverage on five commercial query types, from 30 to 63 percent a year earlier
+- Source: Semrush, "AI Overviews have nearly doubled across five commercial search modifiers", 2026-10-21, https://www.semrush.com/blog/ai-overviews-commercial-modifiers-study/
+- Quote: "In fact, every one of these commercial modifiers now sees an AI Overview between 82% and 96% of the time."
+- Means: Semrush tracked 400 fixed commercial-intent keywords in banking, ecommerce and software across five modifier groups, alternatives, brand vs brand, best X for Y, pricing or cost, and reviews, monthly on US desktop from September 2025 to August 2026. Ecommerce price and cost keywords moved from 4.76 percent coverage in September 2025 to 71.43 percent in August 2026, so a pricing or comparison page now has to be written to be cited inside an AI Overview rather than to hold a blue link alone.
+- Factor: aio-commercial-query-coverage | Evidence: B | Lever: ranking | Scope: ai | Stage: both
+
 ## 2026-10-12 | 14.4 percent of 66.6 million ChatGPT responses ran a web search at all
 - Source: Ahrefs, Louise Linehan, "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)", 2026-10-12, https://ahrefs.com/blog/query-fan-out-chatgpt/
 - Quote: "Only 14.4% of the 66.6 million responses required a web search."

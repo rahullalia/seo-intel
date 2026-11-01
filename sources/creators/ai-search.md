@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-31 | Sturm targets searches ending in the word Reddit because assistants append it too
+- Source: Edward Sturm, "Reddit manipulation for SEO and GEO", 2026-10-31, https://www.youtube.com/shorts/PY3jJzZmyOc (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "Large language models very often put “Reddit” into the searches that they are doing to gather information."
+- Means: His method puts the word Reddit in the page title, the URL slug, the H1 and the first sentence, with one Reddit resource page linking to bridge pages and to the money page. He names no test site and no numbers, so the query-fan-out-targeting row keeps the grade B support it already carries.
+- Factor: query-fan-out-targeting | Evidence: D | Lever: ranking | Scope: organic ai | Stage: build
+
 ## 2026-10-10 | The searches ChatGPT runs can be read out of the browser network tab
 - Source: Edward Sturm, "I'm going to remind you one more time, ChatGPT gets its answers from search engines", 2026-10-10, https://www.youtube.com/shorts/x_LLGHec2d8 (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
 - Quote: "Find the searches ChatGPT does so you can influence the answers it gives."

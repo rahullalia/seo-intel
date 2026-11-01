@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-21 | 26 percent of surveyed small businesses are active on review sites and directories beyond Google
+- Source: BrightLocal, "65% of small businesses are working on AI visibility, but are they overlooking the channels that feed it", 2026-10-21, https://www.brightlocal.com/research/smb-report-confident-visibility/
+- Quote: "Just 26% are active on other review sites and directories"
+- Means: Among 1,002 US owners of businesses with 1 to 50 employees, 74 percent work no review site or directory other than Google, while 86 percent of the same panel said they are aware consumers use AI tools to find and choose local businesses. Directory and review-site presence off Google is unworked ground for three quarters of local competitors, measured as prevalence rather than ranking effect.
+- Factor: niche-directories | Evidence: B | Lever: ranking | Scope: local ai | Stage: audit
+
 ## 2026-10-12 | OpenAI licensing partners doubled their share of ChatGPT citations between March and July 2026
 - Source: Ahrefs, Louise Linehan, "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)", 2026-10-12, https://ahrefs.com/blog/query-fan-out-chatgpt/
 - Quote: "partner titles among ChatGPT's 200 most-cited domains more than doubled their combined share of citations, from 7.5% in March to 15.8% in July"

@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-30 | Google plans to support a shared robots.txt AI training opt-out token in 2027
+- Source: Google Search Central Blog, "Supporting a shared AI training control for websites", 2026-10-30, https://developers.google.com/search/blog/2026/10/ai-training-control
+- Quote: "Today, we're announcing our plans to support a shared AI training control in robots.txt."
+- Means: The post names 2027 as the target for supporting the policy token from the IETF AIPREF working group, and says a site that opts out of training with the token is treated as if it had disallowed Google-Extended. The control covers AI training, not crawling for Search or AI Overviews, so no robots.txt change is available to make yet.
+- Factor: ai-crawler-allow | Evidence: A | Lever: ranking | Scope: ai | Stage: both
+
 ## 2025-12-10 | Google says no AI text file and no special schema is needed to appear in AI features
 - Source: Google Search Central, "AI features and your website", 2025-12-10 (page last updated), https://developers.google.com/search/docs/appearance/ai-features
 - Quote: "You don't need to create new machine readable files, AI text files, or markup to appear in these features. There's also no special schema.org structured data that you need to add."

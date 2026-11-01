@@ -2,6 +2,20 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-21 | Google asks for hyphens rather than the _ character between words in a URL
+- Source: Google Search Central, "URL structure", 2026-10-21 (Last updated), https://developers.google.com/search/docs/crawling-indexing/url-structure
+- Source: Google Search Central, "Search Central documentation updates", 2026-10-23, https://developers.google.com/search/updates
+- Quote: "Specifically, we recommend using hyphens (-) instead of underscores (_) to separate words in your URLs"
+- Means: Google's stated reason on the same page is that hyphens help users and search engines identify concepts in the URL, and that the _ character commonly joins terms that belong together in programming languages. A slug written as service_area_pages carries one word boundary for Google, where service-area-pages carries three.
+- Factor: url-word-separators | Evidence: A | Lever: ranking | Scope: organic | Stage: build
+
+## 2026-10-21 | Google indexes an image or video only if Googlebot may crawl it
+- Source: Google Search Central, "Control what you share with Google Search", 2026-10-21 (Last updated), https://developers.google.com/search/docs/crawling-indexing/control-what-you-share
+- Source: Google Search Central, "Search Central documentation updates", 2026-10-21, https://developers.google.com/search/updates
+- Quote: "Google only indexes images and videos that Googlebot is allowed to crawl."
+- Means: A robots.txt disallow on an image, video or asset directory removes those files from Google Image and Video results, separate from whatever the page itself allows. The same page calls removing the content from the site the best way to keep it out of Google Search, and sends confidential content behind a password.
+- Factor: indexable | Evidence: A | Lever: ranking | Scope: organic | Stage: both
+
 ## 2026-07-24 | Review stars are off the table for a business marking up its own reviews
 - Source: Google Search Central, "Review snippet (Review, AggregateRating) structured data", 2026-07-24 (Last updated), https://developers.google.com/search/docs/appearance/structured-data/review-snippet
 - Quote: "If the entity that's being reviewed controls the reviews about itself, their pages that use LocalBusiness or any other type of Organization structured data are ineligible for star review feature."

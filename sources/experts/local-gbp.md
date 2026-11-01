@@ -2,6 +2,24 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-21 | Only 35 percent of 1,002 surveyed US small businesses keep an active Google Business Profile
+- Source: BrightLocal, "65% of small businesses are working on AI visibility, but are they overlooking the channels that feed it", 2026-10-21, https://www.brightlocal.com/research/smb-report-confident-visibility/
+- Quote: "Only 35% have an active Google Business Profile"
+- Means: BrightLocal surveyed a representative panel of 1,002 US owners of locally operating businesses with 1 to 50 employees, all of them marketing decision makers. The figure is prevalence, not ranking effect: 65 percent of local competitors leave the profile unworked, so claiming and maintaining one clears most of a local field.
+- Factor: gbp-verified | Evidence: B | Lever: ranking | Scope: local | Stage: both
+
+## 2026-10-21 | 47 percent of surveyed small businesses hold fewer than 20 Google reviews
+- Source: BrightLocal, "Small businesses can't keep up with consumer review expectations", 2026-10-21, https://www.brightlocal.com/research/smb-report-enough-reviews/
+- Quote: "47% of small businesses have fewer than 20 Google reviews."
+- Means: Same panel of 1,002 US owners of businesses with 1 to 50 employees. A client holding 20 or more Google reviews sits ahead of 47 percent of US small businesses on count alone, which is the benchmark to audit a profile against; the survey measures prevalence, not ranking effect.
+- Factor: review-count | Evidence: B | Lever: ranking | Scope: local | Stage: audit
+
+## 2026-10-21 | 64 percent of surveyed owners ask for reviews, 51 percent reply to them
+- Source: BrightLocal, "Small businesses can't keep up with consumer review expectations", 2026-10-21, https://www.brightlocal.com/research/smb-report-enough-reviews/
+- Quote: "Yet, only 51% of business owners actually respond to reviews."
+- Means: In the same 1,002 owner panel, 64 percent ask for reviews regularly while 51 percent reply to them, so replies are the thinner half of the practice. The survey counts how many owners do each, not what either does to rank or to conversion, so it is filed on the solicitation row and no row is opened for replies until a study measures reply rate against rank or conversion.
+- Factor: review-velocity | Evidence: B | Lever: ranking | Scope: local | Stage: audit
+
 ## 2026-09-24 | Review count lifts AI visibility up to about 200 reviews, then stops
 - Source: Near Media, Greg Sterling and Mike Blumenthal with Andrew Shotland and Mark Kabana, "EP 275 - Rankings Up, Calls Down: What AI Visibility Is Really Worth to Local Businesses (Part 2)", 2026-09-24, https://www.nearmedia.co/ep-275-rankings-up-calls-down-what-ai-visibility-is-really-worth-to-local-businesses-part-2/
 - Quote: "We also found that across eight different verticals, the number of reviews, up to about 200, definitely correlates with improved visibility in AI, across Google and ChatGPT. But once you hit 200 or so, it plateaus."

@@ -2,6 +2,13 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-27 | Ilias Ismanalijev pays up to 2,000 dollars for a link on a page already ranking top 10 to 20
+
+- Source: Edward Sturm, "The Backlinks Worth Paying $2,000 For (w/ Ilias ISM)", 2026-10-27, https://www.youtube.com/watch?v=5NRS4ibsMKg (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "Why Ilias would pay $1,000-$2,000 for a backlink from the right page, especially one ranking in the top 10-20 for a valuable keyword."
+- Means: His stated filters are 500 to 1,000 monthly organic visits to the domain, relevant top pages, and page-level search traffic ahead of domain rating. He reports no before and after ranking numbers and names no site, so the page-level-links row keeps grade D.
+- Factor: page-level-links | Evidence: D | Lever: ranking | Scope: organic | Stage: audit
+
 ## 2026-10-15 | A test Sturm does not name is said to show internal link clicks carry weight
 
 - Source: Edward Sturm, "Do internal link CLICKS matter for SEO??", 2026-10-15, https://www.youtube.com/shorts/U8Q5gMs9YXA (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
