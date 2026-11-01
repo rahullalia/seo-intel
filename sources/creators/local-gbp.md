@@ -2,6 +2,13 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-31 | Proximity outweighed reviews and authority across 40 to 50 local grid scans in late October
+
+- Source: Edward Sturm, "Google Maps Just Shrunk Everyone’s Ranking Radius (Biggest Proximity Shift in 20 Years)", 2026-10-31, https://www.youtube.com/watch?v=ir4MufdM3uk (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "In one Phoenix personal injury lawyer market, a business went from an average Google Maps ranking of 2.5 to 16.9 across the same geographic grid."
+- Means: Matt Hammerton, who manages more than 100 Google Business Profiles, dates the shift to 2026-10-22 through 2026-10-27, reports the same pattern in roughly 85 percent of the 40 to 50 local ranking scans he examined, and gives a second Mesa, Arizona market moving from an average of 1.9 to 6.6. He names the markets, the dates and the scan count but not the client sites or the grid tool, and only the episode description was read, so this is one practitioner's scan set and not a confirmed Google change.
+- Factor: proximity | Evidence: C | Lever: ranking | Scope: local | Stage: both
+
 ## 2026-07 | Post to the profile at least twice a week when pushing a map pack
 
 - Source: HeyTony master playbook, Part V 4.2 and Part VI 2.3, 2026-07 (skills/skills/heyTony/reference/part-5-offpage-and-ai-search.md), local file

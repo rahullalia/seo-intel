@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-28 | Sturm says the most clicked sites in search are user-generated content platforms
+- Source: Edward Sturm, "Discord content is getting indexed in Google!!!!!", 2026-10-28, https://www.youtube.com/shorts/y4iaiTFIlOU (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "The most clicked websites in search are user-generated content platforms: YouTube, Reddit, TikTok, LinkedIn, Instagram, Facebook, X."
+- Means: He puts Reddit at 1.8 billion Google clicks a month and Discord at domain authority 94 of 100, with no tool named for either number. He also relays, without a link, a Discord announcement that discoverable servers get a server webpage from 2026-11-16, and Discord's own notice was not read here.
+- Factor: ugc-platform-presence | Evidence: D | Lever: ranking | Scope: organic ai | Stage: build
+
 ## 2026-09-20 | Link your Reddit posts from your own pages to get them indexed
 - Source: Edward Sturm, "King of AEO: The Exact Tactics Ranking Pages and Changing AI Overviews in Hours", 2026-09-20, https://edwardsturm.com/articles/king-of-aeo-seo-tactics/
 - Quote: "Doing this gets their Reddit posts indexed and is safer than using indexing tools, though more time/resource consuming."

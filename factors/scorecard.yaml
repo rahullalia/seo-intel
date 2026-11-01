@@ -81,7 +81,7 @@ factors:
     tier: minor
     evidence: "A"
     last_verified: "2026-07"
-    sources: ["creators/technical 2026-07", "google/technical 2025-12-10", "experts/technical 2022-01-31"]
+    sources: ["creators/technical 2026-07", "google/technical 2025-12-10", "experts/technical 2022-01-31", "creators/technical 2026-10-30"]
   - id: iframe-content-attribution
     factor: "Text inside a cross-origin iframe credited to the page that embeds it"
     category: technical
@@ -150,8 +150,8 @@ factors:
     stage: both
     tier: minor
     evidence: "D"
-    last_verified: "2026-07"
-    sources: ["creators/technical 2026-07"]
+    last_verified: "2026-10-28"
+    sources: ["creators/technical 2026-07", "creators/technical 2026-10-28"]
   - id: url-change-risk
     factor: "Changing the URL of a page that ranks, has traffic, or has backlinks"
     category: technical
@@ -271,7 +271,7 @@ factors:
     tier: supporting
     evidence: "B"
     last_verified: "2026-07"
-    sources: ["experts/content 2025-12-15", "creators/content 2026-07"]
+    sources: ["experts/content 2025-12-15", "creators/content 2026-07", "creators/content 2026-10-30"]
   - id: faq-block-plain-text
     factor: "FAQ answers as plain question and answer text, capped at three or four"
     category: content
@@ -310,8 +310,8 @@ factors:
     stage: both
     tier: supporting
     evidence: "C"
-    last_verified: "2026-07"
-    sources: ["creators/content 2026-07"]
+    last_verified: "2026-10-18"
+    sources: ["creators/content 2026-07", "creators/content 2026-10-18"]
   - id: single-h1
     factor: "Exactly one H1, first heading in DOM order, carrying the exact keyword"
     category: content
@@ -390,8 +390,8 @@ factors:
     stage: both
     tier: minor
     evidence: "D"
-    last_verified: "2026-10-05"
-    sources: ["creators/content 2026-10-05", "creators/content 2026-07", "rsla/content 2026-10-05"]
+    last_verified: "2026-10-29"
+    sources: ["creators/content 2026-10-05", "creators/content 2026-07", "rsla/content 2026-10-05", "creators/content 2026-10-29"]
   - id: ai-generated-content
     factor: "Content penalised for being produced with AI rather than for quality"
     category: content
@@ -600,8 +600,8 @@ factors:
     stage: both
     tier: core
     evidence: "A"
-    last_verified: "2026-09-06"
-    sources: ["google/local-gbp 2026-09-06", "experts/local-gbp 2025-11-06"]
+    last_verified: "2026-10-31"
+    sources: ["google/local-gbp 2026-09-06", "experts/local-gbp 2025-11-06", "creators/local-gbp 2026-10-31"]
   - id: gbp-primary-category
     factor: "The single most specific primary category matching the money service"
     category: local-gbp
@@ -940,8 +940,8 @@ factors:
     stage: audit
     tier: minor
     evidence: "D"
-    last_verified: "2026-07"
-    sources: ["creators/backlinks 2026-07"]
+    last_verified: "2026-10-27"
+    sources: ["creators/backlinks 2026-07", "creators/backlinks 2026-10-27"]
   - id: disavow-links
     factor: "Disavowing backlinks flagged as toxic by an audit tool"
     category: backlinks
@@ -990,8 +990,8 @@ factors:
     stage: both
     tier: supporting
     evidence: "B"
-    last_verified: "2026-10-12"
-    sources: ["experts/ai-search 2026-09-16", "experts/ai-search 2025-09-26", "creators/ai-search 2026-03-21", "experts/ai-search 2026-10-12", "creators/ai-search 2026-10-10"]
+    last_verified: "2026-10-31"
+    sources: ["experts/ai-search 2026-09-16", "experts/ai-search 2025-09-26", "creators/ai-search 2026-03-21", "experts/ai-search 2026-10-12", "creators/ai-search 2026-10-10", "creators/ai-search 2026-10-31"]
   - id: aio-commercial-query-coverage
     factor: "Share of commercial-intent queries that return an AI Overview at all"
     category: ai-search
@@ -1111,7 +1111,7 @@ factors:
     tier: minor
     evidence: "D"
     last_verified: "2026-05"
-    sources: ["seed: playbook/ai-search.md", "creators/signals 2026-03-21"]
+    sources: ["seed: playbook/ai-search.md", "creators/signals 2026-03-21", "creators/signals 2026-10-28"]
   - id: mentions-breadth-mediums
     factor: "Breadth of different mediums carrying a mention over any one source's authority"
     category: signals

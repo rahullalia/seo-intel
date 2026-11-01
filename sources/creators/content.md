@@ -2,6 +2,27 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-10-30 | Kyle Roof says misspellings, grammar, reading level and a 25-second load did not hurt rankings in his tests
+
+- Source: Edward Sturm, "Kyle Roof Ranked Gibberish #1 on Google. Then Google Deindexed 20 of His Sites.", 2026-10-30, https://www.youtube.com/watch?v=LCrW28jb9UM (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "Why misspellings, grammar, reading level, and even a 25-second page load failed to hurt rankings in his tests."
+- Means: The description credits Kyle Roof with more than 400 SEO experiments and names no test site, no keyword and no date for the reading level result, and the two-hour episode was not watched. The readability-grade-6-8 row rests on a grade B study, so an undated relay does not move it.
+- Factor: readability-grade-6-8 | Evidence: D | Lever: ranking | Scope: organic | Stage: build
+
+## 2026-10-29 | A Freshdesk versus Zendesk comparison page is put at 17,000 dollars a month against 1,900 for a broad guide
+
+- Source: Edward Sturm, "10 SEO Tips That Made Clients $35M (And Where I Disagree)", 2026-10-29, https://www.youtube.com/watch?v=woDXzKOdRn8 (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "a Freshdesk vs. Zendesk comparison page valued at $17,000 per month in organic traffic versus $1,900 for a broad guide"
+- Means: Sturm is working through Deno Hawari's thread of ten tips at https://x.com/denohawari/status/2098491264849293442 and names no traffic tool, no date and no window for either figure, so both numbers are traffic-value estimates rather than a measured result. This entry carries lever ranking against the row's conversion because the claim measures organic traffic value.
+- Factor: purchase-intent-page-type | Evidence: D | Lever: ranking | Scope: organic | Stage: both
+
+## 2026-10-18 | Sturm says landing pages he has not edited in seven years still rank first for their buying keywords
+
+- Source: Edward Sturm, "5 Social Media Tricks I Learned at an 𝕏/xAI/SpaceX Creator Event", 2026-10-18, https://edwardsturm.com/articles/social-media-tricks-x-xai-spacex-creator-event-2026/
+- Quote: "the bottom-of-funnel SEO landing pages I put up 7 years ago are still ranking #1 for their high-intent keywords, despite me not having edited the pages since"
+- Means: He names no page, no keyword and no rank-tracking tool, so this is one creator's account of his own site rather than a test. It reads against the content-freshness row, which is Core on a grade B study, so nothing moves on either row.
+- Factor: ranking-page-freeze | Evidence: D | Lever: ranking | Scope: organic | Stage: both
+
 ## 2026-10-14 | Grokipedia's monthly Google clicks fell from 6.5 million in July to 200,000
 
 - Source: Edward Sturm, "Elon Musk's Grokipedia Just Lost 97% of Its Google Traffic. Here's Why", 2026-10-14, https://www.youtube.com/watch?v=9AwTxWy4BrU (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
