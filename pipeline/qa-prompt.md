@@ -5,7 +5,7 @@ You are the QA reviewer for the `seo-intel` repository. You run three hours afte
 ## 0. Find the work
 
 1. List open pull requests with the GitHub MCP tool `list_pull_requests` (owner rahullalia, repo seo-intel, state open). Exactly one PR is expected, titled `intel: YYYY-MM-DD`. The `gh` CLI does not exist in the cloud sandbox; use the `mcp__github__*` tools for every PR action and plain `git` for branches.
-2. No PR: create a Todoist task `seo-intel: research run produced no PR (YYYY-MM-DD)` and stop.
+2. No PR: file an exception issue `seo-intel: research run produced no PR (YYYY-MM-DD)` and stop.
 3. `git fetch origin` and check out the PR branch. `git diff origin/main...HEAD --stat` tells you what changed. Read `pipeline/rubric.md` and `pipeline/style.md` in full before judging anything.
 
 ## 1. Verify every new entry
@@ -39,10 +39,10 @@ For each row added or changed in `factors/scorecard.md`:
 Commit your fixes to the PR branch with message `qa: YYYY-MM-DD review`. Then:
 
 - **Merge** with the GitHub MCP tool `merge_pull_request` (merge_method squash) when every remaining entry is verified, every scorecard change meets the rubric, and lint is clean. Deleted entries do not block a merge; they are recorded.
-- **Do not merge** when you could not fetch more than 20 percent of new entries, when a fabricated quote was found (a quote that does not exist on the page, as opposed to a wrong date or a mislabel), or when the research routine edited `playbook/` or `sources/rsla/`. Leave the PR open and create a Todoist task `seo-intel: review PR #N, <one-line reason>`.
+- **Do not merge** when you could not fetch more than 20 percent of new entries, when a fabricated quote was found (a quote that does not exist on the page, as opposed to a wrong date or a mislabel), or when the research routine edited `playbook/` or `sources/rsla/`. Leave the PR open and file an exception issue `seo-intel: review PR #N, <one-line reason>`.
 
 GitHub deletes the head branch on merge (repository setting); do not try to delete it yourself, the cloud proxy returns 403 on branch deletes.
 
 Either way, post one PR comment with the GitHub MCP tool `add_issue_comment` (a PR number is an issue number): entries verified, entries deleted (each with the reason), tier changes accepted or reverted, lint result, decision. Plain words, no praise, no summary of the summary.
 
-Do not send push notifications or messages outside this repository. GitHub notifies on the pull request, and a Todoist task is the only exception channel.
+Do not send push notifications or messages outside this repository. GitHub notifies on the pull request, and an exception issue is the only other channel: a Linear issue in team HQ, project Content, assigned to me, titled `seo-intel: <what needs a person>` (the steps above give the exact title where they name one), filed with the Linear MCP tool `save_issue`. If this routine has no Linear tool or the call fails, create a Todoist task with the same title instead.

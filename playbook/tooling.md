@@ -6,9 +6,9 @@ Tools produce the numbers this playbook acts on. They are not evidence of what r
 
 | Question | Tool | Cost | How (MCP tool or export path) | Trap to avoid |
 |---|---|---|---|---|
-| What is actually happening on this site | Google Search Console | Free | `gsc` MCP `get_advanced_search_analytics`, query and page | Average position blends every query; split by query first |
-| Did traffic move, and when | GSC | Free | `compare_search_periods`, 28 days vs prior 28 | Say the window with every number, never two |
-| Transactional query on a blog URL | GSC | Free | `get_search_by_page_query` | Do not redirect the blog post; it ranks |
+| What is actually happening on this site | Google Search Console | Free | Search Console API `searchAnalytics/query`, by query and by page | Average position blends every query; split by query first |
+| Did traffic move, and when | GSC | Free | `searchAnalytics/query`, 28 days vs prior 28 | Say the window with every number, never two |
+| Transactional query on a blog URL | GSC | Free | `searchAnalytics/query` filtered to the page, by query | Do not redirect the blog post; it ranks |
 | Keyword search volume | DataForSEO | $0.012/task plus $0.00012/item | `dataforseo` MCP, KEYWORDS_DATA and DATAFORSEO_LABS | Batch about 10 keywords per call or pass `noAiMode: true` |
 | Live SERP composition | DataForSEO SERP, or a plain search | $0.0006 queued, $0.002 live | `dataforseo` MCP SERP module | Match the top 3 for depth; no fixed word count exists |
 | Competitor keywords, KD%, intent, backlinks | SEMrush through NoxTools | Group-buy login, no API | `noxtools.com/secure/login`, Keyword Overview bulk 100, Export CSV | Backlinks are observed and quotable; traffic is modeled. Rahul exports |
@@ -19,7 +19,7 @@ Tools produce the numbers this playbook acts on. They are not evidence of what r
 | AI citation visibility | Bing Webmaster Tools | Free | Grounding-queries export, plus GA4 sessions by AI source | Citations are roughly 30% unstable run to run; test 2-3 at a time |
 | Page speed | PageSpeed Insights | Free | Paste the URL | Lab score is one throttled run; 28-day CrUX field data is measured |
 | Structured data validity | Rich Results Test | Free | Paste the URL or markup | Valid markup makes a rich result possible, not earned |
-| Indexing status, one URL or the whole report | GSC | Free | `inspect_url_enhanced`, `batch_url_inspection`: about 2000/day, 10 per batch. Bucket lists: Indexing, Pages, reason, Export | Inspection lags a fresh deploy by days to 2 weeks. A 410 reports as "Not found (404)" |
+| Indexing status, one URL or the whole report | GSC | Free | URL Inspection API `urlInspection/index:inspect`: one URL per call, about 2000 a day per property. Bucket lists: Indexing, Pages, reason, Export | Inspection lags a fresh deploy by days to 2 weeks. A 410 reports as "Not found (404)" |
 | Crawl and technical audit of a whole site | Screaming Frog free tier | Free to 500 URLs, then DataForSEO ONPAGE | Crawl, export the issue tabs | Do not chase 100%: 80% per page, 90% site health is fine |
 | Seasonality | Google Trends | Free | Compare terms across 5 years | Relative 0 to 100, not volume. Publish 3-4 months ahead |
 | Traffic value and conversion | Google Analytics 4 | Free | `google-analytics` MCP `run_report`, `run_conversions_report` | Event retention defaults to 2 months; set 14 first |
@@ -27,7 +27,7 @@ Tools produce the numbers this playbook acts on. They are not evidence of what r
 ## In an audit of an existing site, consult in this order
 
 1. **The client's folder.** `brain.md`, `seo/`, `ls audits/`: the export may already be on disk.
-2. **`gsc` MCP.** `list_properties`, `get_advanced_search_analytics` by query and page, `compare_search_periods` 28 vs prior 28.
+2. **Search Console API.** List the sites, then `searchAnalytics/query` by query and by page, 28 days vs prior 28.
 3. **The live SERP.** Read the top 3 for the exact keyword.
 4. **`dataforseo` MCP** for real search volume when the keyword choice is open.
 5. **`google-analytics` MCP** when the question is value or conversion, not position.
@@ -46,7 +46,7 @@ Tools produce the numbers this playbook acts on. They are not evidence of what r
 
 - **SEMrush traffic is modeled and overstates.** One RSL/A client page, 2026-07: SEMrush called it the top traffic driver at 42 visits/mo; GSC showed 0 clicks and 261 impressions in 90 days. Label it "estimate"; quote GSC or GA4 for actuals.
 - **DataForSEO.** About 10 keywords per call or `noAiMode: true`. SERP $0.0006 queued, $0.0012 priority, $0.002 live; Labs $0.012/task plus $0.00012/item. `AI_OPTIMIZATION` is off on purpose at about $1.09 per check.
-- **The GSC Page Indexing report is UI only**, as are Request Indexing and Validate Fix. Reconstruct with URL Inspection or ask for an Export. The `gsc` MCP is a local server, so cloud routines cannot call it.
+- **The GSC Page Indexing report is UI only**, as are Request Indexing and Validate Fix. Reconstruct with URL Inspection or ask for an Export. Search Console calls need the local sign-in token, so cloud routines cannot make them.
 - **GA4 event data retention defaults to 2 months.** Standard report aggregates survive; Explorations and event-level queries do not. Set 14 months on day one.
 - **LeadSnap has no GBP write endpoints.** Spec dump 2026-09-04: 53 paths, every write heatmap-related. Posts, photos, hours, services and categories stay manual.
 - **Bing WMT grounding queries are the only AI visibility data that exists.** Otherwise: ask the AI tools directly and record whether the client is retrieved, named, linked.

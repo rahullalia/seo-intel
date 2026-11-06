@@ -63,4 +63,4 @@ For every reported entry:
 
 Writing an entry to fill a quota. Paraphrasing and calling it a quote. Inferring a date. Promoting a tier on one blog post. Editing `playbook/` or `sources/rsla/`. Fetching past the cap. Any of these gets the entry deleted by QA and is worse than an empty run.
 
-Do not send push notifications or messages outside this repository. GitHub notifies on the pull request, and a Todoist task is the only exception channel.
+Do not send push notifications or messages outside this repository. GitHub notifies on the pull request, and an exception issue is the only other channel: a Linear issue in team HQ, project Content, assigned to me, titled `seo-intel: <what needs a person>` (the steps above give the exact title where they name one), filed with the Linear MCP tool `save_issue`. If this routine has no Linear tool or the call fails, create a Todoist task with the same title instead.

@@ -61,7 +61,7 @@ Math for 8-10 locations: ~$1,000-1,600 one-time vs $1,900-2,400/year forever on 
 | GBP management + heatmaps | LeadSnap GBP+Heatmap Pro | $99/mo |
 | Citations | BrightLocal or Whitespark one-time per client | ~$100-160/client once |
 | Review requests + GBP posting + CRM | GHL | $0 incremental |
-| Rank truth beyond the grid | GSC (free) + `gsc` MCP | $0 |
+| Rank truth beyond the grid | GSC (free), read through its API | $0 |
 | AI-visibility tracking (optional deliverable) | Local Falcon Starter | +$25-100/mo |
 
 Decision rule for new tools in this category: does it (a) build owned assets, (b) measure something GSC can't, or (c) automate something GHL can't? If none, skip it.

@@ -25,7 +25,7 @@ What actually moves rankings, what only moves conversions, what is mandatory, an
 
 ## How it stays current
 
-Two cloud routines run on the 1st and 15th. Research (6am PT) reads feeds and searches per tier, writes dated entries, adjusts scorecard rows only where the rubric says evidence changed, and opens a pull request. QA (9am PT) verifies every link and quote, checks tier changes against `pipeline/rubric.md`, runs `pipeline/lint-prose.py`, and merges when clean. A blocked merge creates a Todoist task. Details in `docs/brief.md`.
+Two cloud routines run on the 1st and 15th. Research (6am PT) reads feeds and searches per tier, writes dated entries, adjusts scorecard rows only where the rubric says evidence changed, and opens a pull request. QA (9am PT) verifies every link and quote, checks tier changes against `pipeline/rubric.md`, runs `pipeline/lint-prose.py`, and merges when clean. A blocked merge files a Linear issue (a Todoist task is the fallback). Details in `docs/brief.md`.
 
 ## Reading the scorecard
 
