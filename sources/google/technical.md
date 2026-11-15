@@ -2,6 +2,19 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-11-12 | Google says a Search referrer carries only scheme and host, and other Google services send the same value
+- Source: Google Search Central, "Identify traffic from Google Search", 2026-11-12 (added per the documentation updates log, no date printed on the page), https://developers.google.com/search/docs/monitor-debug/identify-google-search-traffic
+- Source: Google Search Central, "Search Central documentation updates", 2026-11-12, https://developers.google.com/search/updates
+- Quote: "Other Google services that are served from the same origins (for example, Google Images) send the same `Referer` values"
+- Means: The page states that site owners "can identify traffic from Google Search in your own web analytics system or server logs" and that the Referer header holds only the scheme and host of the referring page. A referrer count cannot separate one Google surface from another, so a claim about how much traffic arrived from a named surface, AI Mode or AI Overviews among them, is unsupported when it rests on server logs alone. The page does not name AI Mode or AI Overviews.
+- Factor: zero-click-rate | Evidence: A | Lever: conversion | Scope: organic ai | Stage: audit
+
+## 2026-11-11 | Google asks sites to allow verified bots through the CDN and the firewall
+- Source: Google Search Central Blog, "Moving to a CDN without overwhelming your origin (or blocking Googlebot)", 2026-11-11, https://developers.google.com/search/blog/2026/11/crawling-cdn
+- Quote: "If you need to block bots, allow verified bots in your CDN and firewall settings."
+- Means: A CDN or Web Application Firewall that answers an automated request with a challenge makes Google's crawlers fail the test, and the post says that from Google's perspective the site "appears deliberately restricted or broken" and that "our crawlers will back off" if the rule is left in place. The post asks for rules that target named unwanted bots rather than all automated clients, and allows a "429 (Too Many Requests)" or "503 (Service Unavailable)" response as a temporary brake for "a few hours, or 1-2 days at most".
+- Factor: indexable | Evidence: A | Lever: ranking | Scope: organic ai | Stage: both
+
 ## 2026-10-21 | Google asks for hyphens rather than the _ character between words in a URL
 - Source: Google Search Central, "URL structure", 2026-10-21 (Last updated), https://developers.google.com/search/docs/crawling-indexing/url-structure
 - Source: Google Search Central, "Search Central documentation updates", 2026-10-23, https://developers.google.com/search/updates

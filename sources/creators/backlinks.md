@@ -2,6 +2,20 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-11-08 | Kyle Roof puts three internal links of equal value at one external link of that value
+
+- Source: Edward Sturm, "3 Internal Links = 1 Backlink: How to Rank on Google Without Building Links", 2026-11-08, https://edwardsturm.com/articles/3-internal-links-1-backlink-rank-without-building-links/
+- Quote: "About three internal links of the same value are equal to one external link of that value."
+- Means: Sturm attributes the ratio to Kyle Roof on his podcast and gives the worked example "If your site's strength is 30 and you have three internal links, that's equal to one backlink of strength 30." He also reports "I have a 4 month old site ranking on page 1 for 'mild cheese' with 0 backlinks" without naming the domain or any test, so the internal-linking-inbound row keeps the grade C it already carries.
+- Factor: internal-linking-inbound | Evidence: D | Lever: ranking | Scope: organic | Stage: both
+
+## 2026-11-08 | A press release link is said to have ranked Matt Cutts's blog for the invented word Sreppleasers
+
+- Source: Edward Sturm, "Press Release Backlinks Work: How an SEO Ranked Google's Head of Webspam for a Made-Up Keyword", 2026-11-08, https://www.youtube.com/watch?v=4Xai_CtAsks (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "Press release backlinks work, even when they're nofollow."
+- Means: The invented anchor text was Sreppleasers, "a term that didn't appear anywhere on Matt Cutts' website", and the description prices "AB Newswire, which offers one-off press releases for $80 and bulk pricing as low as $6 per release" against EIN Presswire at higher cost and longer indexing. It credits Kyle Roof and Joy Hawkins with the nofollow tests, gives no date and no ranking numbers for the Cutts test, and the episode was not watched, so the press-release-links row keeps grade C.
+- Factor: press-release-links | Evidence: D | Lever: ranking | Scope: organic ai | Stage: both
+
 ## 2026-10-27 | Ilias Ismanalijev pays up to 2,000 dollars for a link on a page already ranking top 10 to 20
 
 - Source: Edward Sturm, "The Backlinks Worth Paying $2,000 For (w/ Ilias ISM)", 2026-10-27, https://www.youtube.com/watch?v=5NRS4ibsMKg (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)

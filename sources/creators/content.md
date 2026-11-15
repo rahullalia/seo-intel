@@ -2,6 +2,28 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-11-14 | Sturm filters Search Console with a regex for queries of eight words or more
+
+- Source: Edward Sturm, "Easy SEO hack", 2026-11-14, https://www.youtube.com/shorts/7Pgvp-Zw7JU (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "Answer them at the top of your page that already ranks."
+- Means: The quoted sentence is Sturm quoting AskOkara, whom the video description credits. The filter he gives for the Search Console query box is ^(?:\S+\s+){7,}\S+$, which returns queries of eight words or more, and he says to take the ones with high impressions and low clicks. He names no site and gives no before and after click numbers, so the answer-first-structure row keeps the grade B support it already carries.
+- Factor: answer-first-structure | Evidence: D | Lever: ranking | Scope: organic ai | Stage: audit
+
+## 2026-11-13 | Google's helpful content page calls fabricated author profiles a form of deception
+
+- Source: Google Search Central, "Creating helpful, reliable, people-first content", no date printed on the page, read 2026-11-15, https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+- Source: Edward Sturm, "Google quietly added fake authorship warnings to its documentation a month ago", 2026-11-13, https://www.youtube.com/shorts/PvqPf3T5KeE (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "Any form of deception makes a page untrustworthy to both users and our automated quality systems, and is a signal of a low-quality page."
+- Means: The passage sits under the heading "Who (created the content)" and names "Fabricating creator profiles (such as by using AI-generated headshots, made-up names, or false credentials" and "to make content appear as if it was written by human experts)" as a form of deception, while the same page says "We strongly encourage adding accurate authorship information, such as bylines to content where readers might expect it." Put a real named author with real credentials on every page and drop invented bylines and AI-generated headshots. The entry carries Sturm's date because Google's page prints none, and the quote is Google's wording read on 2026-11-15, not his paraphrase.
+- Factor: eeat | Evidence: A | Lever: trust | Scope: organic | Stage: build
+
+## 2026-11-13 | An AI-written apples article ranks third for a word Moz puts at 137,000 searches a month
+
+- Source: Edward Sturm, "If you want to see crazy SEO in action, Google the word 'apples.'", 2026-11-13, https://www.youtube.com/shorts/igXjpjUIbsw (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
+- Quote: "Number one is Wikipedia. Number two is something else. Number three is his website."
+- Means: The third-ranked page is an article on types of apples that GPTZero called "highly confident this was AI generated", the word apples "gets 137,000 searches every month" on Moz's figure, and the owner reported "zero extra business" from the ranking. Sturm names no domain and no date for the ranking, so this is one undated observation behind the ai-generated-content Myth row.
+- Factor: ai-generated-content | Evidence: D | Lever: ranking | Scope: organic | Stage: both
+
 ## 2026-10-30 | Kyle Roof says misspellings, grammar, reading level and a 25-second load did not hurt rankings in his tests
 
 - Source: Edward Sturm, "Kyle Roof Ranked Gibberish #1 on Google. Then Google Deindexed 20 of His Sites.", 2026-10-30, https://www.youtube.com/watch?v=LCrW28jb9UM (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
@@ -33,7 +55,7 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 ## 2026-10-12 | Content effort is reported to be independent of word count and of whether AI wrote the page
 
 - Source: Edward Sturm, "Google's Secret Content Effort Score: Here's What It Looks For", 2026-10-12, https://www.youtube.com/watch?v=T2ZMC4utIBQ (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
-- Quote: "Google’s definition of content effort (effort doesn’t mean word count, hours spent writing, or whether a human wrote the content instead of AI)."
+- Quote: "Google's definition of content effort (effort doesn't mean word count, hours spent writing, or whether a human wrote the content instead of AI)."
 - Means: Sturm is reading Cyrus Shepard's article "Content Effort: The Google Ranking Feature Nobody Talks About" at https://signal.zyppy.com/p/content-effort, which this run did not fetch, so the underlying source was not read. He reports two metric names from the 2024 Google API leak, contentEffort and ugcDiscussionEffortScore, and says it is not known whether either is used in live rankings.
 - Factor: information-gain | Evidence: D | Lever: ranking | Scope: organic ai | Stage: both
 

@@ -30,8 +30,8 @@ factors:
     stage: both
     tier: required
     evidence: "A"
-    last_verified: "2026-10-21"
-    sources: ["google/technical 2025-12-18", "creators/technical 2026-07", "google/ai-search 2025-12-10", "experts/technical 2026-10-12", "google/technical 2026-10-21"]
+    last_verified: "2026-11-11"
+    sources: ["google/technical 2025-12-18", "creators/technical 2026-07", "google/ai-search 2025-12-10", "experts/technical 2026-10-12", "google/technical 2026-10-21", "google/technical 2026-11-11"]
   - id: ai-crawler-allow
     factor: "Retrieval agents allowed through robots.txt and the firewall"
     category: technical
@@ -72,6 +72,16 @@ factors:
     evidence: "C"
     last_verified: "2026-07"
     sources: ["creators/technical 2026-07"]
+  - id: google-ai-features-opt-out
+    factor: "Google AI features opt-out set on the site, which removes it from AI Overviews and AI Mode"
+    category: technical
+    scope: [ai]
+    lever: ranking
+    stage: both
+    tier: supporting
+    evidence: "C"
+    last_verified: "2026-11-05"
+    sources: ["experts/technical 2026-11-05"]
   - id: core-web-vitals
     factor: "Core Web Vitals and load speed as a tiebreaker between equal pages"
     category: technical
@@ -231,7 +241,7 @@ factors:
     tier: core
     evidence: "B"
     last_verified: "2026-09-14"
-    sources: ["experts/content 2026-09-14", "creators/content 2026-07", "experts/ai-search 2026-05-07", "creators/content 2026-10-09"]
+    sources: ["experts/content 2026-09-14", "creators/content 2026-07", "experts/ai-search 2026-05-07", "creators/content 2026-10-09", "creators/content 2026-11-14"]
   - id: experience-first-person
     factor: "First-person accounts, real outcomes and practitioner authorship"
     category: content
@@ -250,8 +260,8 @@ factors:
     stage: build
     tier: supporting
     evidence: "A"
-    last_verified: "2026-05"
-    sources: ["seed: playbook/core-updates.md", "google/content 2025-09-11", "google/content 2023-11"]
+    last_verified: "2026-11-13"
+    sources: ["seed: playbook/core-updates.md", "google/content 2025-09-11", "google/content 2023-11", "creators/content 2026-11-13"]
   - id: unedited-ai-output
     factor: "Publishing unreviewed AI output without expert oversight"
     category: content
@@ -401,7 +411,7 @@ factors:
     tier: myth
     evidence: "A"
     last_verified: "2026-09-09"
-    sources: ["experts/content 2026-09-09", "google/content 2025-09-11", "experts/content 2025-07-08", "creators/content 2026-07"]
+    sources: ["experts/content 2026-09-09", "google/content 2025-09-11", "experts/content 2025-07-08", "creators/content 2026-07", "creators/content 2026-11-13"]
   - id: keyword-stuffing-ai
     factor: "Repeating the target phrase to win generative engine citation"
     category: content
@@ -620,7 +630,7 @@ factors:
     stage: both
     tier: core
     evidence: "B"
-    last_verified: "2026-02-27"
+    last_verified: "2026-11-15"
     sources: ["experts/local-gbp 2026-02-27", "experts/local-gbp 2025-11-06", "experts/local-gbp 2024-01-24"]
   - id: gbp-predefined-services
     factor: "Every predefined service Google offers for the category, added"
@@ -791,7 +801,7 @@ factors:
     tier: core
     evidence: "B"
     last_verified: "2026-10-12"
-    sources: ["experts/citations 2026-09-14", "experts/citations 2026-06-26", "experts/citations 2025-11-06", "creators/citations 2026-03-21", "experts/citations 2026-10-12"]
+    sources: ["experts/citations 2026-09-14", "experts/citations 2026-06-26", "experts/citations 2025-11-06", "creators/citations 2026-03-21", "experts/citations 2026-10-12", "creators/ai-search 2026-11-12"]
   - id: citation-nap-consistency
     factor: "Exact-match name, phone, city, ZIP and URL across every listing"
     category: citations
@@ -901,7 +911,7 @@ factors:
     tier: supporting
     evidence: "C"
     last_verified: "2026-09-20"
-    sources: ["creators/ai-search 2026-09-20", "experts/backlinks 2026-09-14", "creators/backlinks 2026-07", "creators/backlinks 2026-01-12"]
+    sources: ["creators/ai-search 2026-09-20", "experts/backlinks 2026-09-14", "creators/backlinks 2026-07", "creators/backlinks 2026-01-12", "creators/backlinks 2026-11-08"]
   - id: internal-linking-inbound
     factor: "Three older indexed pages linking into each new page"
     category: backlinks
@@ -911,7 +921,7 @@ factors:
     tier: supporting
     evidence: "C"
     last_verified: "2026-09-14"
-    sources: ["creators/backlinks 2026-09-14", "creators/backlinks 2026-07", "creators/backlinks 2026-10-15"]
+    sources: ["creators/backlinks 2026-09-14", "creators/backlinks 2026-07", "creators/backlinks 2026-10-15", "creators/backlinks 2026-11-08"]
   - id: internal-link-anchor-text
     factor: "Internal anchor text naming the destination and its keyword"
     category: backlinks
@@ -980,8 +990,8 @@ factors:
     stage: audit
     tier: core
     evidence: "B"
-    last_verified: "2026-10-12"
-    sources: ["experts/ai-search 2026-06-09", "experts/ai-search 2024-07-02", "experts/ai-search 2026-10-12"]
+    last_verified: "2026-11-09"
+    sources: ["experts/ai-search 2026-06-09", "experts/ai-search 2024-07-02", "experts/ai-search 2026-10-12", "experts/ai-search 2026-11-09"]
   - id: query-fan-out-targeting
     factor: "Page content written to answer the sub-queries an assistant fans a prompt out into"
     category: ai-search
@@ -1028,10 +1038,10 @@ factors:
     scope: [ai]
     lever: conversion
     stage: audit
-    tier: minor
+    tier: supporting
     evidence: "A"
-    last_verified: "2026-05"
-    sources: ["seed: playbook/ai-search.md", "google/ai-search 2025-12-10"]
+    last_verified: "2026-11-05"
+    sources: ["seed: playbook/ai-search.md", "google/ai-search 2025-12-10", "experts/ai-search 2026-11-05"]
   - id: aio-citation-answer-first
     factor: "A semantically complete answer passage that earns an AI Overview citation"
     category: ai-search
@@ -1090,8 +1100,8 @@ factors:
     stage: build
     tier: supporting
     evidence: "B"
-    last_verified: "2026-10-12"
-    sources: ["creators/signals 2026-09-20", "creators/signals 2026-07", "experts/signals 2026-10-12"]
+    last_verified: "2026-11-03"
+    sources: ["creators/signals 2026-09-20", "creators/signals 2026-07", "experts/signals 2026-10-12", "experts/signals 2026-11-03"]
   - id: social-posts-ai-citation
     factor: "Social posts as an input AI answer engines weigh"
     category: signals
@@ -1109,19 +1119,19 @@ factors:
     lever: ranking
     stage: build
     tier: minor
-    evidence: "D"
-    last_verified: "2026-05"
-    sources: ["seed: playbook/ai-search.md", "creators/signals 2026-03-21", "creators/signals 2026-10-28"]
+    evidence: "B"
+    last_verified: "2026-11-03"
+    sources: ["seed: playbook/ai-search.md", "creators/signals 2026-03-21", "creators/signals 2026-10-28", "experts/signals 2026-11-03"]
   - id: mentions-breadth-mediums
     factor: "Breadth of different mediums carrying a mention over any one source's authority"
     category: signals
     scope: [ai]
     lever: ranking
     stage: build
-    tier: minor
-    evidence: "D"
-    last_verified: "2026-07"
-    sources: ["creators/signals 2026-07", "creators/signals 2026-01-12"]
+    tier: supporting
+    evidence: "B"
+    last_verified: "2026-11-03"
+    sources: ["creators/signals 2026-07", "creators/signals 2026-01-12", "experts/signals 2026-11-03"]
   - id: social-posts-ranking
     factor: "Social media posts as a direct organic ranking signal"
     category: signals
