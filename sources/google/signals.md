@@ -2,6 +2,13 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-11-10 | Google released a November 2026 core update, global and all languages
+- Source: Google Search Status Dashboard, "November 2026 core update", 2026-11-10, https://status.search.google.com/incidents/WLxcJyC6jMWMfryxsKMc
+- Source: Google Search Status Dashboard, "Ranking updates", 2026-11-15 (no page date), https://status.search.google.com/summary
+- Quote: "Released the November 2026 core update, which applies globally and to all languages."
+- Means: The incident records one update, posted 2026-11-10 10:07 US/Pacific, and states "The rollout may take up to 2 weeks to complete.", so the rollout can run to about 2026-11-24 and the dashboard prints no duration yet. Ranking movement on a client site after 2026-11-10 10:06 US/Pacific sits inside a confirmed core update, the first since the May 2026 core update that began 2026-05-21.
+- Factor: eeat | Evidence: A | Lever: trust | Scope: organic | Stage: audit
+
 ## 2026-10-08 | Google documents a separate ingestion pipeline for trending user generated content, open to approved platforms only
 - Source: Google Search Central, "About the UGC Fresh Data Program", 2026-10-08, https://developers.google.com/search/docs/appearance/ugc-fresh-data-program
 - Quote: "The UGC Fresh Data Program is a specialized pipeline designed exclusively for trending UGC content."

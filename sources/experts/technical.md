@@ -2,6 +2,12 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-11-05 | Opting out of Google AI features removed every AI citation link while organic rankings held
+- Source: Zyppy, Cyrus Shepard, "We Opted Out of Google AI Search - Here's What Happened", 2026-11-05, https://signal.zyppy.com/p/we-opted-out-of-google-ai-search
+- Quote: "After we opted out of AI search features, all those citation links simply disappeared."
+- Means: Shepard opted zyppy.com out of Google's AI search features on 2026-09-01 and back in on 2026-09-29, comparing 28 days off against 28 days on in Search Console's Generative AI Features report. AI feature impressions fell more than 99 percent from a prior 500 to 1,000 a day while the site still ranked first in regular organic results, so on this one site the display opt-out removed AI visibility and left organic position alone.
+- Factor: ai-crawler-allow | Evidence: C | Lever: ranking | Scope: ai | Stage: both
+
 ## 2026-10-12 | Three in four of ChatGPT's site-restricted searches pointed at a brand's own domain
 - Source: Ahrefs, Louise Linehan, "How ChatGPT Does Query Fan-Out (15 Million Queries Studied)", 2026-10-12, https://ahrefs.com/blog/query-fan-out-chatgpt/
 - Quote: "among the ~160 most-searched sites, three in four of those searches targeted a brand site"

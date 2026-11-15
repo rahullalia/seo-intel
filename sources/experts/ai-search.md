@@ -2,6 +2,18 @@
 
 Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry: source, date, link, verbatim quote, plain meaning, factor id, evidence grade, lever.
 
+## 2026-11-09 | Clicks halved and CTR fell from 2 percent to 1.1 percent when AI Overviews launched in France
+- Source: GSQi, Glenn Gabe, "The Impact of Google AI Overviews rolling out in France", 2026-11-09, https://www.gsqi.com/marketing-blog/google-ai-overviews-roll-out-in-france-impact/
+- Quote: "A 2% CTR drops to 1.1% overnight."
+- Means: Gabe read Google Search Console filtered to France for five unnamed sites around the 2026-07-22 AI Overviews rollout and into early September 2026. One site went from about 750 clicks a day to about 400, a second from about 80 a day to about 25, and a third saw CTR fall from 1.2 percent to 0.4 percent, so a market that gains AI Overviews can lose half its click share within days.
+- Factor: zero-click-rate | Evidence: C | Lever: conversion | Scope: organic ai | Stage: audit
+
+## 2026-11-05 | Google AI search produced 23 percent of one site's search clicks at an estimated 0.9 percent CTR
+- Source: Zyppy, Cyrus Shepard, "We Opted Out of Google AI Search - Here's What Happened", 2026-11-05, https://signal.zyppy.com/p/we-opted-out-of-google-ai-search
+- Quote: "Google's AI search was now responsible for 23% of total search clicks to our site."
+- Means: Shepard compared 28 days opted out of AI features against 28 days opted back in on zyppy.com and estimated AI search CTR at 0.9 percent, range 0.7 to 1.1 percent, because Search Console does not report AI clicks separately. Regular organic CTR also moved about 2.3 percent while the site appeared in AI answers, strongest on the URLs with the most AI visibility, where this row's only prior support was a Google statement of 2025-12-10 carrying no measured number.
+- Factor: aio-cited-click-lift | Evidence: C | Lever: conversion | Scope: ai | Stage: audit
+
 ## 2026-10-21 | AI Overviews reached 82 to 96 percent coverage on five commercial query types, from 30 to 63 percent a year earlier
 - Source: Semrush, "AI Overviews have nearly doubled across five commercial search modifiers", 2026-10-21, https://www.semrush.com/blog/ai-overviews-commercial-modifiers-study/
 - Quote: "In fact, every one of these commercial modifiers now sees an AI Overview between 82% and 96% of the time."
