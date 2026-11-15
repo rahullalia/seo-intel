@@ -8,16 +8,16 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Means: Ahrefs compared off-site mentions of 10,000 US brands across seven mention types against brand mentions drawn from 260 million non-branded prompts on AI Overviews, AI Mode and ChatGPT, scored with Spearman correlation. Reddit threads ranking in Google results scored 0.75 against 0.70 for domain mentions and 0.70 for webpage mentions, and Linehan states the scores are correlations that do not establish cause.
 - Factor: reddit-mentions | Evidence: B | Lever: ranking | Scope: ai | Stage: build
 
-## 2026-11-03 | Press coverage scored 0.67 against 0.70 for ordinary webpage mentions
+## 2026-11-03 | News article mentions scored 0.67 against 0.70 for webpage and domain mentions
 - Source: Ahrefs, Louise Linehan, "Which Types of Mentions Correlate the Strongest With AI Visibility? (260M AI Prompts Analyzed)", 2026-11-03, https://ahrefs.com/blog/mention-types-ai-visibility/
-- Quote: "Press coverage (0.67) doesn't beat general webpage mentions (0.70)."
-- Means: Across 10,000 US brands and 260 million prompts the seven mention types scored 0.59 to 0.75, so news placement sat below plain webpage mentions, and Linehan's closing line is to test Reddit and a wide spread of everyday coverage first. This is the first grade B measurement on a row that has rested on grade D creator entries since 2026-07.
+- Quote: "News article mentions: 0.67"
+- Means: Across 10,000 US brands and 260 million prompts the seven mention types scored 0.60 to 0.75, and news article mentions at 0.67 sat below both domain mentions and webpage mentions at 0.70, so paid or pitched press placement tracked AI visibility no more closely than ordinary coverage. This is the first grade B measurement on a row that has rested on grade D creator entries since 2026-07.
 - Factor: mentions-breadth-mediums | Evidence: B | Lever: ranking | Scope: ai | Stage: build
 
 ## 2026-11-03 | YouTube mentions scored 0.64 and TikTok 0.60, the two lowest of seven mention types
 - Source: Ahrefs, Louise Linehan, "Which Types of Mentions Correlate the Strongest With AI Visibility? (260M AI Prompts Analyzed)", 2026-11-03, https://ahrefs.com/blog/mention-types-ai-visibility/
-- Quote: "The scores run from 0.59 to 0.75"
-- Means: In the same comparison of 10,000 US brands against 260 million prompts, YouTube mentions scored 0.64 and TikTok mentions 0.60 on the Spearman scale, against 0.75 for Reddit threads and 0.70 for domain and webpage mentions. Presence on video and short video platforms tracked AI visibility less closely than ordinary web coverage, which puts a measured number on a row that has held only grade D entries since 2026-05.
+- Quote: "YouTube mentions: 0.64"
+- Means: In the same comparison of 10,000 US brands against 260 million prompts, YouTube mentions scored 0.64 and TikTok mentions 0.60 on the Spearman scale, the two lowest of the seven types, against 0.75 for Reddit threads and 0.70 for domain and webpage mentions. Ahrefs counted mentions of a brand by anyone rather than posts by the business itself, so the number tracks coverage on those platforms and not a client's own posting, and it is the first measured figure on a row that has held only grade D entries since 2026-05.
 - Factor: ugc-platform-presence | Evidence: B | Lever: ranking | Scope: ai | Stage: build
 
 ## 2026-10-12 | Reddit's share of ChatGPT citations fell from about 1 answer in 5 to about 1 in 43
