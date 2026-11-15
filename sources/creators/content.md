@@ -6,7 +6,7 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 
 - Source: Edward Sturm, "Easy SEO hack", 2026-11-14, https://www.youtube.com/shorts/7Pgvp-Zw7JU (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
 - Quote: "Answer them at the top of your page that already ranks."
-- Means: The filter he gives for the Search Console query box is ^(?:\S+\s+){7,}\S+$, which returns queries of eight words or more, and he says to take the ones with high impressions and low clicks. He names no site and gives no before and after click numbers, so the answer-first-structure row keeps the grade B support it already carries.
+- Means: The quoted sentence is Sturm quoting AskOkara, whom the video description credits. The filter he gives for the Search Console query box is ^(?:\S+\s+){7,}\S+$, which returns queries of eight words or more, and he says to take the ones with high impressions and low clicks. He names no site and gives no before and after click numbers, so the answer-first-structure row keeps the grade B support it already carries.
 - Factor: answer-first-structure | Evidence: D | Lever: ranking | Scope: organic ai | Stage: audit
 
 ## 2026-11-13 | Google's helpful content page calls fabricated author profiles a form of deception
@@ -14,7 +14,7 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Source: Google Search Central, "Creating helpful, reliable, people-first content", no date printed on the page, read 2026-11-15, https://developers.google.com/search/docs/fundamentals/creating-helpful-content
 - Source: Edward Sturm, "Google quietly added fake authorship warnings to its documentation a month ago", 2026-11-13, https://www.youtube.com/shorts/PvqPf3T5KeE (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
 - Quote: "Any form of deception makes a page untrustworthy to both users and our automated quality systems, and is a signal of a low-quality page."
-- Means: The passage sits under the heading "Who (created the content)" and names "Fabricating creator profiles (such as by using AI-generated headshots, made-up names, or false credentials" as a form of deception, while the same page says "We strongly encourage adding accurate authorship information, such as bylines to content where readers might expect it." Put a real named author with real credentials on every page and drop invented bylines and AI-generated headshots. The entry carries Sturm's date because Google's page prints none, and the quote is Google's wording read on 2026-11-15, not his paraphrase.
+- Means: The passage sits under the heading "Who (created the content)" and names "Fabricating creator profiles (such as by using AI-generated headshots, made-up names, or false credentials" and "to make content appear as if it was written by human experts)" as a form of deception, while the same page says "We strongly encourage adding accurate authorship information, such as bylines to content where readers might expect it." Put a real named author with real credentials on every page and drop invented bylines and AI-generated headshots. The entry carries Sturm's date because Google's page prints none, and the quote is Google's wording read on 2026-11-15, not his paraphrase.
 - Factor: eeat | Evidence: A | Lever: trust | Scope: organic | Stage: build
 
 ## 2026-11-13 | An AI-written apples article ranks third for a word Moz puts at 137,000 searches a month

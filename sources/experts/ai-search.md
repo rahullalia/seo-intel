@@ -11,7 +11,7 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 ## 2026-11-05 | Google AI search produced 23 percent of one site's search clicks at an estimated 0.9 percent CTR
 - Source: Zyppy, Cyrus Shepard, "We Opted Out of Google AI Search - Here's What Happened", 2026-11-05, https://signal.zyppy.com/p/we-opted-out-of-google-ai-search
 - Quote: "Google's AI search was now responsible for 23% of total search clicks to our site."
-- Means: Shepard compared 28 days opted out of AI features against 28 days opted back in on zyppy.com and estimated AI search CTR at 0.9 percent, range 0.7 to 1.1 percent, because Search Console does not report AI clicks separately. Regular organic CTR also moved about 2.3 percent while the site appeared in AI answers, strongest on the URLs with the most AI visibility, where this row's only prior support was a Google statement of 2025-12-10 carrying no measured number.
+- Means: Shepard compared 28 days opted out of AI features against 28 days opted back in on zyppy.com and estimated AI search CTR at 0.9 percent, range 0.7 to 1.1 percent, because Search Console does not report AI clicks separately. Regular organic CTR also rose about 2.3 percent while the site appeared in AI answers, strongest on the URLs with the most AI visibility, which Shepard calls the Halo Effect. This row's only prior support was a Google statement of 2025-12-10 carrying no measured number.
 - Factor: aio-cited-click-lift | Evidence: C | Lever: conversion | Scope: ai | Stage: audit
 
 ## 2026-10-21 | AI Overviews reached 82 to 96 percent coverage on five commercial query types, from 30 to 63 percent a year earlier

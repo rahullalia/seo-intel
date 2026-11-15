@@ -5,13 +5,13 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 ## 2026-11-12 | ChatGPT's Business Hub counts a brand mention only when it links to the site
 - Source: Edward Sturm, "ChatGPT is Cutting AI Visibility by Half", 2026-11-12, https://www.youtube.com/shorts/MOqRvyv5sEE (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
 - Quote: "ChatGPT only counts a mention when it actually links to your site."
-- Means: Sturm puts the undercount at "just know it's missing 50% of brand mentions" and reports the stated reason, "Requiring the website mention makes it easier to associate the mention with a specific business." This limits what the Business Hub reports and measures nothing about whether an unlinked mention moves an AI answer, so the unstructured-mentions row keeps its grade B support.
+- Means: Sturm puts the undercount at "just know it's missing 50% of brand mentions" and quotes Lily Ray on the reason, "Requiring the website mention makes it easier to associate the mention with a specific business." This limits what the Business Hub reports and measures nothing about whether an unlinked mention moves an AI answer, so the unstructured-mentions row keeps its grade B support.
 - Factor: unstructured-mentions | Evidence: D | Lever: ranking | Scope: ai | Stage: audit
 
 ## 2026-11-09 | ChatGPT sessions came to 0.62 percent of Google organic volume across 100 sites over 12 months
 - Source: Edward Sturm, "How to see AI traffic in Google Analytics", 2026-11-09, https://www.youtube.com/shorts/jsn-mCWoCS0 (video description, date from the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UCDxhBSgPvrFvyXLdpmygDhg)
 - Quote: "Sessions from ChatGPT amounted to just 0.62% of the volume driven by Google Organic."
-- Means: The figure comes from Marie Haynes's article "GEO is a Distraction", which Sturm quotes as "I looked at 12 months of GA4 data across 100 different websites of varying sizes with over 145 million sessions", and he reads the channel in GA4 under Reports, then Acquisition, then Traffic acquisition. Her article was not fetched by this run, so the number is filed as a relay at grade D.
+- Means: The figure comes from Marie Haynes's article "GEO is a Distraction", which Sturm quotes as "I looked at 12 months of GA4 data across 100 different websites of varying sizes with over 145 million sessions", and he reads the channel in GA4 under Reports, then Acquisition, then Traffic acquisition. Her article was not fetched by this run, so the number is filed as a relay at grade D. The factor id ai-referral-traffic-share is new and no scorecard row carries it, because the rubric gives grade D no tier and a row cannot open on a relay alone.
 - Factor: ai-referral-traffic-share | Evidence: D | Lever: ranking | Scope: ai | Stage: audit
 
 ## 2026-10-31 | Sturm targets searches ending in the word Reddit because assistants append it too

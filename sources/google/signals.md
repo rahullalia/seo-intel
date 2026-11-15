@@ -6,7 +6,7 @@ Dated evidence entries, newest first. Format in `pipeline/style.md`. Every entry
 - Source: Google Search Status Dashboard, "November 2026 core update", 2026-11-10, https://status.search.google.com/incidents/WLxcJyC6jMWMfryxsKMc
 - Source: Google Search Status Dashboard, "Ranking updates", 2026-11-15 (no page date), https://status.search.google.com/summary
 - Quote: "Released the November 2026 core update, which applies globally and to all languages."
-- Means: The incident records one update, posted 2026-11-10 10:07 US/Pacific, and states "The rollout may take up to 2 weeks to complete.", so the rollout can run to about 2026-11-24 and the dashboard prints no duration yet. Ranking movement on a client site after 2026-11-10 10:06 US/Pacific sits inside a confirmed core update, the first since the May 2026 core update that began 2026-05-21.
+- Means: The incident records one update, posted 2026-11-10 10:07 US/Pacific, and states "The rollout may take up to 2 weeks to complete.", so the rollout can run to about 2026-11-24 and the dashboard prints no duration yet. Ranking movement on a client site after 2026-11-10 10:06 US/Pacific sits inside a confirmed core update, the first since the May 2026 core update that began 2026-05-21. No scorecard row covers a confirmed ranking event, so the entry is filed on eeat and takes neither the anchor nor the date on that row.
 - Factor: eeat | Evidence: A | Lever: trust | Scope: organic | Stage: audit
 
 ## 2026-10-08 | Google documents a separate ingestion pipeline for trending user generated content, open to approved platforms only
